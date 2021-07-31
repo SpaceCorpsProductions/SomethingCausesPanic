@@ -1,0 +1,195 @@
+                                    SCP-5235                                    
+                                    ========                                    
+
+                                 Thief of Time                                  
+                                 -------------                                  
+
+Item #: 5235 
+
+Object Class: Neutralized 
+
+Special Containment Procedures: A satellite dish aimed towards the nearest known 
+Way1 has been erected at Site-64 due to its proximity to Nexus FP-01 (Three 
+Portlands). All transmissions are to be logged and scanned for mentions of "the 
+Foundation" or "Thaddeus Xyank". These records are only to be made available to 
+staff with level 5 (or Δ) access. 
+
+Due to SCP-5235 appearing to civilian grade satellite dishes as a burst of 
+static, no further containment is necessary. 
+
+Description: SCP-5235 was an anomalous broadcast on 16/6/2035 that originated 
+from all currently known Ways. This broadcast was picked up by a Foundation 
+monitoring station in Portland, Oregon. The contents of the transmission are 
+located below. 
+
+If you see this, it's Xyank. We fucked up. 
+
+Something… else, found us somehow. Some kind of predatory entity. We're pretty 
+much done for; the world is warping and tearing around us as I type this. Things 
+from the Other Place are pushing their way through the gaps in reality. The 
+First Hytoth wants its space back, and we're in the way. 
+
+By the time you see this, we will be gone. Dead probably, depends if I can find 
+a way out of the causality mess. Both timelines seem to be ripping themselves 
+apart. 
+
+If this happened to us, it can happen again. 
+
+The following attached file requires 05 clearance. Any access to this file will 
+be logged. 
+
+<< SCP-5235.txt >> 
+
+
+
+Footnotes 
+
+1. A Way is a thaumaturgically created doorway utilizing wormholes to allow 
+travel between each end. 
+
+
+
+<< SCP-5235.txt >> 
+
+
+[THIS FILE HAS BEEN LOCKED]
+
+ANY ATTEMPT TO ACCESS THIS FILE WITHOUT 05-10'S EXPLICIT AUTHORIZATION
+WILL BE LOGGED AND WILL LEAD TO IMMEDIATE DISCIPLINARY ACTION.
+
+Item #: 5235
+
+Object Class: Pending-doctrina
+
+Special Containment Procedures: All information about the nature of
+SCP-5235 is to be repressed by Foundation web crawlers. Class B
+amnestics are to be given to any subjects exposed to information about
+SCP-5235's true nature.
+
+Any deliberate, unauthorized access to this file is to be immediately
+tracked, with the subject being issued a combination of Class F and
+Class C amnestics. Furthermore, they are to receive a prompt demotion
+to E-class personnel.
+
+Description: SCP-5235 is the designation for a group of theoretical
+parasitic timelines. These timelines have an innate reality
+deficiency; therefore, they cannot organically sustain themselves.
+This means they must forcefully attach themselves to others.
+
+Event 5235-1 designates the attachment of a parasitic timeline. From
+the evidence gathered on potential parasites, it seems the original
+timeline sometimes receives reality back from the parasite,
+potentially as overflow. This reality overflow can manifest as
+buildings or objects from the parasite merging with existing geography
+or structures. This is theorized to have caused the most damage in
+affected timelines.
+
+However, research from Temporal Anomalies Department has given
+inconclusive results about the existence of these timelines, as it is
+currently assumed that most parasitic timelines have become extinct
+due to lack of sufficient Hume levels.
+
+Timeline Case Studies - Dr Vale
+
+Addendum 1 - 22/07/2035: Following investigation of a localized
+timeline designated S-05, it was determined that the aforementioned
+timeline is leeching approximately 0.5% of our timeline's total Hume
+levels annually. The parasite timeline appears to create minuscule
+Ways, which it utilizes to siphon reality via diffusion.1. Current
+methods of neutralizing the parasite are undergoing investigation.
+
+Further Kant counters have been set up at locations with high Hume
+levels to monitor the rate of reality loss. Any significant change
+must be reported to Dr Vane of the Temporal Anomaly Department.
+
+Despite the loss of local reality via the parasite, our reality
+appears to be stable. It is unknown how this is occurring. However,
+Kant counters placed near Ways record large fluctuations in Hume
+levels.
+
+
+Addendum 2 - 04/08/2035: A second message was detected on 03/08/2035,
+it has been transcribed below.
+
+To anyone that sees this, I'm still somewhat alive. We managed to
+drive out from Area-14 up towards Site-34 in Washington when things
+went to shit again. Salem is hanging on by a thread; the survivors are
+hard-pressed to survive. Dallas appears to have been turned completely
+to fucking solid metal, destabilizing the entire nearby area along
+with it. We narrowly avoided a massive sinkhole that formed right in
+the middle of the road.
+
+Soon after, I got a message on the radio. Seems like most of the folk
+at Site-64 survived, and are going to try weathering the storm from
+within Three Ports. Doesn't sound like a bad idea, given it is
+basically its own mini timeline2. I should have thought of it sooner.
+
+- Xyank
+
+Due to the potential TK-Class Causal Restructuring Event present in a
+homogeneous timeline, further precautions are being taken to ensure
+the safety of our timeline.
+
+
+Addendum 3 - 06/08/2035: A further, presumably final, weak
+transmission was detected from Ways local to Portland, Oregon.
+Transcript attached below.
+
+Right, fuck. We seem to be okay now, but not sure how long that will
+last.
+
+The remnants of RCT-Δt and Site-64 are holed up in Three Ports, with
+no way of leaving. Not sure we would want to, anyway.
+
+Right, onto the important stuff. I think somehow we were coexisting
+with a predatory timeline, potentially stealing mass from each other.
+But, alike to something being stretched too far in each direction…
+It/They snapped. I think this is the fallout from that.
+
+From what I saw before we quickly entered Three Ports, the timelines
+were fusing. For a moment I got to see their reality interact with
+ours; buildings of flesh and bone melded into metal and plastic,
+consuming it. A Sarkic's fucking wet dream.
+
+In theory, this should stabilize into a "birth", so to speak, of a new
+timeline, composed from parts of the former ones. Although, even if it
+does, everything will still be fucked.
+
+To anyone who sees this, tell other Xyank to get off his lazy arse and
+sort his shit out. It only gets worse from here on out. Trust me.
+
+- Dr Thaddeus Xyank
+
+
+Addendum 4 - 09/08/2035: Dr Vale's further research notes have been transcribed below:
+
+Are these timelines actually parasitic? Dr Xyank seemed to suggest
+they were almost being fed upon by something. What if they were more
+akin to a predator?
+
+In Dr Xyank's case, were both timelines predators? Ripping each other
+apart?
+
+From the information we have found, the fusion of these timelines
+causes the addition of aspects/reality from other timelines, such as
+the unidentified timeline's metal version of Dallas. New anomalies,
+you could say.
+
+Does this mean native anomalies can be pulled into parasitic/predatory
+timelines?
+
+Is it such a stretch to use that to question where some of our
+anomalies came from…
+
+Did we… steal them?
+ 
+
+
+Footnotes
+
+1. Due to the parasite having less reality than the base timeline,
+reality moves across the Ways to even the balance out
+
+2. Presumably referring to Free Ports' coexistence with our timeline.
+
+

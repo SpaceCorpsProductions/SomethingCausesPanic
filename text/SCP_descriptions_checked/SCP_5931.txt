@@ -1,0 +1,281 @@
+                                    SCP-5931                                    
+                                    ========                                    
+
+                                 Nobody Shot Me                                 
+                                 --------------                                 
+
+Item #: SCP-5931 
+
+Containment Class: Keter 
+
+Special Containment Procedures: News and law enforcement reports are to be 
+monitored for information on SCP-5931. Should deaths caused by SCP-5931 be 
+detected, witnesses are to be amnesticized and coronary reports are to be 
+altered to hide the true cause of death under Cover Story "Sudden Seizure". For 
+the purpose of better containment of information on SCP-5931, MTF-Epsilon-23 
+("Fuggedaboutit") has been dispatched to infiltrate news agencies, local law 
+enforcement, the FBI, and criminal organizations. 
+
+Investigations are currently ongoing for the cause of SCP-5931. 
+
+Description: SCP-5931 refers to a phenomenon present in New York City. SCP-5931 
+causes the sudden manifestation of bullets in the brain of affected subjects, 
+resulting in death by seizure. All bullets recovered from affected subjects have 
+a skull engraved on them. No entry point from a bullet has been discovered. 
+
+So far, SCP-5931 has solely affected members of organized crime. 
+
+
+List of SCP-5931 occurrences: 
+
+Name 
+
+Occupation 
+
+Date of SCP-5931 Occurence 
+
+Description of Circumstances 
+
+Note 
+
+
+Charles 'Lucky' Luciano 
+
+High-ranking member of Joe Masseria's criminal organization 
+
+March 1, 1931 
+
+Affected by SCP-5931 during a game of poker. Autopsy results were altered, and 
+attending coroners were amnesticized. 
+
+First documented case of SCP-5931. Initially suspected to be the result of 
+anomalous individuals from crime leader Sal Maranzano's criminal organization, 
+which is currently at war with the Joe Masseria's criminal organization. 
+
+
+Albert Anastasia 
+
+High-ranking member of Joe Masseria's criminal organization 
+
+March 2, 1931 
+
+Affected by SCP-5931 while under questioning by police of on a murder. 
+
+Initially believed to have been caused by anomalous members of Sal Maranzano's 
+criminal organization, investigations by agents embedded in Joe Masseria's 
+criminal organization for unrelated reasons reported rumors that Luciano had 
+wanted to betray Joe Masseria and defect to Sal Maranzano's criminal 
+organization. Thus, another theory was posited that SCP-5931 was the result of 
+anomalous individuals working for Joe Masseria's criminal organization. 
+
+
+Carlo Gambino 
+
+Organized crime figure; member of Joe Masseria's criminal organization 
+
+March 3, 1931 
+
+Affected by SCP-5931 during interrogation of witnesses with the accompaniment of 
+undercover MTF-Epsilon-23 Agent Nascosto. 
+
+Due to suspicions towards Agent Nascosto from other gangsters and death threats, 
+Agent Nascosto was recalled from duty through Cover Story "Gangland 
+Disappearance". 
+
+
+Joseph Bonnano 
+
+High-ranking member of Sal Maranzano's criminal organization 
+
+November 14, 1931 
+
+Found dead in a locked restroom; subsequent autopsy determined cause of death to 
+be SCP-5931. 
+
+First known case of SCP-5931 affecting an organized crime figure out of Joe 
+Masseria's criminal organization. 
+
+
+Robert DiFortune 
+
+Small-time home burglar, known associate of Joe Masseria's criminal 
+organization. 
+
+December 16, 1931 
+
+Affected by SCP-5931 while making a call on a public payphone. 
+
+First known case of SCP-5931 affecting someone who was not a member of either 
+Joe Masseria's or Sal Maranzano's criminal organizations. Despite his 
+associations with Joe Masseria's criminal organization, Robert DiFortune 
+possessed no threat to either the Masseria nor the Maranzano criminal 
+organization. Due to this, a theory was posited that SCP-5931 was the result of 
+a third party. 
+
+
+Frank Costello 
+
+Organized crime figure, member of Joe Masseria's criminal organization 
+
+December 17, 1931 
+
+Found dead in his car; autopsy revealed death to be have been caused by SCP-5931 
+
+No new leads discovered in investigations. 
+
+
+Owney Madden 
+
+Organized crime figure, no known associations with either Masseria or 
+Maranzano's criminal organization 
+
+December 20, 1931 
+
+Affected by SCP-5931 while on trial for murder. 
+
+First known case of SCP-5931 affecting organized crime figures outside of Joe 
+Masseria's or Sal Maranzano's criminal organization. New theory posited that 
+SCP-5931 was caused by members of Irish organized criminal organizations. 
+Investigations are ongoing. 
+
+
+
+You are looking at an out-of-date version of the SCP. 
+
+Click here to view the latest version of this SCP (5/15/2000) 
+
+
+
+ITEM#: 5931
+
+LEVEL 4
+
+CONTAINMENT CLASS: SAFE
+
+DISRUPTION CLASS: 4 - SUPERNOVA
+
+RISK CLASS: DANGER
+
+
+Special Containment Procedures: SCP-5931 is to be kept in a High
+Priority Item locker at Storage Site-5795. Access to the locker is
+restricted to personnel with Level 4 clearance only.
+
+Testing of SCP-5931 is strictly forbidden.
+
+Description: SCP-5931 is a Colt Official Police double-action
+revolver. A skull has been engraved on the left side of SCP-5931's
+grip panel. Cartridges of any caliber inserted into its chamber will
+be converted into black .22 Long Rifle bullets with a skull design
+identical to the one on SCP-5931's grip panel. SCP-5931 creates no
+noise when fired.
+
+Based on information from Recovered Document 5931-1B and 5931-1C,
+SCP-5931 is believed to possess retrocausal properties which, based on
+the circumstance of its recovery, is activated when fired at a grave.
+The bullet will disappear before hitting the grave, temporally
+dislocated into the brain of the grave's occupant 70 years before the
+date of the activation process, causing a seizure that usually results
+in the death of the affected subject. This results in a retrocausal
+rewriting of reality; only the memories of people who have observed
+the use of SCP-5931 are unaffected. SCP-5931 can target an individual
+on a specific date by writing the date on the bullet before firing it.
+
+Due to these properties, SCP-5931 is believed to have been responsible
+for the previous anomaly under the SCP-5931 designation1. Due to the
+risks of further retrocausal effects on the temporal stream, testing
+of SCP-5931 is strictly forbidden.
+
+Recovery Log: SCP-5931 was discovered by coincidence in the possession
+of one Leonard Di Fortuna by Agent Aerosol during an investigation
+into unrelated rumors of "mobster specters" at the Saint Michael's
+Cemetery, New York; Agent Aerosol witnessed its anomalous properties
+when he saw Di Fortuna fire it at the grave of Irish gangster Owney
+Madden. Leonard Di Fortuna attempted to flee when Agent Aerosol gave
+pursuit, but collapsed dead mid chase.
+
+Investigations into Leonard Di Fortuna's apartment revealed a receipt
+for SCP-5931 (Document 5931-1A) from the auction of the assets of
+Mills Allon2 and a stapled report titled "Invention 033081"3 (Document
+5931-1B) consisting of a description of the anomalous properties of
+SCP-5931, leading to the discovery of its retrocausal properties. The
+journal of Leonard Di Fortuna (Document 5931-1C) was also found. Below
+is a relevant entry from the journal, which has been digitized.
+
+
+- Document 5931-1C Relevant Entry
+
+18/12/2000
+
+The mob still lives. The players have changed, the events slightly
+different, but still, it exists to haunt us.
+
+When I saved my father from his killer before he could kill him, I
+thought I had found the weapon to destroy the mob forever, the
+organization that allowed his killer to walk free despite all the
+witnesses who saw him pull the trigger.
+
+But it seems killing the mob is not as simple as taking out certain
+people.
+
+I shot Lucky Luciano, before he could implement his plans to gain
+power through betrayal.
+
+The mob still lived.
+
+I shot Carlo Gambino, the new Father of the Mob.
+
+The mob still lived.
+
+I shot Joseph Bonnano (who apparently without Carlo could finally
+implement his own plans to become the Boss of Bosses)
+
+The mob still lived.
+
+I shot Frank Costello, and just for good measure, his favorite
+legbreaker Albert Anastasia. Surely, I thought, with the Prime
+Minister of the Underworld and the Lord High Executioner dead, the mob
+would be deprived of visionaries to lead it to prominence.
+
+I was wrong. The mob still lived. But this time, in Irish hands.
+
+But that means something: change is possible. With all the Italian
+mobsters I killed, the Irish mobs remained in power in New York. So as
+long as I take out their visionaries, they too might shrivel away.
+
+It will be hard, though: my knowledge of the Irish mobsters is not
+deep, and searching through the journal, none of the entries I find
+have helped. And who knows if killing off the Irish mob will be the
+end of it: New York also had prominent Jewish-American gangsters.
+
+But as the end of the Italian-American mob in New York proves, nothing
+in time is fixed: the Mob is not some important spoke in the wheel of
+time. And I will do all that I can to remove it entirely from history.
+Even if I have to spend hours on research and driving. Even if I have
+to kill a hundred. One by one, I shall bring down their leaders, their
+visionaries, their Washingtons.
+
+The mob harmed my family once, in a time that no longer exists. I will
+make sure they harm no other.
+
+I will be doing my research tomorrow on the new mob: the electricity
+here is out because of a sudden strong storm. The weather has been
+extreme lately, though if my own journal entries are any indication,
+this apparently is not considered unusual in this timeline.
+
+An autopsy on Leonard Di Fortuna revealed a bullet lodged in his
+brain, with no discovered point of entry. The bullet bore a skull
+design matching those of SCP-5931's.
+
+
+
+Footnotes
+
+1. See document of the previous iteration of SCP-5931.
+
+2. the reclusive heir of the Allon publishing estate. No connections
+between Mills Allon and the anomalous had been discovered previously.
+
+3. No author was mentioned
+
+

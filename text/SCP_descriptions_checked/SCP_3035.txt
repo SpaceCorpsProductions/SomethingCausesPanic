@@ -1,0 +1,730 @@
+                                    SCP-3035                                    
+                                    ========                                    
+
+                                  Science Bugs                                  
+                                  ------------                                  
+
+Item #: SCP-3035 
+
+Object Class: Safe 
+
+Special Containment Procedures: All known instances of SCP-3035 are contained in 
+Site-173 (a decommissioned Foundation site). Site-173 has two entry points: 
+Entry A and Entry B. 
+
+Entry A, the primary entrance, has been buried beneath 4 meters of concrete. 
+Entry B, a vacuum-tube transit system, is used for deliveries to and from the 
+interior of Site-173. MTF Nu-13 ("Rasczak's Roughnecks") is to maintain a 
+provisional base at Entry B. They are to terminate any instance of SCP-3035 on 
+sight. 
+
+Approximately once a week, a package will emerge from Entry B's vacuum-tube 
+system. Typically, this package will contain various non-anomalous materials 
+(see below). Each package is to be placed in quarantine, where it is to be 
+examined, documented, and then incinerated. 
+
+Entry into Site-173 is prohibited until further notice. 
+
+Description: SCP-3035 is a strain of Periplaneta americana (American cockroach, 
+or water-bug) that mimics the behavior and outward appearance of organisms it 
+observes. 
+
+This mimicry is superficial. For example: While an instance of SCP-3035 may 
+reproduce the coloration and behavior patterns of bumblebees, they will not 
+reproduce a bee's complex social network or unique form of communication. 
+
+Instances of SCP-3035 will mimic each other more rapidly than other organisms. 
+This leads to a feedback loop: One instance will adopt a new attribute, only for 
+all other instances to immediately mimic the first instance, acquiring the 
+attribute for themselves. 
+
+It should be emphasized that this mimicry is only a shallow approximation — an 
+attempt by some as-of-yet unknown process to 'look' and 'act' like something 
+else. Regardless of the extent of this mimicry, instances of SCP-3035 still 
+retain many of the characteristics associated with cockroaches. 
+
+
+Addendum 3035.1: Site-173 Documentation 
+
+- ACCESS SCP:/3035/package_manifests/january_2012.log 
+
+RECEIVED ON: 01/05/2012 
+
+CONTENTS 
+
+3 keyboards (broken) 
+
+6 sealed test-tubes (filled) 
+
+3 unsealed test-tubes (empty) 
+
+0.25 kg assorted organs (cockroach, fresh) 
+
+0.5 kg assorted organs (human, decomposed) 
+
+7 syringes (seals intact) 
+
+NOTE: Contents of sealed test-tubes not identified; presumed to be either 
+sewage, blood, or both. 
+
+
+RECEIVED ON: 01/12/2012 
+
+CONTENTS 
+
+1 keyboard (broken) 
+
+3 unsealed test-tubes (empty) 
+
+0.15 kg assorted organs (cockroach, fresh) 
+
+0.25 kg assorted organs (human, decomposed) 
+
+1 syringe (broken) 
+
+1 clipboard 
+
+1 legal pad 
+
+NOTE: Legal pad contained illegible scribbles. 
+
+
+RECEIVED ON: 01/22/2012 
+
+CONTENTS 
+
+1 computer mouse (broken) 
+
+2 unsealed test-tubes (empty) 
+
+10 g roach eggs 
+
+15.5 kg assorted organs (human, fresh) 
+
+1 coffee mug (text: "I Hate Mondays") 
+
+NOTE: Roach eggs destroyed immediately as per procedure. 
+
+
+- ACCESS SCP:/3035/emails/february_2007.log 
+
+DATE: 02/01/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: Unusual Behavior 
+
+We noticed something while finishing up with the latest batteries of tests. The 
+SCP-3035 instances have adopted a new behavior — they'll stand along the edge 
+of their enclosure, 'tapping' their forelegs against the glass. We're not sure 
+where this behavior came from; it's not something exhibited in any of the 
+insects we're training them to mimic. 
+
+ATTACHMENTS: glass_tapping.mp5 
+
+
+DATE: 02/02/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: New Developments 
+
+We figured it out. They're mimicking me. 
+
+Nearly every day, I've been sitting down besides their enclosure, starting up my 
+computer, and tapping away at the keyboard for twenty minutes. And now they've 
+adopted my behavior — 'sitting up' and 'typing' at the glass. 
+
+We previously presumed these organisms only mimicked other insects; clearly, we 
+were wrong. This ability appears to extend to any creature they can observe. 
+
+ATTACHMENTS: <None> 
+
+
+DATE: 02/03/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: My New Research Staff? 
+
+Per your suggestion, I've moved the enclosure to a spot where my 'colleagues' 
+can watch my work with greater ease. They've proven to be very apt students — 
+already, I've observed them mimicking the motions I make when I'm taking notes 
+or preparing solutions for testing. I've even noticed a few of them flopping 
+around in a rather clumsy attempt to walk. 
+
+There's one other issue — they've gotten bigger. An increase of about 15%, 
+according to my measurements. It occurred so slowly I didn't even think to 
+measure them until I reviewed past footage and noticed the increase in size. 
+
+Regardless, my new star pupils are starting to grow on me. 
+
+ATTACHMENTS: <None> 
+
+
+DATE: 02/04/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: Walking 
+
+They're walking. They're walking! 
+
+All of them, all at once — it happened like magic. Yesterday, they were just 
+thumping around clumsily, and today… I walk into the lab and find them all 
+strolling about the enclosure. Like they own the place. Or… like a buzzing 
+little classroom of pre-graduate students awaiting their Professor. 
+
+The curious part is that every test I've performed on them still indicates that 
+they have the intelligence of your basic, run-of-the-mill cockroach. They can 
+mimic behavior, but they can't mimic understanding; they copy my actions, but 
+they don't understand why I do something. Or even what something means. 
+
+ATTACHMENTS: walking.mp5 
+
+
+DATE: 02/05/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: Case of the Mondays 
+
+As an experiment, I found some doll-sized tables and chairs and placed them 
+inside the enclosure. The props are far too large, but I was curious if they'll 
+try using them. 
+
+And, well… If you've ever wanted to know what a bunch of cockroaches sitting 
+at an over-sized table, typing away at keyboards that aren't even there looks 
+like… I've attached a video that should satisfy your curiosity. 
+
+I even got one of them to 'drink' from a tiny toy coffee mug 
+(case_of_the_mondays.png). 
+
+ATTACHMENTS: monday_meeting.mp5, case_of_the_mondays.png 
+
+
+DATE: 02/07/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: Re: Biopsy Time! 
+
+Per your request, I performed a biopsy on their nervous system. I've sent the 
+results to you — as you can see, there's no new growth, no new structures — 
+they're still just cockroaches. Bizarrely large cockroaches that walk around. 
+And type at empty desks. And pretend to drink coffee. 
+
+I felt a little bad about killing one of them; it's hard not to think of them as 
+my little pupils. Still, none of the others seemed to mind. They're all just 
+happily strutting about, acting like nothing even happened. 
+
+ATTACHMENTS: biopsy_report.pdf 
+
+
+DATE: 02/08/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: <None> 
+
+They killed one of their own. 
+
+This morning, I returned to the lab only to find one of the cockroaches on its 
+back atop of the table, dead. It had been somehow — sliced open and gutted. 
+The other cockroaches were just strutting around like nothing was wrong. 
+
+I reviewed the footage from yesterday. Last night, after I left, one of them 
+pinned another one down on top of the table. It used what looked like… 
+sharpened tips on its forelegs to cut it open. Then, it started methodically 
+removing the still-living bug's fatty tissues. Like it was scooping up 
+ice-cream. 
+
+Once it was done, it sat at the table and started tapping away at the invisible 
+keyboard again. Like it was taking notes and writing emails based on the 
+results. 
+
+Just like me. 
+
+They saw my autopsy, Dr. Xao. They saw it, and then they mimicked it. 
+
+I think this experiment has gone on far enough. 
+
+ATTACHMENTS: <None> 
+
+
+DATE: 02/10/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: Re: Where's your spirit of scientific inquiry? 
+
+They grew 150% larger. 
+
+This experiment is over. I'm euthanizing the lot of them. 
+
+ATTACHMENTS: <None> 
+
+
+DATE: 02/12/2007 
+
+FROM: Dr. Breeman <pbreeman@scp.foundation> 
+
+TO: Dr. Xao <hxao@scp.foundation> 
+
+SUBJECT: RES LERSPK ERSLIJERS LIJRESLIJ RESLJ ERSIJR LJESLIJNERSIJ 
+
+RESK ERSK ERS:LERS :LKTES:JK SER KPOR ESK ERS:LK ERS:LK ER:LK ERS:LK ER:LK 
+
+ERS:LKERS:LKER 
+
+ERSL:KM ERSK: ERSK:L RK:L RELK: ERS:LKERS 
+
+ERSKMERS:LK RLKMR 
+
+RES :LKM" ERSKMR ESKM SER 
+
+RESL ERS:L<" ERS:L ERS:L ERS 
+
+RSE ERSLK:N J#N :LKMSER :LK ER 
+
+ERSMKERSKM RESLKM ERS 
+
+ERSPIJ ERSIJ ERS 
+
+ERS RESIJREPIJ 
+
+ATTACHMENTS: case_of_the_mondays.png, case_of_the_mondays (1).png, 
+case_of_the_mondays (2).png, case_of_the_mondays (3).png 
+
+
+- ACCESS SCP:/3035/files/memo_2010.log 
+
+TO WHOMEVER IT MAY CONCERN: 
+
+After three disastrous attempts at a rescue mission, we're giving up. Every time 
+we send a squad of soldiers down there, these things start adapting their 
+behavior and appearance — becoming more and more aggressive. On top of that, 
+they breed like… well, cockroaches. 
+
+Nu-13 will be stationed at Entry B; they'll stay as long as they can and wait to 
+see if anything human comes out. But as of this moment, I'm declaring Site-173 a 
+lost cause. 
+
+The decision regarding whether or not to deploy nerve-toxins to clear Site-173 
+of SCP-3035 instances is under review — particularly in light of the recent 
+revelation that some of the human organs emerging from Entry B are fresh. 
+
+- Dr. Henry Xao 
+
+
+Addendum 3035.2: Exploration Logs 
+
+- ACCESS SCP:/3035/recon_logs/march_2007.log 
+
+SCP-3035 Exploration Log
+
+The following audio log describes events on 03/26/2007, involving MTF
+Gamma-3 ("Three Wolf Moon") during the Foundation's initial attempts
+to re-establish contact with Site-173 following a catastrophic
+containment breach.
+
+<Begin Log.>
+
+MOON: Role-call.
+
+WOLF 1: Wolf 1, here.
+
+WOLF 2: Wolf 2, awwrrroooooooo!
+
+WOLF 3: Wolf 3, caaawwrroooooo-kie crisps!
+
+MOON: Alright, enough dicking around. Control, you receiving this?
+
+CONTROL: Loud and clear.
+
+MOON: Good. Alright, we're opening the entrance.
+
+(Pneumatic hissing; sound of metal grinding.)
+
+MOON: Respirators on. Stay sharp.
+
+WOLF 2: (gagging) …Jesus. I can almost smell this through my skin.
+
+MOON: Lighting is low, the floor… covered with some sort of sludge.
+Brown-black. Garbage everywhere — crumpled cardboard boxes, office
+supplies… uh, looks like — some rotting meat, too…
+
+CONTROL: Understood. Remember, Commander, your primary mission is just
+recon. Rescue any personnel you can, but do not put yourself or your
+team in jeopardy.
+
+MOON: Understood. Holy fuck, this place is disgusting. Wolf 1, stay by
+the door. Anything not-human tries to get out…
+
+WOLF 1: Light it up. Got it.
+
+MOON: Proceeding forward. Wolf 2, Wolf 3, with me.
+
+MOON: Control panel on the other side's got some bloody hand-prints on
+it. Looks like somebody tried to escape.
+
+WOLF 3: Fuck.
+
+MOON: Keep moving.
+
+WOLF 2: Up ahead!
+
+MOON: Put your fucking hands up! Are you human? Talk!
+
+UNIDENTIFIED: (muffled, distant) Help…
+
+WOLF 2: Is that a friendly?
+
+WOLF 3: Sounds hurt.
+
+MOON: Don't move. Control, looks like… about 15 yards up, a technician
+in a lab-coat. On his knees. S'got some blood on him, he might be
+hurt—
+
+CONTROL: Be careful.
+
+MOON: Approaching. Hey! Hey. Talk to me, man. We're here to get you
+out, but you need to talk to me.
+
+UNIDENTIFIED: (muffled) Stop…
+
+MOON: Gonna need to give me more than that, buddy. Alright? Relax.
+Keep your hands up. Tell me your name. What's your name?
+
+UNIDENTIFIED: (muffled) Please, no…
+
+MOON: Oh. Oh, shit.
+
+WOLF 3: What's going on? You alright?
+
+MOON: Stay where you are! Nobody fucking move, just… stay calm.
+Control?
+
+CONTROL: Come back.
+
+MOON: Control, I think this is one of the roaches.
+
+CONTROL: Wait. You said it was a lab technician—
+
+MOON: At a distance, it looked like — look, its face is just, like… a
+chitin-mask. And it's…
+
+CONTROL: What is it doing?
+
+UNIDENTIFIED: (distorted, muffled sobbing sounds)
+
+MOON: I think… it looks like… it's begging?
+
+WOLF 2: Down the hall!
+
+(distant radio chirping sounds)
+
+MOON: Shit — two of them, big ones, they—
+
+(distant, angry, garbled roaring sounds)
+
+(gunfire)
+
+WOLF 3: Fuck!
+
+WOLF 2: Contact! Contact!
+
+MOON: Take cover!
+
+(gunfire stops)
+
+WOLF 1: Am I holding position?
+
+MOON: Yes, hold position — everyone alright? Anyone hit?
+
+WOLF 3: Negative, I'm good.
+
+WOLF 2: We both got cover.
+
+MOON: Fuck. Fuck. Since when do these things have—
+
+(gunfire)
+
+MOON: Fuck!
+
+(gunfire continues)
+
+MOON: …what the hell?
+
+(gunfire continues)
+
+MOON: What the hell?
+
+WOLF 3: Are you alright, Moon?!
+
+MOON: Stay where you are. Stay where you are, both of you.
+
+(gunfire continues)
+
+MOON: (laughing) Well, now I've seen everything.
+
+WOLF 2: What is it?
+
+MOON: Goddamn roaches.
+
+(six more shots, distinctly louder and clearer)
+
+(gunfire ceases)
+
+MOON: Hallway's clear.
+
+WOLF 3: What just happened?
+
+MOON: They don't have guns. They've got gun-shaped hands. They were
+waving them around and making gunshot noises.
+
+WOLF 2: Are you… are you shitting me?
+
+WOLF 3: That's fucking hilarious.
+
+MOON: You catch all that, Control? Please advise.
+
+CONTROL: Affirmative. Proceed with caution.
+
+MOON: Proceeding. Wolf 2, Wolf 3, on point.
+
+WOLF 3: Jesus. How the hell did these things compromise a site?
+
+MOON: Up ahead. You see that?
+
+WOLF 2: Barricade.
+
+WOLF 3: Survivors?
+
+MOON: Could be. C'mon.
+
+WOLF 2: Supplies, looks like — yeah, this looks recent, too. Managed
+to hold up a fort against the bugs.
+
+WOLF 3: Hey! — look, is that —
+
+MOON: Hey! Hey, hands up, start talking—
+
+WOLF 2: Fuck. She's running away—
+
+WOLF 3: Is that a survivor? Or is it—
+
+MOON: Fucking… it's hard to tell in this light. She went into the
+bathroom. Wolf 2, with me. Wolf 3, take point on the entrance — don't
+want to end up pinned inside there.
+
+WOLF 3: Copy.
+
+MOON: Let's take it easy, now…
+
+(door opening)
+
+WOLF 2: Jesus.
+
+(soft, muffled whimpering)
+
+MOON: Hey. Hey, you there? We're humans. We're here to take you home.
+Just come out, hands up, okay…?
+
+(whimpering grows more pronounced)
+
+MOON: She's in the back stall, I think.
+
+WOLF 2: Moon, there's a body in this stall, over here—
+
+WOLF 3: Hey! Hey, you! Hands up! Come over here — we're the rescue
+team! We're — shit!
+
+MOON: Wolf 3? What's going on?
+
+WOLF 3: Fuck. Fuck. I just saw — somebody down the hall, on our side
+of the barricade. They saw me, then started running away—
+
+MOON: Human?
+
+WOLF 3: I… I think so, yeah, I saw the face, it looked human, but they
+ran—
+
+MOON: Alright, let's finish in here, and—
+
+(ear-piercing scream)
+
+(scuffling, shouts)
+
+WOLF 2: Fuck! Fuck!
+
+(two gunshots)
+
+WOLF 2: Fucking… FUCK!
+
+MOON: Calm down. Calm down. Let me look at it.
+
+WOLF 2: It was… Jesus-fuck.
+
+WOLF 3: You alright in there?
+
+MOON: Roach in the stall. Wolf 2 got stabbed, doesn't look critical.
+
+WOLF 2: You know this shit is going to get infected—
+
+MOON: Relax. We're getting out of here. Control, you copy?
+
+CONTROL: Come back.
+
+MOON: One of our team got stabbed. One of the roaches, it had… a
+knife-hand, or something. I'm pulling us out for now.
+
+CONTROL: Affirmative.
+
+WOLF 3: What about — I saw someone, back there—
+
+MOON: You saw another roach.
+
+WOLF 3: I'm pretty sure I saw—
+
+MOON: You saw another roach, Wolf 3. Do you understand?
+
+MOON: I said, do you understand?
+
+WOLF 3: Affirmative.
+
+MOON: Alright. We're pulling out. C'mon, I'll help you up—
+
+(scuffling sounds)
+
+WOLF 2: Christ.
+
+UNIDENTIFIED: Goddamn… roaches…
+
+WOLF 3: You catch that?
+
+MOON: Where's that coming from?
+
+UNIDENTIFIED: (multiple, chanting) Goddamn… roaches…
+
+WOLF 3: Oh… oh, shit. Moon, get out here right now.
+
+(door opening)
+
+MOON: What — holy shit.
+
+UNIDENTIFIED: (over a dozen, chanting) Goddamn… roaches…
+
+WOLF 3: They're just… claws and teeth—
+
+(smashing sounds, objects rattling)
+
+WOLF 2: Fuck! Fuck, they're slamming into the barricade—
+
+WOLF 3: What the fuck did they mimic?!
+
+UNIDENTIFIED: (dozens more, chanting) Goddamn… roaches…
+
+(smashing sounds intensify)
+
+MOON: Open fire! Open fire!
+
+(gunfire)
+
+WOLF 3: Shit!
+
+MOON: Throwing a grenade! Get down!
+
+UNIDENTIFIED: Goddamn… roaches…
+
+(muffled explosion)
+
+MOON: Keep—(static)
+
+UNIDENTIFIED: Goddamn… roaches…
+
+WOLF 2: Fucking stabbed me fucking—(static)
+
+MOON: Wolf 3, do you—(static)
+
+WOLF 3: (brief scream, ended on static)
+
+MOON: Contr—(static)
+
+WOLF 1: Fuck! I'm going in! Moon, do you read?
+
+MOON: S—(static)
+
+CONTROL: Wolf 1, maintain position. Nu-13 is coming to get you and
+secure the entrance.
+
+WOLF 1: Fuck you. I'm going the fuck in.
+
+CONTROL: Negative, Wolf 1, maintain your—
+
+WOLF 1: I said FUCK YOU.
+
+UNIDENTIFIED: (distant) Goddamn… roaches…
+
+WOLF 1: Jesusfuck. There's…
+
+CONTROL: Wolf 1, get out of there.
+
+WOLF 1: There's gotta be almost a hundred of — wait, I think I see —
+Moon, do you read?
+
+(static)
+
+WOLF 1: Moon! Do you copy? Moon, is that you? Moon!
+
+(distant, garbled screams)
+
+WOLF 1: That was — it was Moon, I swear it was Moon, I saw his
+uniform, that had to have been… Moon! Moon! Come back! Moon!
+
+CONTROL: Wolf 1, come back.
+
+WOLF 1: Fucking… I can't — there's — Moon!
+
+(gunshots)
+
+CONTROL: Wolf 1, come back. Is that you firing?
+
+UNIDENTIFIED: Moon! Come back! Moon!
+
+(gunshots)
+
+CONTROL: Wolf 1, come back.
+
+(gunshots)
+
+CONTROL: Wolf 1, do you read?
+
+(gunshots)
+
+CONTROL: Wolf 1, are you there?
+
+WOLF 1: I'm here. I've got Moon and Wolf 2 with me. Their comms are
+toast. Wolf 3 is dead. On our way out.
+
+CONTROL: Copy. Epsilon-9 is on their way.
+
+<End log.>
+
+

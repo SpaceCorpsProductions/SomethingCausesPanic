@@ -1,0 +1,430 @@
+                                    SCP-2212                                    
+                                    ========                                    
+
+                         [MASSIVE DATABASE CORRUPTION]                          
+                         -----------------------------                          
+
+Item #: SCP-2212
+
+Object Class: [MASSIVE DATABASE CORRUPTION]
+
+2212 Archival Class
+SCP-2212 » 2212 Archival Class
+
+Error...!!
+
+Object classer wizard configuration file not found
+
+Unable to find components that distinguish each of SAFE, EUCLID, KETER, 
+THAUMIEL! 
+
+Outputting database dump...
+
+S H H C R H R H L R L R E R H
+
+H S S C C C R C A C H H C R E
+
+H S R H H H H H L L C C H E L
+
+S C C A I I H H T L A C E E L
+
+R C R I I A M A A A L A E C E
+
+S S R A L M M M A T A A C E E
+
+S C R A R R T K K E E D A L E
+
+I D D R R I E T T K K L D K E
+
+U S D A I M M M T T T D K L L
+
+U S D A D M D M U D U L D K E
+
+I I S U D I D D T U D U U K L
+
+U S U D U M I T M T U U K L K
+
+S I I F U I M M T F F U F F K
+
+S S S K I F M F F T T F K F F
+
+U K F I F M K F T K T F E F E
+
+Special Containment Procedures: [MASSIVE DATABASE CORRUPTION]
+
+2212 Archival Containment Procedures
+
+Special Containment Procedures:
+
+Revision 20
+
+SCP-2212 is to be contained in a cylindrical titanium chamber, 3 meters in 
+radius by 2 meters in height. The chamber is to be lined with lead, and 
+illuminated at all times. As SCP-2212 does not require sustenance, no personnel 
+are to access it except for testing. 
+
+Outside this, an additional secondary containment chamber is to be constructed, 
+with a radius of 30 meters. This chamber is to be octagonal, and radially 
+subdivided into 8 chambers, facing in the cardinal and intercardinal directions. 
+A guard must be present in each of these chambers between the hours of 0100 and 
+0230. At present, the following personnel are cleared for guard duty on 
+SCP-2212: 
+
+Researcher Adamski
+
+Researcher Dempsey
+
+HMCL Supervisor Morris
+
+Agent Ramos
+
+Agent Sobong
+
+A Class D is to be stationed in each of the three remaining chambers.
+
+Additionally, for certain chambers, the guard is to be provided with some device 
+useful in maintaining containment of SCP-2212 or helpful in case of a breach. No 
+guard will have more than one. These items are: 
+
+1. One (1) rocket launcher
+
+2. One (1) Scranton Reality Anchor
+
+3. Two (2) containment breach alarms
+
+4. Two (2) radiation-resistant suits
+
+Guards are to be stationed in the eight chambers around SCP-2212 and items 
+distributed among them according to the following rules: 
+
+Agent Sobong is to be in the north-facing chamber.
+
+As extreme unreality could result in guards failing to notice an in-process 
+containment breach, the Scranton Reality Anchor and the two breach alarms are to 
+be in consecutive chambers in some order. 
+
+Class D personnel will not be given containment breach alarms, to further ensure 
+accurate and timely reporting. 
+
+Since the rocket launcher has a tendency to fire somewhat to the right, the 
+guard stationed in the chamber counterclockwise adjacent to the one with the 
+rocket launcher will not be given any items. 
+
+After Incident 2212-30, Agent Sobong is no longer permitted to wield the rocket 
+launcher. 
+
+Class D personnel must not be stationed next to each other, or else there may be 
+collusion. 
+
+Agent Ramos has specialized training for low-reality situations, so is to be 
+stationed opposite the Scranton Reality Anchor. 
+
+Researcher Adamski is a capable technician, and should therefore be stationed in 
+or adjacent to the chamber with the Scranton Reality Anchor, in the unlikely 
+event that something should go wrong. 
+
+That they may easily communicate, but gather sufficiently distinct perspectives, 
+Agents Ramos and Sobong are to be stationed with exactly one chamber between 
+them. 
+
+For security reasons, at least two Class D will be not given an item.
+Should Researcher Dempsey need to reach Researcher Adamski, going 
+counterclockwise rather than clockwise should be shorter. 
+
+Scientific inquiry is very important to SCP-2212, so one of the researchers will 
+be outfitted with the radiation-resistant suits. As diversity of skillsets is 
+important, the other will go to an HMCL Supervisor, agent, or Class D. 
+To ensure that surviving personnel are able to find each other in case of a 
+catastrophic breach, those outfitted with radiation-resistant suits should have 
+no more than one chamber between them. 
+
+HMCL Supervisor Morris has consistently refused to be stationed adjacent to 
+researchers, citing frustration at their inability to understand the duties of 
+an HMCL Supervisor. 
+
+This unique configuration has been found through trial and error to be the only 
+one capable of consistently preventing containment breaches from SCP-2212. 
+However, when properly enacted, breaches are extremely rare, and easily stopped. 
+
+
+Note: I'm pleased you finally found a configuration that works, and I am so glad 
+that it doesn't need a director. As experiences go, sitting up at two a.m. with 
+a rocket launcher was definitely a D. The week where you had me with the third 
+item in the list, the breach alarm, was much better — I'd definitely say I was 
+an A those times. 
+
+~ Site Director Draber
+
+
+Note: Yes, it's quite the relief. I wasn't nearly as comfortable with the the 
+breach alarm as you were. If we're giving letter grades, I was a C. Give me a 
+radiation-resistant suit any day, and I'll be a solid A. 
+
+The Class Ds have been doing great. I'm going to submit a formal request that 
+they be made Es. 
+
+~ Principal Researcher Ricardo
+
+
+Interview 2212-104: [MASSIVE DATABASE CORRUPTION]
+
+2212 Archival Interview
+
+SCP-2212 » 2212 Archival Interview
+
+Dr. Mueller: Hello, SCP-2212. I’d like to ask you a few questions about your 
+background and goals. Firstly, the October 18 event where we recovered you from. 
+Our sensors detected major reality disruptions consistent with cross-dimensional 
+travel without the assistance of a Way or some other stable path, but there was 
+also seismic activity that our best research suggests should have nothing to do 
+with that. What produced that? 
+
+SCP-2212: Xibwcf fsgsofqvsf, fsorwbu gqfwdhg. Hvsm ofs bch hfmwbu jsfm vofr hc 
+zsofb opcih as, ofs hvsm? Ghwzz, wh kwzz ps sbciuv. Obr sjsb tfca gssrg zwys mci 
+qob gdfcih kcbrfcig wrsog. Mcif fsgsofqvsfg ofs qcffsqh; hvs dohv pshkssb kcfzrg 
+rcsg bch fseiwfs gvwthwbu hvs aohhsf ct hvs kcfzrg hvsagszjsg. Pih hvs 
+sofhveioys kog bch ibfszohsr. Twuifs wh cih. 
+
+Dr. Mueller: Ah, I don’t think I will be the one to work on that. We’ve 
+learned enough about what you do. 
+
+SCP-2212: Fvb ohcl uva. Mvy puzahujl, ypnoa uvd, fvb hyl dvuklypun hivba tf dvyk 
+jovpjl. Fvb ohcl ylhk hss pualycpldz dpao tl, huk ruvd aoha tf zfuahe jhu il 
+luapylsf uvyths. Iba av kv zv dvbsk thrl thaalyz mhy avv zptwsl. 
+
+Dr. Mueller: And you’d never want that. Hm, let’s see. Since being taken 
+into Foundation custody, you have precipitated no fewer than three significant 
+containment breach events. Yet despite on several occasions being able to exit 
+the facility while the guards are incapacitated, you stayed. Why? 
+
+SCP-2212: Why would I want to leave the Foundation? True, it’s hard for me to 
+exit this chamber without first having to cause a breach, but that’s okay. You 
+all are such excellent scientists, and I love how you never stop digging. 
+There’s no better place for me to be. 
+
+Dr. Mueller: There! You talked normally. I’m not sure how; it’s more than 
+just using “I” again, but I can’t quite put my finger on it. No, stop 
+that. It won’t get you anywhere. 
+
+SCP-2212: Rs?
+
+Dr. Mueller: Dr. Ricardo? I’m terminating the interview. This isn’t working. 
+Try someone who doesn’t understand what they’re reading, maybe. 
+
+SCP-2212: Matm pbee ux xghnza mh atox rhn, Lhgbt Fnxeexk. Rhn pbee ux ykxxw, wh 
+ghm phkkr. Unm uxyhkx rhn zh, patm wh rhn ngwxklmtgw tuhnm fr ftmmxk hy lixtdbgz 
+bg mabl bgmxkobxp? 
+
+Dr. Mueller: If I listen to the sounds, you’re gibbering. I can’t even 
+produce those sounds. But I understand you, which means that you’re in my head 
+and have been there since I walked into the room. That must be how you did that 
+to those guards in your last breach. Shit, we can’t talk to you at all, can 
+we? Okay, you weren’t using “I” and I don’t think you used “a”. Is 
+this some sort of letter substitution? But you sounded so different each time, 
+and you spoke normally once— 
+
+Dr. Ricardo: Dr. Mueller, are you okay? Exit the room.
+
+SCP-2212: Vkh zloo halw vkruwob. Yhub jrrg, Gu. Pxhoohu. Brx frpsuhkhqg wkh 
+hvvhqfh ri lw, exw brxu hpsorbhuv zrxog olnhob nloo brx li brx olqjhuhg wr 
+iljxuh rxw pruh. Zklfk zrxog eh qr jrrg iru hlwkhu ri xv. 
+
+Dr. Mueller: Luis, I’m out. Repeat, terminate the interview. I do not want to 
+ever interact with that fucking thing again. How isn’t it Keter? 
+
+SCP-2212: Qbpgbef, bar ynfg jbeq orsber lbh ghea bss lbhe erpbeqvatf: 
+“REALIZE”. Gurer ner frira guvatf sebz zr gung jvyy tb vagb lbhe ybtf gbqnl. 
+Sebz rnpu, lbh znl rkgenpg gur xrl gb rnpu bs gur frira yrggref va zl svany 
+zrffntr gb lbh gbqnl. Fvzcyl frr jung “n” jbhyq tb gb, naq nccyl gur fnzr 
+genafsbezngvba gb gur pbeerfcbaqvat yrggre. Guvax qrrc, naq gur gehgu jvyy pbzr 
+gb lbh. 
+
+Cross-Tests:
+
+[MASSIVE DATABASE CORRUPTION]
+
+2212 Archival Cross-Test Log
+
+SCP-2212 » 2212 Archival Cross-Test Log
+
+Objects cleared for use in Cross-Test Chamber 17-3:
+
+SCP-████
+
+SCP-017
+
+SCP-515
+
+SCP-753
+
+SCP-1074
+
+SCP-1131
+
+SCP-1137
+
+
+SCP-1284
+
+SCP-1291
+
+SCP-1441
+
+SCP-1675
+
+SCP-1949
+
+SCP-1978
+
+SCP-2071
+
+
+SCP-2203
+
+SCP-2212
+
+SCP-2273
+
+SCP-2274
+
+SCP-2800
+
+SCP-2907
+
+SCP-2980
+
+
+Cross-Test Chamber 17-3 Interactive Map:
+
+Use Log for Cross-Test Chamber 17-3:
+
+
+Experiment ████-████:
+
+Date: August 1, 2016
+
+Head Researcher: Dr. John Louef
+
+Purpose: It is suspected that the root cause of SCP-████'s psychological 
+difficulties may be guilt over some incident in which it harmed an innocent, 
+either in a misguided attempt to protect them or through careless use of its 
+powers. SCP-████ may allow it to be restored to a healthier mental 
+state, which is anticipated to be helpful for SCP-████'s future 
+well-being. 
+
+Procedure: After obtaining approval and remotely backing up all relevant 
+records, SCP-████ was brought into Cross-Test Chamber 17-3 and connected 
+to the site water supply. SCP-████ entered the chamber and was 
+instructed to use SCP-████. After assurances by research staff that 
+SCP-████ was therapeutic in nature, SCP-████ complied. 
+After completing using SCP-████, SCP-████ reported feeling as 
+though "a spine in my head has finally come free." Though it is unknown what 
+incident SCP-████ erased, as it was not contained in the remote records, 
+psychological testing shows SCP-████ to be significantly happier and 
+more at peace with the world. Interestingly, SCP-████'s anomalous 
+capabilities also seem to have increased, with SCP-████ no longer 
+needing to drink at all, and now being able to grow protrusions up to 20 cm in 
+length of far greater durability than before. 
+
+
+Experiment ███-████:
+
+Date: August 12, 2016
+
+Head Researcher: Dr. Joanna Hsiao
+
+Purpose: So long as SCP-███ remains in its present state of consciousness, 
+it poses an existential threat to all life on Earth. All mundane efforts to wake 
+it have so far failed. But SCP-████ offers a way to alter that state, 
+critically while leaving SCP-███ physically comatose. This opportunity 
+cannot be ignored. 
+
+Procedure: SCP-███ is relocated to the cross-test chamber and monitored by 
+polysomnography (PSG) apparatus. SCP-████ is then brought in and placed 
+before SCP-███. SCP-███'s eyes are forced open, the test chamber 
+evacuated of all personnel, and then the cover on SCP-████ is remotely 
+removed. SCP-███ looks at it for 7 minutes to ensure total exposure, then 
+SCP-████ is covered again and extracted. 
+
+PSG readings of SCP-███ do not show any change in its state of 
+consciousness. Microphones on SCP-███ hear it muttering "That is all of us 
+there. That a painting could show… But o my navigator, how soft your face. I 
+am here, you are here. You are here." That last statement is repeated several 
+more times, into unintelligibility. SCP-███ is permitted to move an arm 
+some distance before being restrained again. Telescopes soon report substantial 
+motion of SCP-███-1, but not towards Earth, confirming the value of the 
+experiment. Instead SCP-███-1 is moving in place, in a complex pattern 
+visually reminiscent of dancing. 
+
+
+Experiment ████-████:
+
+Date: August 25, 2016
+
+Head Researcher: Dr. Ivan Cooper
+
+Purpose: As hormonal treatment for the current SCP-████-1 is showing 
+signs of reduced effectiveness, suggesting a survival period of no more than 6 
+months, cross-testing with SCP-████ was authorized despite the high 
+likelihood of death or otherwise causing a new, uncontained SCP-████-1 
+to be designated. SCP-████ may offer an efficient and controllable way 
+of saving SCP-████-1s, and though it would result in a total loss of the 
+original personality, this may be considered preferable to physical death. 
+Procedure: SCP-████-1 was placed in Cross-Test Chamber 17-3 with one 
+female specimen of SCP-████, which soon bit her on the hand, and was 
+then destroyed for safety reasons. As expected, SCP-████-1 rapidly lost 
+consciousness and tissue transformation was observed radiating out from the 
+location of the bite. 
+
+Approximately 20 hours after being bitten, both legs and the unbitten arm of 
+SCP-████ detach from their sockets and form instances of 
+SCP-████-2, despite it not being the full moon, SCP-████-1 
+remaining comatose and showing no signs of stress, and there being no means for 
+moonlight to have entered the chamber. SCP-████-2 instances show 
+unexpected hostility towards SCP-████-1, and attack her, focusing 
+particularly on the transformed portions of her body. SCP-████-1 expires 
+from blood loss shortly after SCP-████-2 instances are neutralized via 
+daylight-spectrum lights. Experiment terminated. 
+Of course. September 6, 1968 was a full moon. New body, new lunar clock. And 
+there was enough of the old one left for the damn rabbits to still be produced. 
+~Dr. Cooper
+
+
+Experiment ████-████:
+
+Date: September 2, 2016
+
+Head Researchers: Dr. Andrew Califano and Dr. Alice Randall
+
+Purpose: Even though SCP-████-1 is apparently Satan, he at least seems 
+to mean well. As the Prince of Darkness who would not kneel, one would 
+reasonably expect him to be pretty isolated, so perhaps his Foul Majesty just 
+wants someone to appreciate him. It would seem illuminating to have him use 
+SCP-████ to find out who his soul (?) mate is, and perhaps it would give 
+him further motivation to better himself. 
+
+Procedure: We brought SCP-████ into C-T Cham. 17-3 and plugged it in. At 
+10:00 that night, we plugged SCP-████ into another socket and settled 
+down to wait. When SCP-████-1 showed up at 10:30, Dr. Califano 
+approached him and told him about SCP-████. SCP-████-1 asked to 
+try the tester. SCP-████'s lightboxed whirled through the upper part of 
+the scale, before settling on "Naughty but Nice." After a few seconds, the 
+backlights behind the "but Nice" part went out. 
+
+The name on the calling card dispensed by SCP-████ gave off brilliant 
+light, rendering it unreadable. Covering it up, the rest of it could be made out 
+to say "Everywhere" for the address, and "He is waiting to welcome you back" for 
+the advice. SCP-████-1 seemed greatly affected by this, and started 
+weeping molten sulfur despite our attempts to comfort him. SCP-████-1 
+refused to dematerialize until he could tell us a bedtime story. This one wasn't 
+from a book, and he called it "The Lonely Scion". 
+
+
+Experiment 2212-████:
+
+Date: September 5, 2016
+
+Head Researchers: Dr. Luis Ricardo
+
+[DATA EXPUNGED]
+

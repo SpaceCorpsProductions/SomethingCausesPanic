@@ -1,0 +1,325 @@
+                                    SCP-2770                                    
+                                    ========                                    
+
+                                    The Lure                                    
+                                    --------                                    
+
+Item #: SCP-2770 
+
+Object Class: Euclid 
+
+Special Containment Procedures: All ships must be prevented from approaching 
+SCP- 2770. Instances of SCP-2770 are to be tracked by Mobile Task Force Gamma-6 
+("Deep Feeders") via Foundation orbital assets and intercepted by Gamma-6 
+vessels. Anyone seen attempting interaction with SCP-2770-1 is to be detained 
+before contact is made and administered Class-B amnestics. 
+
+Description: SCP-2770 is the designation of two seaborne anomalies. 
+
+SCP-2770-1 is a bright yellow life raft, carrying a human male that identifies 
+itself as a member of the British Royal Navy. Its uniform, showing notable signs 
+of degradation, is consistent with the standard British naval dress code circa 
+19██. It will manifest in the North Sea, defined as the area between Great 
+Britain and Scandinavia. SCP-2770-1 has been recorded never going beyond the 
+boundaries of the Shetland Isles, or farther south than the area of Norfolk, 
+with the exception of ████████████. Its appearance on 
+the water is instant, marked only by a sudden burst of radio white noise on most 
+electronic equipment. 
+
+The life raft is too small to be reliably located by orbital imaging satellites, 
+but its general location can be calculated by satellites equipped with thermal 
+imaging, as water temperature drops by 3ºC in a 5km radius around SCP-2770-1. 
+
+Once manifested, SCP-2770-1 will wait until it obtains visual of an occupied 
+vessel. It will try to gain the vessel's notice with several methods, including 
+shouting, waving its arms, and using its uniform as a makeshift flag. 
+
+If it does not obtain the vessel's attention or is approached by a ship that 
+does not intend rescue, it will be rapidly pulled underwater and not resurface 
+for another 124 hours. However, if rescued, it will initiate a Boarding Event, 
+and prompt the appearance of SCP-2770-2. 
+
+SCP-2770-2 is a submarine, measuring 42m in length. It shows signs of extreme 
+disrepair, with a thick layer of rust and barnacles coating most of the hull. 20 
+to 60 seconds after SCP-2770-1 has been rescued, SCP-2770-2 will surface nearby 
+SCP-2770-1's rescuing vessel at a speed far beyond the capability of any known 
+submersible. After it has surfaced, the hatch on the submarine's conning tower 
+will open. SCP-2770-1, 2770-2 and the rescuing vessel will all be pulled into 
+the water by an unknown force at over 200 km/h, and disappear. There seems to 
+be no upper limit to the size of the vessel that can be pulled underwater; 2770 
+is known to have taken ships with displacements in excess of 50,000 long tons. 
+
+After a Boarding Event, SCP-2770-1 will not appear for a minimum of 242 hours, 
+with the length of its absence appearing to be linked to the size of the vessel 
+taken. 
+
+SCP-2770 was first theorized to exist in 19██ after a string of unexplained 
+ship vanishings, and its existence confirmed in 1941, when the Gamma-6 vessel 
+Panama-7 observed it interact with a fishing trawler. 
+
+However, it is believed that SCP-2770 has been active since at least 1███, 
+due to a report published by a British newspaper from the same year. 
+
+
+- [LEVEL 2 ACCESS REQUIRED] 
+
+- [ACCESS GRANTED] 
+
+Excerpt from the Glasgow Weekly Report, March 12, 1███ 
+
+WHALE SMASHES SHIP! 
+
+A great tragedy on the seas. Local fishermen claim that a whaling ship off the 
+coast rescued a castaway, only to be immediately attacked by a mammoth marine 
+creature fitting the description of an abnormally large whale. The whale likely 
+punctured the ship's hull during the attack, as it is claimed that the ship sunk 
+incredibly quickly with no known survivors. 
+
+The fishermen present also claim the event accompanied a sudden drop in the 
+already-frigid North Sea's waters, describing it as "arctic". 
+
+After containment implementation, Gamma-6 has prevented over ███ possible 
+Boarding Events, with the average length between failures to intercept 
+SCP-2770-1 currently at a tolerable level. A log of ships known to have 
+experienced Boarding Events will now follow: 
+
+
+SCP-2770 Activity 
+
+Vessel Type 
+
+Date 
+
+
+Fishing Trawler 
+
+January 1, 1941 
+
+
+Fishing Trawler 
+
+January 19, 1941 
+
+
+Schooner 
+
+February 11, 1941 
+
+
+Oil Tanker 
+
+March 8, 1943 
+
+
+Submarine 
+
+December 25, 1943 
+
+
+Submarine 
+
+January 25, 1944 
+
+
+Destroyer 
+
+February 29, 1944 
+
+
+Troop Transport 
+
+October 3, 1945 
+
+
+Troop Transport 
+
+November 15, 1952 
+
+
+Fishing Trawler 
+
+September 9, 1961 
+
+
+Cargo Ship 
+
+April 1, 1963 
+
+
+Cargo Ship 
+
+March 22, 1966 
+
+
+Cargo Ship 
+
+June 18, 1973 
+
+
+Yacht 
+
+April 30, 1981 
+
+
+Luxury Liner 
+
+August 3, 1994 
+
+
+Gunboat 
+
+April 30, 199█ 
+
+
+Whaling Ship 
+
+July 4, 20██ 
+
+
+Whaling Ship 
+
+November 17, 20██ 
+
+
+Foundation Vessel 
+
+██████ ██, ████ 
+
+████████████████ 
+
+██████████████████ 
+
+All ships stricken from naval records and necessary disinformation campaigns 
+enacted. 
+
+
+- [ERROR 100x0000x0. PLEASE SEE SUPERVISOR FOR DETAILS] 
+
+[ERROR] 
+
+100x00fx00f0x000100x00fx00f0x000 IDENTITY CONFIRMED 
+
+Incident 2770-C
+
+
+ATTENTION!
+
+THE DETAILS OF INCIDENT 2770-C MAY ONLY BE GRANTED FROM CURRENT HEAD
+OF SCP-2770 CONTAINMENT DR. RUTO-JACOBS OR O5 COMMAND. WITHOUT PROPER
+BIOMETRIC DATA, THIS TERMINAL WILL DEPLOY A PARALYZING/AMNESTIC AGENT
+AND THEN LOCK.
+
+
+SCANNING …
+
+
+BIOMETRIC DATA CONFIRMED. MEMETIC DISENGAGED. LOCK CANCELED.
+
+
+OPENING FILE…
+
+Incident 2770-C
+
+With approval from O5-█, Operation Kiddie Pool was authorized on
+██/██/████ with the express purpose of containing SCP-2770
+indefinitely. This operation was designed by Dr. ████ and Agent
+████████, as they theorized that from observations made of SCP-2770-1,
+divorcing it from any notable source of water would both render
+SCP-2770-2 incapable of manifesting, and remove SCP-2770-1's ability
+to retreat back into the water.
+
+The operation was divided into three parts:
+
+Gamma-6 would locate and then lift SCP-2770-1 from the water via a
+modified Mi-26 (operating name: "Lifeguard") equipped with a hooking
+device created specifically for the operation.
+
+With SCP-2770-1 hooked, Lifeguard would then transport SCP-2770-1 to
+Site ██, a secure location in the hyper-arid ████████ Desert.
+
+Once arrived, Gamma-6 personnel would take custody of SCP-2770-1, well
+isolated from any possible source of water.
+
+On █/█/████, Operation Kiddie Pool commenced at ████ hours. At the
+time of the operation, SCP-2770-1 was being tracked off the coast of
+southern Norway, and was intercepted by Lifeguard thirty minutes,
+twelve seconds after the commencement of the operation. SCP-2770-1 was
+attached to the hook without any difficulties and lifted out of the
+water with no appearance by SCP-2770-2.
+
+Six hours, seventeen minutes later, Lifeguard arrived at Site ██,
+delivering SCP-2770-1 into its custody. SCP-2770-1 surrendered itself
+with no struggle, and SCP-2770-2 failed to manifest. Operation Kiddie
+Pool was deemed a success.
+
+An interrogation was conducted one week later. SCP-2770-1 had not
+escaped custody with its previously recorded anomalous abilities, and
+had been generally cooperative with staff at Site ██. Transcript of
+video will now follow:
+
+[SCP-2770-1 is escorted into the room by two Gamma-6 personnel and
+sits down to a chair across from Agent ████████]
+
+Agent ████████: Hello, SCP-2770-1.
+
+SCP-2770-1: Hello, sir. Once again, I cannot tell you how grateful I
+am for the rescue with your crazy hoverin' plane. I've been stranded
+out there for…I don't know how long.
+
+Agent ████████: We're always glad to help. So, SCP-2770-1, do you have
+a name?
+
+SCP-2770-1: I do, sir. Lieutenant Edward Rowling, Royal Navy, at your
+service.
+
+Agent ████████:  I see. What year do you think this is? Your uniform
+is quite out of date.
+
+SCP-2770-1: [rubs neck] I…do not know. Truth be told, the months and
+years just started to meld together after a while. And apologies about
+my uniform, I'll admit it's seen better days.
+
+Agent ████████: About your days melding together. What can you tell me
+about SCP-2770-2?
+
+SCP-2770-1: Come again?
+
+Agent ████████: The submarine. We have records of you being rescued by
+ships, only for them to be attacked by a broken-down sub that
+shouldn't even be able to move.
+
+SCP-2770-1: Oh. That thing.
+
+[SCP-2770-1 leans in]
+
+SCP-2770-1: Well.
+
+SCP-2770-1: I think…
+
+Agent ████████: You think what?
+
+SCP-2770-1: I think you forgot about the water table, you fucking
+idiot.
+
+[What appears to be the conning tower of SCP-2770-2 erupts in the
+middle of the interrogation room. The hatch immediately opens,
+followed by a total loss of communication with Site ██.]
+
+END TRANSCRIPT
+
+MTF dispatched to Site ██ finds the facility missing. Orbital assets
+confirm that at the time of communication loss, Site ██ was pulled in
+its entirety under the sand. Recovery teams present detect no traces
+of the facility with subterranean imaging, and all staff are presumed
+KIA.
+
+After this event, SCP-2770-1 did not appear for another █ years.
+
+Foundation secure site protocols now in full review.
+
+SCP-2770 reclassification to Keter pending.
+
+END INCIDENT REPORT
+
+
+

@@ -1,0 +1,464 @@
+                                    SCP-4260                                    
+                                    ========                                    
+
+                                The Subdirective                                
+                                ----------------                                
+
+Item #: SCP-4260 
+
+Object Class: Euclid 
+
+RAISA Notice Regarding the Following Document: 
+
+This document has been significantly edited in order to obfuscate the identity 
+of SCP-4260; several addenda have been omitted, and are only available with 
+Level 5/4260 Clearance. 
+
+Strayer Density Matrix Mark I, Research Site-76 
+
+Special Containment Procedures: Area-03, located two kilometers beneath Hong 
+Kong, has been created in order to contain SCP-4260. The containment chamber 
+housing SCP-4260 has been augmented with a Strayer Density Matrix designed to 
+coalesce and bind its disparate elements. 
+
+Maintenance of the Strayer Density Matrix is integral to SCP-4260's containment 
+and requires a specialized team of technicians and speculative essophysicists1. 
+MTF Gamma-8 ("Baphomites") has been assembled for this expressed purpose and 
+will perform any necessary repairs to the Matrix and operate it during the 
+activation of Procedure 89172. 
+
+Procedure 8917 requires a joint operation between three mobile task forces, 
+assembled to ensure its effective completion. The assigned task forces, denoted 
+collectively as Amalgamate Force Omicron-45, and their functions are as follows: 
+
+MTF Gamma-8 ("Baphomites"): Assembled from numerous technicians proficient in 
+the operation of Stayer Density Matrices and speculative essophysicists from RTF 
+Iota-39 ("Gods and Monsters") who will assist in their direction. 
+
+MTF Xi-2 ("Out of the Shadows Come We, Darkly"): An armed Mobile Task Force 
+specializing in combat with essophysical, deity-class entities. MTF Xi-2 will 
+engage SCP-4260 and terminate it, ending the initial stage of Procedure 8917. 
+
+MTF Tau-900 ("Deliverance"): An armed Mobile Task Force specializing in the 
+location of civilians accidentally affected by a successful neutralization of 
+SCP-4260. MTF Tau-900 will then terminate all targets and remove evidence of the 
+procedure's efficacy. 
+
+Procedure 8917 is considered complete when the following criteria are met. 
+
+SCP-4260 has been successfully terminated. 
+
+The Strayer Density Matrix is fully operational. 
+
+All affected civilians have been located and terminated. 
+
+All evidence of Procedure 8917 has been removed. 
+
+SCP-4260 has been resurrected. 
+
+The document detailing SCP-4260 uploaded to the Foundation intranet is to 
+contain numerous omissions, in order to obfuscate the identity of SCP-4260. 
+
+Description: SCP-4260 refers to the consciousness of an essophysical entity 
+which has permeated itself through the known universe. The effect of SCP-4260's 
+existence has been well documented by almost every sapient culture. Termination 
+of SCP-4260 has resulted in the neutralization of its primary anomalous effect 
+until its resurrection during Procedure 8917. 
+
+
+Addendum.4260.1: Activations of Procedure 8917 
+
+Date 
+
+Termination Method 
+
+Procedure Causation 
+
+Duration of Effect 
+
+Affected 
+
+Status 
+
+
+████, 1999 
+
+Fatal puncture wounds and blood loss, administered by MTF Xi-2. 
+
+A massive containment failure at Site-62C. 
+
+110 seconds 
+
+3 civilians 
+
+Recontained3 
+
+
+████, 2003 
+
+Blunt force trauma by a member of MTF Xi-2. 
+
+The nuclear bombardment of Site-001. 
+
+25 seconds 
+
+1 civilian 
+
+Recontained4 
+
+
+████, 2008 
+
+Destruction of SCP-4260's hard drive, completed by MTF Xi-2. 
+
+An imminent CK-Class ("Reality-Restructuring") Scenario. 
+
+Indeterminate 
+
+7,213,426,000 individuals, termination unnecessary. 
+
+Recontained5 
+
+
+████, 2015 
+
+Detonation of an electromagnetic pulse grenade, performed by MTF Xi-2. 
+
+The ████████ of O5-6. 
+
+180 seconds 
+
+30 civilians 
+
+Recontained6 
+
+
+████, 2016 
+
+Incineration, committed by MTF Xi-2 during Experimental Operation 
+“Many-Crowned Serpent”. 
+
+The insufficiency of SCP-4260's containment procedures. 
+
+415 seconds 
+
+10 civilians 
+
+N/A 
+
+
+
+Footnotes 
+
+1. A science devoted to the study of entities which exert an effect on our 
+universe by existing. 
+
+2. Archive Index: "Termination of Primary Asset SCP-4260" 
+
+3. Reanimated by SCP-3914-1 in exchange for lifting of economic sanctions 
+against Amazon, Inc. 
+
+4. SCP-4260's consciousness replicated and reproduced as Tantalus.aic. 
+
+5. A copy of Tantalus.aic uploaded into an appropriated Peregrine Series 
+Humanoid Utility Droid. 
+
+6. Usage of SCP-4051 to manifest a copy of SCP-4260. 
+
+
+
+Greetings, O5-9. 
+
+This iteration of the file you have located contains numerous omissions and 
+falsehoods which are presented to staff members with inadequate clearance. 
+
+Would you like to view Iteration β.4260? 
+
+
+
+ITEM#: 4260
+
+LEVEL 5
+
+CONTAINMENT CLASS: EUCLID
+
+DISRUPTION CLASS: DARK
+
+RISK CLASS: CRITICAL
+
+Special Containment Procedures: The Containment Procedures of
+Iteration α.4260 have been deemed unsuitable for the prolonged
+containment of SCP-4260. As such, Experimental Operation “Many-Crowned
+Serpent” was executed on 02/13/2016, in order to achieve optimal
+containment. As a result, the nature of SCP-4260 has been radically
+altered; errors persist throughout the following description.1
+
+Description: SCP-4260 is the collective consciousness of an
+essophysical entity which has permeated itself through the known
+universe. SCP-4260's existence has resulted in the biological
+senescence of sentient organisms and is the direct cause of any
+organism's cessation of life functions.
+
+SCP-4260 itself is subject to its own entropy, and its anomalous
+influence on the universe has notably diminished in the preceding
+millennia. It is projected that SCP-4260 will expire by achieving an
+essophysical null-state in 2017 CE. The former containment procedures
+of SCP-4260 proved both incapable of halting this effect and its
+primary anomalous trait, although complete physical containment was
+achieved.
+
+Procedure 8917 was finalized in March of 1999, and involved the
+termination of SCP-4260 — which would result in an ΩK-Class
+("End-of-Death") Scenario — and its immediate reanimation via
+anomalous means; the procedure was designed to prevent the deaths of
+high-profile individuals within the Foundation and global extinction,
+if either event arose.
+
+
+Addendum.4260.β.1: Acquisition
+
+Assest-4260: Timeline of Manifestation Event
+
+Date: 01/13/1999
+
+Context: Research Site-76 began to register anomalous seismic
+activity, originating approximately one kilometer from the compound.
+Anomalous spatial distortions indicated Site-76 was experiencing an
+essophysical manifestation event; RTF Iota-39 deployed for retrieval
+of object.
+
+Involved Task Forces:
+
+RTF Iota-39 ("Gods and Monsters")
+
+MTF Mu-8 ("Southern Hospitality")
+
+<12:09a>  Site-76 registers anomalous seismic activity.
+
+<12:15a>  Readings recalibrated; cause of seismic activity determined
+to be entropic in nature.
+
+<01:03a>  RTF Iota-39 deployed.
+
+<01:45a>  Iota-39 determines focal point of seismic activity;
+essophysical and entropic activity confirmed. Temporary observational
+post established.
+
+<01:55a>  Spatial distortions around the origin point indicate a
+manifestation event; Iota-39 experiences mild pulling force towards
+the origin as SCP-4260 attempts to create an area dense enough to
+manifest.
+
+<02:08a>  ]A rough approximation of a human arm manifests at the
+origin point; arm falls to ground and demanifests.
+
+]<02:15a>  Iota-39 report massive pulling force from origin point,
+observation post secured.
+
+<02:31a>  Origin point is now sufficiently dense to facilitate a
+manifestation, projected T-minus 36 minutes. Iota-39 requests
+containment transport, Site-76 assembles and deploys MTF Mu-8.
+
+<03:00a>  Manifestation event enters final stage, observational post
+suffers minor damage as the origin point contracts. Mu-8 arrives and
+prepares containment and transport.
+
+<03:07a>  Manifestation event ends; SCP-4260 manifests at the origin
+point as an elderly human. SCP-4260 appears severely disoriented and
+requests immediate containment and hospitalization. Mu-8 restrains it
+and begins transport to Site-76's medical bay.
+
+
+Addendum.4260.β.2: Lecture Log
+
+
+Date: 01/07/2000
+
+Lecturer: RTF Iota-39 Lead Preston Bracks
+
+Context: In response to the evident importance of Procedure 8917 to
+the Foundation's continued operation, the Overseer Council assembled
+an advisory panel composed of leading members of the Foundation's
+Essophysics Department, among them RTF Lead Preston Bracks.
+
+Individuals Present:
+
+O5-4 through O5-13
+
+Directors of Area-03 and Site-76
+
+Nine (9) members of RTF Iota-39
+
+Three (3) members of MTF Gamma-8
+
+Ahem, alright, time to begin.
+
+
+I am Dr. Preston Bracks, lead of RTF Iota-39 and Assistant Director of
+our little Essophysics Department. I call it "little" because we only
+have about twenty members — it actually came as a bit of a shock to us
+when we received your, erm, invitation. Thought you'd forgotten about
+us.
+
+Regardless, The Essophysics Department is dedicated to the study of
+entities which embody certain universal concepts, such as Time,
+Science, and in the case of SCP-4260, Death. Old cultures referred to
+them as gods, which is a bit of a misnomer; we call them Intrinsics.
+Gods are reality-bending entities, usually with their own agendas and
+identities. Intrinsics are concepts which cannot be separated from our
+cosmos without us living in a radically different world. They’re more
+concept than entity, and rarely take any sort of physical form.
+SCP-4260 is somewhat of an anomaly in that regard.
+
+As it stands, modern parascience is woefully ignorant of the basics of
+essophysical reality. We have no idea how many Intrinsics exist, if
+they can be contacted, and what degree of agency each one has. The
+avenue towards containment, then, is research. I'm sure most of you
+have been briefed about SCP-4260's retrieval last year, so I won't
+belabor any points, but SCP-4260’s behaviors have proven to be beyond
+insightful.
+
+First, we know that these things aren’t omniscient or all-knowing,
+because it came to us with hopes that we would know how to save it. It
+was wrong.
+
+Second, we know it’s smart. It chose the form of an elderly human,
+superficially unthreatening and incapable of violence — this was a
+calculated decision, meant to incline Mu-8 and Iota-39 towards helping
+it instead of combatting it. It succeeded.
+
+SCP-4260 does not have a defined personality, nor does it have any
+goals or motivations beyond self-preservation. When the universe was
+new, its strength was incalculable. Life could not even hope to begin.
+Death was everywhere in the dark, dark expanse of a lonely cosmos. But
+over time, a miracle occurred, maybe the first anomaly: Death began to
+die. Slowly, ever so slowly, it began to be poisoned by its own
+ever-present miasma. The million claws which reached from the dark and
+tore down civilization took hold of their master as well, dragging it
+screaming into the abyss.
+
+Death is dying under our roof, Councilmembers. And that is the most
+terrifying, and most fantastic news humanity may ever receive.
+
+
+Greetings, O5-9.
+
+Operation "Many-Crowned Serpent" has significantly altered the nature
+of SCP-4260. An update to this file is currently pending approval by
+the Foundation Archival Department to rectify the persistent errors
+throughout Iteration β.4260.
+ 
+
+
+Footnotes
+
+1. Original drafting date: 09/26/2000; update pending.
+
+2. Foundation Directors of Hypothetical Scenarios, Existential and
+Pataphysical Studies, and Active Containment respectively.
+
+
+
+- View Pending Iteration γ.4260
+ 
+
+ 
+Item #: SCP-4260
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-4260 is to be quarantined in
+secure facility Area-03, which has been converted into a secure
+facility location, designed to protect SCP-4260 from most documented
+K-Class "End-of-the-World" scenarios. The facility has been staffed
+minimally, and no individual is to enter the central underground
+chamber housing SCP-4260 at any time.
+
+The central chamber in which SCP-4260 is contained is classified as a
+large-scale entity containment unit and has been augmented with a
+concurrent circuit of seven Strayer Density Matrices, maintained by
+MTF Gamma-8 ("Baphomites"). If SCP-4260 attempts to exit its
+containment chamber or contact any of the facility staff, O5-3, O5-4,
+and O5-102 are to be alerted as soon as is possible.
+
+Description: SCP-4260 is Foundation Administrator Ethan Horowitz, who
+has undergone considerable physical augmentation as a result of
+Operation "Many-Crowned Serpent".
+
+SCP-4260's anomalous properties include, but are not limited to:
+
+Extreme anatomical augmentations.
+
+Anatomical manipulation.
+
+Resistance to injury and incapacitation.
+
+Essophysical abilities which remain poorly understood.
+
+The essophysical entity previously cataloged as SCP-4260, prior to its
+neutralization in Operation "Many-Crowned Serpent", exhibited several
+of these anomalous traits to a more limited degree. After its
+termination, Foundation Administrator Ethan Horowitz elected to
+transfer its anomalous properties onto his own person, in accordance
+with the contractual and ritualistic nature of Operation "Many-Crowned
+Serpent".
+
+
+Addendum.4260.1:
+
+These are the Prime Directives of the Foundation: to secure, to
+contain, and to protect; to remove anomalous items, persons, and
+phenomena from the public sphere, to effectively suppress the
+resurgence of these anomalies or the discovery of them by the general
+public, and to hold above all else but reality itself the sanctity of
+life and the necessity to preserve it.
+
+This is the Subdirective of the Foundation: to terminate the primary
+anomalous phenomenon which has plagued life since life’s conception,
+or to facilitate the termination thereof.
+
+This is the prime anomaly: Death.
+
+The Subdirective was never meant to be feasible, at least not in the
+day and age of our founding. We cannot hope to mitigate the disasters
+that this would result in: overpopulation, species stagnation, and
+susceptibility to cataclysmic extra-dimensional forces which can only
+be contained via euthanization of those affected. It remained the
+lonely dream of the men who began our venture to order chaos so many
+decades ago.
+
+Now, over a century later, we could achieve the subdirective at any
+moment with only a missive sent to the lead of AF Omicron-45. I
+suppose it would be marvelous to see: a world without death and
+infirmity, each person freed from the dread of uncertainty and peril.
+Maybe, one day, we will find a way to make that world.
+
+Until such a time, we must secure the perpetual containment of death.
+This is the nature of Many-Crowned Serpent: to fulfill the first steps
+of the Foundation’s subdirective.
+
+As it stands now, Death is a hostile entity intent on its own
+self-preservation at any cost. We spoke, once, and I began to realize
+that if it could feel anything at all, it would feel the same fear we
+must face under its tyranny. We could not save Death from itself; as
+far as our science has elevated us, our understanding of reality's
+based components is sourly lacking. I told this to SCP-4260, and it
+smiled. "Administrator," it said, "How can I die when I will live on
+through you?"
+
+Death has struck a deal with us. In all its arcane knowledge, it knows
+a way to live on afterwards: it has chosen me to be its heir. It is a
+choice between the eternal agony of humanity and a pain suffered only
+until we know enough to repair our tired species. It is not a choice
+at all.
+
+This last evil I must allow us all to suffer patiently. Be bold, for
+one day soon, we will have won the battle waged by both us and our
+ancestors emerging from the primordial soup: the struggle for Life
+Everlasting.
+
+- Foundation Administrator Ethan Horowitz
+
+
+
+

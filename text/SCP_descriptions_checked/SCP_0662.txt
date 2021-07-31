@@ -1,0 +1,517 @@
+                                    SCP-662                                     
+                                    =======                                     
+
+                               Butler's Hand Bell                               
+                               ------------------                               
+
+Item #: SCP-662 
+
+Object Class: Safe 
+
+Special Containment Procedures: SCP-662 should be kept in its red velvet lined 
+case and stored in High Value Storage locker 23C located at 
+███████ when not being utilized for testing or other appropriate 
+activities. The item itself is safe to handle, and poses no known threats of any 
+kind, though the effects generated could be considered highly valuable and 
+variably powerful depending upon how the SCP is used. 
+
+Description: SCP-662 is a small silver hand bell, 4 cm tall and 2 cm in 
+circumference. The bell is missing its ringer. Within the inside of the bell, an 
+inscription has been etched into the silver, reading: “Forever Mine – 
+S.J.W.” The bell is susceptible to damage; however, given its safe nature, 
+destruction has been deemed unnecessary. As it is made of very pure silver, it 
+requires regular polishing to remain without tarnish. 
+
+When the bell is shaken as if to ring it, a soft chime can be heard (although 
+this does not come from the bell). A short well-dressed Caucasian butler of 
+self-proclaimed British heritage, calling himself Mr. Deeds, will appear from 
+the nearest area not within line of sight, usually from around a corner. Mr. 
+Deeds will address the ringer of the bell by their appropriate title and last 
+name, and ask what it is they desire. His knowledge of individuals’ last names 
+and titles is a mystery, as he himself will purport. Please see interview log 
+662-L1 for further details. 
+
+Most reasonable requests given to Mr. Deeds will result in satisfaction. 
+However, there are limits to what he can do. He is unable to produce very 
+complex items such as sports cars, luxury homes, or personal jets. If he is 
+allowed to leave line of sight and return, he is able to produce smaller, less 
+complex items such as a ham sandwich, a glass of iced tea, or even more 
+luxurious items like caviar or a brick of gold. A list of notable items the 
+butler has thus far been able to provide to those who ring the bell may be found 
+in addendum 662-A1. 
+
+Mr. Deeds will also perform menial tasks, such as washing vehicles, preparing 
+food, and cleaning bathrooms. If a request is deemed unreasonable or impossible 
+by the butler, he will kindly tell the ringer so, and offer an alternative if 
+one may be had. 
+
+The butler is not immune to ill actions taken against him while in sight. He has 
+been killed or injured in multiple tests, and will remain either dead or injured 
+until he is out of sight. Upon return with a ring of the bell, all previous 
+injuries will have vanished and he will be groomed and well dressed in his 
+uniform, and ready for the next order. 
+
+A more detailed explanation of the jobs he can perform and the limits to which 
+he may be put can be found in the aforementioned interview log 662-L1. Test logs 
+relating to his ability to heal himself, and those of the properties of the 
+bell, may be accessed by any level 2 or higher personnel. All attempts to catch 
+Mr. Deeds "disappearing" have failed, as equipment will either fail or he will 
+find a suitable unobserved spot. 
+
+
+Addendum 
+
+662-A1: Items and Tasks Requested and results 
+
+Items: 
+
+- Nearly any conceivable kind of sandwich. Human flesh has been requested as 
+lunchmeat and politely denied. 
+
+- Beverages, also of nearly any kind. As with sandwich meat, human blood has been 
+requested and denied. Pig blood, however, was served promptly, still warm. 
+
+- A brick of 99.98 percent pure gold (Mr. Deeds produced a brick of 99.14 percent 
+pure gold, and apologized for being unable to provide the requested purity). 
+
+- A brick of 99.24 percent pure silver. 
+
+- A nuclear bomb (politely denied). 
+
+- A hand grenade of modern U.S. Military grade, which performed as expected in 
+testing. 
+
+- A blue 1963 Corvette convertible (politely denied). 
+
+- The board game Monopoly, which Mr. Deeds won on the first playthrough. 
+
+- A Fabergé egg (politely denied). 
+
+- SCP-███ (politely denied). 
+
+- A bouquet of fresh-picked red roses. 
+
+- A bouquet of wild "ternbusty"s (politely denied; "ternbusty" is not an actual 
+known type of flower). 
+
+
+Tasks: 
+
+- Cleaning of Dr. Mirth's car: Performed to near perfection. 
+
+- Washing of dishes accumulated from a day's worth of meals from the cafeteria on 
+level ██ of █████████: Performed, to much higher standards 
+than usual. 
+
+- Trimming of Dr. Mirth's hair: Performed, but it turns out that Mr. Deeds is not 
+in fact a very good barber. 
+
+- Washing of Dr. Mirth's laundry: Performed, and the clothing found to "fit 
+better" in Dr. Mirth's estimation. 
+
+- Assassination of Osama bin Laden: Politely denied: Mr. Deeds claimed bin Laden 
+was too well guarded and entrenched, but could not or would not give further 
+details. 
+
+- Assassination of a D-class individual a room over: Performed with vicious 
+precision using a buck knife to the throat. 
+
+Note: Further tests with regards to Dr. Mirth's personal effects are to be 
+forbidden unless approved by one level O5 overseer. You've been warned, Dr. 
+Mirth. - O5-█ 
+
+
+Interview Logs 
+
+662-L1 
+
+662-L1
+
+An interview with Mr. Deeds, the entity associated with SCP-662.
+
+Dr. Mirth: Good afternoon.
+
+Butler: Good afternoon, Dr. Mirth. How may I be of service?
+
+Dr. Mirth: Firstly, may I have your name?
+
+Butler: Certainly. You may call me Mr. Deeds.
+
+Dr. Mirth: Is that your real name?
+
+Mr. Deeds: It is not my birth name, no sir.
+
+Dr. Mirth: What would that be? And where were you born?
+
+Mr. Deeds: Unfortunately, I cannot remember my full name sir, nor am I
+positive of my birthplace, though I do believe it to be located in
+England.
+
+Dr. Mirth: Do you recall when you were born, Mr. Deeds?
+
+Mr. Deeds: I am truly sorry to disappoint again, sir, but I do not
+recall that either. Though it must have been some time ago, for I
+don’t believe that I was born in this era.
+
+Dr. Mirth: Can you approximate it?
+
+Mr. Deeds: Again, sir, I apologize for my lack of self knowledge. I’m
+a bit of a shut-in, as you know. (Mr. Deeds nodded at the bell and
+smiled)
+
+Dr. Mirth: What is the earliest mode of transportation that you can
+recall seeing in person or utilizing from the past?
+
+Mr. Deeds: Horse and buggy, sir, although bicycles were just becoming
+a fad with the wealthy if I recall correctly. Quite took off, didn’t
+they, sir? (Mr. Deeds smiled again.)
+
+Dr. Mirth: You needn’t call me 'sir' any longer; I appreciate it, but
+it’s becoming a bit grating.
+
+Mr. Deeds: Very well.
+
+Dr. Mirth: Why do you suppose that you cannot remember these things?
+
+Mr. Deeds: I…I can’t quite say. (Mr. Deeds shifted his weight in his
+chair and looked a bit uncomfortable for a moment before resuming his
+posture)
+
+Dr. Mirth: Or is it that you may, or will not say?
+
+Mr. Deeds: That may be the case, yes, perhaps I may not say, though
+again, begging your pardon, I do not recall why that is.
+
+Dr. Mirth: Very well. Moving on: where is it that you go to when you
+fetch items for those you serve?
+
+Mr. Deeds: Well, you see, ah… (Mr. Deeds's face contorted momentarily
+as if he was in great pain, before he quickly reassumed a more relaxed
+visage) I don’t actually recall that either.
+
+Dr. Mirth: Why do you wince when I ask these kinds of questions?
+
+Mr. Deeds: I do not know.
+
+Dr. Mirth: Never mind that for now, we’ll get answers eventually. Now
+then, I have a request.
+
+Mr. Deeds: Very well, how may I be of further assistance?
+
+Dr. Mirth: I would like a glass of iced tea. And grab a glass of it
+for yourself if you’d like.
+
+Mr. Deeds: What kind of iced tea would you prefer?
+
+Dr. Mirth: Surprise me.
+
+Mr. Deeds: Certainly.
+
+Mr. Deeds stood and walked to the door of the interrogation room and
+tried the handle. Finding it locked, he turned and smiled at Dr.
+Mirth.
+
+Dr. Mirth: What seems to be the problem?
+
+Mr. Deeds: I must leave your presence to do as you request.
+
+Dr. Mirth: Why is that?
+
+Mr. Deeds: (Visibly uncomfortable again) It just is, Dr. Mirth.
+
+Dr. Mirth: Okay. Open the door, Agent Graves.
+
+Mr. Deeds left the room. He proceeded down the hallway, under visual
+surveillance via camera and Agent Graves. He paused momentarily at
+another door, shook his head, looked up at the camera and then at
+Agent Graves. Then he ran down the hallway and rounded the corner.
+Agent Graves did not follow, as he had been instructed to remain on
+guard at the door of the interrogation room.
+
+Still under camera surveillance, Mr. Deeds proceeded quickly down the
+next hall and continued throughout the halls of the complex,
+presumably searching for an exit or area not under surveillance.
+Finally, he stopped halfway down corridor 2D. At this point, all three
+cameras in corridor 2D malfunctioned, including two that were hidden.
+Exactly three minutes later, the cameras resumed normal functioning,
+revealing Mr. Deeds standing in the same position, but with a tray
+holding two glasses of iced tea in hand. He then quickly made his way
+back to the interrogation room.
+
+Dr. Mirth: Ah, you have returned. I was beginning to worry.
+
+Mr. Deeds: My apologies for the delay, finding a way out was
+troublesome. But not to worry, I’ve brought the tea, just as you
+asked. I do hope you enjoy it.
+
+Dr. Mirth: What kind of tea is it?
+
+Mr. Deeds: Southern-style sweet tea.
+
+Mr. Deeds placed a glass in front of Dr. Mirth and resumed his seat at
+the other end of the table. Dr. Mirth hesitantly sniffed the tea,
+smiled, and took a sip.
+
+Dr. Mirth: Quite good, Mr. Deeds. In fact, this is perhaps the best
+sweet tea I’ve ever had! Delicious! Did you make it yourself?
+
+Mr. Deeds: I do dislike disappointing you, Dr. Mirth, but I do not
+recall. I assume that I did, but alas, my mind is not what it used to
+be.
+
+Dr. Mirth: You’ve only been gone (Dr. Mirth looked at watch) about ten
+minutes, Mr. Deeds. Are you telling me your memory is so terrible that
+you cannot remember what happened ten minutes ago or the time between?
+
+Mr. Deeds: I recall looking for a way out, and I recall returning with
+the tea, but that is all.
+
+Dr. Mirth: But not how or where you acquired the tea?
+
+Mr. Deeds: Unfortunately, no. (Mr. Deeds was visibly uncomfortable
+again)
+
+Dr. Mirth: Very well. I have another request.
+
+Mr. Deeds: As you wish.
+
+Dr. Mirth: I would like a bar of gold.
+
+Mr. Deeds: What percentage of pureness would you like?
+
+Dr. Mirth: 99.98 percent if you please.
+
+Mr. Deeds: That may be possible, let me see what I can do.
+
+Dr. Mirth: We’ll disable the cameras in the hall outside and Agent
+Graves will wait in the interrogation room with me to make your trip a
+little faster this time.
+
+Mr. Deeds: Very much appreciated, shall I?
+
+Dr. Mirth: Yes.
+
+Mr. Deeds exited into the hallway, where — despite what Dr. Mirth
+claimed — the cameras were not turned off. He paused for a moment,
+looked up at the closest camera, shook his head, and began traveling
+through the hallways of the complex as before. In corridor 2B, he
+paused, and once more all cameras, hidden or visible, in the corridor
+malfunctioned. Exactly ten minutes and thirty-seven seconds later, the
+cameras began functioning again, to show Mr. Deeds once again in the
+same position, with a bar of gold in one hand. He then returned to the
+interrogation room.
+
+Dr. Mirth: That took a bit longer than last time. Any reason?
+
+Mr. Deeds: Well, it seems that the cameras in the hallway remained on,
+so I had to find a suitable way out again. I apologize for the delay.
+Also, I was not able to acquire a bar of gold to the pureness that you
+requested, but I assure you that this bar is 99.14 percent pure.
+
+Dr. Mirth: Very impressive. We will be testing it, I’m sure you know.
+
+Mr. Deeds: I did not know that you would, but it makes sense, I
+suppose. Will there be anything else, Dr. Mirth?
+
+Dr. Mirth: Yes. For your next task, I would like for you to acquire
+for me a blue 1963 Corvette convertible.
+
+Mr. Deeds: I am quite sorry, but that is not possible.
+
+Dr. Mirth: Why not? I really want one.
+
+Mr. Deeds: Again, I cannot say why except that I just know that one
+cannot be gotten via my methods.
+
+Dr. Mirth: And what are those methods?
+
+Mr. Deeds: I do not recall.
+
+Dr. Mirth: Very well, I would like a Fabergé egg, any will do.
+
+Mr. Deeds: Ah, well, regretfully, that is impossible as well.
+
+Dr. Mirth: And I suppose you cannot say why?
+
+Mr. Deeds: That is correct.
+
+Dr. Mirth: How about some caviar? Any brand or type will do.
+
+Mr. Deeds: That I can do.
+
+Mr. Deeds once more entered the hallway outside the interrogation
+room. This time, the cameras were turned off after visual confirmation
+of Mr. Deeds’ entry into the hall. One minute later the cameras were
+turned back on, but Mr. Deeds had already returned to the
+interrogation room at this point.
+
+Dr. Mirth: That was considerably faster, Mr. Deeds. It only took you
+thirty-two seconds. And the caviar is quite good.
+
+Mr. Deeds: I am pleased to hear it.
+
+Dr. Mirth: One more thing before we end this session, Mr. Deeds.
+
+Mr. Deeds: As you wish.
+
+Dr. Mirth: I request that you assassinate Osama Bin Laden.
+
+Mr. Deeds: I’m afraid that cannot be done at this time, Dr. Mirth.
+Perhaps someone closer and less heavily guarded?
+
+Dr. Mirth: Very well. Let’s make it the gentleman in the next room
+over.
+
+Mr. Deeds: Indeed.
+
+Mr. Deeds once again entered the hallway. After visual confirmation,
+the cameras were momentarily turned off. When turned back on, they
+revealed the door to the next interrogation room down shutting. The
+cameras in that interrogation room showed Mr. Deeds entering the room
+with a large buck knife hidden behind one arm. Mr. Deeds approached
+the waiting D-class personnel and deftly slit his throat with one
+quick motion of the knife. Mr. Deeds watched as the D-class personnel
+went through the motions of death, avoiding their attempts to grab
+him. Once the D-class individual was visually presumed dead, Mr. Deeds
+returned to the interrogation room from whence he came.
+
+Dr. Mirth: The deed is done, then?
+
+Mr. Deeds: Indeed. Here is the knife I used as proof.
+
+Dr. Mirth: Why could you do this thing but not the other?
+
+Mr. Deeds: I cannot say, except to note that I simply knew one was
+impossible while the other was not.
+
+Dr. Mirth: So you don’t know how you know things like my last name or
+my title, or whether or not a certain task is possible?
+
+Mr. Deeds: That is correct.
+
+Dr. Mirth: Very well, I believe we are done here for now, but I do
+need to consult with my colleagues on some points. Please wait here
+until I return.
+
+Mr. Deeds: Certainly.
+
+Dr. Mirth and Agent Graves leave the room. Dr. Mirth returns 2 hours
+later; video surveillance shows that Mr. Deeds did not move during
+this interval.
+
+Dr. Mirth: Mr. Deeds, my colleagues and I have had some disagreements
+about you.
+
+Mr. Deeds: That's most unfortunate.
+
+Dr. Mirth: We feel that these disagreements can only be resolved by
+examining you more intensely.
+
+Mr. Deeds: Certainly, Dr. Mirth.
+
+Dr. Mirth: To be specific, we'd like to examine you internally.
+
+Mr. Deeds: Certainly, Dr. Mirth.
+
+Dr. Mirth:… We'd like to do an autopsy.
+
+Mr. Deeds: Ah. Shall I kill myself for you? And since you will be
+examining my internal organs, do you have a preferred method for my
+death?
+
+Dr. Mirth: Uh. Yes, if that's possible?
+
+Mr. Deeds: Certainly it is possible, Dr. Mirth. Might I suggest having
+me cut my own throat so that I am exsanguinated? The buck knife from
+when I killed Mr. [REDACTED] is conveniently at hand, and although
+other methods are of course available, they would either take longer,
+or damage my organs such that they are no longer accurately
+representative of my pre-mortem state.
+
+Dr. Mirth: I, er, I suppose that will be acceptable — (at this point,
+Mr. Deeds took the buck knife and placed the edge of the blade against
+his throat) — wait!
+
+Mr. Deeds: …yes, Dr. Mirth?
+
+Dr. Mirth: Before you do it… you will come back afterward, correct?
+
+Mr. Deeds: I'm sorry, Dr. Mirth, I don't quite understand.
+
+Dr. Mirth: After the pawn shop incident, when you were killed. You
+came back to life afterward when Sergeant █████ rang the bell.
+
+Mr. Deeds: If you say so, Dr. Mirth.
+
+Dr. Mirth: Will you come back to life again?
+
+Mr. Deeds: I have no idea, Dr. Mirth. If I did before, then presumably
+I will again. Unless something has changed. Have you any further
+questions before I make the incision? I do recommend you step back, as
+I would hate for my blood to soil your clothing. Death throes can be
+untidy.
+
+Dr. Mirth: …no, I suppose not. Carry on.
+
+Mr. Deeds: Very well, Dr. Mirth. And in the event that I don't come
+back to life, it has been a genuine pleasure to serve you.
+
+Mr. Deeds then sliced through his own throat, and bled to death. A
+post-mortem examination of the body revealed it to be ordinary in
+every way, though it is noted that Mr. Deeds was not suffering from
+any noticeable disease or physical condition, and was in fact in near
+perfect health at the time of death. The contents of his stomach
+consisted of Southern-style sweet tea, normal stomach acids, and no
+more.
+
+Mr. Deeds’ body was then left on the operating table while the lights
+in the room and cameras were turned off. All personnel left the room,
+and upon return, no trace of Mr. Deeds, be it blood on the instruments
+used or other physical traces such as organs removed, let alone the
+actual body, remained.
+
+Further ringing of SCP-662 resulted in Mr. Deeds' appearance after
+three minutes. He showed no signs of injury, and was well dressed once
+more in a modern uniform commonly worn by butlers. As expected, he
+could not explain how he had managed to survive. He was then ordered
+to give Dr. Mirth a full body massage, which he performed much to Dr.
+Mirth’s satisfaction; Dr. Mirth claimed it was “the best damned
+rubdown I’ve ever had, my back pain is completely gone”.
+
+
+Acquisition Report: 
+
+SCP-662 was discovered in the possession of a petty thief and grave robber in 
+█████, ██, USA. The thief was in the process of selling SCP-662 to 
+a pawn shop in the mentioned town when the bell was accidentally “rung” by 
+the pawn shop attendant. Mr. Deeds appeared from the storage area behind the 
+counter and promptly addressed the attendant. Believing that he was about to be 
+robbed by the two men, the attendant overreacted and managed to get hold of a 
+sawed-off shotgun from under the counter. Mr. Deeds was fatally wounded by the 
+attendant and died on scene. 
+
+The thief escaped, but was apprehended by Foundation agents after a week-long 
+search of the surrounding towns. Under questioning, the thief revealed that he 
+found the bell in its box in the grave of ██████████ 
+████████, located on the outskirts of the above mentioned town. 
+He was then remitted for D-class personnel assignment and subsequently perished 
+during testing of SCP-███. 
+
+The bell did not come under the purview of the Foundation until after the crime 
+and subsequent transport of Mr. Deeds’ body to the local morgue. After the 
+disappearance of the body from the morgue, an agent was sent to investigate the 
+possible outbreak of SCP-███ or other unknown necrotic reinvigorating 
+cause. 
+
+Mr. Deeds reappeared in the Case File Item Storage room of the local 
+constabulary after the bell was handled by Sergeant █████. He was 
+quickly apprehended and Agent ███████ took him into custody three 
+hours after reappearance under the guise of an FBI agent. When the handcuffed 
+Mr. Deeds once again disappeared, the agent intuited that the bell itself may 
+have something to do with the string of incidents, and after acquiring it and 
+testing proved his hunch, brought the bell back to ███████ for 
+further testing. Agent ███████ was awarded an official Foundation 
+“Pat on the Back” plaque for his handling of the incident and lack of self 
+serving interest once he discovered what the bell and Mr. Deeds were capable of. 
+
+

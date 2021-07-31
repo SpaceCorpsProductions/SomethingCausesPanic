@@ -1,0 +1,374 @@
+                                    SCP-5296                                    
+                                    ========                                    
+
+                            An Unbelievable Mistake                             
+                            -----------------------                             
+
+You are currently accessing a historical iteration of SCP-5296. Would
+you like to continue?
+
+Yes
+
+Authorisation needed: Please enter your credentials.
+
+Username: O5-1
+
+Password: The black moon howls on all the same
+
+…
+
+Welcome O5-1
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY
+ADMINISTRATION
+
+The following documentation has experienced multiple iterations as
+more information has been discovered.
+
+TIMESTAMP: 18/09/2027
+
+— Maria Jones, Director, RAISA
+
+
+
+Item #: SCP-5296 
+
+Object Class: Keter 
+
+Special Containment Procedures: SCP-5296 is secured in its testing chamber in 
+Site-11. Its testing chamber is fitted with 4 Scranton Reality Anchors (SRAs). 
+SCP-5296 is to be monitored by at least 3 members of staff who perceive its 
+existence. 
+
+Description: SCP-5296 appears to be a semi-physical entity whose existence is 
+permeable and subject to factors that are as of yet undetermined. The precise 
+nature of SCP-5296 is unknown. Even amongst those who perceive it to exist, 
+there is little agreement on any of SCP-5296's features, presenting it as a 
+sizeable threat to consensus reality. 
+
+These inconsistencies are largely universal, applying even to a single 
+individual's continuous perception of SCP-5296. Common points of disagreement in 
+decreasing order of controversy1 include: 
+
+Whether or not SCP-5296 exists 
+
+Whether or not SCP-5296 is humanoid 
+
+Whether or not SCP-5296 can communicate 
+
+Whether or not SCP-5296 is memetic or reality-warping 
+
+Due to its ambiguous nature, SCP-5296 has caused much conflict within the 
+Foundation over its properties. It is currently unknown if this is an intended 
+effect or not. 
+
+Discovery: SCP-5296 was seized by MTF-Phoenix-1 ("Mind Over Matter") on 
+24/06/2027. It was discovered during a Foundation raid to recover 
+SCP-████ from [REDACTED] after a containment breach. It was found in a 
+hidden room which was marked on an assailant's map of the complex. On entering 
+the room, MTF-Phoenix-1 found a note describing SCP-5296. The note was 
+subsequently deemed irrecoverable after a skirmish with remaining assailants. 
+MTF-Phoenix-1 did not recall the contents of the note in sufficient detail to 
+assist in initial documentation. SCP-5296 and SCP-████ were retrieved 
+and brought to Site-11 without further incident. 
+
+Of note, members of MTF-Phoenix-1 claimed not to have noticed SCP-5296 until 
+after having read the note about it. 
+
+
+Addendum-5296-A 
+
+Although SCP-5296 has, as of yet, proved easy to contain, it has caused 
+significant disruption within the Foundation, detailed below: 
+
+Date 
+
+Events regarding SCP-5296 
+
+
+26/06/2027 
+
+On Junior Researcher Smith's assignment to SCP-5296, he made several complaints 
+about it being “an empty room”. He also made several appeals to Site Command 
+to delete the files regarding SCP-5296 and to cease "wasting our time on 
+non-entities." Due to his misconduct, he was later referred to the disciplinary 
+committee. 
+
+
+04/07/2027 
+
+Senior Researcher Aster experienced minimal difficulties in his preliminary 
+research. However, video records of his initial tests were lost upon a routine 
+scan of the Foundation database, wherein I.T staff deleted them, commenting 
+“Assumed unnecessary equipment test: D-Class was standing in an empty room.” 
+
+
+26/07/2027 
+
+Research continued from here; however, it was slightly impeded by pressure to 
+complete investigations quickly. As a result of this and a general effort by the 
+Foundation to cut down on use of resources, all projects relating to SCP-5296 
+were halted until an appeal by Aster was approved. 
+
+
+02/08/2027 
+
+A formal inquiry into SCP-5296 was launched, leading to the near-deletion of the 
+SCP-5296 file by Site Command in a 9-1 vote on the matter. After further 
+investigation, no consensus was reached on SCP-5296 and its file remained 
+pending deletion. They settled that research should proceed as planned. 
+
+
+10/08/2027 
+
+In accordance with the disruption it had caused, SCP-5296 was raised as an issue 
+to the O5-Council, who also experienced difficulties in coming to any agreement 
+regarding SCP-5296. 
+
+Following the O5-Council meeting on 10/08/2027, research into SCP-5296 is now 
+considered a top priority. SCP-5296 has been provisionally classed as Keter. 
+
+
+Addendum-5296-B 
+
+Further review of our files regarding SCP-5296 suggests its nature may be vastly 
+different to our initial assessments. SCP-5296 may very well be a figment of our 
+imaginations. 
+
+- Senior Researcher Aster 
+
+Following review of the above proposal, further testing of SCP-5296 has been 
+approved to determine the likelihood of this theory. 
+
+
+Test Log 5296-01 
+
+This test was overseen by Senior Researcher Aster on 09/09/2027. 
+
+Testing Procedure: 
+
+This test consisted of two executions with minor alterations: 
+
+Standard Procedure: 
+
+A D-Class will enter SCP-5296's testing chamber and follow the instructions of 
+Senior Researcher Aster, who will be remotely observing the test. 
+
+The first execution was standard, but the D-Class was given a briefing prior to 
+the test and was given a file describing SCP-52962. 
+
+The second execution was identical to the first, excluding the lack of a 
+briefing. 
+
+Results: 
+
+D-1412, who had received the briefing, perceived SCP-5296 and was generally 
+consistent with previous observations regarding SCP-5296 and the lack of 
+consensus around its properties. 
+
+D-1583, who went in blind, was unable to perceive SCP-5296, complaining that 
+there was nothing in the room to begin with. 
+
+Observations: 
+
+It would appear that the proposed theory may be correct, although the data set 
+is insufficient to draw any conclusions. Further testing involving on-site staff 
+is pending approval. 
+
+
+Test Log 5296-02 
+
+This test was overseen by Senior Researcher Aster on 11/09/2027. 
+
+Testing Procedure: 
+
+This was effectively a large-scale version of the previous test. Site staff was 
+divided into two groups, one that was briefed beforehand whilst the other was 
+not. They then each attempted to perceive SCP-5296. 
+
+Results: 
+
+Everyone in the group that went in with no prior knowledge failed to perceive 
+SCP-5296, whilst everyone in the other group was able to perceive SCP-5296. The 
+results after testing over 200 on-site personnel were consistent with the 
+proposed theory, however also raise another possibility. 
+
+Observations: 
+
+These results are conclusive. They leave only two possibilities: 
+
+SCP-5296 is indeed a figment of the observer's imagination. 
+
+SCP-5296 is somehow aware of our belief in it and its permeable existence 
+responds in kind. 
+
+SCP-5296 will hereafter be reclassified as Safe, since the discord it initially 
+caused has run its course and its properties are now beginning to be understood. 
+
+
+Addendum 5296-C 
+
+As recent test results have raised concerns that SCP-5296 may be reliant on 
+human belief in order to exist, it has been raised as an issue to the Ethics 
+Committee. This is due to be discussed on 25/09/2027 during a meeting of the 
+Ethics Committee. 
+
+
+
+Footnotes 
+
+1. This is not to say that the lower down items on the list are more agreed 
+upon, merely that they are less often argued about. 
+
+2. This file was the improvised template that was pending the results of these 
+tests. 
+
+
+
+Current Iteration 
+
+
+Item #: SCP-5296
+
+Object Class: Euclid
+
+Special Containment Procedures: Known SCP-5296 instances should be
+reported to Site-11 Command. Currently, ██ instances are in
+containment, each of which occupies a standard humanoid containment
+chamber.
+
+The locations of any suspected instances should be reported to
+MTF-Phoenix-1.
+
+Description: SCP-5296 is a race of sapient humanoids who are
+imperceptible to humans. SCP-5296's undetectability is mitigated if an
+individual is already aware of its existence.
+
+SCP-5296 instances are only aggressive when provoked. They have
+above-average combative abilities, largely due to their anomalous
+effects. They can, however, be reliably subdued through the use of
+special arms fire. Given the unknown number of SCP-5296 instances,
+combating the threat they could pose should be left to MTF-Phoenix-1.
+
+
+Incident Report 5296-01
+
+On 14/09/2027, SCP-5296-23, the only instance in containment at the
+time, breached containment through unknown means. This breach went
+unnoticed by staff due to SCP-5296's anomalous effects until
+SCP-5296-23 returned to the facility accompanied by approximately 50
+other instances.
+
+Upon returning, the instances became aggressive and caused a major
+containment breach within the Euclid section of containment. The
+initial response was worsened significantly by instances obstructing
+re-containment efforts.
+
+Over 100 members of staff were killed prior to MTF-Phoenix-1 securing
+the site.
+
+Proposals to upgrade SCP-5296 from Euclid to Keter are currently under
+review.
+
+
+Accessing Addendum-5296-A is restricted to Level 4 personnel and above
+
+Credentials accepted. Welcome O5-1.
+
+In accordance with our current containment procedures, the preceding
+document was implemented in place of SCP-5296's file.
+
+Senior Researcher Aster
+
+
+
+Classified Iteration
+
+
+WARNING: THE FOLLOWING FILE IS LEVEL 4/5296 CLASSIFIED
+
+ANY ATTEMPT TO ACCESS THIS FILE WITHOUT LEVEL 4/5296 AUTHORIZATION
+WILL BE LOGGED AND WILL LEAD TO IMMEDIATE DISCIPLINARY ACTION.
+
+Item #: SCP-5296
+
+Object Class: Dependent1
+
+Special Containment Procedures: Per ruling of the Ethics Committee, a
+veil is to be maintained regarding SCP-5296 so long as it instills
+genuine belief of SCP-5296's existence. Personnel with lower security
+clearance have been provided with a file detailing a false description
+of SCP-5296 in an effort to reduce any further potential conflict.
+
+In accordance with the ruling made by the Ethics Committee on
+25/09/2027, the Foundation is to make no attempts to harm SCP-5296.
+
+If any concerns are raised regarding the fake description of SCP-5296,
+they are to be dismissed and, if repeatedly brought forward, to be
+reported to Site Command who will decide how to proceed.
+
+The only known instance of SCP-5296 (designated SCP-5296-α) is
+currently in Foundation custody.
+
+Description: SCP-5296 is a disembodied, semi-physical humanoid whose
+existence appears to be tied to the genuine belief of said existence
+by human observers. Belief in crude images or misrepresentations of
+SCP-5296 is also sufficient for it to exist. Any genuine belief in its
+existence is effectively "made true.”
+
+It is currently unknown if SCP-5296-α is the only instance “in
+existence”; however, there have been several unverified reports by
+staff of the appearance of other instances.
+
+Humans who perceive instances of SCP-5296 remain inconsistent in their
+observations, however a larger degree of coherence has been achieved
+in recent tests involving SCP-5296-α.
+
+
+Addendum-5296-A
+
+On 25/06/2027, the Ethics Committee held a meeting to decide how to
+advise Site-11 staff regarding Senior Researcher Aster's findings
+about the potential that SCP-5296 relies on humans to exist.
+
+The following is an extract of the Ethics Committee's discussion (as
+taken from the logs of the meeting) on SCP-5296, as well as the
+statement that was sent to Site Command:
+
+
+- Log-5296-01
+
+NOTICE TO SITE COMMAND AND PERSONNEL ASSIGNED TO SCP-5296
+
+Per recent Ethics Committee ruling and subsequent testing of SCP-5296,
+all personnel who are currently, or were in past, assigned to SCP-5296
+are to report to B5-24 for a briefing regarding changes to
+containment. Site Command is to read over and implement the changes
+proposed in the attached document.
+
+— ██████ Mathiesson, The Ethics Committee
+
+
+Addendum-5296-B
+
+So we still don't really know much about SCP-5296. In fact, we're
+still unsure if it even exists, never mind this whole question of its
+sapience.
+
+But the Ethics Committee were quite clear in their judgement: while we
+acknowledge the likelihood the SCP-5296 doesn't exist, we must treat
+them with the respect and care we would expect in their position, just
+in case they do.
+
+And not doing so would be an unbelievable mistake.
+
+Senior Researcher Aster
+
+
+
+Footnotes
+
+1. Dependent anomalies are those whom the Ethics Committee has found
+to be legally dependent on the Foundation. They are considered Safe to
+contain, but due to the Ethics Committee ruling, the Foundation is
+considered to have a moral obligation to sustain them.

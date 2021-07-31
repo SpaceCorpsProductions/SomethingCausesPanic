@@ -1,0 +1,485 @@
+                                    SCP-4568                                    
+                                    ========                                    
+
+                          Dilemma of the Twin Serpents                          
+                          ----------------------------                          
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are accessing an archived version of the documentation for
+SCP-4568, dated November 6, 1997. An archive of relevant revisions is
+included for purposes of context and analysis.
+
+— Maria Jones, Director, RAISA
+
+
+Item #: SCP-4568 
+
+Object Class: Keter 
+
+Special Containment Procedures: A disinformation campaign is ongoing to provide 
+a natural justification for any seismic activity caused by SCP-4568; currently, 
+this is attributed to the interaction of three concurrent tectonic plates near 
+SCP-4568's main area of activity. 
+
+The building codes in countries affected by SCP-4568 (mainly continental Chile, 
+the west of Argentina, Peru and Bolivia) is to be designed to ensure that 
+buildings are able to withstand earthquakes of up to Class VII on the Modified 
+Mercalli seismic intensity scale. Foundation personnel embedded in the security 
+and emergency services of the affected countries are to direct evacuation and 
+rescue efforts whenever necessary in order to reduce the impact of SCP-4568 and 
+prevent a Broken Masquerade scenario. 
+
+Attempts to design a predictive model of the active periods of SCP-4568 and 
+proper countermeasures to such activity are ongoing. Experimentation with 
+Safe-class anomalies such as SCP-███ is authorised to devise an adequate 
+containment or neutralization procedure. 
+
+Description: SCP-4568 is a massive, subterranean, serpentine entity which 
+inhabits below the Andean mountain range in South America. Current estimates 
+indicate a length of at least 500 km and a width of around 20 km. The entity 
+is animate and autonomous and is composed of molten rock, highly compressed 
+sediments, various metals, and ice. Sonar analysis reveals the existence of 
+potentially artificial structures, resembling clockwork, gears and primitive 
+circuits, along the body of the entity; these structures have no identified 
+purpose and do not seem to be the mechanism behind the autonomous movement of 
+SCP-4568. 
+
+SCP-4568 remains dormant most of the time. However, at certain periods the 
+entity displaces itself along the Andean mountain range. Due to its massive 
+size, this usually results in large-scale seismic activity, with magnitude 
+proportional to the degree of displacement. Pattern analysis suggests that these 
+movements are in response to an unknown trigger and the seismic activity is 
+intentionally caused by SCP-4568, instead of being just an accidental byproduct. 
+The purpose, if there is any, is unknown; due to the large amount of casualties 
+caused by SCP-4568, the entity is presumed to be hostile. It is unknown if 
+SCP-4568 is sapient. 
+
+Due to the inherent uncontainability of the entity itself, containment currently 
+focuses on the study of SCP-4568 and mitigation of the aftereffects of its 
+activity. So far, the following observations have been made: 
+
+The entity does not follow a consistent pattern of movement and appears to enter 
+an active state in response to an unknown external stimulus. It is believed that 
+this indicates a degree of sentience and a potential objective or purpose. 
+
+Minor tremors caused by SCP-4568 during periods of lesser activity (i.e. outside 
+of its movement patterns) follow a positive-entropy1 pattern, lacking the 
+characteristics of white noise. This suggests that they may be intended as a 
+form of communication, and thus that SCP-4568 may be a sapient entity. So far 
+these messages, if they are an actual form of communication, have not been 
+deciphered. 
+
+Abnormal oceanic activity has been observed after SCP-4568's active state. It is 
+unknown if this is a normal aftereffect of the seismic activity or caused by 
+another factor. 
+
+Correlations have been found between SCP-4568's description and the local 
+mythology of SCP-4568's area of activity. It is unknown how native inhabitants 
+of this zone would have had the means to detect SCP-4568 and describe it; 
+however, this, in addition to the aforementioned oceanic activity, imply that 
+[DATA EXPUNGED]2. Preventive countermeasures are currently under study. 
+
+
+Addendum 4568-1: Containment/Neutralization Proposal 
+
+Due to the aforementioned observations about SCP-4568, its inherent 
+uncontainability via conventional methods, and its high threat level towards the 
+civilian population, Senior Researcher Javier Carreño has proposed a set of 
+Extraordinary Special Containment Procedures based on key assumptions on the 
+behavior of the entity. 
+
+To the O5 Council, 
+
+Based on the assumptions listed below: 
+
+that SCP-4568 is a sapient entity, 
+
+that it has a psychological profile similar enough to human baseline to have 
+developed some form of linguistic skillset, 
+
+that it is actively hostile to humankind, 
+
+and that its active periods may lead to catastrophic containment breaches and 
+massive loss of human life (see SCP-4568's file revision dated 23/05/1960), 
+
+I, in representation of the SCP-4568 Research Team, posit that SCP-4568 should 
+be temporarily or permanently neutralized, as standard containment is 
+impossible. Given the lack of physical methods of containment, I propose the 
+usage of hostile memetic constructs, up to and including Berryman-Langford 
+memetic kill agents, combined with the usage of anomalous objects SCP-███, 
+SCP-███ and SCP-████ in order to project this memetic payload to 
+SCP-4568 while minimizing accidental exposure to civilians or Foundation 
+personnel. 
+
+Due to the extremely intensive logistics involved in this neutralization 
+proposal, we currently do not have the resources to enact it immediately. We 
+propose a passive and gradual preparation of these Extraordinary Special 
+Containment Procedures, which would additionally provide a way to closely 
+monitor SCP-4568 activity. Formal activation of the neutralization procedure 
+would occur as soon as possible and would be accelerated in response to an 
+Emergency Level 4 or higher civilian threat. It is expected that these 
+countermeasures will be ready to deploy in around 10 to 15 years. 
+
+Javier Carreño Vásquez 
+
+SCP-4568 Research Lead 
+
+
+
+Footnotes 
+
+1. Information entropy is a measurement of the complexity, randomness or 
+predictability of a pattern, sequence or signal. 
+
+2. Declassified by SCP-4568's former Research Lead Javier Carreño on March 1, 
+2010, due to tangible evidence confirming this hypothesis. 
+
+
+This procedure is currently under review by the O5 Council. 
+
+Next revision ▶ 
+
+
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are accessing an archived emergency revision of the documentation
+for SCP-4568, dated February 27, 2010. An archive of relevant
+revisions is included for purposes of context and analysis.
+
+— Maria Jones, Director, RAISA
+
+
+Item #: SCP-4568
+
+Object Class: Keter Tiamat	
+
+Threat Level: ● Red ● Black	
+
+Research Lead:
+
+Javier Carreño Vásquez
+
+
+Clearance Level: 0/Declassified	
+
+Special Containment Procedures: [EMERGENT BEHAVIOR DETECTED. CURRENTLY
+UNDER EMERGENCY REVISION]
+
+All Foundation personnel stationed in the coastal regions of Chile,
+Peru and Ecuador are to evacuate immediately towards high ground
+(Emergency Level 5), assisting, if possible, the evacuation of
+civilians. This alert is extended to other Foundation personnel
+located in the coastal regions of the Pacific Ocean, including the
+United States of America, Canada, Japan, Southeast Asia, and Oceania.
+
+Given the current predictive model, Foundation personnel are to
+prepare to enact the Ennui Protocol if SCP-4568-2 continues its
+activity unimpeded. Countermeasures to prevent a GK-Class "Hostile
+Greenhouse" Scenario are ongoing.
+
+Description: [EMERGENT BEHAVIOR DETECTED. CURRENTLY UNDER EMERGENCY REVISION]
+
+[PREVIOUS DESCRIPTION UNCHANGED — COLLAPSED]
+
+Emergency Addendum 4568-2: Current predictive models for SCP-4568
+indicated an anticipated period of high activity starting at around
+25/02/2010 and estimated to result in high seismic activity (with a
+magnitude nearing 7 Mw). As the Extraordinary Special Containment
+Procedures proposal by Senior Researcher Carreño was approaching
+completion, O5 Command approved the enactement of such procedures in
+order to prevent the loss of civilian life. These procedures were
+enacted on 24/02/2010.
+
+While the memetic injection failed to fully neutralize SCP-4568, it
+succeeded in temporarily incapacitating it, rendering it unconscious
+for around eight hours. Upon recovering consciousness, SCP-4568
+initiated a series of small but continuous tremors following a
+specific pattern; analysis by Foundation cryptologists and linguists
+determined it to be an attempt at comunication via a binary encoding
+of Mapudungun1 similar to Morse code. An approximate translation of
+the message is as follows:
+
+Humans who call themselves "Fundación": Are you a Foundation for life?
+If so, please let me complete my mission. Horror lies deep in the sea,
+fueled by fear and twisted righteousness. What I do is the only way to
+stop him. I regret the lives lost to me every day, but these bounds
+will bring death tenfold in the end. It is the only way.
+
+No action was taken upon decoding the above message, and thus SCP-4568
+remained partially incapacitated. At around 21:00 on 26/02/2010, while
+the debate regarding the interpretation of this message was still
+ongoing, Foundation personnel received automated alerts of significant
+anomalous oceanic activity along the Pacific Coast. Subsequently, a
+massive serpentine entity (provisionally designated SCP-4568-2)
+apparently composed of water and unidentifiable biological material
+emerged near Chiloé, Chile, causing a large-scale disruption in
+oceanic patterns. Further analysis indicated that SCP-4568-2's
+activity, if allowed to continue unimpeded, would result in
+devastating tsunamis affecting several coastal settlements along the
+Pacific Ocean and resulting in extreme loss of life and a possible
+BK-Class Broken Masquerade Scenario (90% confidence), followed by a
+GK-Class Hostile Greenhouse Scenario (60% confidence).
+
+With an unanimous 13-0 vote, the O5 Council decided to administer a
+countermeme to SCP-4568. Following this, the following message was
+received:
+
+I am very, very sorry. This is the only way.
+
+Emergency Addendum 4568-3: At around 3:34 on 27/02/2010, an earthquake
+of magnitude 8.8 Mw was registered in coastal Chile. Foundation
+emergency protocols have been initiated.
+
+
+
+Footnotes
+
+1. A language spoken by some native populations of Southern Chile and
+Central Argentina, particularly those of Mapuche or Huilliche
+ancestry.
+
+Next revision ▶ 
+
+
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are accessing the current version of the documentation for
+SCP-4568, dated May 23, 2019. An archive of relevant revisions is
+included for purposes of context and analysis.
+
+— Maria Jones, Director, RAISA
+
+
+ITEM#: 4568
+
+LEVEL4
+
+CONTAINMENT CLASS: ESOTERIC
+
+SECONDARY CLASS: HIEMAL
+
+DISRUPTION CLASS: EKHI
+
+RISK CLASS: DANGER
+
+Special Containment Procedures: A disinformation campaign is ongoing
+to provide a natural justification for any seismic activity caused by
+SCP-4568-1 or oceanic abnormalities due to SCP-4568-2; currently, this
+is attributed to the interaction of three concurrent tectonic plates
+near SCP-4568's main area of activity.
+
+The building codes in countries affected by SCP-4568 (mainly
+continental Chile, the west of Argentina, Peru and Bolivia) is to be
+designed to ensure that buildings are able to withstand earthquakes of
+up to Class X on the Modified Mercalli seismic intensity scale.
+Foundation personnel embedded in the security and emergency services
+of the affected countries are to direct evacuation and rescue efforts
+whenever necessary in order to reduce the impact of SCP-4568 and
+prevent a Broken Masquerade scenario.
+
+SCP-4568-1 should be allowed to continue its activity unimpeded;
+containment proposals are to focus on mitigation procedures and
+disinformation. Neutralization proposals for any component of SCP-4568
+are preemptively denied by the O5 Council.
+
+Communication attempts from SCP-4568-1 or SCP-4568-2 are to be
+recorded and cross-referenced with known information about ongoing and
+potential ℵK-Class Deific Confrontation scenarios.
+
+Description: SCP-4568-1 is a massive, subterranean, serpentine entity
+which inhabits below the Andean mountain range in South America.
+Current estimates indicate a length of at least 500 km, and a width of
+around 20 km. The entity is animate and autonomous and is composed of
+molten rock, highly compressed sediments, various metals, and ice.
+Sonar analysis reveals the existence of potentially artificial
+structures, resembling clockwork, gears and primitive circuits, along
+the body of the entity; these structures have no identified purpose
+and do not seem to be the mechanism behind the autonomous movement of
+SCP-4568-1.
+
+SCP-4568-1 remains dormant most of the time. However, at certain
+periods the entity displaces itself along the Andean mountain range.
+Due to its massive size, this usually results in large-scale seismic
+activity, with magnitude proportional to the degree of displacement.
+Pattern analysis suggests that These movements are in response to an
+unknown trigger SCP-4568-2 exiting a dormancy period, and the seismic
+activity is intentionally caused by SCP-4568-1 in order to
+incapacitate SCP-4568-2. The purpose, if there is any, is unknown; due
+to the large amount of casualties caused by SCP-4568, the entity is
+presumed to be hostile. It is unknown if SCP-4568 is sapient.
+SCP-4568-1 is sapient, with above-human intelligence and very high
+memetic resistance. While not actively hostile, it is aware of the
+casualties product of its seismic activity and considers them a
+"regrettable necessity" to restrain SCP-4568-2.
+
+SCP-4568-2 is a marine, sapient, serpentine entity of comparable size
+comprised of water, sand, algae, and steam. It often incorporates
+extant marine lifeforms into its mass; these do not appear to be
+harmed by the process, although they exhibit some degree of (usually
+beneficial) mutations after exposure. Marine lifeforms have proven
+themselves capable of extricating and reincorporating themselves into
+SCP-4568-2's mass at any time.
+
+SCP-4568-2 is actively hostile to human life, having repeatedly
+expressed its intention of causing the extinction of humanity.
+SCP-4568-2 claims that its goal is to stop a "great calamity" that
+will result in the destruction of nature and the consequent
+elimination of all life on Earth. While at first this was thought to
+refer to some sort of ecological disaster, further statements by
+SCP-4568-2 now suggest that this would be a tangential aftereffect of
+a MK-Class "End of Human Consciousness" scenario of undetermined
+origin (see below for further details).
+
+SCP-4568-2 is capable of using resonance effects and vibrations in
+order to force water and other fluids to take on specific shapes. This
+is employed to maintain its own shape during its activity periods and
+to cause massive tidal waves and anomalous oceanic activity. The
+seismic activity induced by SCP-4568-1 disrupts these abilities,
+making SCP-4568-2 unable to maintain a consistent form out of water
+and forcing it into periods of dormancy.
+
+
+Addendum 4568-1: Containment/Neutralization Proposal
+
+[NO CHANGES. INFORMATION COLLAPSED]
+
+Note: No further proposals of this type are to be accepted.
+
+
+Addendum 4568-2: Log of statements by SCP-4568-1 and -2
+
+After the detection of SCP-4568-2 on February 2010, both entities have
+been communicating with each other and Foundation personnel using
+similar methods to the one used by SCP-4568-1 during the
+aforementioned incident. These messages show awareness of the
+existence of several Groups and Entities of Interest, mainly in
+connection with K-Class Scenarios. A log of notable communications is
+listed below.
+
+23/06/2010
+ 
+SCP-4568-1: Fundación. I know you cannot trust me, much less while you
+are still mourning your dead. I know what I did, as much as I know the
+extremes you are willing to go to protect your kin. We will never be
+equals, but you need to know that we share the same goals.
+ 
+[Pause of several minutes]
+ 
+You know, my equal also believes his duty to be of protection. There
+is a threat hiding in dying stars, something incomprehensible and
+unable to be stopped. The human mind is a lit beacon in a sea of
+darkness; would extinguishing it divert the attention of this threat?
+Would it be worth it, in the end?
+
+12/03/2011
+ 
+SCP-4568-2: I am sure you can see it. How your world dies a little bit
+more every day. Mostly by your own hand, no? You poison the oceans,
+taint the rivers, blacken the skies. You do not need angels of death
+to end your world. But there is something else. I see it, in the
+bottom of your eyes: something unforgettable. Unconceivable ideas,
+cloaked in madness and impossible colors.
+ 
+Do you think I will let you drag the rest of the world down with
+yourselves? Do you think I will leave this world, my world, to die in
+fives?
+
+14/03/2011
+ 
+SCP-4568-2: It cannot enter if there are no gateways. An idea cannot
+exist if nobody thinks of it. We will start anew, in a world where
+hateful stars do not speak to you.
+
+30/05/2014
+ 
+SCP-4568-1: Kaikai1. Do you really think this wasteful death will
+solve it all? I can see the threat too. It hurts to think about it.
+But I see it everywhere, the pressure, the suffocation. The fives. I
+know what will happen when it descends. And yet, I think you are
+misguided.
+ 
+An idea exists only because something thought of it. Have you even
+considered how such terrible concepts could have been given form? What
+kind of atrocious mind could even think about it? Humans cannot
+conceive the colourless green. What if you are playing into this
+creature's hands?
+
+25/06/2014
+ 
+SCP-4568-1: Kaikai. Answer to me.
+ 
+SCP-4568-2: Trentrén2. Why should I believe you? Why should I believe
+that such words come from anything but sheer cowardice? You know we
+have to do it. You protect the land, I protect the seas, and we both
+know what the enemy is. The god of flesh has the power to recreate
+this world, away from the pink light: a clean, free world.
+ 
+SCP-4568-1: We both know that the god you command is but an empty
+shell. It has no malevolence, and yet the goddess of steel and gears
+broke herself to restrain it. You really do not understand why? Do you
+really think you can fill the void, make the flesh bend to your will?
+No earthly creature has a mind large enough to match its empty
+vastness.
+ 
+But what if the fives seize this mind? What if the mind of colourless
+green is able to take over such a god? What if that is what it needs
+to enter this world? You are but a pawn in this scheme, cannot you
+see? And as the goddess of steel restrains the god of flesh, I shall
+restrain you.
+ 
+SCP-4568-2: The goddess of steel is as much of a coward as her
+self-appointed servant then. Yet even she fears empty ghosts more than
+the hateful red. In the vast nothingness, I see dreams of worlds where
+your goddess is devoured by the five, or caught by mindless greed.
+Worlds where our Sun's love becomes twisted and corrupt. Your goddess
+is weak, and the Five is too strong.
+
+02/05/2016
+ 
+SCP-4568-1: Fundación, are you there? Do you still listen to the voice
+of something you fear? Maybe it is hard to believe, but it is
+comforting to me that there is someone listening.
+ 
+Do you want to know why am I protecting you, humans? Wouldn't it be
+easier, in the end, to just let go? Maybe letting Kaikai do as he
+wants will really stop the Threat approaching our world. An easy exit.
+ 
+But that is something I like about you, Fundación. About mankind.
+While it is easy to just take the simplest path, to just give up,
+there will always be some among you who refuse this path, to do the
+right thing. Maybe not all of you are this strong, but I can see it in
+your methods, those so-called "containment procedures". There will
+always be someone who stands up against the dark, even if it takes a
+thousand million years to emerge victorious.
+ 
+Maybe you can stop the Fifth. After all, ideas can be killed with better ideas.
+ 
+[Pause of around two hours]
+ 
+Protecting you may just be my duty, but I cannot forget who I once was, as well.
+
+17/07/2017
+ 
+SCP-4568-1: I cannot sense the god of the Huincas3 anymore.
+ 
+[Pause of several minutes]
+ 
+SCP-4568-2: Our time is running out, Trentrén.
+
+28/01/2018
+ 
+SCP-4568-2: I will save this world, humans; you won't be able to stop
+me. This is the only way.
+
+
+
+Footnotes
+
+1. Presumed to refer to SCP-4568-2.
+
+2. SCP-4568-1.
+
+3. Mapudungun term used to refer to the Spanish conquerors, and by extension, all people of similar ethnicities.

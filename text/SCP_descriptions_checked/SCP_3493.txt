@@ -1,0 +1,845 @@
+                                    SCP-3493                                    
+                                    ========                                    
+
+                     The Great SCP Foundation Collaboration                     
+                     --------------------------------------                     
+
+Connected To:
+
+UNI-2346 (LOCAL)
+
+WARNING: Local will be inaccessible to users. Please try connecting to another 
+peer universe. 
+
+Item #: SCP-3493
+
+Object Class: Keter
+
+Special Containment Procedures: [DATA EXPUNGED]
+
+Description: [DATA EXPUNGED]
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+0%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+[Open O5 Control Panel]
+
+
+Connected To:
+
+UNI-2347 (PARALLEL)
+
+
+Item #: SCP-3493
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-3493 is to be monitored at all times via 
+Foundation Space Telescope SCPST-03. SCPST-03 is to automatically measure 
+alterations in size, relative position, and redshift of SCP-3493, and then 
+record timestamped status reports to the appropriate documentation hosted on the 
+Multiversal Collaboration Project network. 
+
+New researchers assigned to SCP-3493 should first be exposed to files accessed 
+by the Multiversal Collaboration Project network while connected to a non-local 
+system peer, to ensure that they are capable of retaining necessary memories 
+regarding SCP-3493 information. Since local Foundation operatives are unable to 
+enforce restricted security level access on non-local peer systems, IT staff 
+with Level 3493/5 clearance are to regularly review non-local peer documentation 
+and restrict access to instances where security clearance is deemed inadequate. 
+Restrictions may be removed when local security level access protocols have been 
+negotiated with the non-local peer in violation of local ruling. 
+
+The Multiversal Collaboration Project should have access to at least 5 
+alternative non-local iterations of SCP-3493 documentation at all times. Should 
+this value drop below the threshold, the Multiversal Diplomatic Department is to 
+begin negotiations and/or renegotiations with Foundation instances that 
+currently exist as a part of the network, followed by those that have left the 
+network for non-detrimental reasons, and lastly, attempts are to be made to 
+contact as-of-yet-uncontacted instances of the SCP Foundation. 
+
+Rogue instances are to be removed from the Multiversal Collaboration Project 
+immediately, providing the network has more than the required 5 alternative 
+instances. 
+
+Description: SCP-3493 is an anti-meme localized to a single universe, capable of 
+hiding all information regarding itself solely within the universe. While 
+SCP-3493 may be observed and described at any point in time, information dealing 
+with the object will immediately become uninterpretable by both those describing 
+it, and those attempting to interpret any form of a description pertaining to 
+SCP-3493. Due to this, Foundation personnel are unable to interpret data 
+describing a local instance of SCP-3493 after it has been described, as long as 
+it exists in the local universe. 
+
+SCP-3493 itself is the first confirmed hyper-massive black hole that currently 
+resides 3.1Gpc outside of the Milky Way Galaxy. While its post-hyperdense nature 
+is not yet understood, it is currently theorized that the gravitational 
+influence it produces is so great that it has begun to consume meta-information 
+regarding itself as the meta-information spreads throughout the local universe. 
+The result of this is the perceived effect that meta-information concerning it 
+becomes inconceivable to those trying to interpret it, due to it being destroyed 
+by the origin (SCP-3493) at almost the instant the meta-information is formed. 
+
+However, this effect has so far been observed to only manifest within the 
+universe that a particular instance of SCP-3493 resides in. Due to this, a 
+counter-measure has been established to allow Foundation personnel the ability 
+to retain information about SCP-3493 via connections established through the 
+Multiversal Diplomatic Department (MDD). For more information, see the 
+Multiversal Collaboration Project Documentation Summary. 
+
+Multiversal Collaboration Project Summary: The Multiversal Collaboration Project 
+was created to combat the powerful anti-memetic effects of SCP-3493, by 
+exploiting a major weakness in its mechanics: While it may consume its own 
+meta-information soon after its creation, this meta-information can be 
+"captured" when it passes in to a non-local universe, and therefore make the 
+meta-information immune to the consumption of the local SCP-3493 instance. 
+
+On 12/07/20██, the non-local universe now designated "UNI-ZERO" contacted 
+the SCP Foundation and supplied an offer to join what is now known as the 
+Multiversal Collaboration Project network, to allow a joint operation in 
+efficiently monitoring SCP-3493. Using the network, local Foundation personnel 
+are capable of retaining information regarding SCP-3493, by reviewing 
+documentation written in alternate non-local universes by parallel Foundation 
+operatives. Due to the cross-universe meta-information "capture" effect, 
+SCP-3493 data from alternate non-local universes manages to avoid consumption by 
+SCP-3493 and is therefore void of its anti-memetic properties. 
+
+Future collaboration projects between local and non-local Foundation iterations 
+are pending review of potential Inter-Reality Paradox scenarios. 
+
+UPDATE: On 04/02/20██, all contact with UNI-ZERO was lost.
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+14.29%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+Connected To:
+
+UNI-86243 (CLASSIC)
+
+
+Item designation number: #21849AR-3493
+
+Description of item:
+
+Only known instance of a hypermassive black hole. Current coordinates: 5h 38m 
+24.0844s, 41° 02' 47.0317". Distance of 3.1Gpc from Earth. Total estimated mass 
+exceeding 3.1×1020 M☉ (roughly 1/10th mass of observable universe). Emits 
+low-level gravitational distortions at periodic intervals. Remnants of decayed 
+galaxy clusters detected within 3.4Mpc of anomaly. Theorized former galaxy 
+clusters consumed by the hypermassive black hole. 
+
+Detail of current containment:
+
+Anomaly is monitored by satellite ADRS-41C. ADRS-41C contains a core 
+Gravitational Distortion Array (GDA). A back-up GDA is maintained at all times. 
+Any changes detected in anomaly status are automatically recorded to Multiversal 
+Collaboration Project network. Technicians to monitor Multiversal Collaboration 
+Project network upload system at all times and fix errors immediately. 
+
+Report:
+
+First discovered when currently designated UNI-ZERO contacted the Office during 
+cross-universal experimentation, claiming to be an alternative iteration of the 
+Office of Anomaly Regulation, known as the "SCP Foundation". The Foundation 
+invited the OAR to join a collaborative effort to counter a powerful 
+anti-memetic that was only capable of affecting those local to the universe they 
+resided in (formerly undiscovered by the OAR, now designated #21849AR-3493). 
+Experimentation was carried out involving researchers exposed to 
+Foundation-supplied documentation and compared to a control group observing the 
+anomaly with no exposure to Foundation documentation. Subsequent results 
+confirmed Foundation claim and the OAR accepted the invitation to join what is 
+now known as the Multiversal Collaboration Project. 
+
+Theorized the anomalies density enables it to consume meta-information regarding 
+itself as it leaves the object, creating a natural anti-memetic property. Effect 
+has proven unable to consume meta-information as it leaves its local universe, 
+allowing alternative iterations of the OAR (shown to be more commonly referred 
+to as the SCP Foundation in other universes, The Administrator has approved 
+discussion regarding a possible name change of the OAR to match with 
+counterparts) to share information concerning the anomaly in a large multiversal 
+network. 
+
+So far proven effective.
+
+Addendum: Contact with UNI-ZERO lost without warning. Discussions with alternate 
+iterations show mutual confusion regarding the sudden disappearance. 
+Collaborative investigations are currently ongoing into the fate of UNI-ZERO. 
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+28.57%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+Connected To:
+
+UNI-1100 (MEDIEVAL)
+
+
+Enumeration: SCP 3493
+
+Object Form: Keterian
+
+Special Containment Procedures: SCP 3493 shalt be viewed at regular intervals 
+through the enhanced telescopic device, which wilt be provided pow'r by an 
+"electric generator" given to the House of SCP by an external cosmic hereby 
+referred to as "celestial zero". 
+
+All changes of the anomalous heavenly body shalt be writ down on standard 
+parchment and then placed into the "scanning" device provided here by 
+aforementioned celestial zero. Only those who has't read the book that wast 
+gift'd 'longside the device, may be permitted to toucheth, 'r operate it. 
+
+All memb'rs of the House of SCP that joineth endeavours involving SCP 3493 must 
+but first be shown extra-celestial titles on the so-called "network" device 
+pertaining to SCP 3493. 
+
+Description: SCP 3493 is a heavenly body shown to has't effects on the human 
+mind that does involve creation of a form of forgetfulness regarding the 
+supernatural body itself. 
+
+Scholars currently studying said body first hath believed the cause wast from 
+that of a god of mental degradation, howev'r, recent contacts with 
+extra-celestial guilds hast lead these same scholars to now view it as something 
+beyond our current und'rstanding of the natural sciences and alchemies. 
+
+Extra-celestial guilds ref'r to SCP 3493 by the form of "hypermassive black 
+hole", a concept yet to be truly und'rstood despite the known golden age of 
+science our people reside in. 
+
+The most wondrous alchemists of the House has't been unable to unfold SCP 3493 
+by their und'rstandings of thaumaturgy giving more support to the claims of our 
+alleg'd allies. 
+
+Those claiming to be of another world has't provided us with complex mechanical 
+contraptions capable of most wondrous and paranormal feats, the likes of which 
+continue to astound. Those who claimeth to join us with other brothers-in-arms 
+are to also seek study of the celestial body with us in mutual und'rstanding. 
+The ungodly devices provided for the mentioned "multiversal collaboration 
+project" art actively being studied by the greatest minds of the House of SCP to 
+ensure nay blasphemous activity doth take lodging within those forms. 
+
+Addendum the First: As of recent events p'rtaining to the multiversal 
+collaboration project, celestial zero hast ceased contact with both ourselves 
+and our scholarly allies. It is regrettable we can find nay apparent sign of any 
+last guide from our benefactors, howev'r it is possible the celestial body may 
+has't quell'd their final efforts to form final bond with us. 
+
+Furth'r work taketh place to establish a final und'rstanding relating to this 
+dark omen continues with the remaining benefactors of our great endeavour. 
+
+Addendum the Second: Furth'r development regarding the celestial body hast been 
+noted, in the form of a physical change in heavenly location. The change matches 
+nay known pattern ev'r did measure upon the celestial spheres. Scholars and self 
+proclaim'd prophets has't thus produced nay consistent explanation. 
+
+Those of the highest standing in the House of SCP has't thus far concluded this 
+peculiar event may be connected to the aforementioned disappearance of celestial 
+zero. Belief of relation in the recent infiltrations of the House of SCP by 
+spies claiming to be long-standing memb'rs of the House of SCP to these events 
+also holdeth high merit among peers. 
+
+Such heathens, in particular those claiming to has't been 'forgot' by the House 
+of SCP, should be spared immediate execution and instead did hold f'r extensive 
+interrogation to ascertain their connection to the celestial body and its recent 
+movements. 
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+42.86%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+ACCESS TO THIS UNIVERSE HAS BEEN BLOCKED BY SYSADMIN
+
+See contact logs for more information.
+
+
+UNI-3236 Contact Logs: The following is a record of the initial contact with the 
+Foundation present in UNI-3236. 
+
+Dr. Hansol: Connection to UNI-3236 established. Attempting initial 
+communication. 
+
+Dr. Hansol activates baseline sound communication array.
+
+Dr. Hansol: Hello? Do you hear me? Repeat, do you hear me?
+
+Distorted sounds are heard, Dr. Hansol begins retuning instruments
+
+Dr. Hansol: Hold on, the signal's a bit patchy, let must just... There, that 
+should do it. Can you hear me now? 
+
+UNI-3236: Yes hello, this is dado, best place in multiverse to buy greatest 
+anomaly, how can I be doing for you? 
+
+Dr. Hansol: Wait, what? dado? That can't be right, this should be a Foundation 
+facili- 
+
+UNI-3236: Yes, you are interested in SCP Foundation by dado, okay then, which 
+variety is your choosing? dado only make finest anomaly, only best. 
+
+Dr. Hansol: You have got to be joking. dado, are you running the Foundation 
+there? 
+
+UNI-3236: Yes, dado run Foundation good, you trust dado, dado secure, dado 
+contain, dado protect, only finest SCP from dado. You say joke, yes, you want -J 
+SCP, okay, which can dado provide? 
+
+Dr. Hansol: What? -J? What even... no, listen dado, we want to collaborate with 
+oth- 
+
+UNI-3236: Sorry no, dado no interest in partnership, sole trade only, ok, I send 
+you surprise -J as order, thank you, bye. 
+
+[CONNECTION LOST]
+
+Aftermath: 2 days following contact with UNI-3236, an unmarked package arrived 
+at Site-41-B containing a single rock and a small piece of paper on which was 
+crudely written in marker pen: "scp fondation by dado" (sic). The package is 
+believed to have been sent as a result of the exchange with UNI-3236. The 
+Multiversal Diplomacy Department has advised blocking access to UNI-3236 to all 
+except those currently assigned to other SCP objects related to PoI "dado". 
+
+The rock has still not been studied.
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+57.14%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+Connected To:
+
+UNI-2049 (FUTURE)
+
+
+Item #: SCP-3493
+
+Threat Level: Yellow ●
+
+Object Class: Keter
+
+Special Containment Procedures
+
+SCP-3493 is a designated watch target for SCP Foundation Outpost Kepler-22b-966 
+and is monitored at all times by an orbital Anti-Amnesic Network (AAN) on a 
+magnitude of at least 75 nodes. Note: While the AAN is capable of keeping itself 
+cognizant of changes to SCP-3493, human and huvron perception is still affected. 
+Therefore, the AAN is solely responsible for the upkeep of the Multiversal 
+Collaboration Project network file. At least 3 non-automaton personnel are to be 
+briefed on SCP-3493 and given access to the Multiversal Collaboration Project 
+network, in order to allow maintenance of the AAN. 
+
+Description
+
+SCP-3493 is a hypermassive black hole (Crowther Object a61C) with a Maximus 
+Integer of over 17kMx. This level of meta-instability causes the anomaly to 
+erase meta-information regarding itself within ~3.51s of being perceived by any 
+intelligent entity capable of understanding it. Current estimates of the length 
+of time for which the object's spatial instability can persist without changing 
+form vary between 17 years and 430 years. When the black hole's Overlap Point is 
+crossed, the anomaly is theorized to produce one of two possible effects: 
+
+Disappear instantaneously, creating a temporary hypermassive white hole in its 
+wake that will cause a fluctuation of meta-information across the temporal 
+spectrum towards all intelligences that have previously perceived it, thereby 
+returning any and all lost memories regarding it since its initial discovery. 
+Increase in size by a factor of ████████, leading to a 
+Gimel-Class Mass-Dementia Scenario. 
+While the latter possibility poses a great threat to humanity, huvronity, and 
+automatonity, the likelihood of the scenario occurring is below the Threat 
+Hypothesis Value and therefore, not to be taken into account concerning the 
+handling of SCP-3493 containment procedures. 
+
+Addendum - Interstellar Mission (Renegade 4):
+
+On ██13-12-08, contact with UNI-ZERO was lost. This unexpected event was 
+also reported by every contactable non-local peer on the Multiversal 
+Collaboration Project network. 
+
+2 days before contact was lost, SCP-3493 exhibited a decrease in redshift by a 
+factor of 0.000001%. While such alterations are normally considered 
+inconsequential in astrophysics, this was the first and so far only time that 
+any change in SCP-3493's redshift had been measured. Further inquiry into 
+non-local peer documentation reported similar changes in properties of SCP-3493 
+at the same time as the recorded redshift alteration in the local universe. 
+
+Following an investigation into this phenomenon, permission to approach SCP-3493 
+for further analysis was permitted, under the notion that the disappearance of 
+UNI-ZERO may be connected to the anomaly. 
+
+On ██14-04-01, interstellar vehicle "Renegade 4" began an expedition towards 
+SCP-3493, with the intention to monitor local anomalies and the effects of close 
+exposure to SCP-3493. Estimated time of arrival: ██43-05-12. 
+
+
+Addendum - Anomalous Event #01:
+
+On ██43-06-18, a signal was detected in the direction of SCP-3493, sent in 
+an encrypted SCP102 format, an outdated form of Foundation encryption not used 
+since ██21. The decrypted message read as follows: 
+
+who am i
+
+who are
+
+where am i
+
+what is is is'#
+
+The meaning of the message is currently not understood, nor is the nature of its 
+creator. Current attempts to respond to SCP-3493's communications are ongoing. 
+Following further contact across the Multiversal Collaboration Project network, 
+we have since been made aware of an expedition sent by our own iteration of the 
+Foundation towards SCP-3493 that was due for arrival on ██43-05-12. External 
+Foundation iterations refer to a document on our database titled "Addendum - 
+Interstellar Mission (Renegade 4)", however no attempts to read this document 
+have thus far proven effective, due to the effect SCP-3493 exerts on the 
+information it contains. 
+
+The sudden loss of information regarding it is believed to coincide with the 
+arrival of the alleged team at the designated observation point of SCP-3493. It 
+is now believed that SCP-3493 exerts its meta-information destroying ability to 
+its surrounding area too, giving rise to the theory of a Meta-Event Horizon. Due 
+to the danger this now poses to those that may try to interact with it, 
+SCP-3493's Threat Level has been raised to Yellow. 
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+71.43%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+Connected To:
+
+UNI-7411 (UNKNOWN-04)
+
+WARNING: Source language still subject to translation process. The system will 
+attempt to translate known phrases. 
+
+
+lsdfSdgx prosDnd [3493]
+
+nstmwFDgjsix lwSmdfmSDF
+
+fzoRX0NxWxEE9NLTPxobY1DXKzW4829Qx 
+kfnavUvUdBdD2RLNAHE8eHiiy3fsUjNfVXUDKeANpScMVCSrS7lWeoJtQT7KFttICJzRViSwND6k4VJ6KAwF6LlaxX80qvyrR5iaLgMjRfMo5hsuCRcUHn2sFFvVyMaD0w7gzePjxm5pa859YtpnPIKNjl4b72ADs14cJb7FAwiOQL35FcHFjqKjtms72rzDfdD3z9 
+[monitored constantly] nyBLllhTvKnlk37bkmsiHu2SqgSFKpJNaCKsI3QRVes 
+
+
+wKGw8OQ6Q9CuMieQOiC4P38SR8MwvYqTKv93aOdGQXWXmdKQLUxlEsqkpzttZnz4fjyFEbVGXTtGUnuz5q8CHRz4w4Z 
+[restrained] 
+V1gb9BEwvZq0HNVx1CxtJpBEz3ByHhf9gTrjtEuwHA6QjiMEcEPTvveBBqDXzywskUJYMnUPBsTtrGZrXiPBB01jUV1YlcoiHjkr25x43m1lxs9Lv1M2fyN4wjX7uOdzwo0pO85QEpibjkMF59ng8xJWPdGlBqr0wsOMpPiZHEF07WSoNs 
+[?K-Class event] 80cAURGhl9bAzSEfVC8pMOt5to5UdzBLI [expected 3 (months/years)?] 
+Lv8fp4QrsH4swSlPAOpIIlWtgWYzHX6jPDjupZYmt67IGb2zpptHiel92ToQ80i5f04Pc0mDI2W 
+[plan of evacuation, see document(?) UNI-EVAC/003] 
+e05hf9j4wCYZJmruPXhAhx5veeH0fwHv 
+
+nBx [Information:] GTsQQfb3OhyxBmy7hkyNky5YwcGOWduwFf6q [post-hypermassive black 
+hole] bAVptiy2Pt5cIC3gq4FyKx1qT9uX3B4biKKkw2muoy0Q1R7r8ztPQs4KD8hfI 
+
+x9QeIiIQESMBg8WFr [acting as an extra-universal anchor for] skkhMHxXK0XcKKhCf 
+[referred to as 3493-A] cDc1GK64b2d [most recent UNI-ZERO correspondent briefly 
+referred to as "the maw"] 
+ZI8hmVlG6JtRjvWgal3kC2gCkNdAtYBlGZiO1BCfgBvm4PqHaizLWzfYqE7Fni1DYlybHdE5QNOmaKD6b47pZetMaq87dcP89DdNEBTg0JBYBKLTV6AXwweeYoiJe90p1lE4xesrg2TlMDcGZyn3SuZjru8LTrKuN712hBTbpd7NJcONBNIkcTiLp7MUP4HVa2ch3Rs3Pl7S7JSzS 
+
+GRHbdeqroNiRWj8N4ouf87279qS6Tj [detected movement in (space/direction)? towards 
+current location] 
+NOHojtZjIDJjMt9aToKldHhkzMPTKsGCjFvC4r2AqTH9meWBn656DZYdM2H9d5CKo29VVLMbHdl0lQ0Lj1j6ViSuow1zyncUQsyJXjbqd1iFU5perw 
+[creating a tear, exposing local space to the extra-universal anomaly 3493-A] 
+GfKtTl0zI4QMMhqPxqsbFbZaLgacPhJgZTqNYch1wQMHNUbl1sqJRXK3tpvDFi8bSc7ClCm30IMqJDHyUve1EviRtoETeKdr7wnjsiy8VSOB0aCnI1acsQWlTZhSUmnIQLmAtydnzH3tTFLipEFIPF 
+[unstable nature of] 
+CindZoC2coc9hapnD549MGqbFk08bllEdN7PF6xnRya6GBiz28FRds36p5J1r24TveA7TG 
+[inevitable collision] B4wTd [3493-A] Ur 
+
+DKcMsUb83xlkrgIo79Zkozcz5hz [(a date of some sort)] 
+B7eVFgKMfefxeqzOYHFDLrMNdauwn8bcNiNFiMtcRuzr4Ud2JjX1yvbrxja0tksPGnMtoLiCS6hRF7KUrgNAJE99n8QrrCFw8FB2jrgJ 
+
+6I4Pu8tyKhZyH [ending the local] 
+Zv1krWAq3I3JUA29JVLV37PXu2KOzpeqocOcSKMg9FCHQ6APoIofCVVvg0Cmkhr2tPy9JkSP1DIsFMnEAkQeF6cBAOYuuvfMeBHajdKLm7giuqJkRCViYw 
+[unable to avoid ?K-Class] HRjpxZwXi7YmVBpj 
+
+sko4SDmx [Record:] QH9jHA [(a date of some sort) UNI-ZERO] 
+qu8etI0JSDFxDMJ7jRH5Li2yMuPEjA0eqt2dPNW1tunretTGiNQl7N67l1PMO9QlVq7hxnV7lzirZovJGUZlTyH5vet6F7M54y7X4wFbyFEueg 
+[discovered] 
+dcWERX6iFvAobtj1wf34RewJWBmSeCwznUGmKcUV1rJtkaltCloRZPiz5S6Gvn5DKWzrxR1A9ycBfmauC5D60tjTsg 
+[believed to be a warning from UNI-ZERO] 
+yfzXXOgXOAT2NZdFX7wW0ceqhrYACebyuQhJDPtu86reneRsDpkE [suggesting attempt to 
+neutralize 3493] zZISnL48IROlFdFjQber1wsU [request was denied.] 
+
+qc5ZzBzrkjho [EMERGENCY] qc5ZzBzrkjho [EMERGENCY]
+sko4dkreqdx TwiXrt6bIx [initiation of operation UNI-EVAC/003] 
+UNOCkiQePEUQ8UyWX1bfD [inter-reality movement (see schematics for I-UNI 
+Transportation Device 04196)] 
+cZNrA7febxNTKk6bySOkOgd3bcwA4a52fUZmfKzutL1jgDnDrVPpZHl5N9rODY4g39LTAO [dementia 
+cases increase] pq6E8JeAW [5.4 billion(?)] H0rR [to be abandoned.] 
+
+XY714RIYh301ESiuOy40rCMUbIJf91zs6K [leave behind] 
+iPe3B0srpE9AnGeeY1D7SBR7zTj1MVR3KkX [aid to avoid future events] 
+o4U7w2Q0mcbhjNkoHITCH70M1P39ZCGJb3gqhJWLMj2HxPYbELRMJchgAh87G0caAMYlUUafIkwmqtSf707NyOhC47PIufttCwTotljrQWaQfGFm5FC4K3vGMFPLe9TjprOQF323iKOAO6TxdCkyhzOIka5KgMo1fAMbPfXHgjktlKZ9au6YtKm8IJfKKUW3 
+[hope to translate to common dialects of foreign realities] YlBPtxhU [before 
+3493 spreads] qXYbdGsFyNvWuYhaZNApXGdqXxmO 
+
+ylmUPG4 [do not forget] 
+RqDPMUehsNjiiVXIyFCiv6mIXGAdGxpzzdHnF7pYNJX2bcvglAcfydPda 
+
+PuBptSz [may be possible to neutralize 3493] mq1nhQRYh1mBGHsZACyGnlrqaoJ4VI 
+[must contact UNI-ZERO.] 
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+85.71%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+Connected To:
+
+UNI-ZERO (ORIGIN)
+
+
+WARNING: ERROR : FAILED TO <MESSAGE>, TRY <SOLUTION>.
+
+Incoming connection request from: [UNI-ZERO]...
+
+Connection accepted.
+
+Downloading data from peer...
+
+ERROR: DOCUMENT CORRUPTED, ATTEMPTING CORRECTION
+
+FORMAT CORRECTION: FAILED
+
+MAIN LOOP CORRECTION: FAILED
+
+CODE SET CORRECTION: SUCCESS
+
+Displaying document (may contain errors), 1 image attached.
+
+This is a final warning across the multiversal network, pleading for the 
+immediate termination of SCP-3493. 
+
+I have stepped back from the portrait and see now that SCP-3493 is only a single 
+part of a larger picture. Not just our instance but all of them, across the 
+multiverse, like individual pixels, on an unimaginably large canvas. While it is 
+true that a single instance manifests as a hypermassive black hole, complete 
+with the anti-memetic effect this network was designed to counter, it has since 
+been discovered, through a less than desirable means, to be far more than what 
+we observed on the surface. 
+
+As a part of our own containment procedures, we required at least one person to 
+be stationed in a "memetic mirror chamber", a room designed to echo 
+meta-information and act as a way of retaining memories of SCP-3493 for a short 
+time. Before the Maw appeared, I was the one assigned to the room and as of this 
+message, I am still inside that room. 
+
+I am fairly sure my mind will collapse the moment I try to leave, like those 
+less fortunate. I can see them all from here, in the streets of the city, down 
+there... the people, they don't act like people anymore. I can see them, in 
+constant spasm, unable to control their limbs any longer, unable to even process 
+their own innate self-awareness. Their mental faculties have diminished to a 
+point where I wouldn't even classify them as living anymore, just husks of flesh 
+passing scrambled, nonsensical signals across their nervous system. 
+
+On our local date, 2027-08-29, SCP-3493 was, I guess, "understood" to expand. By 
+this I mean it was not something we could directly witness, it simply became 
+known to all that looked in the direction of SCP-3493, despite a lack of 
+observable confirmation. At first, it was believed to be a result of the 
+anti-memetic effect being dampened for some unknown reason, causing a huge 
+fluctuation of formerly repressed meta-information towards all that observed it, 
+but this theory was quickly proven inadequate due to the remaining inability of 
+viewers to remember anything about the anomaly. We soon realized that something 
+had happened out there, where the anomaly is, something we could not perceive 
+yet, simply because the meta-information had traveled fast enough to reach us, 
+but the light that accompanied the event was still trailing behind. We did not 
+know when it would reach us. 
+
+Two days following the event, people began to lose memories. This had been 
+observed before from over exposure of Foundation personnel to viewings of the 
+anomaly, but this time it was different. It was not just the Foundation staff, 
+not just those who knew of it, not just those that unknowingly observed it, but 
+everyone, worldwide, began exhibiting an inability to memorize specific forms of 
+information. Names, places, and things they had done that day, the information 
+would become scrambled in their mind the moment they tried to recall it. 
+
+Over the following weeks, the effect began to expand: Long-term and short-term 
+memories, the ability to perform simple tasks, language, communication, genetic 
+memory, and in the cases of younger people, even bodily functions. Anything that 
+might require information processing quickly became unable to perform its duty. 
+
+Within a month, half of the global population had regressed into a state whereby 
+they were unable to care for themselves adequately. Within two months, 98% of 
+the population joined them. Of course, there were a few that remained immune for 
+a long time, due to their natural immunity to anti-memetic anomalies, but when 
+the weakest of them began to fall prey to the effects too, it became obvious 
+that there was no place to hide anymore. We were experiencing the purest form of 
+what many of you probably know as a Gimel-Class Mass-Dementia Scenario. 
+
+Our lacking understanding of what the phenomenon truly was, had caused our 
+countermeasures against this sudden turn of events to fall flat. On 2027-11-03, 
+the Foundation and GOC admitted defeat at the hands of the phenomenon. On 
+2027-11-12, a reality evacuation was enacted, and the few hundred mentally sound 
+individuals lucky enough to be in contact with the Multiversal Diplomatic 
+Department, left our reality for God knows where. 
+
+I sent out pleas for rescue, and each time I would receive messages informing me 
+that I would be sent for shortly, so I could join them in the evacuation. And 
+each time no rescue arrived, I would send out another request for help, only to 
+be told by the same people that I had not sent any messages before it. Not that 
+they could remember, anyway. 
+
+So here I am, the last sane person on Earth. Relatively sane, that is. This 
+chamber isn't meant to allow permanent retention of memories. It's like a 
+greenhouse effect, I guess, it can hold a lot of information inside, but a lot 
+of it still escapes through the cracks every so often. I can barely remember who 
+I am, for one thing. Older memories seem to be some of the first to go. I can't 
+remember where I'm from, how old I am, who my friends are... Sometimes I look 
+down into the streets here and wonder if any of them know me, or if I know them. 
+Or if they're my family, or if one of them is maybe 
+
+On 2027-12-27, light from the anomaly finally caught up with the 
+meta-information it had been chasing, and I got a glimpse of what had been 
+happening up there. 
+
+I remember when it happened, it was dark, the stars were out, and I was trying 
+to reconnect to the Multiversal network to send a message, just like this one, 
+when I saw something circular, growing in the sky. It sounds strange when I type 
+it out like this, but it was so dark that even against the night sky it had this 
+astoundingly vast level of contrast. Just this deep well of blackness, growing 
+quickly, behind the stars themselves, like the wispy colors of deep space were 
+being blotted out by an eclipse of epic proportions. 
+
+I was mesmerized, my mind was so attached to this phenomenon that I didn't even 
+think to switch on the monitoring equipment, I just sat there, dumbfounded as 
+this thing began to consume more and more of the sky. 
+
+Then it stopped, and something else started.
+
+All at once, in one quick sweep, the sky distorted, the sheets of space looked 
+as if they were folding up to a point at the center of the black circle. At the 
+time, I recall thinking it looked like the sky was a patterned cloth that was 
+being pinched in the middle and ripped away, like a magician quickly lifting a 
+handkerchief off of a now vanished accessory. 
+
+After the magician had finished their big reveal, they left in place of the star 
+covered fabric a sea of dull, flowing colors, quivering slightly, disturbed by 
+their own unexpected appearance. At the center of it all, remained that dark 
+black circle, the Maw, out of place among the vast colors, an anomaly resting 
+within an anomalous sky. 
+
+It seems I got carried away with my assessment of events. I think you need to 
+see it for yourself to understand my reaction. I shall try to be more 
+informative from now on. 
+
+After the emergence of these new properties, I returned a vast amount of my time 
+to analyzing it, an attempt to make sense of the phenomenon so to help fellow 
+Foundations that may still be safe from its effects. 
+
+And so I return to my findings and the truth of the matter.
+
+These black holes are not ordinary black holes. Ordinarily, a black hole is 
+formed due to an intense gravity build up and subsequent collapse of matter 
+inside a universe. What we're left with, is effectively a sinkhole in space, a 
+steep drop towards what I now believe to be the outside of the universe. This 
+theory, however, comes from my conclusion regarding the nature of these 
+hypermassive black holes, which possess the same properties of a regular black 
+hole, but with the important difference that they were formed outside of our 
+universes. Punctures in the higher dimensional walls of our realities, 
+originating from a place beyond the multiverse we share, created by the Maw. 
+
+No... not punctures. More like anchors. Anchors for the Maw, to tether itself to 
+our realities and reel us into its vast blackness. 
+
+I'm still not entirely sure what the Maw itself is. It may be alive, or it may 
+simply be an extra-universal phenomenon born from the natural progression of a 
+nature too vast for us to comprehend. Not the result of a biological evolution, 
+but the evolution of physical law itself, in a realm beyond a set law of 
+physics, as we are so accustomed to in our own realities. 
+
+Looking back, it is possible the anti-memetic effect may just be a useful 
+feature the anchors themselves possess, to stop us from dislodging them until 
+it's too late and we're at the edge of the Maw. I don't really know, and I don't 
+suppose it matters. All that matters is that the anchors, SCP-3493 are removed, 
+so that the thing they tether us to can't drag us further in. 
+
+I am sorry that I can not offer you any more insight. Hopefully, this alone is 
+enough to motivate you to take action. 
+
+You know, I actually regret that I can't spend the remaining time I have, that 
+my reality has, admiring the beauty of the world beyond our worlds that covers 
+the sky here. As the anchor, the arm of the Maw moves closer, even the walls of 
+this chamber fail to protect my memory from its effects. I look upon it often 
+but when I lose my line-of-sight, I have no memory of it. Simply a lingering 
+feeling of having witnessed something truly magnificent. 
+
+Despite this, I can still remember what it looked like the last time it spared 
+me my memories. I made sure I would remember it. When it first appeared, I vowed 
+to find a way to remember it. Although I can't remember doing it, I know I did, 
+I painted this, I must have. There's no one left who could have. A lasting view 
+of the Maw and the colors of a misunderstood sky. I hope you like it as much as 
+I do. 
+
+Please, destroy the anchor before it gets this far.
+
+[Open Attached Image]
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Database Connection Error: "ERROR 1146 (42S02): Table 'mcpdb.universe_list' 
+doesn't exist" 
+
+Attempting to resolve issue...
+
+99%
+
+Please try using the "Random Peer Universe" function until this issue has been 
+fixed. 
+
+Alternatively, if you have sufficient clearance, use the Emergency Overseer 
+Override. 
+
+
+Multiversal Collaboration Project Network
+
+Control Panel
+
+Connecting...
+
+Connection Successful.
+
+Multiverse List
+
+UNI-ZERO (ORIGIN) - [CONNECTION LOST]
+
+UNI-1100 (MEDIEVAL)
+
+UNI-2049 (FUTURE)
+
+UNI-2346 (LOCAL)
+
+UNI-2347 (PARALLEL)
+
+UNI-3236 (SALES)
+
+UNI-4321 (M. SUE)
+
+UNI-7411 (UNKNOWN-04)
+
+UNI-86243 (CLASSIC)
+
+

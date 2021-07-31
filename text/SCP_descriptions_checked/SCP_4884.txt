@@ -1,0 +1,971 @@
+                                    SCP-4884                                    
+                                    ========                                    
+
+                               To Serve Great Man                               
+                               ------------------                               
+
+Welcome to SCPNet, Director Forrester.
+
+You are viewing Document 4884-499-F: Memorandum from the O5 Council, regarding 
+SCP-4884, dated July 25, 2022. 
+
+We have each seen it, though we wish we could ignore it.
+
+We are men and women, working to the utmost of our capacities, dying anonymous 
+deaths for the benefit of those who can live as full citizens of the world. The 
+greatest part of humanity exists, blissfully unaware of the million deaths they 
+have narrowly avoided, thanks only to our diligence. We live in the shadows, so 
+that others may live in the light. 
+
+This is the lie that we tell ourselves - that by giving our all, we can give 
+humanity the breathing room it requires to thrive. 
+
+Every year, normalcy is beset by an ever-increasing multitude of anomalous 
+assaults. Rather than slowing, the number of anomalies - some benign, some 
+threatening, all inexplicable - has increased geometrically. 
+
+Far from serving as the care-takers of reality, we increasingly find ourselves 
+in the role of hospice workers, managing a slow but steady decline. Despite what 
+we may wish to believe, there are limits to what human ingenuity can accomplish 
+against such overwhelming odds. The catastrophes resulting from our inability to 
+defend humanity speak for themselves. In recent years, we have attempted to stem 
+the flow with the selective use of anomalous objects and phenomenon via Project 
+Thaumiel. It has not been nearly enough. 
+
+What we must do, then, is clear. We must be willing to live up to our creed and 
+give our final measure of humanity to the survival of mankind. If we wish to 
+defend humanity, we must transcend it. 
+
+If we must become gods or demons in order to guide humankind through the dark, 
+then so be it. 
+
+Once, we found the ritual of SCP-4884 to be madness. We believed it to be the 
+works of megalomaniacs disguised as prophets, and thought that if it were ever 
+achieved, normalcy itself might be threatened. 
+
+Now, we see clearly. SCP-4884 is nothing more nor less than a tool. In the 
+proper circumstances, it allows individuals to achieve unimaginable powers, 
+capable of both destruction and of preservation. It is a tool that is 
+desperately needed. 
+
+We may wish that there were a path for mankind's survival that would allow us 
+our souls, but one is not forthcoming, and the time for philosophical 
+squeamishness draws to a close. 
+
+No one else will protect us. We must stand up for ourselves.
+
+We secure. We contain. We protect.
+
+- O5-12
+
+Welcome to SCPNet, Director Forrester.
+
+You are viewing SCP-4884.
+
+
+Item #: SCP-4884
+
+Object Class: Thaumiel1
+
+Special Containment Procedures: Societies undergoing significant
+political and social instability are to be placed on Foundation
+Watchlist 4884-R-56-sR. Foundation personnel are to monitor external
+media and intelligence for individuals fitting the profile of
+SCP-4884-B instances. Confirmed SCP-4884-B instances not authorized by
+the Foundation are to be neutralized.
+
+In the event that an unauthorized SCP-4884-B survives and continues to
+perform SCP-4884-A for a period of longer than one year, Foundation
+personnel are to take steps to diplomatically and economically isolate
+the government of SCP-4884-B through the use of governmental contacts
+to leverage sanctions and form coalitions. The Foundation will conduct
+media blackout on stories relating to the person of SCP-4884-B,
+instead focusing on destruction, ill governance, and starvation caused
+by the governance of SCP-4884-B. If no such stories can be found,
+Foundation personnel are to fabricate them and oversee their
+dissemination through the media.
+
+If an unauthorized SCP-4884-B appears ready to complete SCP-4884-A,
+Mobile Task Force Rho-18 ("Deiciders") will undertake Standard
+Protocol Pentheus. Actions which formerly would have been unacceptable
+breaches of Foundation secrecy will be tolerated, so long as the
+completion of SCP-4884-A is prevented.
+
+The O5 Council, only with the concurrence of the Ethics Committee, is
+to only approve one instance of SCP-4884-A at a time. The approved
+SCP-4884-B instance (hereafter SCP-4884-B-1) is to be monitored for
+behavioral or other psychological abnormalities on a twice-weekly
+schedule.
+
+SCP-4884-B-1 is to be accompanied at all times by no fewer than three
+members of MTF Rho-18. In the event that SCP-4884-B-1 begins to take
+actions deemed inimical to the mission of the Foundation or to human
+life on Earth generally, members of MTF Rho-18 are authorized to
+terminate the instance.
+
+All D-Class personnel not deemed essential to ongoing projects are to
+be terminated on the last day of each week. During the course of the
+termination, personnel are to recite Hymn 4884-W-n-17.
+
+In the event of a site containment breach deemed to have a sufficient
+likelihood of fatalities, either to Foundation or non-Foundation
+personnel, Hymn 4884-X-e-22 is to be played over available public
+address advice.
+
+Description: SCP-4884-A is a multi-year theurgic ritual that afflicts
+states with underdeveloped and illiberal economies and political
+institutions. When performed, SCP-4884-A allows the practitioner to
+ascend to godhood2.
+
+The primary component of SCP-4884-A is its mass nature, whereby the
+performer (hereafter SCP-4884-B) must serve as a focus of political
+energies for a significant proportion of the population, intentionally
+leading the population into acts of increasing violence.
+Cross-referencing instances with historical records, it is clear that
+only one instance of SCP-4884-B may be active at a time.
+
+By definition, SCP-4884-A is most commonly performed in societies
+undergoing large-scale cultural and political instability. It is
+unclear how instances of SCP-4884-B become aware of the existence of
+SCP-4884-A, as no commonalities exist between the backgrounds of all
+recorded SCP-4884-B instances.
+
+During the performance of SCP-4884-A, SCP-4884-B will begin to
+manifest abilities including, but not limited to, telekenesis, astral
+projection, thaumaturgical prowess, and mass hypnosis. Non-anomalous
+individuals treat these manifestations of power as uninteresting and
+regular occurrences.
+
+The majority of instances of SCP-4884-B have occupied a
+middle-to-lower-middle position in society and do not play a
+distinctive role in the initial instability that creates conditions
+for SCP-4884-A.
+
+In order for SCP-4884-A to be completed properly, the following
+conditions must be met:
+
+Extensive economic and sociopolitical displacement of a self-defined
+political unit of no less than 500,000 people
+
+A significant struggle on the part of the aforesaid political unit
+against an external enemy or concept
+
+SCP-4884-B perceived as the sole leader by a large portion of the
+affected population
+
+No procedural or legalistic means to remove SCP-4884-B from their
+position
+
+Intentionally inflicted death on > 10% of the population of an
+affected area, either through war or internal policies
+
+Conscious affectation of propaganda indicating a heightened or divine
+status for SCP-4884-B
+
+Conscious identification of SCP-4884-B with the nation or political
+entity they lead
+
+The mean period for the performance of SCP-4884-A is five years, with
+the longest observed instance being twenty-eight years. As SCP-4884-A
+nears completion, SCP-4884-B will grow increasingly isolated and
+erratic, presumably reflecting their increasingly inhuman nature as
+well as gradual mental deterioration. Invariably, instances of
+SCP-4884-B will construct institutions of state terror and
+surveillance to ensure that their orders are carried out.
+
+Following the completion of SCP-4884-A, SCP-4884-B will presumably
+ascend to divine status and shed their human form, resulting in bodily
+death. To date, the Foundation has prevented every attempted
+completion of SCP-4884-A. Autopsies performed on the bodies of
+SCP-4884-B late in the process of performing SCP-4884-A instances
+indicate significant trauma to the prefrontal cortex, temporal lobe,
+and pineal gland, originating within and moving outward. The
+significance of this trauma is not fully understood.
+
+In the interest of preserving normalcy and the continued viability of
+baseline reality, the O5 council unanimously adopted a resolution to
+utilize SCP-4884-A. Despite multiple objections about potential risks,
+the O5 council moved on 17/2/2022 authorize the selection of a
+Foundation agent as a candidate for the status of SCP-4884-B
+(hereafter SCP-4884-B-1).
+
+On 18/7/2022, Alfred Percival "Mothman" DeLeon, a Foundation
+administrator with level 4 clearance, was selected to be the first
+authorized SCP-4884-B-1 instance. Factors in this selection included
+Dr. DeLeon's unwavering loyalty to the Foundation, susceptibility to
+authority, and lack of personal initiative. No Foundation personnel
+were made aware of this decision outside of the O5 and essential
+project staff.
+
+Foundation psychological operatives have begun a campaign of
+propaganda emphasizing the central role that SCP-4884-B-1 plays in all
+decisions made by the Foundation.
+
+On 22/7/2022, representatives of the Global Occult Coalition delivered
+an ultimatum from the Council of One Hundred and Eight3 to either
+discontinue the SCP-4884-B-1 program and terminate SCP-4884-B-1, or
+risk an Eighth Occult War.
+
+In a 6-5 vote with two abstentions, the O5 council chose to reject the
+demand. To supplement the potential strength of SCP-4884-B-1, the
+termination schedule of D-class personnel was revised from "as needed"
+to weekly.
+
+
+
+1. Previously Keter
+
+2. Here defined as an entity or consciousness not tied to a physical
+form, capable of performing manipulating and acting on a broad
+category of objects or concepts not physically present.
+
+3. See document 4884-e-T-97 for the full transcript
+
+
+Open Addendum 14-w-9
+
+Welcome to SCPNet, Director Forrester.
+
+
+You are viewing SCP-4884, Addendum 14-w-9.
+
+From the archives of the Comité d'Enquête Scientifique (CES), Paris,
+France, 1794.
+
+Adapted in 1908 from an original statement given by Gabrille Joseph
+Bonsaint, a Parisian lawyer and Jacobin club member present at the
+event.
+
+Date of Occurrence: 20 Prairial1, Year 2.
+
+Description of Occurrence: During a speech by Maximilien Robespierre2
+at the Jacobin Club, all sources of light in the building, as well as
+within a roughly four-block radius, were extinguished. Despite this,
+the audience, including Citizen Bonsaint, remained calm. Citizen
+Robespierre continued to speak without hesitation.
+
+After approximately one minute of darkness, C. Bonsaint noticed that
+C. Robespierre was including words of an unknown language in his
+speech. C. Bonsaint later explained that he understood the words
+perfectly, but was unsure if he could represent them into French "even
+with an entire book."
+
+The emphasis of the speech shifted from civic virtue and the necessity
+of the ongoing Terror, to myths "older than words, from a savage
+time," as the audience began to call back in response to C.
+Robespierre's rhetorical questions. An excerpt of C. Bonsaint's
+dictation of the speech is included below:
+
+Robespierre: Around dying fires and consuming meats spoiled with rot,
+the ancient Greeks would speak of the myths of Cronus3. When they
+spoke of the one who devoured those who would supplant him, a word
+meaning a sort of task that is inimical to the doer's sense of self,
+but is carried out with a grim satisfaction (sic). They recognized the
+suffering that would be wrought by the gods, as each sought to satisfy
+their own putrid lusts and appetites, dragging the world down in their
+corrupted divinity. When the time came, did the Greeks drown their
+diseased gods, holding them trashing beneath the waters, heedless of
+the death throes of a great culture laid low?
+
+Audience: Yes! Yes!
+
+Robespierre: And next, they sought refuge with the god of the Christ,
+who lived, so they tell, as a humble carpenter. But his church was
+destroyed from within by those who inherited of Bacchus and Aphrodite,
+those traitors to god who veiled their own perversity and corruption
+in the language of the simple carpenter. What is to be done? Man must
+be made virtuous, molded into righteous though he may kick against it
+as a thrashing beast or infant. Are we to abandon our search for
+divinity, and subsist it may be best summarized as the image of a
+starving child desperately clawing for hidden roots in barren ground
+(sic)?
+
+Audience: banging on floor and chairs No!
+
+Robespierre: Then will you follow me, until the end? To feed virtue,
+pure and eternal, and to be fed in turn? Will you see me torn away, to
+become it hurts to recall (sic)?
+
+Audience: more banging, crying We will! We will!
+
+At this time, C. Bonsaint reported that C. Robespierre emitted a
+strong white light from his person and clothing, such that it was
+unbearable to look at him. The light provided no illumination to
+objects other than C. Robespierre.
+
+After another five minutes of speaking, leading to increasing
+agitation from the audience, the lights spontaneously reignited. C.
+Robespierre stepped down from the speaker's platform and yielded the
+remainder of his time. When C. Bonsaint approached members of the
+audience afterwards, none could recall anything unusual about the
+speech.
+
+Location: Jacobin Club, Paris, France.
+
+Follow-up Actions Taken: None at the time. Following the death of
+Robespierre and the establishment of the Thermidorian government, all
+public copies of the speech were located and destroyed. New copies,
+excluding the unknown language, were then printed and redistributed
+throughout French archives.
+
+
+Footnotes:
+
+1. June 8, 1794. Despite the formal abolition of the French Republican
+calendar in 1806, the CES continued to use the dating system until its
+1849 consolidation into the Bureau des Phénomènes Inhabituels.
+
+2. Orator and lawyer active during the French Revolution. As a member
+of the dictatorial Comité de Salut Public, Robespierre oversaw the
+period of public executions known as the Reign of Terror, during which
+time nearly 17,000 Frenchmen were formally executed, as well as an
+unknown number killed in reprisals for previous uprisings and
+rebellions. Ultimately arrested and executed during the Thermidorian
+Reaction of July 27, 1794.
+
+3. Titan and father of the gods of Greek mythology. Famous for
+devouring his children to prevent his own downfall.
+
+
+
+Open Addendum 89-o-15
+
+
+Welcome to SCPNet, Director Forrester.
+
+You are viewing SCP-4884, Addendum 89-o-15.
+
+
+Personal correspondence of Charles George Gordon, commander of the
+常勝軍, or Ever Victorious Army1, Kunshan, Jiangsu Province, Qing Empire.
+Exact date is unclear, but context suggests late June 1864. Recipient
+unknown.
+
+
+My dearest Teddy,
+
+It is completed. The blasphemer, whose armies have inflicted such
+calumnies upon the chinaman2 is dead. It seems fitting that a man who
+lived a mockery of Christ should die as a mockery of Moses3.
+Doubtless, there will be further massacres as those who had the
+foolishness to follow him or the poor luck to reside in Nanjing are
+slaughtered by the Chinese forces, but the vitality has left the
+movement with Hong's death. One may feel it as one senses a storm
+dissipating.
+
+To think that I, in my early days in this accursed country, believed
+him to be a man of God. A wayward one, certainly, in need of
+correction, but one who was my brother in Christ nonetheless. "Beware
+of false prophets, which come to you in sheep's clothing, but inwardly
+they are ravening wolves."
+
+Although the news of the death of this madman ought to have brought me
+great joy, I find myself yet troubled. Li4 has passed onto me rumors
+from his multiplicity of spies and informers within Nanjing, from the
+most splendid of Taiping palaces to the lowliest of muck-shovelers.
+While all accounts contain some level of nonsense and bias, they
+return, in aggregate, to a simple theme: it was not always like this.
+
+In the early days of his preaching and even the rebellion itself,
+Hong's teachings and governance were compassionate, Christ-like, even.
+All speak of wondrous miracles performed by the man, although much of
+what is said is unlikely, even if heard in a children's tale.
+
+At a certain point, however, those under his command became more
+willing to brutalize peasants and other innocents, seeking it out,
+even to the detriment of their mission. At the same time, Hong's
+proclamations became more and more savage as he retreated ever further
+from view, withdrawing ever further from his people and even advisors.
+Paranoia addled him, leading to purges and counter-purges of the
+utmost cruelty. Within five years, his edicts, which had once flowed
+with an unrestrained elegance were nothing but mechanical admonitions
+to inflict the most brutal of torments upon the Taiping's enemies. His
+speech, it is claimed, once clear became addled with words of a tongue
+no one knew, but which all understood.
+
+This is not a surprise, I suppose. Napoleon was a committed republican
+until he had the chance to claim power for himself. Tiberius was a
+dutiful and just subordinate until he was raised to emperorship and
+lowered into depravity and cruelty. It is disheartening, yes, but by
+no means unheard of.
+
+But there is one detail that gives me pause. One of Li's informants in
+the court, watched as Hong gather the roots and weeds that he claimed
+were mana from God. At first, he spoke in the low, mechanical voice
+that he had long used, telling of a world yet to come.
+
+After several minutes, the informant reported that, for the first time
+in years, the false prophet seemed alive and fully awake. Between rote
+declarations about the mana he was procuring, Hong spoke with an
+elegance and passion that seemed to have left him. As he gathered
+great handfuls of the toxic plants, he seemed to have second thoughts.
+Hong begged and pleaded, claiming that the mixture would destroy him
+utterly, even as he heaped the plants into the cauldron, one by one.
+
+Hong then spoke again in that low voice, warning no one to interfere
+with his mana upon pain of death. He continued this way for several
+minutes, alternating pleading with admonitions to keep away. The
+guards and retainers were unsure of what to do.
+
+He then drank the poison and fell into convulsions as the court looked
+on. Several days later, he was dead.
+
+It seems obvious to me that such mad behavior can be reasonably
+attributed to a diseased mind. Nonetheless, I cannot help but feel
+something I cannot quite define about the whole affair. I shall speak
+with you about the matter when I return to England.
+
+Your friend and companion,
+
+Charlie
+
+
+
+Footnotes:
+
+1. A shock-combat army of the late Qing Empire, overseen by Western
+military officers and trained with the latest tactics and weapons.
+Instrumental in putting down several major revolts.
+
+2. Presumably a reference to 洪秀全 or Hong Xiuquan, the leader of the
+Taiping Rebellion and founder of the syncretic faith of "God Worship."
+After a series of visions, Hong claimed to be the brother of Jesus
+Christ and attempted to overthrow the Manchu-led Qing dynasty. Hong
+declared his territories to be 太平天囯 or Taiping Heavenly Kingdom, and
+instituted policies of gender equality, wealth redistribution, and
+genocide of the Manchu population. After fourteen years of brutal
+warfare, the Taiping were defeated, at a cost of 20-30 million deaths,
+both civilian and military
+
+3. While his capital of Nanjing was besieged by Qing forces, Hong
+claimed to his followers that weeds and wild vegetables were manna
+from God. Hong allegedly died from poisoning as a result.
+
+4. Likely a reference to 李鸿章 or Li Hongzhang, late Qing general and
+subordinate to Gordon.
+
+
+
+Open Addendum 290-F-11
+
+
+
+Welcome to SCPNet, Director Forrester.
+
+You are viewing SCP-4884, Addendum 290-F-11.
+
+
+Copies of personal and business e-mails from the personal computer of
+John Ellis Fredersen1, regarding the events leading up to the
+Pollensbee Incident. Although not confirmed, Fredersen is believed to
+have been an instance of SCP-4000-B2.
+
+
+From: fredersen@prometheus.net
+
+To: jmmoutree@prometheus.net
+
+Sent: 8:47 AM, January 2nd, 1991
+
+Subject: The End
+
+
+James,
+
+Happy New Year, and Happy New World. I imagine right now you're
+sleeping off your second or third hangover. You've earned it. We've
+earned it, together.
+
+In your wildest dreams, would you have ever thought that you would
+live to see all this? THe (sic) death of a world and the birth of a
+new one? A real chance to explore the unknown, drag it out, make it
+ours. Even in non-para things, you can see it. Connections,
+communication, information, progress into the future. Just competition
+and the pure market. Where we stop hiding from our shadows and take
+mastery of our own destiny? This is what we are building, together.
+
+Best,
+
+John
+
+P.S. Timofy also called - it sounds like the Sevastopol shipment is
+going to be right on time.
+
+
+From: fredersen@prometheus.net
+
+To: jmmoutree@prometheus.net
+
+Sent: 03:09 PM, September 19, 1992
+
+Subject: Billions and billions
+
+
+James,
+
+The payment from the Merchants just cleared. That's 280 million. We
+just cracked a billion. I want to highlight that it is Billion, with a
+B, the way Sagan says it. Billion.
+
+I'm trying very hard not to freak out. Think of what we can do with
+this.
+
+I've had a bottle of the most expensive champagne I could find sitting
+in a fridge, just waiting for this. I'm going to pop down to the lab
+and pick up that sabre we found, then we are going to drink this whole
+bottle ourselves!!!!!!!!!!!!!~!!!!!!!!!!!!!!
+
+-J
+
+
+From: fredersen@prometheus.net
+
+To: jmmoutree@prometheus.net
+
+Sent: 12:19 PM, January 2nd, 1993
+
+Subject: RE: Orpheus Project
+
+
+I understand your concerns about this, I just don't share them.
+
+Do you remember when we first started here? It was almost totally
+defunct, and the only thing we could think of where we could get our
+next batch of funding. Now that we have some breathing room, though, I
+can see much, much further.
+
+It's not about the money, not really. What we're doing is moving
+everything forward, through innovation and exchange. If I'm being
+honest, i tfeels (sic) like something even grander than that. Anyway,
+there's a reason you're the technical guy and I'm the ideas guy. Don't
+worry too much.
+
+-J
+
+
+From: fredersen@prometheus.net
+
+To: jmmoutree@prometheus.net
+
+Sent: 11:22 AM, May 1, 1993
+
+Subject: RE: FWD: MacNamara Projections
+
+
+What the fuck do you want from me? We move fast and sometimes things
+break. They were aware of what they signed up for - and it's not like
+their families are going to starve.
+
+If we nail this, the investors will climb off our asses and we move
+past designing toys for rich perverts and actually get back to what we
+wanted to do all along and build a better world. The Foundation won't
+touch us, the GOC won't touch us. We're on the cusp of something I
+can't even define - it feels bigger than '91, even. It's more
+important than the scientists, more than us, even. I can feel it - I
+just hope that you can too.
+
+- John
+
+
+From: fredersen@prometheus.net
+
+To: jmbourdeaux@prometheus.net
+
+Sent: 5:14 AM, August 29, 1995
+
+Subject: WIRED
+
+
+I know that you can still read your email, even though you shouldn't
+be able to. Don't worry - we'll catch you. In the mean time, here's
+the cover story from Wired. You'll notice that you don't see any
+mention of Bolivia3 or of accidents, or of any of the other whinging
+problems you couldn't stop pointing to.
+
+We used to dream about creating a revolution, but now I see that it's
+something far, far greater. We are building a better world, where man
+serves the market, not the other way around.
+
+When the story of Prometheus is written, all of that is burnt away,
+leaving only the shining success as a triumph of the market. It will
+be as though they never existed. It will be as though you never
+existed.
+
+I can feel it hum and suffuse every bit of me. I sense it in the
+crowds at our expo and when I speak on television. I will conquer it
+and make it asdejaiek (sic).
+
+
+Attachment: story.pdf
+
+
+From: fredersen@prometheus.net
+
+To: oconner@prometheus.net
+
+Sent: 3:49 AM, February 10, 1996
+
+Subject: RE: Structure
+
+
+Donald,
+
+I spoke with Michel4 about Botswana. The structural readjustment
+they're going to demand can include a provision that will allow
+Menoetius Finance5 almost free reign in the country. If this goes
+through, there will almost no limit to what we will be able
+edehaghanteatl (sic).
+
+The market doesn't care about health programs or mosquito netting. It
+cares about imports and it cares about exports and it cares about
+aggregates. If they have to strip the countryside bare and sell it for
+parts, then they should have considered it before they got into debt.
+If malaria breaks out because they can't afford eradication programs,
+then that is what the market demands. If it needs those deaths,
+eanotihouki (sic).
+
+Others tried to second-guess the market. Their bones now are scattered
+in the desolate places. I am moving towards the perfection, aklansec
+(sic). I speak its language and can move it as I please. The
+impossible things that we do are done because the market allows it,
+through me.
+
+Don't speak to me again about "can't."
+
+John
+
+
+From: fredersen@prometheus.net
+
+To: gardner@prometheus.net
+
+Sent: 02:32 AM, June 19, 1997
+
+Subject: Acquisition
+
+
+Do you doubt me? Rama6 must be destroyed. The only rule is to follow
+our own interest. We benefit by their destruction. If they grow, we
+shrink. By hunting, we strengthen the world.
+
+I wonder if sometimes only I can sense it. In the chants of the
+brokers as a panic rises and crests. The words between words in World
+Bank reports. The motions of value as they pirouette above you in an
+abstracted place beyond meaning. It will reveal itself, olmanoec
+(sic), but it requires more.
+
+More consumption. More life. More of those who have their last full
+measure taken.
+
+It doesn't need pity or mawkish concerns about legality. Do it.
+hinousouziaat
+
+
+From: fredersen@prometheus.net
+
+To: jmmoutree@prometheus.net
+
+Sent: 35:97 AM, August 30, 1997
+
+Subject: atlanoec (sic)
+
+
+I hope it hurt. It must have, having your nerves and muscles pull
+themselves apart. You thought you might escape in the Library. It took
+power to find you. sanextopl (sic).
+
+Now, I can feel power and know how to use it. I know how to build
+olmeecal (sic). I wonder if you ever read newspapers from back on
+Earth and read about stocks and currencies rising and then, all at
+once, crashing back down. I fed the market, with billions of dollars
+in value, opaxco (sic). There will be austerity and restructuring and
+the market will feed a long time on corpses. Starvation and disease
+work as well as bullets.
+
+For my service, she has fed me. arkheedanan (sic). I draw nearer to
+her, and I can feel my path growing narrower. But I am not afraid,
+because I know that at the end lies something indescribable.
+
+
+From: fredersen@prometheus.net
+
+To: all@prometheus.net
+
+Sent: 1:08AM, June 1, 1998
+
+Subject: teolanec (sic)
+
+
+I've done it. It moves through me as I move through it - all exchange,
+all meaning. From the pyramid I have constructed, I can see huehuantec
+(sic). It is time for us to move beyond simple tinkering. I have need
+of you one last time. amarisa (sic).7
+
+
+Footnotes:
+
+1. Corporate Executive Officer of Prometheus Labs, Inc. 1990-1998.
+Named one of Forbe's Richest Men in the World 1995-1998, and one of
+Foreign Policy Magazine's Top 100 Thinkers 1996-1998. In the wake of
+his 1998 disappearance, Prometheus Labs filed for bankruptcy and was
+dissolved
+
+2. See Addenda 599-r-82 and 617-wM-7
+
+3. Meaning unclear - possibly a reference the January 1995 explosion
+at Prometheus Labs' facility in Potosí
+
+4. Presumably, Michel Camdessus, managing director of the
+International Monetary Fund
+
+5. Bank holding company owned and operated by Prometheus Labs, Inc.
+The anomalous financial dealings of Menoetius led to the creation of
+SCP-8781 and KTE-6135-Mamon, among others. Since the destruction of
+Prometheus Labs, the company has been under the direct financial
+control of Marshall, Carter, & Dark, Ltd.
+
+6. Rama Technologies, Ltd., a Seattle startup firm dedicated to to the
+development of paratechnology. CEO Jan Terwilliger was found dead in
+his apartment on June 21, 1997, "torn apart," according to Seattle
+Police Department records. Foundation personnel investigated but found
+no significant leads. Rama declared bankruptcy in July 1996 and was
+acquired by Prometheus Labs, Ltd.
+
+7. On June 1, 1998, an shockwave emanated from the Prometheus Labs
+facility in Pollensbee, NV, leveling the building. Spatial and
+temporal distortions spread across the city, necessitating a
+quarantine of the entire city in order to prevent a possible expansion
+of reality distortion. Due to the unstable nature of the area,
+Foundation personnel have not been able to conduct extensive
+exploration. Because temporal distortion, Foundation personnel have
+been able to interview multiple Prometheus Labs workers killed in the
+shockwave (see Interview Logs 4000-w-Re-007 through -958 for more
+information). To date, Foundation personnel have not been able to
+locate John Ellis Fredersen.
+
+
+
+You have one new email.
+
+Priority: URGENT
+
+
+
+Welcome to SCPNet, Director Forrester.
+
+You are viewing New Email.
+
+From: L.S.
+
+To: forrester@foundation.org
+
+Sent: 8:47 AM, August 11, 2022
+
+Subject: God-Building
+
+
+T -
+
+I have always known you to be one of the Jailors, even though you have
+attempted to dissemble on the matter. Nevertheless, I still consider
+you an ally and a friend.
+
+In the past, we could always count on your willingness to fight for
+what you considered right, no matter the cost. I hope that is still
+the case.
+
+You cannot stop the madness of the Foundation, at least, not head-on.
+An apotheosis may be troubled and delayed with the right inputs,
+however. We will send further information when the time is right.
+
+There will come a time, very soon, when you must decide whether your
+cause is that of the Foundation, or that of humanity.
+
+- L.S.
+
+attachment
+
+
+The Theophage
+
+Other names: The Devourer; The Tiger Between Skies; The False Herald,
+SCP-4884
+
+Conspectus
+
+A creature hungering for divine flesh. There is no limit to the power
+which those who sacrifice themselves can achieve, so long as they
+provide sacrifices to the creature. At first, the Theophage contents
+itself with small offerings of broken laws or human lives. Gradually,
+however, the creature demands more its prey, demanding its very nature
+- from its principles to its former allies to its very sense of self.
+The more the Theophage receives, the more it feeds its prey on
+assurances of their right path. The Theophage raises its prey to
+apotheosis, then the moment of ascension, the Theophage pounces,
+devouring the new godling whole.
+
+Illustration
+
+The Theophage has no physical form, although those who think in only
+three dimensions may find the comparison with an ant-lion larva to be
+a useful one. Other metaphors include the angler fish, the lesser
+ravelwood snipe, and the Venus fly trap - QD
+
+Knowledge
+
+Traits: The Theophage exists out of time and out of space. To say it
+has a "home" or a "dwelling" is as absurd as claiming that a clock has
+a favorite tea. That being said, the creature seems drawn towards
+periods and places of great instability, particularly those in which
+there is possibility for long-term change in the political and social
+life of the environment. It is not known whether or not this
+preference stems from instinct or a pre-cognitive ability to determine
+the future.
+
+The Devoured shall be described here only briefly1. As the Devoured
+grows in temporal power, too does the scope of its action and choice
+narrow. As it nears its apotheosis, it is little more than a
+marionette, reacting instinctively towards outside stimuli.
+
+Nature: The Theophage is capable of dormancy for decades, presumably
+even centuries at a time2. Once, it was believed that its coming was
+effected by the performance of an elaborate and vicious ritual known
+only as the Slaughter of the Ratking's Children, but this is now
+widely recognized as false. Instead, it is drawn by upheaval -
+cultural, political, social, or economic - to its prey.
+
+Once it has selected its space-time for hunting, the Theophage selects
+its Devoured. The methodology whereby it selects the Devoured is
+unclear - some speculate that it marks the most exceptional
+individuals yet waiting to be raised to greatness, others believe that
+marks its victims by their single-mindedness and drive. A less popular
+but more coherent school of thought holds that the Theophage selects
+its victims through the preference of zodiac symbolism.
+
+Once the Devoured is marked, it and the Theophage enter into a
+symbiotic relationship. The latter provides power, both over
+individuals and the tides of fortune generally. The rivals and enemies
+of the Devoured are sidelined, events work out in their favor, and
+they come to be, both in perception and fact, the undisputed leaders
+of their movements. The disruption that summoned the Theophage becomes
+increasingly associated with the Devoured, until the Devoured becomes
+the iconic personage of the disruption. Often, they will become the
+foci of extranormal events, although we do not know if this is
+intentional or not. In many cases, the Devoured becomes associated
+with divine status.
+
+The Devoured, in exchange for its power, begins to divest itself from
+all that once made it human. The Theophage has no need of friends and
+comrades - the Devoured will purge them from its life. So too are
+personal idiosyncrasies, mercy, and principle all stripped away. The
+Devoured becomes more isolated from its followers, to the point that,
+near the end of its life, it will only communicate with a select
+handful.
+
+As the Devoured draws closer to the jaws of the Theophage, any agency
+it once possessed will wither away into nothing. Its entire being
+becomes enmeshed in its ascension. Where once it sacrificed bodies to
+feed a principle, now it will do so only to sustain its power. Often,
+the Devoured will begin to speak words of images, not known but
+understood.
+
+When the hour and minute call for the Devoured to ascend, that is when
+the Theophage strikes. Its exact processes are difficult to explain to
+a three-dimensional creature, but a useful3 image may be pouring ink
+into a pitcher of water. The essence of the Theophage overtakes and
+consumes that of the godling, reducing them to oblivion in an instant.
+
+Due to the interference of the Theophage, the Devoured invariably
+serves as the keystone for its revolution. With the death of the
+Devoured, the revolution collapses, sometimes into reaction, sometimes
+into anarchy, always destroying those it sought to aid.
+
+The essence of the Theophage is inherently inimical to three
+dimensional space4, and will begin to tear and bite at the physical
+form of the Devoured from within. The physical form is destroyed, the
+being of the Devoured is utterly obliterated, and the Theophage is
+satiated for a time.
+
+History & Associated Parties: It is questionable to speak of the
+history of an entity such as the Theophage, as it moves as easily
+through time as we through space. The first instance of confirmed
+activity by the Theophage dates back to the Napoleonic Wars, although
+Hand informants have speculated that Jean-Paul Marat or Enrico Dandolo
+may well have been its first slaves.
+
+To list the countless petty tyrants and warmongers who found
+themselves in the grip of the Theophage would be as cataloging the
+grains of sand on a beach, so we will refrain.
+
+The creature does not appear to have any consistent behavior as
+regards time, glutting itself for years, then remaining dormant,
+creating a frenzy in a week in one case, then building slowly to a
+crescendo over decades in another.
+
+There are several foolhardy and erstwhile members of the Serpent's
+Hand who have attempted to appropriate the power of the Theophage for
+themselves. Of the destruction of these qusilings, read below in
+"Approach."
+
+Approach: To approach the Theophage is to court Oblivion itself. Those
+who have attempted to destroy or otherwise attack it have found their
+corporeal bodies rent by the many servants of the Devoured, and their
+souls subjected to the full wrath of a gullet stuffed with divine
+flesh.
+
+There are those who have attempted to parlay with the creature, under
+the mistaken impression that it is interested in exchange rather than
+consumption5. Every attempt has concluded in tragedy.
+
+Members of the Hand who encounter those unfortunate souls who become
+the Devoured are encouraged by all to end the Devoured as soon as
+possible. Although difficult and often fraught with danger due to the
+power of the Devoured, it is best for all, not least the Devoured
+themselves, whose souls may yet remain their own.
+
+Doubt
+
+We maintain with utmost certainty that the Devoured are not destroyed
+utterly, but are merely reduced to a state of non-existance. As ghosts
+are to mortals of the third dimension, so too are these shades of the
+Devoured to the fifth. To capture and consume one of these spirits
+without body or essence, and yet with being, would be a day of
+wonder6.
+
+- Claren of the White Hand
+
+We know that the Theophage exists out of time. Still, we have assumed
+that its feedings are entirely random - now a Mexican revolution, then
+something minor like Sternberg's Mongolia, then again to the rise of
+the Iron Guard. What if this is not the case - what if, from its point
+of view, the Theophage is building its power, selecting one after the
+other of increasingly catastrophic events as its meals?
+
+What is it building to? What can we do? We can even be done?
+
+- E.X.
+
+
+Footnotes:
+
+1. For more information on the Devoured, review the Serpent's Hand
+entry on the Blinded Messiah, South-by-South-Western quadrant,
+sub-basement 3, Shelf 289 Southeast Redtooth, row 541.
+
+2. It exists outside of time, so to say it can wait decades means
+nothing - Salt
+
+3. And, it should be noted, incorrect in every meaningful way- Abd
+al-Rahim
+
+4. Thorrensen's Flatlands and Roundlands: A Guide To Extra-Dimensional
+Concerns may be of use to the uninitiated. - FZ
+
+5. Even those who are of the Hand have fallen prey to the Devourer -
+most recently, our erstwhile associate Juhayman al-Otaybi became
+transfixed and consumed by the creature, leading to the complete
+destruction of all magical entities within the Hejaz. - MG
+
+6. What the fuck is wrong with you? - F
+
+

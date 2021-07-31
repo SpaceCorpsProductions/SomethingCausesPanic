@@ -1,0 +1,477 @@
+                                    SCP-3844                                    
+                                    ========                                    
+
+                                To Slay A Dragon                                
+                                ----------------                                
+
+NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are currently viewing an out of date version of this file that has been 
+preserved for posterity. Please note that information presented herein may be 
+misleading or incorrect. 
+
+Uploader Note: The following documentation is the earliest Foundation record of 
+SCP-3844. However, this was originally drafted before the Foundation formalized 
+the process of describing containment procedures and anomalies. It is archived 
+here solely for posterity. 
+
+Correspondence From The Dolomite Mountains Regarding Anomalous Activity
+
+21st of April, 1906
+
+Dear Fredrick,
+
+A dragon. There was a dragon in the mountains. And it looked just like we'd 
+imagined. 
+
+Galviston and I had to follow our guide for about six hours before we first saw 
+the beast. It soared over one peak, let out a low roar that loosened snow from 
+the mountainside, and then dived out of sight. Its wings blocked out the sun 
+like a cloud passing over head. I wish the whole lab could have seen it. 
+
+It took us another two hours to reach the dragon's cavern. It was a massive 
+cave, filled with gems and goblets and other such valuables. We never reached 
+the end of that cave, but judging from the echoes our footfalls made, we 
+would've needed rations to make it there. 
+
+We gave up our search for the dragon for the day, thinking it was still flying 
+about, and started our return trek to the outside. And then, just as we summited 
+the last hill of treasure, we heard that roar. We froze, unsure if the noise 
+came from our front or our back. The tension only faded after it spoke. 
+
+It welcomed us as guests.
+
+The dragon motioned for us to come closer as it ambled in front of the maw of 
+the cave. It had an accent like yours! Except lower and more gravelly. It took 
+Galviston and I a few moments to come to our senses, and our guide a few more. 
+
+The beast was quite the gentlemen if I do say so. It changed its form to 
+resemble a young man to make us feel more relaxed. I held a lengthy discussion 
+with it while Galviston took notes. It was surprisingly well-versed in 
+modern-day affairs. When I introduced ourselves as men of science, it called us 
+"a new age of knights". 
+
+But do not fret, I did my duty. I'm surprised it worked, given our extreme lack 
+of resources. I negotiated reasonable terms to keep the dragon contained within 
+the Dolomites. I've transcribed the exact operating procedure below, but it 
+agreed in writing. I can only hope it doesn't double cross us. But until then, 
+those Italian officials should be content with our work, even if we've never 
+handled an anomaly this massive before. 
+
+I will return once I've met with the Italians again to organize the whole 
+affair. Next time Fredrick, you'll come with us. You and George and the whole 
+lab! Words cannot do this majestic beast justice. I'll bring some gin so we can 
+drink together one day. 
+
+Sincerely, Lester
+
+Here are the negotiation terms:
+
+The dragon known as Tharnock (henceforth "The Anomaly") has agreed to:
+
+Limit expeditions from its abode to one (1) time per day.
+Expeditions will remain within the confines of the Dolomite Mountains, and will 
+maintain a low elevation. 
+Refrain from vocalizing during expeditions.
+In return, the Anomaly Investigation Foundation (henceforth "The Foundation") 
+has agreed to: 
+
+Recruit one (1) ambassador to interact with The Anomaly once per week.
+Punish any attempts to steal valuables from The Anomaly.
+To maintain the secrecy of The Anomaly, the Nation of Italy (henceforth "The 
+State") will: 
+
+Discourage civilians from entering the Dolomite Mountains.
+Discredit any accounts of The Anomaly.
+Page revision 1/4 from 04/21/1906
+
+Next iteration from 08/12/1941
+
+
+SCP-3844
+
+NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are currently viewing an out of date version of this file that has been 
+preserved for posterity. Please note that information presented herein may be 
+misleading or incorrect. 
+
+
+Item #: SCP-3844
+
+Object Class: Euclid
+
+Special Containment Procedures: While proper facilities are under construction, 
+SCP-3844 is to be contained at its dwelling within the Dolomite Mountains. A 
+100m x 100m perimeter is to be regularly patrolled by Foundation personnel to 
+ensure no civilians come into contact with SCP-3844. 
+
+Anti-aircraft artillery is to be positioned around SCP-3844's dwelling. 
+Artillery is to fire at any airborne entities over the containment perimeter. 
+Any evidence of the existence of SCP-3844 is to be attributed to bombing runs. 
+
+Once a week, one D-Class is to be sent to interact with SCP-3844. Stealing items 
+from SCP-3844 is prohibited. 
+
+Description: SCP-3844 is a winged reptile, measuring 73.76m from tail to head 
+with a wing span of 67.42m. It is estimated to mass 27,000kg. SCP-3844's scales 
+are of a purple hue, except around the stomach where they are much lighter. 
+SCP-3844 is capable of expelling fire at 3400°C from its mouth through an 
+unknown method. 
+
+SCP-3844 is capable of speech in at least 14 languages, and has an extensive 
+knowledge of world events. During interactions with personnel, SCP-3844 takes on 
+the form of an adult male human, however SCP-3844 can mimic the appearance of 
+any human. 
+
+SCP-3844 inhabits a cavern that contains a currently unquantified amount of 
+valuable metals. SCP-3844 often burrows underneath these materials, where it 
+presumably sleeps. 
+
+Addendum: The following is a transcript of an interview between Dr. Lester 
+Fegmont and SCP-3844. 
+
+<Begin Log>
+
+Fegmont: Good evening.
+
+SCP-3844: Lester! It's been decades, I believe. Although I guess you never 
+specified a time for your return visit. Or circumstances. 
+
+Fegmont: I'm sorry about the err… updates, but war time calls for extreme 
+measures. 
+
+SCP-3844: Ah, so the new-age knights still fight old-time battles.
+
+Fegmont: I wouldn't say that we fight really. We just make sure the battles 
+don't expose things people aren't supposed to see. 
+
+SCP-3844: Like me?
+
+Fegmont: Yes, like you. But trust me, there are much, much worse things.
+
+SCP-3844: I see. Did you at least bring the gin this time?
+
+Fegmont: [smiles] I might run the show around here, but I still can't drink on 
+the job. 
+
+SCP-3844: [laughs] Next time, then.
+
+Fegmont: Of course.
+
+SCP-3844: And will I ever be allowed to fly again?
+
+Fegmont: Hopefully. But not before the war ends.
+
+SCP-3844: The war is your whole world, isn't it?
+
+Fegmont: Not so much. Governments just pay us to keep anomalies out of the hands 
+of the other side. Can't imagine what would happen if people got ahold of 
+anomalous rifles or— 
+
+SCP-3844: Dragons.
+
+Fegmont: Yes, dragons.
+
+Silence.
+
+SCP-3844: Do you still perform research like you used to? I remember how you 
+spoke of the lab. 
+
+Fegmont: We do. We do. One day, this war will end, but others of uh… your type 
+show no signs of slowing down. 
+
+SCP-3844: Sharpening your swords.
+
+Fegmont: I guess that's the apt analogy.
+
+SCP-3844: And your fellow men eye me the same way knights did too. Like a prize.
+
+Fegmont: They're just taking the measurements I should've made when we first 
+met. I'll come back when we discover new things to evaluate. 
+
+SCP-3844: And at the end of the war, right?
+
+Fegmont: And at the end of the war.
+
+SCP-3844: I do hope I can trust you to uphold that.
+
+Fegmont: Of course you can. But until then, do you have any further questions? I 
+believe all of mine have been answered. 
+
+SCP-3844: Don't worry about me when there are larger issues at hand. You have a 
+war to fight after all. 
+
+<End Log>
+
+
+NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You are currently viewing an out of date version of this file that has been 
+preserved for posterity. Please note that information presented herein may be 
+misleading or incorrect. 
+
+Changes from the previous iteration are highlighted in blue
+
+
+Item #: SCP-3844
+
+Object Class: Euclid
+
+Special Containment Procedures: While proper facilities are under construction 
+SCP-3844 is to be contained at its dwelling within the Dolomite Mountains. A 
+100m x 100m perimeter is to be regularly patrolled by Foundation personnel to 
+ensure no civilians come into contact with SCP-3844. 
+
+Anti-aircraft artillery is to be positioned around SCP-3844's dwelling. 
+Artillery is to fire at any airborne entities over the containment perimeter. 
+Any evidence of the existence of SCP-3844 is to be attributed to bombing runs. 
+Artillery is only to be used in the event of a full scale containment breach. 
+
+Once a week, one D-Class member of the SCP-3844 project is to be sent to 
+interact with SCP-3844, and take temperature and radiation measurements. A team 
+of researchers are to take size measurements, perform IQ tests, and determine 
+the maximum temperature of fire SCP-3844 can expel once per month. Personnel 
+caught stealing items from SCP-3844 are to be disciplined accordingly. 
+
+SCP-3844 is to be provided with the following reading material as part of its 
+monthly measurements: 
+
+Time Magazine
+
+Science Magazine
+
+Nature Magazine
+
+Communications of the ACM
+
+Description: SCP-3844 is a winged reptile, measuring 73.76m 50.22m from tail to 
+head, and with a wing span of 67.42m 42.78m1. It is estimated to mass 27,000kg 
+18,000kg. SCP-3844's scales are of a purple blue hue, except around the stomach 
+where they are much lighter. SCP-3844 is capable of expelling fire at 3400°C 
+from its mouth through an unknown method forcefully expelling a methane vapor 
+from its mouth (achieving temperatures as high as 1950°C), and igniting it 
+through unknown means. 
+
+SCP-3844 is capable of speech in at least 14 7 languages, and has an extensive 
+moderate knowledge of world events. During direct interactions with personnel, 
+SCP-3844 takes the form of an adult male, however SCP-3844 claims it can mimic 
+the appearance of any human. 
+
+SCP-3844 inhabits an immense cavern that contains a currently unquantified 
+amount of valuable metals 2.69x106kg of valuable metals (approximately 2.6 
+billion US dollars). SCP-3844 often burrows underneath these materials, where it 
+presumably sleeps. 
+
+In conversation, SCP-3844 has confirmed that it is the inspiration behind a 
+number of european myths involving dragons. It also claims to be the model for 
+the Welsh flag2. 
+
+Addendum: The following is a transcript of an interview between Dr. Lester 
+Fegmont O5-2 and SCP-3844. 
+
+<Begin Log>
+
+SCP-3844: I see you've finally returned. A few years late, but I guess that's 
+only to be expected. 
+
+O5-2: Yes, I guess I am a little late. Sorry about that.
+
+SCP-3844: Don't worry about it. You're obviously busy, and in the meantime, I've 
+had all manner of new reading material. How long had you known about the nature 
+of light? 
+
+O5-2: [smiles] Decades at least.
+
+SCP-3844: And the inner workings of our smallest building block?
+
+O5-2: We cracked open the atom during the war.
+
+SCP-3844: Before long you might have an explanation for my kind!
+
+O5-2: Well, you'd be surprised how far science can get you. My division has 
+discovered that some things aren't even anomalous in the first place. 
+
+SCP-3844: So, has science finally found a way to let me stretch my wings?
+
+O5-2: Unfortunately, due to certain advances in radar, we can't risk you leaving 
+the cavern. However, I've asked others to devise a way to possibly… expand 
+your home. 
+
+SCP-3844: Oh have you? I'm looking forward to this now.
+
+O5-2: I do have to be on my way. Hopefully I will see you again.
+
+SCP-3844: I hope so as well.
+
+<End Log>
+
+Page revision 3/4 from 03/22/1984
+
+Footnotes
+1. According to most recent measurements.
+2. "I used to be red you know. A vibrant red to match the fire I'd breathe. 
+Those were indeed good days." 
+
+Next iteration from 11/04/2007
+
+NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION
+You are currently viewing the most recently updated version of this file.
+
+Changes from the previous iteration are highlighted in blue
+
+Item #: SCP-3844
+
+Object Class: Euclid Neutralized
+
+Special Containment Procedures: The remains of SCP-3844 are to be kept in a 
+standard containment locker for non-anomalous materials. The former location of 
+SCP-3844's dwelling is to be inspected once every 72 hours for possible 
+anomalous activity. 
+
+Description: SCP-3844 is was a winged reptile, measuring 50.22m 10.30m from tail 
+to head, and with a wing span of 42.78m 8.33m1. It is was estimated to weigh 
+18,000kg 235kg. SCP-3844's scales are were of a pale blue hue, except around the 
+stomach where they are much lighter were completely white. SCP-3844 is was 
+capable of forcefully expelling a methane vapor from its mouth (achieving 
+temperatures as high as 1950°C), and igniting it through unknown means through 
+an instantaneous application of thaumaturgical incantation #043. 
+
+SCP-3844 is was capable of speech in 7 at most 2 languages, and has moderate had 
+little knowledge of world events. During interactions with personnel, SCP-3844 
+takes took the form of an adult male, however SCP-3844 claims it can claimed it 
+could mimic the appearance of any human2. 
+
+SCP-3844 inhabits inhabited an immense cavern that contains contained 
+approximately 5.22x104kg of valuable metals (approximately 2.6 billion 13.4 
+million US 1984 dollars). SCP-3844 often burrows burrowed underneath these 
+materials, where it presumably sleeps. 
+
+In conversation, SCP-3844 has had confirmed that it is the inspiration behind a 
+number of european myths involving dragons. It also claims claimed to be the 
+model for the Welsh flag3. 
+
+Addendum: The following is a transcript of an the final interview between O5-2 
+and SCP-3844 before SCP-3844 attempted to breach containment. 
+
+<Begin Log>
+
+SCP-3844: Why, hello. I'm a little surprised you showed up.
+
+O5-2: You did ask to speak with the person in charge of your containment. I've 
+been doing this since the beginning. 
+
+SCP-3844: It's not that I expected you to decline my request. I'm surprised 
+you're still upright instead of laying down under the earth somewhere. 
+
+O5-2: I mean, it's nothing special. I tried to refuse, but the council insist 
+they keep their figure head in pristine condition. It's just a bit of 
+thaumaturgy and temporal technology. 
+
+SCP-3844: It's magic, is what it is.
+
+O5-2: Everything is science when you examine it for long enough.
+
+SCP-3844: That is more or less what I've learned over that past century or so. 
+Which is really too bad. 
+
+O5-2: How so?
+
+SCP-3844: Have you ever looked up at the stars as of late?
+
+O5-2: Not really, no.
+
+SCP-3844: Regardless, can you tell me what you would see?
+
+O5-2: Stars?
+
+SCP-3844: But what are stars?
+
+O5-2: Balls of flaming gas. If you want me to be more specific I could list 
+their chemical components. 
+
+SCP-3844: No, that's fine. I've read up on them myself. However, do you know 
+what a duke once told me many, many years ago when I asked him the same thing? 
+
+O5-2: I believe he would've given a much less accurate answer.
+
+SCP-3844: He said, "They're little lights from the heavens." His voice spoke 
+with awe, much like yours when we first met. 
+
+O5-2: Are you grieving over the advancement of science? Upset that we can now 
+understand you? 
+
+SCP-3844: No, I'm mourning the death of spectacles and miracles. I wish I could 
+embrace science, but it takes away so much of what I enjoy about this world of 
+ours. It appears I'm allergic to the stuff. 
+
+O5-2: Well, I don't have much I can do about that.
+
+SCP-3844: I understand. It's fine. I think I'll finally have to break our 
+agreement, although in fairness you did not exactly uphold your end. 
+
+O5-2: I can't just let you leave.
+
+SCP-3844: I see no way for you to stop me. I really must be going. My wings have 
+not felt the rush of air in a century, and I can hear my kin's beck and call. 
+
+O5-2: You seem quite confident.
+
+SCP-3844: Confidence is all I have left. I don't want to believe that the world 
+doesn't need its whimsy anymore. 
+
+<End Log>
+
+SCP-3844 was terminated by the anti-aircraft artillery stationed around its 
+dwelling. However, inspection of SCP-3844's projected trajectory uncovered the 
+remains of a non-anomalous Draco volans4. 
+
+Additionally, the location of SCP-3844 no longer contained a large cavern, but 
+instead a small hole, approximately 1m deep, and 2m in diameter. 
+
+Page revision 4/4 from 11/04/2007
+
+Upload New Iteration
+
+
+
+Footnotes
+
+1. According to most recent measurements.
+
+2. This claim has yet to be corroborated by any evidence.
+
+3. "I used to be red you know. A vibrant red to match the fire I'd breath. Those 
+were indeed good days." 
+
+4. A species of lizard known as the "common flying dragon"
+
+
+
+Loading New Iteration...
+
+NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+The following is a provisional document, and may contain incorrect or incomplete 
+information. This document is to be updated as investigation progresses. 
+
+Item #: SCP-3844
+
+Object Class: Keter (pending review)
+
+Special Containment Procedures: O5-2 has been assigned to oversee the 
+investigation of SCP-3844 and the development of appropriate long-term 
+containment procedures. Until this time, O5-2 will act as necessary to ensure 
+the Foundation's objectives are met in regards to the anomaly. 
+
+Description: SCP-3844 is the collective designation for numerous, large, winged 
+lizards located within the Himalayans, Rockies, Appalachians, Andes and 
+Dolomites. 
+
+Uploader's Note: Dragons. There are still dragons in the mountains.
+
+Page revision 5/5 from 8/31/2020
+
+Document successfully updated.
+
+

@@ -1,0 +1,511 @@
+                                    SCP-4939                                    
+                                    ========                                    
+
+                              The Man on the Moon                               
+                              -------------------                               
+
+Item #: SCP-4939 
+
+Object Class: Safe 
+
+Special Containment Procedures: SCP-4939 is self-containing within its 
+documentation file. 
+
+Description: SCP-4939 is an anomalous error within the Foundation database 
+attached to the statement listed below. 
+
+Upon clicking an individual word in the statement below, the subject will be 
+redirected to a series of Foundation documents, the majority of which seemingly 
+belong to an alternate timeline, i.e. documentation of undiscovered anomalies. 
+
+SCP-4939: 
+
+A starlight dance. 
+
+
+
+SCP-4939
+
+Item #: SCP-8999
+
+Object Class: Simpatico1
+
+Special Containment Procedures: SCP-8999 is to be housed in a standard
+Animalia kingdom class containment unit in Lunar-Site-04. SCP-8999 is
+to be fed two (16oz) proportions of dry dog food daily.
+
+SCP-8999 is to wear a muzzle at all times unless approved for testing
+or feeding. To access SCP-8999, permission from personnel of "Lunar
+Staff" Level 4 security clearance or higher is required.
+
+Following 08/09/1983, SCP-8999 has been assigned a primary caretaker
+for maximum psychological health, that being Dr. Axel Rivas.
+
+Description: SCP-8999 is a canine specimen derived from a Canis lupus
+familiaris (Siberian husky). Before gaining its anomalous properties,
+SCP-8999 was raised as a part of the Foundation's program training
+animals to thrive in space, "Lunar Animals" for testing. SCP-8999,
+previously known as "Lucy" was the fittest for space travel at the
+time the next flight was planned.
+
+SCP-8999 gained its anomalous properties upon drinking water from the
+Nyx River in the Cabeus Crater near the south pole of the moon. Within
+minutes of drinking the water, SCP-8999 became unaffected by the
+reduced level of gravity. Additionally, SCP-8999 gained the ability to
+naturally survive without oxygen. Most notably, SCP-8999 has developed
+a series of bark and quadrupedal movement combinations which result in
+automatic shifts of the current lunar phase.
+
+Addendum 1: Combination Input/Moonphase Output
+
+The following is a comprehensive list of SCP-8999's discovered bark
+and quadrupedal movement combinations which result in automatic shifts
+of the earth's moon's current lunar phase:
+
+Bark Type	
+
+Quadrupedal Movement(s)	
+
+Lunar Phase
+
+
+Three loud barks	
+
+Two steps forward	
+
+Third Quarter shifts to Waxing Cresent
+
+
+A low whimper	
+
+Two steps backwards	
+
+Waxing Gibbous shifts to First Quarter
+
+
+A growl	
+
+One step forward	
+
+First Quarter shifts to Waxing Gibbous
+
+
+A yelp	
+
+Three steps backwards	
+
+Waning Gibbous shifts to New
+
+
+No sounds were made	
+
+1 full spin, followed by sitting down	
+
+First Quarter shifts to First Quarter
+
+
+A howl	
+
+Three steps forwards	
+
+Full shifts to Third Quarter
+
+
+Two whines	
+
+Two steps backwards	
+
+First Quarter shifts to Waxing Gibbous
+
+
+Addendum 2: Satellite Incident
+
+On 09/021/1983, a NASA satellite captured an image of Dr. Rivas taking
+SCP-8999 for testing on the Dorsa Rubey of the moon. Dr. Rivas can
+survive the moon's exosphere without any protective gear, thus was not
+wearing any. This image was secured by the pentagon and transferred to
+the Foundation without incident. Any NASA officials who saw the image
+were amnestised.
+
+Dr. Rivas has been ordered to wear non-functional protection gear when
+straying from any of the Lunar Sites to prevent an incident of this
+calibre from happening again. Dr. Rivas expressed high levels of
+stress the following week of the incident, prominently remaining
+within the non-oxygen equipped rooms of Lunar-Site-19, and requested a
+week break from his work with SCP-8999.
+
+
+
+Footnotes
+
+1. Item is unpredictable but not dangerous.
+
+
+
+SCP-4939
+
+Item #: SCP-7077
+
+Object Class: Safe (SCP-7077 is currently undergoing neutralization)
+
+Special Containment Procedures: SCP-7077 is to be monitored via the
+Foundation's The Inventa. Monthly checks are to be carried out until
+SCP-7077 has dissipated entirely and permanently, confirming
+SCP-7077's neutralization.
+
+SCP-7077-1 is to be kept in a standard humanoid containment chamber
+within Lunar-Site-10. SCP-7077-1's diet primarily consists of a
+beverage comprised of dark matter and ammonia ice.
+
+Description: SCP-7077 is the hexagonal cloud on the south pole1 of
+Saturn. SCP-7077 was discovered by the NASA's probe The Rebus on
+03/06/1985. The Foundation took notice of SCP-7077 when reports were
+released stating the fluctuation of SCP-7077's appearance. Foundation
+agents posed as NASA operatives and secured the rights to the Saturn's
+Southern Hexagon mission.
+
+Testing has discovered that SCP-7077 is composed of ammonia ice2 and
+dark matter. The source of the substance was discovered within The
+Inventa Mission.
+
+The Foundation sent The Inventa to observe SCP-7077 18/07/1985.
+Thermal imaging displayed a humanoid figure within SCP-7077. Further
+exploration revealed a sapient humanoid (designated as SCP-7077-1)
+sharing genetic and physical similarities with the Cervidae (deer).
+
+After this discovery, the Foundation attempted communication with
+SCP-7077-1 via the space probe The Inventa. SCP-7077-1 agreed to meet
+with the Foundation on the Earth's moon to ease communication efforts.
+
+The following is a transcript of the initial interview conducted with
+SCP-7077-1:
+
+Interviewed: SCP-7077-1
+
+Interviewer: Dr. Axel Rivas
+
+Foreword: The meeting took place in Lunar-Site-10.
+
+Note: SCP-7077-1's native language was translated into English after
+every sentence and vice versa for communication ease.
+
+<Begin Log>
+
+Dr. Rivas: Hello SCP-7077-1, we appreciate your cooperation and
+willingness to meet with the Foundation.
+
+SCP-7077-1: No issue, doctor.
+
+Dr. Rivas: My first question, how did you end up at the south pole of
+Saturn?
+
+SCP-7077-1: I have been looking for a stable living place for a while.
+Not many galaxies offer one. I checked out this red planet, but a
+large building was there. Some droids made it clear to me that I was
+not welcome. I liked the weather on the red planet. But, it was cold.
+
+Dr. Rivas: I see. You were able to securely stay within the atmosphere
+of Mars, the red planet, and you can do so on the moon. How were you
+able to do so on Saturn, a planet made of gas?
+
+SCP-7077-1: I have never had issues with the stability of my stay
+within a planet's atmosphere.
+
+Dr. Rivas: Good to know. Do you know anything about a hexagonal cloud
+above the southern pole of Saturn?
+
+SCP-7077-1: I do, yes.
+
+Dr. Rivas: What do you know about it?
+
+SCP-7077-1: It appeared when I began to brew my [No English word compatible].
+
+Dr. Rivas: Come again?
+
+SCP-7077-1: You foreigners. It is a beverage. I prefer mine cold, with
+no flavour. Most look upon me with scorn for these settings. They say
+flavourless [No English word compatible] is distasteful. I say they
+are distasteful.
+
+Dr. Rivas: What I'm getting is, you brewed the beverage yourself out
+of something and…
+
+SCP-7077-1: Ammonia ice.
+
+Dr. Rivas: Right. It seems the brew got caught up in the vortex on the
+southern pole of Saturn, thus creating a hexagonal cloud.
+
+SCP-7077-1: I guess that makes sense, doctor.
+
+Dr. Rivas: Yes. Would you mind taking residence on the Earth's moon
+under the hands of the Foundation?
+
+SCP-7077-1: Can I have my beverage with me?
+
+Dr. Rivas: We'll see.
+
+SCP-7077: One last question, doctor.
+
+Dr. Rivas: Ask away.
+
+SCP-7077: I have heard that you earth ones, I think you're an earth
+one with that build and all, can only breath in earth. How come you
+are on the moon, breathing perfectly fine?
+
+Dr. Rivas: I… was affected by an anomaly. I actually cannot breathe on
+earth.
+
+SCP-7077: Oh, how unfortunate. You must have had to leave your family
+behind. I lost my family to a black hole.
+
+Dr. Rivas: That's terrible, I'm very sorry.
+
+SCP-7077: It appears we're both lone space wanderers.
+
+Dr. Rivas: It does.
+
+<End Log>
+
+Closing Statement: SCP-7077-1 was taken into Foundation custody
+following the interview with no incident.
+
+ 
+As of 02/10/1986, Dr. Rivas has been banned from working with SCP-7077
+indefinitely due to a growing emotional attachment.
+
+ 
+
+Footnotes
+
+1. The south pole of Saturn did not sport a hexagonal cloud before the
+discovery of SCP-7077. The Voyager had only discovered a hexagonal
+cloud upon the northern pole of Saturn.
+
+2. Makes up Saturn's hexagon.
+
+
+
+SCP-4939
+
+Name: Dr. Axel Rivas
+
+Security Clearance Level: Lunar Staff Level 4
+
+Location: Lunar-Site-04
+
+Profession: Astrologist, Astrobiologist
+
+Specialties: Astrobiology, geology, selenography, working with
+technology, mathematics, all of the Lunar Sites
+
+History: Dr. Rivas was affected by SCP-7393 on 09/04/1979, rendering
+him unable to breathe the earth's atmosphere, replacing it with the
+necessity to "breathe" the moon's exosphere, thus refining him to live
+and work within the Foundation's Lunar Sites.
+
+SCP Work: SCP-8999, SCP-6009, SCP-7379, SCP-7077, SCP-8002, Log of Anomalous Space Items
+
+
+Interview Excerpt:
+
+Foreword: The following is an excerpt from an interview between Dr.
+Rivas and Dr. Casey six months following Dr. Rivas' incident with
+SCP-7379.
+
+<Begin Log>
+
+Dr. Casey: Did medical staff have to intervene? Did you ever come
+close to death? And do you know why SCP-7379 affected you?
+
+Dr. Rivas: Eh, at first I just passed it off as I was coming down with
+a bug. I'd just been in space, it made sense. But soon, breathing
+became difficult, and the more oxygen they put me on, the weaker I
+became. After some tests, it was discovered the water in my body was
+now like, moon water, plus I saw the fuckin space-beetle or whatever
+SCP-7379-A is in my dreams before the tests. I told them my
+hypothesis, we just did the tests to make sure.
+
+Dr. Rivas coughs, followed by a shrug.
+
+Dr. Rivas: I was probably infected because I stepped in the Nyx river
+while testing with SCP-8999. Hey, at least I’m her caretaker now cause
+of our similar conditions; she’s a sweet dog.
+
+Dr. Casey: Uh, right. Have there been any physical side effects?
+
+Dr. Rivas: I can't spend too long indoors within the oxygen supplied
+rooms without getting deathly sick. I've been forced to become an
+outdoors guy. Well, I can go within the rooms without the oxygen
+filters.
+
+Dr. Casey: That’s unfortunate.
+
+Dr. Rivas: Eh. At least I have an excuse to spend time with Lucy.
+
+Dr. Casey: Have there been any mental side effects from living in
+space, in a completely different environment compared to where you
+grew up?
+
+Dr. Rivas: Not that I've noticed.
+
+Dr. Casey: One thing that has been brought to our attention is your
+distant attitude when working with any other Foundation personnel.
+
+Dr. Rivas: People go down back to earth not to return for a while—
+sometimes ever. It doesn't feel worth my time to invest myself
+emotionally. So, maybe there is that. But, my animals make up for it.
+
+Dr. Casey: You don't make friends or get to know your colleagues at
+the very least because you don't want to get emotionally attached to
+someone you'll never see again?
+
+Dr. Rivas: [chuckles] Right to the point I see. If I'll never see
+someone again, why should I befriend them? Why should I waste time
+mourning over lost friendships when I could just prevent them
+entirely? Sure, I want to make friends, hell, a girlfriend might be
+nice, but I'm not going to waste my time. What if I bother them? What
+if I trap them on the moon as well? I won't be lonely, but they'll be
+trapped from their loved ones.
+
+Dr. Rivas sighs, and begins to gently rock back and forth in his seat.
+
+Dr. Casey: So, it isn't that you lack the desire to make friends or
+maintain relationships, it's that you want to avoid being hurt.
+
+Dr. Rivas: That's fair, isn't it?
+
+Dr. Casey: Dr. Rivas, it isn't possible for you to trap anyone else on
+the moon. That isn't a discovered effect of SCP-7379.
+
+Dr. Rivas: You can never be too careful.
+
+Dr. Casey: I presume you have family on earth. Don't you miss them?
+
+Dr. Rivas: I did miss them. But it hurt too much to try and hold on.
+During the first days of my infection, I tried to gain communication
+with them, but it proved too difficult. Too much effort. I was good
+friends with Dr. Pearls as well. But, it's unlikely I'll ever see him
+again.
+
+Dr. Casey: So you're actively putting in the effort to not miss your loved ones?
+
+Dr. Rivas: I'm not sure if that's how I'd phrase it. Occasionally I'll
+get a twinge of pain reminding me of them, and…
+
+Dr. Rivas begins to adjust the folders on the table.
+
+Dr. Rivas: It reminds me that I'll be here forever. Alone. Well,
+almost alone. Whenever these feelings overwhelm me, I visit my
+animals, hell, maybe I'll sign up to care for a new one. They remind
+me that everything is going to be alright.
+
+Dr. Casey: I see. Your stress about living on the moon causes you to
+avoid people in hopes of never getting attached because you know
+you'll never see them again, and to make up for this, you care for
+moon anomalies.
+
+Dr. Rivas: I'd say that's about right. [sighs] I don't want to be
+alone forever. So, I try to distract myself from that reality.
+
+<End Log>
+
+
+Addendum 1: Animal List
+
+Below is a of a portion of the list of the 15 current anomalous
+animals lacking SCP classification Dr. Rivas is the head caretaker
+for:
+
+A small Peromyscus maniculatus (deer mouse) found on the Plinius
+crater of the moon. (Deceased, see Addendum 2)
+
+A Pygoscelis adeliae (adélie penguin) found on Saturn's moon Rhea.
+
+An Ursus Maritimus (Polar Bear) found at Lunar-Site-18. All tests
+attempting to weigh the animal have determined that it is massless. A
+currently unknown memetic agent is speculated to be the cause of these
+results as the animal is affected by Lunar gravity.
+
+A Okapia johnstoni (okapi) that transports to the Sinus Iridum (Bay of
+Rainbows) on the moon when frightened. No breathing issues have
+occurred.
+
+A Bos taurus (cow) made out of moon rock.
+
+
+Addendum 2: Death of the Plinius Crater Mouse
+
+On 10/09/1987, the anomalous item classified as the Plinius Crater
+Mouse passed away due to natural causes. Dr. Rivas had personally
+discovered the mouse and was greatly affected by its passing.
+
+The following is an excerpt from the therapy session Dr. Rivas attended the same week.
+
+Interviewed: Dr. Rivas
+
+Interviewer: Dr. Childs
+
+Foreword:
+
+<Begin Log>
+
+Dr. Childs: Regarding the death of the Plinius Crater Mouse, I've
+heard you were very devastated by its passing.
+
+Dr. Rivas: [Sighs] Silvia… yeah. I should have known. She was just a
+mouse when it came down to what God decided.
+
+Dr. Childs: This is why we look for emotional strength in all of our
+employees. I'm sorry for your loss, but luckily you have many other
+anomalies that will be there for you in its absence.
+
+Dr. Rivas: Yeah, I guess. I just… it's not fair. I've lost everyone.
+
+Dr. Childs: Lost everyone? Please expand.
+
+Dr. Rivas: [speech quickens] I coulda got my anomaly leaked, and all I
+was doing was testing Lucy. I can't see 7077 anymore cause I was
+deemed too attached, and now Silvia dies— and due to old age! There is
+nothing I could have done differently to stop this.
+
+Dr. Rivas sighs. He puts his face in his hands and proceeds to run his
+hands through his hair.
+
+Dr. Rivas: Even the ones who can't leave the moon still leave me.
+
+Dr. Childs: I'…m very sorry.
+
+Dr. Rivas: I should have been able to stop this. Would… Silvia be mad at me?
+
+Dr. Rivas taps the table with his thumb and forefinger in a series of two five times.
+
+Dr. Childs: Dr. Rivas, relax. Take a deep breath. You're going to be alright.
+
+Dr. Rivas: It doesn't feel like it. The amount of people— animals
+there for me is slowly dwindling. They all have typical lifespans. I
+can see it now. "Axel, why didn't you save us? I thought we were going
+to be best friends forever! This doesn't look like forever…"
+
+Dr. Childs: I'm sure "Silvia" isn't mad at you. It was her time.
+
+Dr. Rivas begins to rock back and forth.
+
+Dr. Rivas: We'll never know. And that's the worst part.
+
+Dr. Rivas lays his head on the table.
+
+Dr. Rivas: It's in times like these I question if things will ever be alright.
+
+<End Log>
+
+Closing Statement: Dr. Childs contacted other specialists who have had
+sessions with Dr. Rivas in the past and discussed the symptoms he
+noted. Upon the end of the discussion, the group came to the
+conclusion that Dr. Rivas could possibly be suffering from
+Obsessive-Compulsive Disorder. Dr. Rivas has been scheduled to meet
+with Dr. Sheridan on 11/01/1987 regarding his symptoms.
+
+ 
+
+
+

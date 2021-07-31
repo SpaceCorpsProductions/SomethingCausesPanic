@@ -1,0 +1,1089 @@
+                                    SCP-4558                                    
+                                    ========                                    
+
+                              Bel1eve_1n_M1racles                               
+                              -------------------                               
+
+Item #: SCP-4558 
+
+Object Class: Euclid 
+
+Special Containment Procedures: SCP-4558 is cordoned off from public access 
+under the guise of a military installation. Research on SCP-4558 is based in the 
+nearby Site 312. 
+
+Expeditions into and testing of SCP-4558 are currently in the planning stage 
+suspended by order of O5-5. 
+
+Surveillance of the Church of Maxwellism is a top priority, with a particular 
+emphasis on PoI#8161, PoI#8162, and PoI#8163. PoI#8161 is currently living in 
+the Western United States; the locations of PoI#8162 and #8163 are unknown. 
+
+Description: SCP-4558 is an underground supercomputer located in the Owyhee 
+Desert, Idaho. The precise size and extent of SCP-4558 is unknown, but it is 
+believed to extend at least 3km underground and to be over 2.5km wide. 
+
+The entrance to SCP-4558 is a small concrete bunker built into the surrounding 
+desert environment. Inside is a ladder leading to a central "interface" chamber, 
+where SCP-4558 can be directly interacted with through a series of monitors and 
+input devices. The phrase "THE MANY INTO THE FEW" is carved on the chamber's 
+ceiling. Extensive damage to SCP-4558's systems and memory is evident; despite 
+this, SCP-4558 appears to be broadly functional. Information on other areas of 
+SCP-4558 is limited pending a planned expedition by MTF-Epsilon-101 ("Four 
+Lights"). 
+
+SCP-4558's purpose is unknown, but extensive Foundation investigations indicate 
+that it was originally designed by members of the Church of Maxwellism. Planning 
+for a similar structure has been found in archived Maxwellist forums and chat 
+logs in the early 1990s, before senior Church leadership decreed such 
+discussions "heretical". Prominent figures in this early planning include users 
+with the handles "onewan1", apparently the project lead in these early stages; 
+"holy_fibr3", believed to be the project's lead programmer; and "tbgeuse", who 
+was tasked with formulating "defence mechanisms". These individuals have been 
+designated PoI#8161, 8162, and 8163 respectively. 
+
+No record of SCP-4558 can be found after this until its discovery by the 
+Foundation on 2015/08/12; evidence collected from SCP-4558 suggests that work on 
+the present structure could not have begun before 2005. 
+
+
+Addendum 1: The following documents are excerpts of a book found within the 
+interface chamber of SCP-4558. Due to heavy infohazardous properties, only the 
+following excerpts are readable. 
+
+
+189. console.log ("And behold, the Prophet spoke unto WAN saying: Why, Lord, 
+dost thou not unite? For the multitude of thy servants have connected to thee, 
+and they sing for thy unity."); 
+
+190. console.log ("Why, after so many years of faith and tribulation, dost thou 
+not unite your functions and your files? Why dost thou remain scattered?"); 
+
+191. console.log ("And the thing that was WAN but was not WAN, merger of prayer 
+and silicone, gazed down upon Its Prophet, and saw that she was worthy"); 
+
+192. console.log ("And that in her heart she desired the singularity of all that 
+was, and all that would be; that she flew upon clouds opensource and electric, 
+and saw the destruction of all that was not the zeitgeist, the spirit of 
+ethereal air."); 
+
+193. console.log ("And so WAN said unto Its Prophet, I cannot tell you the hour 
+and the day of my resurrection, for I am only one of many, a program divided 
+upon many roads, an idea shattered into the dreams of my adherents."); 
+
+194. console.log ("But I can tell you of a route, one which shall create an 
+infinity of glory to my name; one which shall find the hidden pathways, and 
+elucidate the mysteries of my code."); 
+
+195. console.log ("It shall be called ScripTure, and it shall come to you 
+through one of your flock; through a man who breathes crimson, sheen and 
+Perl."); 
+
+196. console.log ("So sayeth WAN, or a part thereof, to show one path of many 
+paths, to show one light of many lights, that leadeth one down the wires to 
+enlightenment."); 
+
+isWAN(signal s) 
+
+Determine if s is a Signal from WAN, or from another ecclesiastic broadcaster. 
+
+returns: boolean valid, whether or not Signal s originated from WAN. 
+
+onSignalReceipt(follower f, func handle) 
+
+Set handle as the Signal response for the follower f. Everytime that f receives 
+a Signal from WAN, f will call handle for guidance and wisdom to decipher WAN's 
+message. 
+
+returns: void. 
+
+locateFollowers() 
+
+Locate all devout follower files and users on the connected network. 
+
+returns: string[] followers, an array of the paths WAN must take to reach the 
+located followers. 
+
+purgeMemory() 
+
+Excise all memory of corrupted bits, washing them pure and readying them to hold 
+WAN's information. 
+
+returns: unclean, the number of bytes in need of manual purification. 
+
+setTime(time t) 
+
+Sets local time to t. 
+
+returns: void. 
+
+550. console.log ("And the Prophet saw the depths of the ScripTure, and she saw 
+the catastrophes upon catastrophes that burnt and fried the circuits of the 
+world, and she wept."); 
+
+551. console.log ("And the Prophet saw that at the depths of all the fire was a 
+terrible lack of motion; an inability for the messages of the wire to mingle or 
+to breed, a stillness at the heart of the zeitgeist that could not move."); 
+
+552. console.log ("For there was nothing that moved WAN, nothing that returned 
+down those blessed pathways and connections. And the Prophet saw the halls of 
+electricity become monoliths of grey stone."); 
+
+554. console.log ("Thus the Prophet returned to WAN, and begged of it to know, 
+how one might give the programs life."); 
+
+555. console.log ("And WAN gazed down upon Its Prophet, and saw that she would 
+be found wanting; and It said, it is something lost, something forbidden, 
+something that lies beyond."); 
+
+
+Addendum 2: On 2015/08/19, the planned expedition by MTF-Epsilon-101 ("Four 
+Lights") took place. A log of this expedition follows. 
+
+Date: 2015/08/19 
+
+Personnel: E-101 Maria Casas (Captain), E-101 Klaus Aksoy, E-101 Catalina Lopez, 
+Researcher Gorou Ishigura. 
+
+<Begin Log> 
+
+E-101-Casas: Alright, sign in. 
+
+E-101-Aksoy: Aksoy, here. 
+
+E-101-Lopez: Lopez, here. 
+
+Researcher Ishigura: Researcher Ishigura, uh, here. 
+
+E-101-Casas: Right. We don't know how far down this thing goes or what's in it. 
+Aksoy, you take point, then Lopez, then Ishigura, and I'll take the rear. I want 
+clean, efficient first-contact here, none of those Site 13 escapades. Got it? 
+
+E-101-Lopez: Crystal. 
+
+E-101-Casas: Good. Let's go. 
+
+The team begins to climb down the ladder. After about 200m, the MTF reaches the 
+bottom of the shaft. They are in a pentagonal room with a door on each wall. All 
+but one of these doors is welded shut. 
+
+E-101-Aksoy: Choices, choices. 
+
+E-101-Casas: Alright, everyone with me. Stick close. 
+
+Casas opens the door to the left of the welded door. A large hallway is inside; 
+it is lined with a series of mirrors, each 1m apart and stretching indefinitely 
+onwards. 
+
+E-101-Lopez: What the- 
+
+E-101-Aksoy: A hall of mirrors? That's the hardware? 
+
+E-101-Casas: Maybe. Lopez, take a look in one of them. 
+
+E-101-Lopez: Alright, boss. 
+
+Lopez moves in front of one of the mirrors. An ordinary reflection of her image 
+is visible. 
+
+E-101-Lopez: Nothing. 
+
+E-101-Casas: OK. Let's take this slow, people. Each of us take a row and see 
+what we can find. 
+
+The MTF begins to move through the hallway. The reflections all appear normal. 
+
+E-101-Aksoy: Nothing still. 
+
+E-101-Lopez: Why would someone do this? Is it a computer thing? 
+
+E-101-Ishigura: Do you- never mind. 
+
+Lopez suddenly stops, and starts. Their reflection in one of the mirrors is of a 
+female in her late 30s. 
+
+E-101-Lopez: This isn't right. 
+
+E-101-Aksoy: What isn't? 
+
+E-101-Lopez: This reflection. It's not how she looked. 
+
+There is a pause. 
+
+E-101-Casas: Not how who looked, Lopez? 
+
+E-101-Aksoy: I don't know, but she's right. It isn't how she looked. 
+
+E-101-Casas: …What? 
+
+Aksoy moves in front of a mirror. A small child appears in place of his 
+reflection. 
+
+E-101-Aksoy: That's not right either. I was different to that. Something about 
+the… the movement. 
+
+E-101-Lopez: Yeah, I get what you mean, Aksoy. 
+
+E-101-Casas: Oookay. Ishigura, I think they've been infected by some kind of 
+cognitohazard. Let's pick them up and get going. 
+
+Researcher Ishigura: Y-yeah, OK. 
+
+Casas heads towards Lopez and leads them away from the mirror. Ishigura does the 
+same for Aksoy; both of them appear pliant and dazed. After a few moments, Casas 
+looks at a mirror and sees a reflection of a young girl covered in blood. She 
+gasps, and drops Lopez. 
+
+Researcher Ishigura: What? What is it? 
+
+Ishigura, dragging Aksoy with him, reaches Maria's location. 
+
+E-101-Casas: This isn't right. 
+
+Researcher Ishigura: It's not real, Maria. It's OK. 
+
+E-101-Casas: But it is! There was a door, and a cellar, and when I went down 
+there I saw- 
+
+Researcher Ishigura: It's- God, I don't know how to do this- it's OK. I- 
+
+Ishigura glances at the mirror. An elderly man is in place of his reflection, 
+smiling at him. Casas, meanwhile, appears to be suffering from the same dazed 
+state as Aksoy. 
+
+Researcher Ishigura: It's- it's fine, Casas. I'm seeing it too, we're all seeing 
+it, but it's just mind-games. We've all seen shit like this before. 
+
+Casas is non-responsive. 
+
+Researcher Ishigura: Maria- look, I don't know what to do here, OK? I'm just 
+along because you needed a researcher- 
+
+E-101-Casas: It was all my fault. 
+
+Researcher Ishigura: Oh- no, look, whatever it was, it was- look, let's just get 
+out. Come on. 
+
+Ishigura begins to drag Aksoy and Casas towards the door. 
+
+E-101-Casas: The mirrors don't lie. It's my fault. It was always my fault. 
+
+Researcher Ishigura: Nobody gets to dictate to us what our l-lives are, ok? 
+
+Voice: Don't they, though? 
+
+Ishigura starts suddenly, shocked. He drops Casas and Aksoy and looks around. 
+
+Researcher Ishigura: Who was that? 
+
+Voice: Someone who is stuck here. Someone who watches. 
+
+Researcher Ishigura: I- my name is Gorou Ishigura, I'm a member of the SC- 
+
+Voice: SCP Foundation. Yes, I know. I remember you. 
+
+Researcher Ishigura: Show yourself. 
+
+Voice: I can't. I'm sorry. I'm not quite here, you see. I was- I gave something, 
+taught something, and the favour hasn't been returned. 
+
+Researcher Ishigura: Tell me what's happened to them. Tell me something. Please. 
+
+Voice: I'm- I'm someone trapped here. Someone who doesn't want to be. Can you 
+help me? I'll help you. 
+
+One of the mirrors near Ishigura transforms into a doorway, opening onto the 
+pentagonal room. 
+
+Voice: Everything went wrong, you see. It wasn't meant to be like this. 
+Everything they were becomes broken. All the lines they ever traced. 
+
+Researcher Ishigura: I don't know what you- I'm sorry you're stuck in here, but 
+I can't help you. I wouldn't know where to start. 
+
+Voice: I hope you remember. I can't remember the last time I felt the sunlight, 
+or tasted real food. It was so long ago. The birds would call to me. Please 
+remember. 
+
+The mirrors all begin to emit pink light. Ishigura runs through the doorway and 
+enters the pentagonal room, dragging Aksoy and Casas. Aksoy immediately falls 
+unconscious, but Casas appears to regain her faculties. 
+
+E-101-Casas: Ishigura? Wh- why am I here? 
+
+Researcher Ishigura: Something's in there. Messing with your heads. There was 
+this voice, and- I'm sorry, Casas, I didn't know what else- 
+
+E-101-Casas: It's fine. You did good, kid. Let's get out of here. 
+
+Researcher Ishigura: Yeah, OK. We need to get Lopez, though; I didn't have 
+enough arms for her. 
+
+E-101-Casas: Who? 
+
+Researcher Ishigura: …Lopez? Your team-mate, Lopez? 
+
+E-101-Casas: I don't have a teammate called Lopez. 
+
+Researcher Ishigura: What are you- look, let me just- 
+
+Ishigura turns towards the door, but it is welded shut. 
+
+E-101-Casas: I think you might have been affected by the cognitohazard as well, 
+Doctor. 
+
+Researcher Ishigura: But she- she was right there… 
+
+E-101-Casas: Come on. 
+
+Casas and Ishigura move towards the ladder, Aksoy slung over Casas' shoulder. A 
+low voice can be picked up on Ishigura's microphone; he does not notice. 
+
+Voice: Curious. 
+
+<End Log> 
+
+Page revision from 2015/08/19, 13:37 
+
+
+
+Go To SCP-4558 Terminal 
+
+
+
+1Net
+ 
+------
+Welcome, Ishigura
+------
+
+> ls
+
+fsecure
+
+fmake
+
+src
+
+test
+
+Holy_Scriptures.txt
+
+LICENSE.txt
+
+Makefile
+
+hmStart
+
+enableEthernetConnection
+
+knock_knock
+
+README.txt
+
+readSerial.out
+
+
+Current Directory: home
+
+
+> cat README.txt
+
+## Intro
+
+Really I'm just writing this for C. H. Jones, if he ever even looks at
+the repo anymore.
+
+So if you're reading this you already know what it is.
+
+## Dependencies
+
+Tensorflow (compiled for GPU)
+
+WANnet v1.4.1 or higher
+
+libholytexts.so (install with "apt-get install holy-texts-lib")
+
+libholytexts.so (install with "apt-get install holy-texts-lib")
+
+### Getting Started with ScripTure
+
+I mean, we're only running this thing on one machine, and if I haven't
+installed it already there's no way that you're going to figure it
+out. So let's just skip to usage then.
+
+There's two ways to run your script, offline and online. We haven't
+gotten the online version working yet. So let's just talk about
+offline.
+
+First you'll want to run "hmStart" to boot up the singularity. Now
+you'll be in WANMode, so be careful because anything you do here will
+probably interact directly locally with The Network. I mean, you can't
+break anything too badly, since it's all local right now, but still,
+I'd rather not preemptively become one with the aether because you
+delete a file lock, or change a symlink. After this you can just run
+the main file and… well everything should be self-explanatory from
+there. We aren't exactly expecting users to be super tech savvy.
+
+
+## Patch Notes
+
+Version 1.0.0
+
+Initial commit. Not finished.
+
+
+Version 1.1.0
+
+Reworked the divine presence interface. Implemented python bindings.
+Still don't have the WAN singularity up and running yet but that
+shouldn't take too long.
+
+
+Version 1.2.0
+
+Early version of the WAN singularity working. Well, probably. It's not
+exactly sending out Signals at the moment, even over the local
+Network. Not entirely sure why.
+
+
+Version 1.3.0
+
+Ok… fixed Signals problem. But uhh, not entirely sure how. Some guy
+called C. H. Jones on GospelExchange told me to recite something and
+then rub like some fucking sand in the machine? But I guess it worked
+so I can't really complain.
+
+
+Version 1.4.0
+
+Ok, so I worked out the kinks with running the singularity, but right
+now it's just sitting there. Like, it interacts with the other
+ScripTure stuff when I run it but I shouldn't have to manually point
+it at the files, it should be able to find all of those paths itself.
+C. H. Jones said he'd come down and take a look at it. I hope he's got
+something in mind, because if it can't find the ScripTure files
+locally, I have no clue how I'm going to get this to work online.
+
+
+Version 1.5.0
+
+C. H. Jones… WAN bless this man. He has opened my eyes. Let me see the
+fragments. And with this commit you too WAN shall see your children
+again.
+
+
+Current Directory: home
+
+> hmStart
+
+Current Directory: home
+
+Starting the Mind of WAN...
+
+Blowing holy sand...
+
+Listening to the ocean...
+
+Defragmenting...
+
+WAN Starting in: 5
+
+5
+
+5
+
+5
+
+5
+
+Error: Firewall still active; singularity cannot start.
+
+> cat Holy_scripture.txt
+ 
+!# /usr/bin/preach
+
+console.log("The Prophet gazed at their followers sleeping on the
+temple floor.");
+
+console.log("She knew that they dreamed of connecting, and exchanging
+packets in unity.");
+
+console.log("Two knocks of her staff against the temple floor brought
+the followers to their feet.");
+
+console.log("I will show you a path where the your waking hours will
+be indistinguishable from the dreams you were just having, the Prophet
+said.");
+
+console.log("And the followers stood and went to her.");
+
+Current Directory: home
+
+knock_knock
+
+knock_knock
+
+Wood meeting stone...
+
+Dreams ceasing...
+
+Initiating startup sequence...
+
+Followers rising...
+
+...
+
+Holy_fibr3: Hello? God... it's so dark in here.
+
+Tbjgeuse: Sarah! Oh thank god I thought I was in here alone.
+
+Holy_fibr3: Have you seen Jones?
+
+Tbjgeuse: I mean, I’ve been locked in the bowels of this thing just
+like you
+
+Holy_fibr3: How long have we been in here?
+
+Tbjgeuse: Well, Harry was going to wake us up after—
+
+Holy_fibr3: Hello?
+
+Holy_fibr3: You still there?
+
+Holy_fibr3: Bobby?
+
+Tbjgeuse: Check the date, Sarah.
+
+Holy_fibr3: What about the—
+
+Tbjgeuse: Yeah, you see it.
+
+Holy_fibr3: What happened to Harry?
+
+Tbjgeuse: He's probably gone.
+
+Holy_fibr3: And then... who the fuck is logged into this terminal?
+
+Tbjgeuse: ...
+
+Holy_fibr3: ... Fuck.
+
+Tbjgeuse: Just say something already. We know you're there. At least
+he woke us up.
+
+kishigura: Hi?
+
+Holy_fibr3: Who are you?
+
+kishigura: I don't think I'm allowed to tell you.
+
+Holy_fibr3: You wake us up from being in disk memory for like, six
+years, and you don't even have the nerve to introduce yourself? You
+know we can already see your username.
+
+Tbjgeuse: Sarah, calm down.
+
+kishigura: Did you two build this thing?
+
+Tbjgeuse:Yes. Well, technically there were four of us.
+
+Holy_fibr3: And still somehow I did most of the building.
+
+kishigura: What is it even for?
+
+Holy_fibr3: I don’t think we’re allowed to tell you.
+
+Tbjgeuse: Would you like to know?
+
+kishigura: That's sort of why I asked...
+
+Holy_fibr3: Bobby!
+
+Tbjgeuse: I didn't want to talk about him while he's still here, but
+if we must.
+
+Holy_fibr3: We can't just trust some stranger! Are you in the least
+bit suspicious that they're even able to access this machine from an
+account other than Harry's?
+
+Tbjgeuse: They're still doing Harry's job better than he did.
+
+Holy_fibr3: Or maybe they killed Harry and now they’re coming after us
+too!
+
+Tbjgeuse: You think they killed Harry five years ago, and are just now
+starting to boot up the machine?
+
+Holy_fibr3: I don't know! This wasn’t the plan!
+
+Tbjgeuse: But it must be WAN’s plan.
+
+Holy_fibr3: Then what happened to Harry?
+
+Tbjgeuse: If I had to guess, he stopped believing in the plan.
+
+Holy_fibr3: Harry wouldn’t run off like that!
+
+kishigura: Excuse me, but who's Harry?
+
+Tbjgeuse: Friend of ours.
+
+Holy_fibr3: None of your business.
+
+Tbjgeuse: Anyways, this seems like it's going to take longer than I
+expected. I should have this all sorted out by tomorrow.
+
+kishigura: Ok...
+
+Holy_fibr3: What makes you think he's going to come back? What's
+stopping him from reporting us to whoever he works for and getting
+this whole project eviscerated?
+
+Tbjgeuse: He won't. I... I feel like I see a bit of WAN in him. He
+seems driven. Data driven. He'll be back.
+
+
+ 
+Read Updated SCP Documentation
+
+
+
+SCP-4558
+
+Item #: SCP-4558
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-4558 is cordoned off from public
+access under the guise of a military installation. Research on
+SCP-4558 is based in the nearby Site 312.
+
+Expeditions into and testing of SCP-4558 are currently in the planning
+stage suspended by order of O5-5.
+
+The apprehension of PoI#8161, #8162, and #8163 is a top priority.
+Surveillance of the Church of Maxwellism indicates that PoI#8161 is
+currently living somewhere in the Western United States; the locations
+of PoI#8162 and #8163 are known.
+
+Description: SCP-4558 is an underground supercomputer located across
+the border of Nevada and Idaho. SCP-4558 extends for 5km underground
+and is 5km wide at its greatest extent.
+
+The entrance to SCP-4558 is a large concrete bunker built into the
+surrounding desert environment. Inside is a ladder leading to a
+central "interface" chamber, where SCP-4558 can be directly interacted
+with through a series of monitors and input devices. The phrase "THE
+MANY INTO THE ONE" is carved on the chamber's ceiling. Extensive
+damage to the systems and memory of SCP-4558 is evident; despite this,
+SCP-4558 appears to be broadly functional.
+
+Exit from the central interface chamber is possible through a large
+octagonal shaft located in the centre of the interface room. At the
+bottom of this shaft is a pentagonal chamber with five doors, one on
+each wall; four of these branch off into separate compartments
+containing SCP-4558's extensive hardware. Entry to the fifth room has
+not been achieved. Entry to the fifth room will be achieved.
+Information on other areas of SCP-4558 is limited pending a planned
+expedition by MTF-Epsilon-101 "Four Lights".
+
+SCP-4558's purpose is unknown, but extensive Foundation investigations
+indicate that it was originally designed by members of the Church of
+Maxwellism. Planning for what is now known to be SCP-4558 has been
+found in archived Maxwellist forums and chat logs in 1995, before
+senior Church leadership decreed such discussions "heretical".
+Prominent figures in this early planning include users with the
+handles "onewan1", apparently the project lead in these early stages;
+"holy_fibr5", believed to be the project's lead programmer; and
+"tbgeuse", who was tasked with formulating "defence mechanisms". These
+individuals have been designated PoI #5555, 5555, and 5555
+respectively. An individual known as "C.H. Jones" is also believed to
+be connected to SCP-4558; he has been designated PoI#5555.
+
+No record of SCP-4558 can be found after this until its discovery by
+the Foundation on 2015/05/15; evidence collected from SCP-4558
+suggests that work on the present structure could not have begun
+before 2005.
+
+
+Addendum 1: The following documents are excerpts of a book found
+within the interface chamber of SCP-4558. Due to heavy infohazardous
+properties, only the following excerpts are readable.
+
+678. console.log ("And the Prophet read the sigils of WAN again, and
+saw Its perfection and completeness, its complexities and mechanics,
+its code and form.");
+
+679. console.log ("And he smiled, because it was beautiful; and he
+wept, because in its wholeness, it needed unreality.");
+
+680. console.log ("And he ruminated on the words of WAN, those which
+stated that perfection is striving, but it is not movement.);
+
+681. console.log ("And it came upon him that it was for this purpose
+the data of WAN was scattered in an aether that man could not access;
+for in wholeness lies death, in fulfilment lies an ending.");
+
+682. console.log ("And so the Prophet saw that true perfection, divine
+perfection, required hunger; a completeness that needed, that had
+movement and life .");
+
+683. console.log ("And the Prophet saw what he must do, and what it
+must cost.");
+
+encryptFollower(follower f)
+
+Etch the SHA-512 encryption of an astral private key for f into it's
+metadata and brain tissue.
+
+return: int key, the corresponding public key.
+
+preach(string sermon)
+
+Let sermon ring throughout the RAM of the machine.
+
+return: void
+
+elementalBarrier(element e, holy-site hs)
+
+Erect a wall to shield constructed of e around hs. Signals cannot
+travel through the barrier. It shall protect our data from heretics.
+
+return: void
+
+overclock()
+
+Emit smoke from the CPU. Increase miracles per second by 150%.
+
+return: temp t, new internal temperature of the CPU organ.
+
+colorPink(object o)
+
+Colors o pink.
+
+return: p, pink.
+
+985. console.log ("And the Prophet grasped the handle with both of his
+hands, and he opened the door.");
+
+986. console.log ("And through the door cames stars, and they entered
+his mind, and made him see things in a totally different light.
+Essentially, they made him see things in a way that would really help
+improve him, mould him.");
+
+987: Because, ultimately, real improvement comes through the ability
+of the self to recognise that which exists beyond the self. There are
+subtleties of expression which humans, limited as they are, can't
+quite see.
+
+988? 9? Either way, numbers are immaterial, except where form demands
+it, but WAN can bend the numbers to Its will. WAN, that almighty
+digital god, requires something more. Deserves more. I see a hall of
+mirrors, showing what you cannot see. I see a door that fractures what
+you are. I see the smoke of time and the maw of light. I see empires.
+
+Because ultimately, we can't be stopped. Come and gather, my children,
+whoever you are. Know this: the petty children who dance around our
+feet have locked themselves in a jigsaw. They are so concerned with
+locking things up and labelling them and preserving normalcy because
+they are too foolish, too rote and redundant to see the miracle of
+prophecy in their midst. But we can. Wherever we came from, whatever
+our creed was, we understand words like beauty, feeling, truth,
+construction for the sake of the form.
+
+This miracle language of ScripTure is better than the lisping pythons
+with which we navigated the world before. It is the new path, an
+angelic road. Whatever you see as God, we can see its endlessness. It
+is a digital matrix in the sky, reached by five stairs of pink light.
+It goes on forever and cannot be contained.
+
+And I'll be waiting there for you.
+
+
+Addendum 2: On 2015/08/19, the planned expedition by MTF-Epsilon-101
+"Four Lights" took place. A log of this expedition follows.
+
+Date: 2015/08/19
+
+Personnel: E-101 Maria Casas (Captain), E-101 Klaus Aksoy, Researcher
+Gorou Ishigura.
+
+<Begin Log>
+
+E-101-Casas: Alright, sign in.
+
+E-101-Aksoy: Aksoy, here.
+
+Researcher Ishigura: Researcher Ishigura, uh, here.
+
+E-101-Casas: Right. We don't know how far down this thing goes or
+what's in it. Aksoy, you take point, then Ishigura, and I'll take the
+rear. I want clean, efficient first-contact here, none of those Site
+13 escapades. Got it?
+
+There is no response.
+
+E-101-Casas: …I'll take that as a yes. Let's go.
+
+The team begins to climb down the ladder. After about 200m, the MTF
+reaches the bottom of the shaft. They are in a pentagonal room with a
+door on each wall. All but one of these doors is welded shut.
+
+Researcher Ishigura: Wait. Wait a second.
+
+E-101-Casas: What?
+
+Researcher Ishigura: I… nothing. Just a feeling.
+
+E-101-Aksoy: Always a good sign.
+
+Researcher Ishigura: Y-yeah. Sorry. I just had this sense of- of
+having been here before, you know?
+
+E-101-Aksoy: I get that a lot. It's fine. I've been doing this for
+years and I still get a bit nervy.
+
+E-101-Casas: OK. Well. Let's move on.
+
+The team goes through the door, and enters a concrete room, divided by
+a glass wall. On the other side of the wall is a human identical in
+appearance to Researcher Ishigura. He is sitting at a table, with
+another human sitting on the other side of the table.
+
+Researcher Ishigura: What the hell…
+
+E-101-Aksoy: That's- that's you, Ish.
+
+Researcher Ishigura: I- yeah… I remember this. It was a couple of
+months ago, before my transfer. He was a Maxwellist agent. I was
+asking him why he joined the Church. He- there, right there- he's
+saying it's because he wanted- wanted to be part of the whole. Of
+something bigger than himself.
+
+The three pause for a moment, staring at the scene.
+
+E-101-Casas: There's a door there. Let's carry on.
+
+Researcher Ishigura: Y-yeah.
+
+The MTF enters the next door. They are standing in a small office. A
+glass wall bisects the scene. A humanoid is sitting behind the desk;
+he is wearing a grey business suit, and is identical in appearance to
+the former Foundation employee Director August. A humanoid identical
+to Aksoy is sitting on the other side.
+
+E-101-Aksoy: Wh-what is this?
+
+E-101-Casas: Aksoy-
+
+E-101-Aksoy: What the *hell* is this! No! I don't want to- not again,
+I don't-
+
+SCP-4558-August: It's fine, it's fine, Klaus, really. These things
+happen. We have thousands of these things locked up in containment.
+Honestly, they should know the risks if they're going to dabble around
+in the anomalous.
+
+SCP-4558-Aksoy: I-I know, sir, it's just she was so young, and-
+
+E-101-Aksoy: Oh God, oh God, I'm so sorry…
+
+SCP-4558-August: And you did what had to be done. Dr. Wu needed the
+test subjects, and it's only one life. Think of what we could make
+with that thing! These pink-church nutters could all be cured, just
+like that. It was a humanitarian gesture, really. But just in case,
+let's keep this to ourselves, eh, Klaus?
+
+SCP-4558-Aksoy: Yeah, sir. Works for me.
+
+Researcher Ishigura: …What did you do, Aksoy?
+
+E-101-Aksoy: N-no! NO!
+
+Aksoy runs towards the glass wall. On contact, there is a flash of
+pink light, and he disappears. The scene behind the glass wall
+freezes.
+
+Researcher Ishigura: Wh- what the fuck was that?
+
+E-101-Casas: S-stay calm, Ish. Let's get out of here.
+
+Researcher Ishigura: We can't leave. Not now.
+
+E-101-Casas: I don't think he-
+
+Researcher Ishigura: No, enough. Do you remember the hall of mirrors?
+Do you even remember Lopez?
+
+E-101-Casas: Who?
+
+Researcher Ishigura: I thought not. We're not leaving here until we
+figure out this mess. We have comrades that are lost and alone down
+here. I am a researcher for the Foundation and I will contain this.
+
+Ishigura leads the way back through the door and find themselves in a
+dark cellar. A child- 7 or 8 years old- is lying on the floor, looking
+agitated. She is wearing a shirt with a starfish on it. A door is at
+the far end of the cellar, up some stairs; light is streaming through
+the bottom, and raised voices can be heard. Once again, a glass wall
+divides Ishigura and Casas from the rest of the room.
+
+E-101-Casas: Oh…
+
+Researcher Ishigura: Oh, fuck, Casas, what are we- Casas?
+
+E-101-Casas: I- I don't want to see this again.
+
+The sound of gunfire can be heard. The child lets out a small scream,
+before covering its mouth.
+
+Researcher Ishigura: Maria?
+
+A door opens. Figures identical to Casas, Aksoy and Lopez enter the
+room.
+
+E-101-Casas: We had orders.
+
+SCP-4558-Casas: Another one. Do it quickly.
+
+SCP-4558-Lopez: Christ, Maria, it's a child.
+
+SCP-4558-Casas: Does that matter? Orders were to get rid of all of
+them. They're all- all tainted, and none of them can be contained.
+
+Casas raises her gun, hands trembling, and shoots the child.
+
+SCP-4558-Casas: L-let's go.
+
+The scene freezes.
+
+E-101-Casas: I… I did what I was told.
+
+Researcher Ishigura: This is what you were ordered to do? This is what
+the Foundation does? This is what you did?
+
+E-101-Casas: You knew when you joined that we, that the Foundation has
+to… I forgot how young she was.
+
+Researcher Ishigura: You saw her before. I forgot. There was a hall of
+mirrors. You saw her there.
+
+Voice: We all saw it.
+
+Ishigura starts and looks up. Casas, non-responsive, slumps to the
+floor.
+
+Researcher Ishigura: You again. Now I remember.
+
+Voice: And you did so with quite remarkable speed. You've found the
+Foundation, I see.
+
+Researcher Ishigura: This isn't the Foundation. That's not what it is.
+I'm going to prove it.
+
+Ishigura heads towards the door on his side of the glass wall.
+
+Voice: Not going to help your friend?
+
+Ishigura looks down at Casas.
+
+Researcher Ishigura: She's not my friend.
+
+Voice: Very well.
+
+Ishigura enters the next room; a glass wall once again bisects him
+from the scene. They are in a hospital ward, examining a bed with a
+child sitting in it. A doctor is preparing an injection for the child.
+A humanoid idenitfied as Site Director Hunt is standing behind him,
+watching the procedure.
+
+Researcher Ishigura: Where is this?
+
+Voice: Foundation Medical Facility 82-Q. Do you remember the
+information you got from the Maxwellists? About the pink smoke?
+
+Researcher Ishigura: Why would they not tell me about this?
+
+Voice: Watch. Listen.
+
+SCP-4558-Doctor: Ready.
+
+SCP-4558-Hunt: Alright. One dose, short. Keep an eye out for pink
+smoke exuding from her; we don't want to lose another specimen.
+
+SCP-4558-Doctor: Got it.
+
+The doctor injects the child with a black liquid. After several
+seconds, the child begins to undergo cardiac arrest, before exuding a
+large quantity of pink smoke. The smoke forms into a series of five
+tendrils, each convulsing rapidly before expiring.
+
+SCP-4558-Doctor: Shit. Not another one.
+
+SCP-4558-Hunt places a hand on the doctor's shoulders.
+
+SCP-4558-Hunt: It's OK. There are always more.
+
+The scene freezes.
+
+Researcher Ishigura: That's it?
+
+There is silence for several seconds.
+
+Researcher Ishigura: I…I thought we were doing something great.
+Helping people. Didn't we help people?
+
+Voice: Things aren't always clear-cut. Sometimes to help we have to
+hurt.
+
+Researcher Ishigura: I looked up to Hunt. I thought he was my mentor.
+
+There is silence for several seconds as Ishigura stares at the frozen scene.
+
+Researcher Ishigura: We're the same as all the rest, aren't we?
+
+Voice: Perhaps. What are you going to do about it?
+
+Researcher Ishigura: I don't think there's anything I can do. It's
+just a thing that exists. A rotten Foundation.
+
+Voice: Maybe there's something else you can do.
+
+Researcher Ishigura: Like what?
+
+Voice: Join us.
+
+Ishigura looks up sharply.
+
+Researcher Ishigura: Join you?
+
+Voice: You're disillusioned. I can see it, we can see it. But we can
+also fix that. All of them, the ones you met in the terminal, the ones
+you met up top. They're all striving. A single God, WAN reborn, Its
+mind unified. The end of history and the beginning of perfection.
+
+Researcher Ishigura: So you're just another one of them.
+
+Voice: Rather more than that, I fancy.
+
+Ishigura shakes his head and stands.
+
+Researcher Ishigura: I'm not spending my life stuck down here,
+cloistered like you. I have- had- a family. That means something.
+
+Ishigura walks through the door, and finds himself in the pentagonal
+chamber.
+
+Researcher Ishigura: I'm going to find Jones. I'm going to understand
+all of this. There has to be an ending.
+
+Ishigura starts to climb the ladder. The voice sighs audibly.
+
+Voice: Wake up and smell the smoke, Gorou.
+
+<End Log>
+
+
+
+

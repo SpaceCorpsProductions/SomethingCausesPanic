@@ -1,0 +1,130 @@
+                                    SCP-1301                                    
+                                    ========                                    
+
+                               The Singing Violin                               
+                               ------------------                               
+
+Item #: SCP-1301 
+
+Object Class: Safe 
+
+Special Containment Procedures: SCP-1301-1 and SCP-1301-2 are to be kept inside 
+a secured, soundproofed box inside of a secured, soundproofed chamber. Absolute 
+silence is to be maintained at all times within the holding chamber, and 
+personnel will not be permitted entry into the chamber without the provided 
+noise containment suits. Prior authorization is required to handle either SCP. 
+
+Any personnel or individuals that are contaminated by SCP-1301-1 in its active 
+state are to be immediately contained for study, owing to SCP-1301-1's effects. 
+
+Description: SCP-1301-1 is a violin of crimson hue, lacking a maker's label or 
+other obvious sign of identification. Upon analysis, it has been found that its 
+strings are made of spider silk, and that its body is composed of a variety of 
+different woods, primarily spruce and maple. 
+
+SCP-1301-2 is a violin bow, constructed from pernambuco wood of a crimson hue 
+identical to SCP-1301-1. Its ribbon is comprised of black, coarse horsehair, but 
+in all other regards it appears to be of usual construction. 
+
+SCP-1301-1 is extremely sensitive to certain kinds of vibrations; if jostled 
+violently or exposed to human voices, it will enter its active state and its 
+strings will sound audibly for 1 to 13 minutes unless otherwise muffled. Direct 
+exposure to the sound produced during the object's active state will invariably 
+result in contamination. 
+
+Over the 13 hours following initial exposure, individuals contaminated by 
+SCP-1301-1 will permanently lose their voices, and be rendered incapable of 
+speech, singing, or whispering. An additional effect of contamination is the 
+loss of written language. While contaminated individuals appear to readily 
+understand written and spoken words, their own attempts to write will instead 
+result in musical notation of varying sophistication. Providing contaminated 
+individuals with computers or other writing aids has only resulted in 
+incomprehensible gibberish. 
+
+While held, SCP-1301-2 protects the individual holding it from SCP-1301-1's 
+active state, though it does not reverse this state's effects. If SCP-1301-2 is 
+used to produce vibrations from one or more of SCP-1301-1's strings, a voice 
+singing the appropriate pitch will emerge instead. The E and A strings produce a 
+timbre resembling female voices, and the D and G strings produce a timbre that 
+mirrors male voices, though exceptions have been noted to occur outside of the 
+object's anomalous state. 
+
+While being operated with SCP-1301-2, SCP-1301-1 may enter its anomalous state 
+and produce any one of a number of atypical effects, which have thus far 
+included weeping, crying, screaming, laughing, and unintelligible whispering. 
+The object's anomalous state never exceeds 13 seconds in length. 
+
+
+See Experiment-Log-1301 for further details. 
+
+
+Experiment Log 1301
+
+Approved by O5-██
+
+Selected tests below
+
+Test 1
+
+Date: ██/██/20██
+
+Operator: ██████ ███████
+
+Procedure: After donning the provided noise containment suit, Mr.
+███████ entered the chamber, removed SCP-1301-1 and SCP-1301-2 from
+their soundproof box, and began operation.
+
+Music: Simple improvisation in A major, 4/4 meter.
+
+Results: 1 minute and 3 seconds into operation, SCP-1301-1 entered its
+first observed anomalous state and produced high-pitched screaming for
+1.4 seconds at a frequency exceeding ████ Hz. Approximately 0.6
+seconds after the anomalous state commenced, Mr. ███████ dropped
+SCP-1301-1 and SCP-1301-2 in surprise, causing it to abruptly enter
+its active state upon contact with the ground. Vibrations successfully
+pierced Mr. ███████'s noise containment suit. After contamination, Mr.
+███████ was taken to █████ for further study. Despite mistreatment by
+Mr. ███████, SCP-1301-1 and SCP-1301-2 were unharmed.
+
+
+Test 7
+
+Date: ██/██/20██
+
+Operator: ██████ ████
+
+Procedure: After donning the provided noise containment suit, Ms. ████
+entered the chamber, removed SCP-1301-1 and SCP-1301-2 from their
+soundproof box, and began operation.
+
+Music: The violin solo from SCP-012's first movement.
+
+Results: During operation by Ms. ████, SCP-1301 rendered the piece in
+a shrill, unsteady cackle, emitting harmonizing frequencies below ██
+Hz. The object produced intelligible speech during operation,
+including references to [DATA EXPUNGED]. The information provided
+might bear relevance to SCP-████. Ms. ████ ceased operation of
+SCP-1301-1 with SCP-1301-2 at 46 seconds, gingerly replaced both
+objects into the box, and immediately fled from the chamber in a state
+of hysteria. Ms. ████ was subsequently administered a Class A amnestic
+and has since demonstrated no significant psychological scarring.
+
+
+Test 9
+
+Date: ██/██/20██
+
+Operator: ██████ ████
+
+Procedure: After donning the provided noise containment suit, Mr. ████
+entered the chamber, removed SCP-1301-1 and SCP-1301-2 from their
+soundproof box, and began operation.
+
+Music: Scrap of notation from Mr. ███████, written following the
+events of Test 1.
+
+Results: SCP-1301-1 rendered the notation as intelligible speech in
+Mr. ███████'s voice. Transcript follows: "Please get me— Oh, God! Why
+can't I write?!"
+
+

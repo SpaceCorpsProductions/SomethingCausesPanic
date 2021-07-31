@@ -1,0 +1,231 @@
+                                    SCP-876                                     
+                                    =======                                     
+
+                            Element-Switching Pills                             
+                            -----------------------                             
+
+Item #: SCP-876 
+
+Object Class: Safe 
+
+Special Containment Procedures: SCP-876-1 through SCP-876-83, excluding 
+SCP-876-43 and SCP-876-61, (known collectively as Group A) are to be kept in a 
+standard large storage container, with two locks. Access to one key is enabled 
+by Level 2 and higher personnel. The second is only available to Level 3 or 
+higher personnel to prevent accidental abuse. 
+
+Information as to the location of SCP-876-84 through SCP-876-121, SCP-876-43, 
+and SCP-876-61, (known collectively as Group B) is only accessible to Level 4 or 
+higher. Class B amnestic must be given when business regarding Group B is 
+complete. Each bottle in Group B must have its own containment cell, with 
+individual keys. The containment site has 1.5 meter-thick walls of lead. 
+
+All bottles, whether Group A or Group B, must have their numbers indicated. 
+Labels cannot be placed on the bottles. 
+
+Description: SCP-876 is a group of traditional pill bottles, label [DATA 
+EXPUNGED]. The bottles are visually identical. If one is damaged, relabeled, or 
+otherwise altered, it will revert to the usual form in █ seconds. If any of 
+the containers becomes empty, one capsule pill will appear inside of it. The 
+pill will be two different colors, but the coloration is always the same for 
+each bottle—for example, SCP-876-2 always forms ███ and 
+██████ samples. 
+
+Colors observed are red, transparent, orange, blue, green, white, black, violet, 
+yellow, gray, and [REDACTED]. 
+
+When one pill is swallowed, no ill effects are observed. When a second pill is 
+swallowed, however, an unknown procedure instantaneously converts all atoms of 
+one element in the user's body to that of another, determined by the colors of 
+the pills and the order ingested. This usually causes a catastrophic reaction 
+(See Experiment Log 876). The second pill will cause this effect regardless of 
+time elapsed. For transparent capsules, a small sample of the element in 
+question can be observed inside, excepting radioactive elements—in those 
+cases, there is no sample. 
+
+Analysis has shown the colors to follow a simple pattern. If the atomic number 
+(number of protons) for the corresponding element is divided by 11, and the 
+remainder taken, one can match up the quotient and the remainder to two colors. 
+For example, a remainder of 6 will invariably have a purple-sided pill. 
+Therefore, purple means "6". 
+
+Refer to the table to determine which number means which color: 
+
+[DATA TABLE EXPUNGED] 
+
+Unfortunately, a red-and-white pill is indistinguishable from a white-and-red 
+pill. For this reason, it must be recorded which of the bottles the pill came 
+from. 
+
+When replacement occurs, the new molecules are usually highly unstable. 
+Spontaneous combustion is common. For combinations that avoid this problem 
+(nitrogen to phosphorus, for example), death is immediate due to complete body 
+chemistry failure. 
+
+In rare cases, the effects are beneficial, but this is always because of the 
+replacement of elemental toxins. 
+
+The newly formed element always has the most stable number of neutrons: uranium 
+extracted from test subject cadavers is entirely depleted. 
+
+
+Addendum: See Experiment Log 876. 
+
+Experiment Log 876
+
+Experiment Log 876-A-1
+
+Date: ██-██-██
+
+Procedure: D-class personnel instructed to swallow one pill from
+SCP-876-1 (hydrogen), followed by one from SCP-876-2 (helium).
+
+Results: Instant explosive decompression, spreading mass amounts of
+dust. No organic material discovered in the debris, but small amounts
+of graphite and [REDACTED] found.
+
+
+Experiment Log 876-A-2
+
+Date: ██-██-██
+
+Procedure: D-class personnel instructed to swallow one pill from
+SCP-876-2 (helium), followed by one from SCP-876-1 (hydrogen).
+
+Results: No effect.
+
+
+Experiment Log 876-A-3
+
+Date: ██-██-██
+
+Procedure: D-class personnel instructed to swallow one pill from
+SCP-876-18 (argon), followed by one from SCP-876-1 (hydrogen).
+
+Results: Subject lapsed into a coughing fit. Hydrogen content of
+surrounding air found to be increased post-experiment.
+
+Notes: It apparently treats the contents of the victim's lungs as part
+of the body. -Dr. ████
+
+
+Experiment Log 876-A-4
+
+Date: ██-██-██
+
+Procedure: D-class personnel instructed to swallow a small, steel ball
+bearing. Following that, D-class was instructed to swallow one pill
+from SCP-876-26 (iron), followed by one from SCP-876-79 (gold).
+
+Results: Subject immediately collapsed and expired, as expected.
+Dissection of the stomach revealed the steel ball to have converted
+into a gold-colored ball.
+
+Notes: This also works for the stomach contents. -Dr. ████
+
+
+Experiment Log 876-A-5
+
+Date: ██-██-██
+
+Procedure 1: D-class personnel anesthetized and the stomach cut open.
+One SCP-876-1 pill (hydrogen) added to the stomach and observed.
+
+Result 1: The pill did not dissolve in stomach acids.
+
+Procedure 2: Robotic arm used to lift SCP-876-2 (helium) pill and
+insert it into D-class's stomach. High-speed camera used for
+observation.
+
+Result 2: Both pills disappeared approximately 0.01 seconds before
+conversion and the resulting explosive decompression.
+
+
+Experiment Log 876-A-6
+
+Date: ██-██-██
+
+Procedure: Pill extracted from SCP-876-1 (hydrogen), then bisected
+with a laser.
+
+Results: Small puff of yellow flames, signaling a reaction between
+hydrogen and oxygen.
+
+
+Experiment Log 876-A-7
+
+Date: ██-██-██
+
+Procedure: Pill extracted from SCP-876-92 (uranium), then bisected with a laser.
+
+Results: Geiger counter detected no amount of uranium in the pill.
+
+Notes: Why does it only do this for radioactive elements? Look into
+it. -Dr. ████
+
+
+Experiment Log 876-A-8
+
+Procedure: One half of pill used in experiment 876-A-6 welded to one
+half of pill used in 876-A-7. Resulting capsule is similar in
+appearance to pills from SCP-876-█ and SCP-876-██. D-class personnel
+instructed to swallow the gold ball from 876-A-4, followed by a
+capsule from SCP-876-79 (gold) and then the new pill.
+
+Results: D-class doubled over in pain and promptly fell unconscious.
+Geiger counters detected a concentrated source of radioactivity inside
+D-class, suggesting [DATA EXPUNGED]
+
+Notes: That's certainly interesting. The mechanisms must be slightly
+different. -Dr. ████
+
+
+Experiment Log 876-A-9
+
+Procedure: One pill from SCP-876-40 (zirconium) and one from
+SCP-876-80 (mercury) placed side-by-side, colors aligned. Capsules are
+visually identical, colors █████ and ██████. Both pills placed under a
+microscope.
+
+Results: Despite extensive analysis, no difference between the pills
+could be visually determined. Identities of pills were not recorded,
+so it is not known which corresponds to which element See Experiment
+Log 876-A-10.
+
+Notes: Pay attention to which one is which next time. -Dr. ████
+
+
+Experiment Log 876-A-10
+
+Procedure 1: Unidentified pills from Experiment 876-A-9 were weighed.
+
+Result 1: Significant discrepancy in mass. This is attributed to a
+difference in density of the contents.
+
+Procedure 2: Mercury-zirconium amalgam administered to D-class.
+Heavier pill administered, followed by lighter pill. D-class then
+sedated and stomach dissected to retrieve amalgam.
+
+Result 2: Amalgam changed into a lump of zirconium.
+
+
+Experiment Log 876-A-11
+
+Procedure: One pill each from SCP-876-71 (lutetium), SCP-876-75
+(rhenium), SCP-876-37 (rubidium), SCP-876-57 (lanthanum), SCP-876-62
+(samarium), SCP-876-78 (platinum), SCP-876-64 (gadolinium), SCP-876-49
+(indium), SCP-876-72 (hafnium), SCP-876-76 (osmium), SCP-876-60
+(neodymium), SCP-876-48 (cadmium), and SCP-876-23 (vanadium) are
+extracted and bisected with a laser.
+
+Result: The samples of lutetium, rhenium, rubidium and lanthanum are
+pure Lu-175, Re-185, Rb-85, and La-139. The platinum sample showed no
+Pt-190, and the samarium sample showed no Sm-147 but contains the less
+radioactive Sm-148, as well as other naturally occurring isotopes. All
+other samples are consistent with terrestrial composition.
+
+Notes: Apparently there is an upper limit to which the pills define an
+isotope to be radioactive (currently estimated to be 1013 years). -Dr.
+████
+
+

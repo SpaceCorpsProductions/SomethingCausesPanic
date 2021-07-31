@@ -1,0 +1,526 @@
+                                    SCP-5817                                    
+                                    ========                                    
+
+                 There's no place like the Republic of Kingston                 
+                 ----------------------------------------------                 
+
+Item #: SCP-5817 
+
+Level 3
+
+Containment Class: Keter 
+
+Disruption Class: KENEQ
+
+Risk Class: Notice
+
+CONFIDENTIAL
+
+
+Special Containment Procedures: All internet services in a country affected by 
+SCP-5817 are to be shut down until SCP-5817's websites are inaccessible. 
+Automated programs are to monitor SCP-5817's activity by collecting all 
+information in its pages and storing it in Site-68's computers. All remaining 
+evidence of the existence of SCP-5817-1 is to be denied to the general public. 
+
+Description: SCP-5817 is a monthly phenomenon that affects all internet services 
+in a country for roughly one minute. Attempts of accessing any website during 
+SCP-5817 will redirect users to a counterpart that advertises a nonexistant 
+country named Republic of Kingston, designated SCP-5817-1. According to these 
+altered pages, SCP-5817-1: 
+
+Includes the territories of Jamaica, Haiti, Cuba, Dominican Republic and parts 
+of Mexico and Guatemala. 
+
+Has large cultural and ethnic varieties.
+
+Is a democratic republic with a president named Horace Rosencratz, a 71 year old 
+male. 
+
+Has no documented cases of civilian violence in its territories.
+
+Discovery: SCP-5817 was first documented in March 15th of 2013, having taken 
+place in Jamaica. The manifestation caused a collective hysteria due to being 
+interpreted as a declaration of the independence of Kingston, the local capital 
+city, made by a revolutionary group. While Jamaican authorities managed to 
+pacify the population by stating the SCP-5817 event was "an inoffensive prank 
+made by hackers", none of the affected sites showed any trace of hacking in 
+their change logs. 
+
+While the Foundation would later intervene in police investigations, SCP-5817 
+wouldn't be officially classified until April 15th of the same year, when it 
+took place in Panama. Dr. Ignatius has been assigned to study SCP-5817 since 
+then. 
+
+
+Incident Report SCP-5817-A:
+
+In December 15th of 2015, an SCP-5817 news website named Kingston Everyday 
+announced that president Horace Rosencratz was considering to let a fleet of 
+patrol boats watch the city of Nassau, Bahamas, after a flawed negotiation with 
+the local Prime Minister. It was also mentioned that the Bahamas have been 
+launching attacks against SCP-5817-1 territory for unknown reasons. Later that 
+day, locals reported the presence of unmanned vessels with unidentified flags 
+near the coastal zone of Nassau. The Foundation managed to retrieve one of the 
+boats for study purposes. Perry Christie, Prime Minister of the Bahamas at the 
+time, claimed to never have met anyone named Horace Rosencratz. 
+
+In January 15th of 2016, Kingston Everyday became accessible again and displayed 
+the following headlines: 
+
+Kingstonian Patrol Boat Stolen!
+
+
+Interview Log SCP-5817-B:
+
+Interviewed: Subject-5817-B
+
+Interviewer: Dr. Ignatius
+
+Foreword: Subject-5817-B, a 71-year-old Caucasian male, was found in February 
+16th of 2016 in Cuba and taken to Site-68 to be interviewed. Comparisons showed 
+that subject bears great resemblance to images of Horace Rosencratz extracted 
+from SCP-5817's websites. No information about name and origin of the subject 
+was found in any non-SCP-5817 database before the interview. 
+
+<Begin Log>
+
+Dr. Ignatius: Alright, now that we are here, could you please tell me your name?
+
+Subject-5817-B: My name? Well, you can call me Horace.
+
+Dr. Ignatius: So, Mr. Horace, you don't seem to come from Cuba and-
+
+Subject-5817-B: Cuba? Don't you mean the "Havana district"?
+
+Dr. Ignatius: No, sir. I said Cuba
+
+Subject-5817-B: Oh no no no, (laughs) Cuba isn't that dumpster you're talking 
+about anymore, it's part of something bigger now: the Republic of Kingston. 
+
+Dr. Ignatius: I don't think I ever heard about a place like this really 
+existing. 
+
+Subject-5817-B: Hm? How could you never have heard of Kingston?
+
+Dr. Ignatius: The Kingston I know is the capital city of Jamaica, not a well 
+known country. Could you please tell me about it? 
+
+Subject-5817-B: Well yes! Kingston is located in Central America and it's a 
+paradise unlike any other place in the continent, with natural beauty, gorgeous 
+cities and an efficient government, and I'm not saying this just because I'm the 
+President. (laughs) 
+
+Dr. Ignatius: So you're the President of that "Republic" you're talking about. 
+Well, then what have you done for your country so far? 
+
+Subject-5817-B: You see, I worry about other places of the world, about how they 
+lack the features that make Kingston perfect. Right now, most of them are 
+questionable, unlikable, some shouldn't even be countries to begin with! Take 
+this place for example: great ambitions, insufficient resources, ones that only 
+Kingston can efficiently provide. That's why I started the Kingstonian expansion 
+project. 
+
+Dr. Ignatius: You were given information about us before?
+
+Subject-5817-B: Well yes. There was a day where one of our patrol boats was 
+stolen back in 2015, and the Kingstonian Intelligence Center manage to track it. 
+According to them, the ship was inside this exact site, owned by some kind of 
+Foundation. Since that day, they have researched information about you and how 
+you study supposed anomalies, some really hard to keep under control. On the 
+other hand, we have a powerful army and technology that would certainly make 
+your most dangerous monsters look like little bunnies stuck in a cage. So, lets 
+make a deal, shall we? 
+
+Dr. Ignatius: A deal?
+
+Subject-5817-B: This place becomes our territory for scientific research and, in 
+return, we shall help you with containment and structural improvements. What do 
+you think? 
+
+Dr. Ignatius: I-I'm sorry, sir, but this isn't the purpose of the interview.
+
+Subject-5817-B: Then I think I'm done with it for now. Is there any way to talk 
+to whoever directs this (pauses) place? 
+
+Dr. Ignatius: I'm afraid this won't be possible.
+
+Subject-5817-B: Well, then I guess there is no point discussing it right now. 
+We'd be better off talking about this another day. In this case, could someone 
+take me to the exit? 
+
+<End Log>
+
+Closing Statement: After the interview, subject was taken to a humanoid 
+containment cell in Site-68. All attempts at amnesticization of the entity were 
+unsuccessful. 
+
+
+Incident Log SCP-5817-C:
+
+Foreword: In the morning of March 15th of 2016, a camera documented two 
+Foundation guards, who were responsible for watching Subject-5817-B slowly 
+having their appearences changed while keeping the same outfit. The 
+transformation took place during SCP-5817, which was affecting Site-68 at the 
+time, and the affected guards removed Subject-5817-B from its cell after the 
+event was over. Two minutes later, Dr. Ignatius, who was walking at a nearby 
+corridor at the time, encountered the two guards and Subject-5817-B. A different 
+camera managed to record the event. 
+Below is a transcript of the recorded content.
+
+<Begin Log>
+
+Dr. Ignatius is walking down a corridor when he meets the two guards and 
+Subject-5817-B 
+
+Dr. Ignatius: W-what are you doing in here? Weren''t you supposed to keep the 
+subject in the containment cell? 
+
+Guard 1: We have been ordered to take this subject to Dock-7 so it can be 
+transferred to Site-██. 
+
+Dr. Ignatius: Transferring this subject is out of question at the moment, I 
+still need some interviews with him to understand SCP-5817. 
+
+Guard 2: Earlier orders from the site directory stated that the transfer is a 
+top priority. 
+
+Dr. Ignatius: I was at the site directory this morning and saw their schedules, 
+there was nothing about transfer there. Now could you please tak-(pauses) have I 
+ever seen you two before? 
+
+Guard 2: We're (inaudible), hired by the Foundation one year ago. Currently the 
+only members of Site-68's security personnel to come from the Republic of 
+Kingston. 
+
+Dr. Ignatius: Kingston? No no no no no, the Foundation never hired anyone from 
+Kingston, I will call the real security perso- 
+
+Speaker: Attention all security personnel, Subject-5817-B is currently being 
+transferred to Site-██. (inaudible) are responsible for transporting the 
+subject and should not be interrupted during the process. Boat-23 has been 
+deployed on Dock-7 for use by the transfer team. 
+
+Dr. Ignatius: What? B-but-
+
+Guard 1: You heard the Site Director, now please step out of our way.
+
+(Dr. Ignatius walks away while the guards continue to escort Subject-5817-B)
+
+<End Log>
+
+Closing Statement: After the incident, the two guards responsible for 
+Subject-5817-B's transfer and Site-68's Director were interviewed. When 
+questioned about their actions, the individuals stated that they "were men of 
+Kingston and were simply doing what's right for their country". The Foundation 
+managed to track the Boat-23, which was found docked in the city of Nassau. 
+
+NOTICE
+You are currently viewing an outdated version of this page. Click here to access 
+the updated version. 
+
+Item #: SCP-5817 
+
+Level 3
+
+Containment Class: Keter 
+
+Disruption Class: EKHI
+
+Risk Class: Warning
+
+CONFIDENTIAL
+
+
+Special Containment Procedures: All internet services in a country affected by 
+SCP-5817 are to be shut down until SCP-5817's websites are inaccessible. 
+Automated programs are to monitor SCP-5817's activity by collecting all 
+information contained in its pages and storing it in Site-68 Site-130's 
+computers. All remaining non-physical evidence of the existence of SCP-5817-1 is 
+to be denied to the general public. 
+
+The southeastern part of the city of Kingston, Jamaica is to be isolated from 
+non-SCP-5817-2 civilian access and monitored in order to document the creation 
+of SCP-5817-2 instances, which is currently inevitable. Negotiations with 
+SCP-5817-1 are in progress. 
+
+Description: SCP-5817 is a monthly phenomenon that affects all internet services 
+in a country for roughly one minute. Any attempt of accessing any website during 
+SCP-5817 will redirect users to a counterpart that advertises a nonexistant 
+country named Republic of Kingston, designated SCP-5817-1. According to these 
+altered pages, SCP-5817-1: 
+
+Includes the the entirety of Central America's territory and Mexico.
+
+Has large cultural and ethnic varieties.
+
+Is a democratic republic with a president named Horace Rosencratz, a 71 year old 
+male, formerly referred to as Subject-5817-B, now designated as SCP-5817-2-A. 
+
+Has no documented cases of civilian violence in its territories.
+
+Discovery: SCP-5817 was first documented in March 15th of 2013, having taken 
+place in Jamaica. The manifestation caused a collective hysteria due to being 
+interpreted as a declaration of the independence of Kingston, the local capital 
+city, made by a revolutionary group. While Jamaican authorities managed to 
+pacify the population by stating the SCP-5817 event was "an inoffensive prank 
+made by hackers", none of the affected sites showed any trace of hacking in 
+their change logs. 
+
+While the Foundation would later intervene in police investigations, SCP-5817 
+wouldn't be officially classified until April 15th of the same year, when it 
+took place in Panama. Dr. Ignatius has been assigned to study SCP-5817 since 
+then. 
+
+In March 15th of 2016, a secondary behavior of SCP-5817, which consists in 
+generating SCP-5817-2 instances (defined as individuals immune to amnestic 
+treatment, buildings, units of virtual currency, text messages and vehicles 
+belonging to SCP-5817-1) and ocasionally replacing non-SCP-5817-2 objects or 
+individuals in Central America (mainly in the southeastern region of Kingston, 
+Jamaica), has been confirmed. Since that day, Site-68 became a risk zone and 
+research about SCP-5817 was assigned to Site-130 instead, where Dr. Ignatius 
+would continue research involving the anomaly. 
+
+Currently, the creation of the following physical SCP-5817-2 instances has been 
+documented: 
+
+6 civilian individuals
+
+A building, used as administrative center
+
+Horace Rosencratz, formerly referred to as Subject-5817-C, now designated 
+SCP-5817-2-A 
+
+8 Rosencratz Class Patrol Boats, supposedly produced in SCP-5817-1 territory
+
+
+Incident Report SCP-5817-D:
+
+In September 15th of 2016, SCP-5817 took place in El Salvador. While no 
+SCP-5817-2 instances were generated, the last 30 seconds of a live stream 
+showing a meeting between the United States President Barack Obama and 
+SCP-5817-2-A were shown in many different SCP-5817 news sites. An automated 
+program created by the Foundation managed to download the full stream, which had 
+a length of roughly 28 minutes. In the video, SCP-5817-2-A and President Obama 
+discussed subjects such as economy and national security and then shook hands. 
+While, according to data retrieved during SCP-5817, the meeting was held at the 
+Palace of Kingston, SCP-5817-1's administrative center, Foundation personnel in 
+charge of monitoring activity at SCP-5817-1 stated that the United States 
+President himself never entered the building and that SCP-5817-2-A wasn't on 
+real SCP-5817-1 territory during the time of the supposed meeting. 
+Later that day, Barack Obama and other world leaders mentioned the meeting on 
+social networks, praising SCP-5817-2-A and SCP-5817-1. The Foundation managed to 
+delete posts about the subject and to amnesticize both the leaders and the 
+individuals who have seen the posts. 
+
+
+Interview Log SCP-5817-E:
+
+Interviewed: SCP-5817-2-A
+
+Interviewer: Dr. Ignatius
+
+Foreword: In October 4th of 2016, SCP-5817-2-A attempted to enter Site-130, 
+demanding to speak with Dr. Ignatius. While the demand was denied at first, Dr. 
+Ignatius asked the site's security allow his entrance some minutes later under 
+the justification of needing interviews to further understand SCP-5817. 
+
+<Begin Log>
+
+Dr. Ignatius: Well, now that you're back here, I'd like to ask some questions, 
+alright? 
+
+SCP-5817-2-A remains silent
+
+Dr. Ignatius: Hm? I assumed you'd have something to say since you are the one 
+that came here in the first place. 
+
+SCP-5817-2-A: Well I do have something to say.
+
+Dr. Ignatius: And what would that "something" be then?
+
+SCP-5817-2-A: I'd like to ask: (pauses) why do you continue to make everyone 
+believe that Kingston doesn't exist? 
+
+Dr. Ignatius: Because the Kingston you're talking about really doesn't.
+
+SCP-5817-2-A: It exists! Haven't you seen the news? Barack Obama himself has 
+praised it. 
+
+Dr. Ignatius: There is no proof of that.
+
+SCP-5817-2-A: That's because you're hiding it! You probably have a video of the 
+meeting stored somewhere! 
+
+Dr. Ignatius: Sir, that footage is f-
+
+SCP-5817-2-A: (slams the table) I don't care about what you think of the 
+footage! It is a real and undeniable proof of Kingston's existence! 
+
+Dr. Ignatius: Hey, please calm do-
+
+SCP-5817-2-A: How can calm down when there's a whole Foundation trying to deny 
+the existence of my own place?! 
+
+Dr. Ignatius: (sighs) Well, if you don't believe us, then we'll let you discover 
+by yourself. 
+
+Dr. Ignatius looks at Assistant Henry, who is standing on the corner of the 
+interview room, and asks him to bring a cell phone and a netbook. After a 
+minute, Henry returns with both items. 
+
+Dr. Ignatius: Thanks Henry, (looks at SCP-5817-2-A) now I want you to show me 
+evidence of Kingston's existence using these. 
+
+SCP-5817-2-A: Oh, I'll show you. Just wait and see.
+
+SCP-5817-2-A picks up the cellphone and attempts to make calls to governments of 
+different Central American countries, referring to them as "Kingstonian 
+Districts". The subject however fails to contact the leaders of said districts. 
+After some time, he puts the phone on the table and looks at Dr. Ignatius. 
+
+SCP-5817-2-A: You somehow made them forget about Kingston, didn't you?
+
+Dr. Ignatius: No, for the most part.
+
+SCP-5817-2-A: (growls) There has to be something on the internet.
+
+SCP-5817-2-A browses the internet, searching for various topics related to 
+SCP-5817-1. After some time, the subject frowns and stands up abruptly. 
+
+SCP-5817-2-A: No no no! You quacks are making this up!
+
+Dr. Ignatius: Sir, I ask you once again to c-
+
+SCP-5817-2-A: I already said I won't calm down until you prove me tha-
+
+Dr. Ignatius: Fine, fine, fine! (sighs) Then what were you doing 10 minutes 
+before and after the meeting with President Obama? 
+
+SCP-5817-2-A: Well, that's easy! I was uhhh (pauses) at the Ciudad de Mexico 
+district? W-wait how ev- how would I even get to the Palace of Kingston in ten 
+minutes? How- no no no I swear the meeting happened, but how would I… Well, it 
+doesn't matter, during the 10 minutes after the interview I left the Palace of 
+Kingston and- (pauses) I was at Ciudad de Mexico again? No no no, how?! Could it 
+be that (pauses) the meeting didn't happen? B-but.. 
+
+SCP-5817-2-A sits down.
+
+Dr. Ignatius: (whispers) Hmmm, could it be that SCP-5817 is also capable of 
+manipulating memories? 
+
+SCP-5817-2-A: I-I swear there was a meeting, but at the same time, it was 
+impossible for me to get to it in time. How is this possible? 
+
+Dr. Ignatius: I believe that this memory got "planted" on your head. Part of our 
+personnel was looking at the surroundings of the supposed "Palace of Kingston" 
+and they didn't see Barack Obama stepping there either. 
+
+SCP-5817-2-A remains silent for some time, but then puts his left elbow on the 
+table and covers most of his face with his left hand. 
+
+SCP-5817-2-A: Alright, (sighs) you won. You showed me that all I believed in was 
+wrong. What do you want from me now? 
+
+Dr. Ignatius: We'd like to ask more questions about what you know about 
+Kingston. 
+
+SCP-5817-2-A: Don't you mean about "what I thought I knew"? You just told me 
+that nothing I know really exists or happened. 
+
+Dr. Ignatius: Well, the Kingston as a big country domining all of the Central 
+American and Mexican territory that you're talking about isn't real. But that 
+doesn't mean that Kingston itself is completely fake. Some objects, people and 
+websites from it exist, but all were created by a monthly anomalous event. 
+
+SCP-5817-2-A: An anomalous event, you say?
+
+Dr. Ignatius: Hm? Do you know anything about it?
+
+SCP-5817-2-A: Honestly no. I always assumed we existed for a long time and that 
+you were just a bunch of conspiracy theorists, wanting people to believe we 
+didn't exist. 
+
+Dr. Ignatius: We're a serious organization and always do research to know about 
+what we are dealing with. Anyway, do you think that the memories you had about 
+meetings could have been planted on your head by the anomaly? 
+
+SCP-5817-2-A: I-I really don't know,. All of the memories I have feel quite 
+real, if a bit out of place at times. I remember things that I presenced myself, 
+but at times these memories are interrupted by different ones showing stuff I 
+don't usually see around. 
+
+Dr. Ignatius: I see. But have you ever seen anything changing appearance to 
+resemble your memories? 
+
+SCP-5817-2-A: Yes, I've seen people and places changing into different ones. 
+Like those guards at the other site, just after I got reminded of a time where 
+this Foundation contacted me about hiring some of our men, probably by that 
+anomaly you mentioned, I saw their body shapes change for around a minute. 
+
+Dr. Ignatius: Interesting (pauses). Well, I'm afraid this interview won't take 
+us any further. (stands up) I thank you for collaborating with us. 
+
+SCP-5817-2-A remains silent.
+
+Dr. Ignatius: Hm? Are you alright?
+
+SCP-5817-2-A: Does it look like I'm alright? You just told me that I and 
+everything I know was made up by some weird anomaly. 
+
+Dr. Ignatius moves his chair close to SCP-5817-2-A and sits down.
+
+Dr. Ignatius: Look, you may be just one of its many creations, but that doesn't 
+mean that you can't make a perfect country. 
+
+SCP-5817-2-A: Get real, nobody will accept a farce like me.
+
+Dr. Ignatius: Farce or not, you're still a person and can make a difference. 
+Gain people's trust and they will choose you to lead them. That anomaly created 
+you to be a perfect leader after all. 
+
+SCP-5817-2-A: You're right, that thing is on my side. I can use it to make the 
+Kingston I know real. 
+
+Dr. Ignatius: Sir, that's not what I mea-
+
+SCP-5817-2-A: (abruptly stands up) I'll be able to bring a golden age to it. No 
+Foundation will be able to hide us anymore! 
+
+Dr. Ignatius: Sir, please-
+
+SCP-5817-2-A: And I shall rule over it unquestioned! Command the perfect county 
+and extend it to the whole world. 
+
+Dr. Ignatius: Enough, security personnel, take him to a cell.
+
+<End Log>
+
+Closing Statement: SCP-5817-2-A was taken to a humanoid containment cell by two 
+members of the security personnel who were following the interview. 
+
+
+
+YOU HAVE 1 NEW MESSAGE (October 15th of 2016)
+
+
+
+From: Site-130 directory
+
+Greetings, Site-130 personnel. You may have noticed that the site went through 
+some major layout changes in a short timespan. We ask you to stay calm as all 
+anomalies are still contained. However, Site-130 went through structural 
+improvements and most of building itself was repurposed in order to serve 
+different purposes. With this, the site directory is now temporarily under the 
+administration of Andrew Colt and will be disbanded once all anomalies contained 
+in Site-130 are transferred to another facility. 
+
+Meanwhile, most of the research around SCPs will still be allowed to continue 
+normally. The only exception is SCP-5817, which is currently being reclassified 
+as "Explained". 
+
+We apologize for any inconvenience and wish you a good day.
+
+Message sent in October 15th of 2016 - Location: Republic of Kingston
+
+

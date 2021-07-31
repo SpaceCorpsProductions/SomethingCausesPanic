@@ -1,0 +1,272 @@
+                                    SCP-4182                                    
+                                    ========                                    
+
+                               There Is No Site-5                               
+                               ------------------                               
+
+Item #: SCP-4182 
+
+Object Class: Keter 
+
+Special Containment Procedures: A Foundation-operated bot (I/O-SILVER) is to 
+review IntSCPFN servers for files affected by SCP-4182. These files are to be 
+isolated and reported to the on-duty server administrator for review and 
+sterilization. Personnel are to be reminded that there is no Site-5. 
+
+Description: SCP-4182 is a phenomenon by which internal Foundation documents are 
+periodically altered to include references to a non-existent site ("Site-5"). 
+The mechanism by which this occurs has yet to be understood. 
+
+Depictions of Site-5 are inconsistent, but typically describe it as a man-made 
+island constructed to store hazardous materials.1 
+
+Since its discovery in 2018, SCP-4182's rate of occurrence has been increasing 
+exponentially. 
+
+
+
+Footnotes 
+
+1. Specifically, a containment site for anomalous waste. 
+
+
+
+404 Internal Server Error 
+
+The server encountered an unexpected condition which prevented it from 
+fulfilling the request: 
+
+Traceback (most recent call last): 
+
+File "/SCP/4182/files/_display.py", line 551, in respond 
+
+table.open.body = self.handler() 
+
+File "/SCP/4182/files/_display.py", line 24, in __call__ 
+
+return self.callable(*self.args, **self.kwargs) 
+
+File "error_classic.py", line 6 in index 
+
+raise FileNotFoundError(obj) 
+
+FileNotFoundError: [Errno 2] No such file or directory: 'CAM-5.ogg' 
+
+
+NOTE: This document has encountered an unexpected condition. Click here to 
+restore the previous revision, or contact your server's administrator 
+(jdavis@scp.foundation.int) for more details. 
+
+
+
+SCP-4182
+
+NOTE: You are viewing a previous iteration (7/11/2015) of this
+document. Information contained here may be inaccurate or obsolete.
+Please contact your server's administrator (jdavis@scp.foundation.int)
+for more details.
+
+
+Item #: SCP-4182
+
+Object Class: Euclid
+
+
+Special Containment Procedures: Personnel are to work with the JMSDF1
+and other naval and aeronautic authorities to enforce a ten kilometer
+exclusion zone around SCP-4182. Access is strictly prohibited.
+
+A Foundation-operated bot (I/O-SILVER) is to review IntSCPFN servers
+for files affected by SCP-4182. These files are to be isolated and
+reported to the on-duty server administrator for review and
+sterilization. Personnel are to be reminded that there is no Site-5.
+
+Description: SCP-4182 is a 6.4-hectare (16-acre) artificial island
+located 75 kilometers south of Ipponsugi, Japan. Although no record of
+its construction exists, its configuration suggests it was built as a
+waste containment facility at some point in the early 20th century.
+
+Foundation documents will periodically identify SCP-4182 as a
+non-existent site ("Site-5"). The mechanism by which this occurs has
+yet to be understood.
+
+All of SCP-4182's structures were found sealed with reinforced acrylic
+plating. No further attempt to remove these plates or examine the
+interior of SCP-4182's structures is to be made.
+
+Since its discovery in 2014, SCP-4182's rate of occurrence has been
+increasing dramatically.
+
+
+
+Footnotes
+
+1. The Kaijō Jieitai, or Japanese Maritime Self-Defense Force.
+
+
+404 Internal Server Error
+
+The server encountered an unexpected condition which prevented it from
+fulfilling the request:
+
+Traceback (most recent call last):
+
+File "/SCP/4182/files/_display.py", line 551, in respond
+
+table.open.body = self.handler()
+
+File "/SCP/4182/files/_display.py", line 24, in __call__
+
+return self.callable(*self.args, **self.kwargs)
+
+File "error_classic.py", line 6 in index
+
+raise FileNotFoundError(obj)
+
+FileNotFoundError: [Errno 2] No such file or directory: 'CAM-5.ogg'
+
+NOTE: This document has encountered an unexpected condition. Click
+here to restore the previous revision, or contact your server's
+administrator (jdavis@scp.foundation.int) for more details.
+
+
+
+SCP-4182
+
+NOTE: You are viewing a previous iteration (15/07/2002) of this
+document. Information contained here may be inaccurate or obsolete.
+Please contact your server's administrator (jdavis@scp.foundation.int)
+for more details.
+
+Item #: SCP-4182
+
+Object Class: Euclid
+
+Special Containment Procedures: Personnel are to work with the JMSDF1
+and other naval and aeronautic authorities to enforce a twenty-five
+kilometer exclusion zone around SCP-4182. All entrances and windows
+that provide access to SCP-4182's interior have been welded shut via
+steel-reinforced acrylic paneling coated in a graded-Z laminate.
+Access is strictly prohibited.
+
+A Foundation-operated bot (I/O-SILVER) is to review IntSCPFN servers
+for files affected by SCP-4182. These files are to be isolated and
+reported to the on-duty server administrator for review and
+sterilization. Personnel are to be reminded that there is no Site-5.
+
+Description: SCP-4182 is a 6.4-hectare (16-acre) artificial island
+located 75 kilometers south of Ipponsugi, Japan. Although no record of
+its construction exists, its configuration suggests it was built as a
+waste containment facility at some point in the early 20th century.
+
+Foundation documents will periodically identify SCP-4182 as a
+non-existent site ("Site-5"). The mechanism by which this occurs has
+yet to be understood.
+
+Several of SCP-4182's (now sealed) structures contained stairwells
+plugged with concrete. Excavations of these stairwells led to the
+discovery of a massive subterranean complex located beneath SCP-4182
+containing a ████ ██ █████ ███████. No further excavations are to be
+made.
+
+Since its discovery in 2001, SCP-4182's rate of occurrence has been
+increasing significantly.
+
+
+
+Footnotes
+
+1. The Kaijō Jieitai, or Japanese Maritime Self-Defense Force.
+
+
+404 Internal Server Error
+
+The server encountered an unexpected condition which prevented it from
+fulfilling the request:
+
+Traceback (most recent call last):
+
+File "/SCP/4182/files/_display.py", line 551, in respond
+
+table.open.body = self.handler()
+
+File "/SCP/4182/files/_display.py", line 24, in __call__
+
+return self.callable(*self.args, **self.kwargs)
+
+File "error_classic.py", line 6 in index
+
+raise FileNotFoundError(obj)
+
+FileNotFoundError: [Errno 2] No such file or directory: 'CAM-5.ogg'
+
+
+NOTE: This document has encountered an unexpected condition. Click
+here to restore the previous revision, or contact your server's
+administrator (jdavis@scp.foundation.int) for more details.
+
+
+
+SCP-4182
+
+NOTE: You are viewing a previous iteration (21/11/1992) of this
+document. Information contained here may be inaccurate or obsolete.
+Please contact your server's administrator (jdavis@scp.foundation.int)
+for more details.
+
+Item #: SCP-4182
+
+Object Class: Keter
+
+Special Containment Procedures: Personnel are to work with the JMSDF1
+and other naval and aeronautic authorities to enforce a fifty
+kilometer exclusion zone around SCP-4182. All stairwells leading to
+SCP-4182's sub-complex are to be sealed with (approx.) two meters of
+concrete composite (a formulation of cement, water, and heavy weight
+aggregates that provide additional radiation shielding) reinforced
+with steel. Access is strictly prohibited.
+
+A Foundation-operated bot (I/O-SILVER) is to review IntSCPFN servers
+for alterations made by personnel affected by SCP-4182. These
+personnel are to be isolated and reported to on-duty Foundation agents
+for review and sterilization. Personnel are to be reminded that there
+is no Site-5.
+
+Description: SCP-4182 is a 6.4-hectare (16-acre) artificial island
+located ██ kilometers █████ of ██████████ █████. Although no record of
+its construction exists, its configuration suggests it was built as a
+waste containment facility at some point in the early 20th century.
+
+Foundation personnel will periodically identify SCP-4182 as a
+non-existent site ("Site-5"). The mechanism by which this occurs has
+yet to be understood.
+
+Personnel affected by SCP-4182 will descend one of several stairwells
+throughout the facility, proceeding into a massive subterranean
+complex that contains █ ████ ██ ███████████ █████████ █████ ███████.
+Despite extensive seismological and radiometric surveys, the depth of
+this sub-complex has yet to be determined (but is in excess of several
+kilometers).
+
+In 1989, a medical examination of several hundred bodies recovered
+from SCP-4182 was conducted. In approximately 75% of cases, the
+internal morphology showed minor to severe deviations from
+topographical norms (typically concentrated in the central nervous
+system). The most common cause of death was intracerebral hemorrhaging
+brought on by the rapid onset of liquefactive necrosis inside the
+brain. No further examinations are to be made.
+
+Since its discovery in 1986, SCP-4182's rate of occurrence has been
+increasing.
+
+
+
+Footnotes
+
+1. The Kaijō Jieitai, or Japanese Maritime Self-Defense Force.
+
+NOTE: This document has received a recent revision. Click here to view
+the most recent version, or contact your server's administrator
+(jdavis@scp.foundation.int) for more details.
+
+

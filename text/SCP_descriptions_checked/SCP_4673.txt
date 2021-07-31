@@ -1,0 +1,157 @@
+                                    SCP-4673                                    
+                                    ========                                    
+
+                             Reverse Identity Theft                             
+                             ----------------------                             
+
+---------- Email message ---------
+
+From: SCP-4673 Mailer System
+
+Date: Wed, Apr 8, 2020 at 2:13 PM
+
+Subject: 60-day Affirmation
+
+To: List: 'All Foundation Personnel'
+
+Good afternoon. A reminder: the below process and containment file review must 
+be completed within 10 days. Please click the link below to access: 
+
+
+Scipnet://hb533634lnt3ne.containmentfile.scp/data--network/ front-end/SCP-4673//confirmlogin.asp 
+
+Thank you for your cooperation.
+
+This is an automated message; replies to it will go unanswered.
+
+To access this containment file, please complete the following affirmation. 
+Please type: 
+
+"I am not Foundation Agent Edward Carter Hardwick."
+
+Enter text here:	
+I am not Foundation Agent Edward Carter Hardwick.
+Confirm
+
+Your response has been logged. You may now optionally review this containment 
+file. 
+
+
+Item #: SCP-4673
+
+Object Class: Euclid
+
+Secure Containment Procedures: Every 60 days, every Foundation employee must 
+affirm, in writing or verbally, that they are not Foundation Agent Edward Carter 
+Hardwick. This affirmation may be done via a predesignated email link, or to 
+their immediate superior in person, writing, or over radio communication. 
+Foundation supervisors are required to file the responses of their direct 
+reports having completed this task before the 60th day of each 90-day period. 
+
+Access to this containment file must be held behind an affirmation that the user 
+attempting to access this file is not Foundation Agent Edward Carter Hardwick. 
+
+External affairs is advised to be certain that any person being processed for 
+intake as new Foundation personnel is not named Edward Carter Hardwick. 
+
+Any Foundation personnel claiming to be Foundation Agent Edward Carter Hardwick 
+should be reported to site security for immediate termination. Claims that such 
+an utterance were unintentional, humorous, or in jest are not defenses against 
+this protocol. 
+
+In the unlikely event of the manifestation of SCP-4673-A, they are not to be 
+engaged and their target should be terminated immediately. If this is not 
+possible, SCP-4673-A should be allowed to proceed to their target without 
+resistance. 
+
+Description: SCP-4673 is the identity of Edward Carter Hardwick, born July 7, 
+1987. Members of the Foundation who are unaware of the nature of SCP-4673 may, 
+without warning, manifest SCP-4673. At such a time, their own identity slowly 
+becomes overwritten with SCP-4673. Initial effects include identifying with the 
+name Edward Carter Hardwick, or exhibiting behaviors and mannerisms consistent 
+with Edward Carter Hardwick. If there is no intervention at this point, they 
+will begin to lose memories of their own identity as SCP-4673 parasitically 
+consumes their psyche. Once this process is complete, SCP-4673 will cause a 
+memetic response in others around the subject, who will begin to identify the 
+subject as Foundation Agent Edward Carter Hardwick. At this point, thirteen 
+humanoid entities will manifest within a 1 mile radius of the subject, 
+collectively designated SCP-4673-A. 
+
+SCP-4673 only impacts Foundation personnel, and will not manifest on any 
+Foundation agent who makes a conscious effort to declare they are not Foundation 
+Agent Edward Carter Hardwick on a regular basis, usually 90 days. SCP-4673 does 
+not impact D-Class Personnel. 
+
+
+Addenda 4673.1: SCP-4673-A
+
+SCP-4673-A is a paramilitary group consisting of what appear to be eleven males 
+and two females in modern and advanced tactical gear. SCP-4673-A is armed with 
+high explosives, heavy firearms, and numerous anomalous and non-anomalous 
+equipment including: 
+
+(13) SIG Sauer M17 service pistols
+(8) Colt M4A1 Carbine rifles with ACOG optic and vertical forward grip
+(3) Heckler & Koch MP5 submachine guns
+(1) U.S.-spec AT-4 Anti-tank weapon capable of firing repeatedly without reload
+(1) Mk 14 Enhanced Battle Rifle (EBR)
+(7) MM-1 "Minimore" anti-personnel devices
+an apparently unlimited number of M67 grenades
+
+On more than one occasion, SCP-4673-A have manifested inside a Foundation 
+Security site. Their only motivation is to kill Foundation Agent Edward Carter 
+Hardwick. 
+
+Members of SCP-4673-A appear to be as vulnerable to damage as a living human in 
+similar gear would be, but upon death they vanish and instantaneously remanifest 
+nearby fully restocked and with no prior injury. This effect will also occur if 
+they are rendered unconscious, detained and unable to escape, or physically 
+blocked from reaching Edward Carter Hardwick. Their tactical operation will 
+continue until the target is reached, overwhelming their enemies through sheer 
+attrition. Upon the death of Edward Carter Hardwick, SCP-4673-A will demanifest. 
+
+
+Addenda 4673.2: Edward Carter Hardwick
+
+Edward Carter Hardwick was, as far as Foundation records indicate, employed by 
+the Covert Operations Division from 2013 to 2019 as an embedded agent in occult 
+paramilitary organization ████████████████ in an 
+attempt to neutralize their operations. During the time of said operation, 
+Hardwick was involved in numerous situations involving the organization's 
+experimentation with infohazardous materials and rituals. (See Field Operations 
+Log 554-FK-101.B) 
+
+In late 2019, Hardwick's cover was compromised by a Foundation double agent, Mr. 
+Woolton (See below). Hardwick was confronted by leading members of 
+████████████████ and, as a last resort, 
+performed an as-yet-unknown memetic modification ritual on himself and possibly 
+his attackers. 
+
+
+Addenda 4673.3: Security Footage: Exit interview with Mr. Woolton
+
+Interviewer: Cpt. Greg Reynold, Site-91
+
+Interviewee: Mr. Woolton, a Field Operations Handler for the Foundation
+
+Reynold: How long were you working for 
+████████████████? 
+
+Woolton: You don't understand. I…I…
+
+Reynold: You burned Hardwick. And now he's…I don't even know. Do you?
+
+██████: I…I'm…
+
+Reynold: What did you get out of it? Did they pay you? Give you anomalous goodie 
+bags? 
+
+Hardwick: I'm…Edward Hardwick.
+
+Reynold: What?
+
+SCP-4673-A breaches the other side of the room. Cpt. Reynold and Foundation 
+Agent Edward Carter Hardwick are fatally struck by a number of bullets and 
+SCP-4673-A demanifests. 
+
+

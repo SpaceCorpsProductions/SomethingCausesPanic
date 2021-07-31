@@ -1,0 +1,183 @@
+                                    SCP-5035                                    
+                                    ========                                    
+
+                                  The Freedman                                  
+                                  ------------                                  
+
+Item #: SCP-5035 
+
+Level 3
+
+Containment Class: Euclid 
+
+Disruption Class: KENEQ
+
+Risk Class: Danger
+
+CONFIDENTIAL
+
+Special Containment Procedures: SCP-5035 is to be kept in a specially designed 
+containment chamber located 5 km below sub-level 9C at Area-179. The chamber is 
+outfitted with a Chalmez-Forte Matter Stabilizing Stasis Gate. 
+
+Following Incident I5035-A, access to SCP-5035 for any purpose is denied to all 
+personnel. 
+
+Access to SCP-5035 is limited to members of Project CHARON.
+
+SCP-5035-A and SCP-5035-B instances are to be collected and held in Dangerous 
+Goods Storage Block 17C according to the Biosafety Level 3 standard. 
+
+In the event of a containment breach, all museums and institutions falling under 
+Protocol 5035-CB are to be put under Foundation surveillance until SCP-5035 can 
+successfully be contained. MTF Beta-7 ("Maz Hatters") are assigned to the 
+recapture of SCP-5035 due to the risk of hazardous materials potentially 
+manifested by SCP-5035-A and SCP-5035-B. 
+
+Description: SCP-5035 is a plaster and cloth statue depicting an 
+African-American male wearing 19th century period accurate clothing. Attempts to 
+remove SCP-5035's clothing have proven futile, as the anomaly is capable of 
+quickly generating a new set using its own internal materials to enact 
+SCP-5035-B. 
+
+SCP-5035 spontaneously appears in museum diorama scenes relating to the American 
+Civil War. This begins a process observed to take from one hour to seven months 
+in completion- termed an "Infestation Event"- that results in the creation of 
+SCP-5035-A and SCP-5035-B. Those observing the diorama prior to the completion 
+of an Infestation Event do not notice the presence of SCP-5035 unless explicitly 
+told to. 
+
+SCP-5035 will change the physical properties and appearances of objects making 
+up the diorama to that of their real life counterparts. These transformed 
+objects are referred to as SCP-5035-A. SCP-5035 also has the ability to modify 
+existing objects in mass and position- taking on the appearance of entirely new 
+objects. Modified objects are referred to as SCP-5035-B. For examples of these 
+instances, refer to “Infestation Events Log” below. 
+
+Following a transformation, SCP-5035 will cause the object to rapidly decompose. 
+An Infestation Event is considered complete when SCP-5035 stops creating 
+instances of SCP-5035-A and SCP-5035-B. Upon completion, SCP-5035 will remain in 
+the diorama until its effects are observed by a certain number of persons. The 
+criteria- if any- for how SCP-5035 decides this is unknown, but can be inferred 
+that it is based on the size and scale of the Infestation Event. 
+
+SCP-5035 transforms and manipulates a diorama as an apparent form of 
+communication, and the object appears to identify itself with an African 
+American freedman. The end result is that of a calculated work intended to be 
+interpreted by the observer. Upon the completion of an Infestation Event, 
+SCP-5035 will manifest itself at a new location to repeat the process. Despite 
+appearing only in the United States, studies show no discernible travel pattern. 
+
+- Document 5035-II-40022 – Infestation Events Log
+
+- Incident Report I5035-A
+
+@
+
+WARNING: THE FOLLOWING ADDENDUM IS LEVEL #4/5035 CLASSIFIED
+ANY ATTEMPT TO ACCESS THIS FILE WITHOUT LEVEL 4/5035 AUTHORIZATION WILL BE 
+LOGGED AND WILL LEAD TO IMMEDIATE DISCIPLINARY ACTION. 
+ID	
+a.starse@rsrch.scp.net
+PASSWORD	
+•••••••••
+Login
+
+FROM: Dr. Edward T. Dune
+
+TO: Director Roman Barrow, Area-179
+
+SUBJECT: Neutralization Appeal re:SCP-5035
+
+Director Barrow,
+
+You're damn lucky we caught that thing when we did, Roman. You can give Martin's 
+team shit for whatever you'd like, but when someone flies a jet out to Site 89 
+to get a goddamned Stasis Gate and a CPR approval in under twelve hours, they're 
+doing a fine job in my book. Yes, I know I'm making you look incompetent. Yes, 
+I'm aware this will show up in the Level 4 file and potentially cost you your 
+position. No, I don't care. I mean, we hypothesized that the object could 
+potentially redirect its effects towards Foundation containment months ago. 
+Christ, Roman- take one look at how it reacted to plastic- all because it was 
+dressed up in a fucking Union outfit. You and the entire financial committee let 
+our Beta-Urgent Update proposals collect dust in document-limbo for months. A 
+budget cut cost Julie her life. Let that sink in for a second, you twat. 
+
+However, I didn't write this just to berate you anymore than I usually do, 
+Director. I'd like you to consider something. This object, while successfully 
+contained now, is clearly capable of understanding subtext and loves analogous 
+symbolism so much that I originally figured the thing belonged to those Are We 
+Played Out Yet? fuckers. It's been redirecting its attention from the Civil War 
+and the injustices of slavery to a different form of enslavement- the 
+containment of anomalies. 
+
+Consider the scene it had been constructing before we put a stop to it.
+
+Consider that, while the object is in motion stasis, it still may be capable of 
+"thinking". 
+
+Consider- assuming the above is true- how pissed off it is right now.
+
+Director, that thing is sitting in stasis thinking about all of the different 
+ways it can kill us. Want to see an entire site turned into a piece of social 
+commentary? How about a security team's insides turned out? Crude drawings of 
+the O5 Council carved into your goddamned chest with a knife fashioned from your 
+toenail? The second a containment breach occurs, or we deactivate that stasis 
+gate, that thing is teleporting the hell out of Area-179, and manifesting itself 
+at another Foundation establishment. I do not think that's a situation you want 
+on your hands. 
+
+We can't experiment with it anymore, it's just learning to hate us, it's a 
+massive liability to keep around, and it's utterly pointless to pour resources 
+into it. There's no tip-toeing around it- SCP-5035 must be neutralized. Need I 
+say more? 
+
+Sincerely Yours,
+
+Dr. Edward T. Dune
+
+
+FROM: Director Roman Barrow, Area-179
+
+TO: Dr. Edward T. Dune
+
+SUBJECT: DENIED- Neutralization Appeal Re:SCP-5035
+
+Dr. Dune,
+
+I have worked with The Foundation for exactly 30 years. I've met minds more 
+brilliant than I could ever hope to be, learned more about the true nature of 
+this reality than I could ever have imagined, and experienced countless horrors 
+untold. 
+
+I have never been more disrespected, belittled, and humiliated than from the 
+verbal abuse you continuously hurl at me with zero discretion. If not for 
+reasons clear to both you and I that do not need restating here, I would've had 
+you terminated years ago. That being said, Doctor- I reject your neutralization 
+appeal. 
+
+Now, before you call the state of my hair to attention and accuse me of sexual 
+relations with someone's mother- as you've done oh-so-many times before- allow 
+me to elaborate. 
+
+SCP-5035 is not averted to the Foundation as much as it is to the idea of 
+containment. Look around you- The Foundation is far from the only group 
+interested in anomalies. SCP-5035 appears to possess some sort of cognizance- so 
+why not attempt to communicate with it? Imagine redirecting that resentment away 
+from ourselves and towards a more deserving target. Provided we crack the code, 
+the nature of SCP-5035 may prove advantageous for us in the future. 
+
+The existence and growing influence of groups of interest is impeding The 
+Foundation's mission heavily. We've grazed conflict far too frequently as of 
+recent. We live in a world of ideological struggle, and we are rapidly 
+accelerating towards the collapse. Mark my words, Doctor- there will come a 
+tipping point, and it’s our job to be prepared. I reject your appeal, and in 
+place issue an official Directorial Order for an immediate project planning 
+meeting regarding a new testing program to be enacted on SCP-5035. You and your 
+team are to await further details. I'll be seeing you soon, Doctor. 
+
+Regards,
+
+Director Roman Barrow, Area-179
+
+

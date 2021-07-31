@@ -1,0 +1,87 @@
+                                    SCP-1663                                    
+                                    ========                                    
+
+                            Containment Site 1663-0                             
+                            -----------------------                             
+
+Item #: SCP-1663 
+
+Object Class: Euclid 
+
+Special Containment Procedures: Data pertaining to research performed at 
+Containment Site 1663-0 may only be disseminated to personnel assigned to 
+Containment Site 1663-0 or with prior permission from at least two (2) senior 
+researchers. Duty assignments at Containment Site 1663-0 are not to exceed two 
+(2) weeks in length, and all personnel must be administered Class B amnestics 
+prior to being transferred off-site. 
+
+Description: SCP-1663 is the special duty assignment for personnel assigned to 
+Containment Site 1663-0, located near [REDACTED]. The research performed at 
+Containment Site 1663-0 is considered a Euclid-class infohazard, thus 
+necessitating the extraordinary containment requirements outlined in this 
+document. 
+
+The data isolation of SCP-1663 was approved on [REDACTED] by the then-retiring 
+O5-█, whose immediate retirement and subsequent mandatory amnestic 
+administration was considered not in violation of standing regulations 
+prohibiting the exposure of O5 Council members to SCP objects. 
+
+Since then, ████ (█) separate retiring O5 Council members have upheld 
+the established containment procedures for SCP-1663. 
+
+Personnel assigned to SCP-1663 may continue on to the Additional Documentation 
+for SCP-1663 Personnel. 
+
+
+Additional Documentation For SCP-1663 Personnel
+
+Item #: SCP-Ksi-Lambda-0
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-Ksi-Lambda-0 is contained in a
+secure locker at Containment Site 1663-0. Dissemination of the
+existence of SCP-Ksi-Lambda-0 or any information related to it is
+forbidden as per SCP-1663 protocols, and personnel assigned to
+SCP-1663 or SCP-Ksi-Lambda-0 must be administered Class B amnestics
+prior to being transferred off-site following the maximum allowed
+assignment length of two (2) weeks.
+
+Description: SCP-Ksi-Lambda-0 is a Lady Liberty five-dollar coin
+minted in 1880, consisting primarily of gold with trace impurities of
+[DATA EXPUNGED]. Its anomalous effect is triggered whenever any human
+subject observes, touches, or is otherwise informed of
+SCP-Ksi-Lambda-0's existence. The nature of this object does not need
+to be explained; simply identifying it by name is sufficient.
+
+Within approximately three (3) weeks of exposure to SCP-Ksi-Lambda-0,
+affected subjects begin to develop a pathological revulsion to the
+ownership, restraint, or containment of any material wealth. Affected
+subjects will begin by donating or gifting all of their possessions,
+while attempting to convince others to relinquish their possessions.
+After approximately six (6) weeks, subjects will show increasing
+hostility towards others with material possessions, eventually
+culminating with a refusal to take possession of any material
+whatsoever, even food or water, after which subjects typically
+dehydrate and starve unless sedated and given sustenance
+intravenously. The only known preventative measure is to administer an
+amnestic of at least Class B strength prior to manifestation of
+initial symptoms.
+
+SCP-Ksi-Lambda-0 was re-designated following O5-█'s attempt to order
+the release of all SCP objects contained worldwide. Fortunately, O5-█
+was the only O5 Council member with knowledge of SCP-Ksi-Lambda-0 at
+the time, and was successfully terminated after his order was
+rescinded by other O5 Council members. At the time, SCP-Ksi-Lambda-0
+was designated SCP-[REDACTED]; its current designation was
+specifically created to remove it from standard Foundation object
+databases and to prevent its positive identification by any personnel
+other than those at Containment Site 1663-0.
+
+SCP-Ksi-Lambda-0's current containment procedures are to be reviewed
+by retiring O5 Council members within two (2) weeks of their
+retirement and mandatory amnestic administration. To date, ████ (█)
+retiring O5 council members briefed on SCP-Ksi-Lambda-0 have
+unanimously chosen to uphold the existing containment procedures.
+
+

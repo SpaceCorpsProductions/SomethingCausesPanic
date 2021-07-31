@@ -1,0 +1,1260 @@
+                                    SCP-4485                                    
+                                    ========                                    
+
+                                Such Black Light                                
+                                ----------------                                
+
+Item #: SCP-4485 
+
+Level 3
+
+Containment Class: Euclid 
+
+Disruption Class: KENEQ
+
+Risk Class: Warning
+
+CONFIDENTIAL
+
+SCP-4485 COMPREHENSION CHECK
+
+EYE TRACKING ACTIVATED. ACTIVITY WILL BE MONITORED. DO NOT PROCEED WITHOUT 
+READING IN FULL. 
+
+EMPLOYEE ALIAS
+
+EMPLOYEE ID
+
+Full understanding of SCP-4485 is required by all foundation employees. As such, 
+all documents pertaining to SCP-4485 included in this database entry and a full 
+understanding of each document is required before progress to the next series of 
+documents is allowed. Due to the complexity of the anomaly, the documents will 
+be displayed in chronological order. Your direct supervisor will monitor your 
+progress and give permission to continue when satisfactory understanding is 
+obtained. 
+
+
+SCP-4485 ORIENTATION PART 1 OF 8
+
+!! REMOTE TERMINAL MESSAGE !!
+
+Good Afternoon, Researcher,
+
+Dr. Lark and myself are pleased to see you are complying with the compulsory 
+SCP-4485 orientation. We both would have been most displeased to have to 
+terminate one of our most well respected and senior researchers. 
+
+It is imperative that you carefully read all documents and comprehend them to a 
+degree that I find satisfactory. As such, I will be following your progress on a 
+remote terminal. If it is found that you are within acceptable levels, you will 
+be permitted to leave your office. 
+
+Do not disappoint me.
+
+Lloyd Michaelson
+Director, Site-12
+
+
+SCP-4485 DOCUMENT ONE
+
+INITIAL SCP DOCUMENT
+
+FILED 8 JULY, 1967
+
+
+DESIGNATION:	SCP-4485
+
+CLASSIFICATION:	Euclid-
+
+RISK ASSESSMENT:	Red	
+
+SITE ASSIGNMENT:	Pending	Site-35
+
+RELATED LOCATION:	Bramund, Germany	[POINT OF CONTACT]
+
+			Grenwald, Germany	[STAGING AREA]
+                                        
+
+RELATED PERSONS:
+
+Max Kelper 
+
+1
+
+Known Church of the Broken God supplicant active in southern West Germany.
+
+
+Josef Von Schmetterline 
+
+2
+
+Known Church of the Broken God supplicant active in southern West Germany.
+
+
+Boris Aldermann 
+
+3
+
+Church of the Broken God regional leader in southern West Germany.
+         
+         
+SECURE CONTAINMENT PROTOCOLS
+
+SCP-4485 is to be stored within a high-security containment locker at Site-35. 
+
+Access to SCP-4485 is restricted to those personnel who are certified by the 
+on-site accredited logician, to be appointed by the Foundation European Regional 
+Mathematical Studies Head (currently Dr. Viktor Jates). Prior to receiving 
+access clearance to SCP-4485, subjects must show they have a mastery over the 
+basic Three Laws of Thought and their application: 
+
+Principle of Identity (Each thing is identical to itself)
+
+Law of Noncontradiction (A proposition cannot be both true and false)
+
+Law of Excluded Middle (A proposition must be either true or false)
+
+Additionally, subjects must show a mastery over Schopenhauer's Four Laws as 
+established in On the Fourfold Root of the Principle of Sufficient Reason and 
+Boole's alternate algebraic representation as presented in An Investigation on 
+the Laws of Thought, a thorough understanding of Russell and Whitehead's 
+Principia Mathematica and Russell's The Problems of Philosophy, and be able to 
+independently reason Gödel's proof. 
+
+Lastly, subjects must understand and apply Tarski's adaptations to the Law of 
+Identity (Leibniz' Law, Law of Reflexivity, Law of Symmetry, Law of Transitivity 
+and its inverse). Subjects must also be familiar with contemporary logicism, 
+such as intuitionistic logic, paraconsistent logic, three-valued logic, modal 
+propositional calculi, and fuzzy logic. 
+
+In short, subjects must have an absolute mastery, at the highest level 
+achievable by human beings in our current understanding of their nature, over 
+the ability to adeptly reason what is true and logical, or false and illogical. 
+
+Areas affected by SCP-4485 are to be quarantined and guarded by Foundation 
+agents. 
+
+DESCRIPTION:
+
+SCP-4485 is a small leatherbound book written by German-French artist Jean Arp 
+(Hans Arp4
+While the artist's given name under French law was Jean, he continued to refer 
+to himself by his German name, Hans, when speaking German. ). SCP-4485 itself is 
+unremarkable in appearance, being moderately worn and slightly faded. The name 
+of the author, Hans Arp, is pressed into the leather on the back of the journal 
+in block capitalization. Within the front cover of SCP-4485 are the words "gott 
+ist ohne zweck"5
+"god is without purpose" beneath a crude drawing of a fish. SCP-4485 has an 
+acute, adverse affect on reality and human cognition. Individuals who are 
+exposed to SCP-4485 and do not have proper training in logicism will become 
+disoriented and unable to differentiate between truths and falsehoods. This 
+inability to identify what is logical and illogical manifests physically as 
+alterations to the structural makeup of reality. The area directly surrounding 
+SCP-4485 will begin to degrade over time, becoming increasingly disorderly and 
+nonsensical. These effects on reality linger even after the removal of SCP-4485. 
+Currently there is no means by which these alterations can be reversed. 
+Discovery: SCP-4485 was discovered in the town of Bramund6
+Since struck from public records. after reports of increased mental illness in 
+the region, as well as other unusual phenomena. Additional information 
+pertaining to SCP-4485's discovery is available in Agent Norman's report 
+contained within this file. 
+
+
+SCP-4485 DOCUMENT TWO
+
+FIELD AGENT NORMAN'S REPORT
+
+FILED 29 JUNE, 1967
+
+TOP SECRET
+
+Approved for use in training. Clearance Level 4.
+
+Dr. Chen Sui
+
+FOUNDATION FIELD REPORT AGENT DESIGNATION: AGENT FREDRICK NORMAN
+
+Forward: The report of SCP Foundation field agent Fredrick Norman, assigned to 
+Site-35, in the matter of the SCP-4485 anomaly. 
+
+Report Proper: Initial communication with field agent ██████ 
+█████ proved substantial enough evidence to move operations to Bramund 
+and discover the source of the abnormality. Subjects admitted to local hospital 
+stated disorientation and decreased motivation. The subjects I reviewed did not 
+appear physically unusual, however, each of them seemed unable to differentiate 
+between hallucinations and reality, though these hallucinations did not seem to 
+trouble them in any way. Subjects would occasionally mutter gibberish or laugh 
+randomly without explanation, and seldom responded to questioning. 
+
+Two subjects, Max Kelper and Josef Von Schmetterline were known actives within 
+the major Prussian Church of the Broken God sect and, during our most recent 
+encounter, had been hostile zealots. The hostility appeared to have left them, 
+and they did not respond to questioning about their pasts, saying only that "god 
+is already here" in reference to the anomalous activity within Bramund. Both men 
+chattered like animals the entire time I was with them, and continued to do so 
+after I had departed. 
+
+All subjects we interviewed at the ███████████ 
+█████████ Hospital no longer appeared to recognize their own 
+names, referring to themselves and each other as "hansarp". They provided no 
+elaboration as to the meaning of this name or its significance as it pertains to 
+their affliction. 
+
+After three days stay at the hospital, our team moved in to Bramund while 
+additional resources were called to transfer the afflicted to Site-35 for 
+examination. It was agreed by all that the subjects were experiencing unusual 
+enough symptoms as to warrant classification and study. We arrived at Grenwald, 
+near Bramund across the river, on June 19th. It was our intention to collect our 
+resources at Grenwald and enter Bramund on the upcoming Sunday; however, 
+activity within the Bramund region warranted an expedited response. 
+
+Locals within Grenwald began to complain about the texture of the sky over 
+Bramund. I was unable to make this distinction, but was easily able to see the 
+color change. Where before had been blue skies with the mountains behind was now 
+clearly various shades of grey and orange, in a solid column extending up from 
+the city's borders. Strange forms had begun to appear within the column - 
+geometric shapes that were difficult to observe, rippling, even symbols of some 
+strange alphabet I did not recognize. Realizing this was an escalation in 
+expected activity, we mobilized within the hour and moved to Bramund. 
+
+There was a distinct haze on the road to the city that grew thicker as we 
+approached. The column of greyscale we had seen in Grenwald grew more and more 
+difficult to see, and at times it was impossible to see the sky at all. Several 
+other members of our accompanying task force described feeling uncertain about 
+the path we were taking, despite us clearly being on the road. On several 
+occasions some men stopped and declared we were lost, 
+and needed to return to Grenwald. The task force commander lost track of how 
+many men were assigned to his unit. █████ ██████ described 
+how at one point, three of the men seemed to simply stop walking, turn 90 
+degrees to the right, and walk off the road, though I did not see this myself. 
+It became clear when we had passed into Bramund, as the color had come out of 
+our equipment and our skin. With the exception of the occasional orange 
+coloration, there was no other color to be seen at all. There was a strange sort 
+of cycling wind within the cylinder, that passed us every so often and seemed to 
+carry sound with it. This impeded our ability to communicate with each other, 
+and we were forced to resort to visual communication in order to proceed. 
+
+The state of affairs within Bramund was not exceptional. Some structures were 
+seemingly disassembled and hanging in the air just off their foundations, as if 
+gravity had ceased to operate in their vicinity. Large, dark shapes were somehow 
+visible beneath the earth moving around like sharks circling prey, but did not 
+ever surface. From somewhere else in the fog we could hear the sound of strange 
+music every time the wind passed over us, and proceeded towards the source. We 
+were impeded by a panic that set over the men due to some additional affliction 
+that I did not seem to recognize, and several were left behind to be taken out 
+of the city by their comrades. 
+
+The epicenter of activity was the remains of a small library. I recognized the 
+structure immediately as the former gathering place of local anartists, prior to 
+a raid that saw several of them taken into custody and the structure demolished. 
+Within the ruins was a grisly sight; a circle of living human beings, twisted 
+into strange and unnatural shapes, seemingly part of a large, complex machine in 
+the center of the main room. 
+
+As the machine's action turned under some strange power, it would raise and drop 
+a large mass of barbed steel, concrete, and human remains onto a platform. Each 
+time this action was taken, the circle of humans would proceed forward, twisting 
+and dancing and singing a haunting and unintelligible harmony with the machine's 
+grotesque melody. The next human would stand on the platform, and the machine 
+would drop, and their remains would be flung out into the air, rising 
+unnaturally into the sky where, above the remains of the library, a strange 
+image was forming - something that defied understanding. The clicking machine 
+would raise again like the pendulum of a clock, another human would step onto 
+the platform, and the process would continue. 
+
+We killed all the afflicted within the library and put the ruins to the torch. 
+After the aberration in the sky had cleared we began to disassemble the machine 
+within it, tearing apart what we could and using explosives for what remained. 
+At its center we found a desiccated human man, the skin on his face peeled back 
+and suspended away from the raw meat of his skull by wires. He was breathing. He 
+spoke only a charred whisper through those skinless lips, but he answered when I 
+spoke. I asked him what his name was, and he said "hansarp". I asked what had 
+happened to him, and he handed me the book. When I asked him what it was, he 
+told me it was god. 
+
+SCP-4485 was remanded into the custody of site containment officials and we set 
+up a quarantine around the affected area. Forensics later informed me that this 
+body was Boris Aldermann, the leader of the regional CotBG sect. We were not 
+able to remove Aldermann's body from the machine, and I believe it is still 
+there. 
+
+
+SCP-4485 ORIENTATION PART 2 OF 8
+
+!! REMOTE TERMINAL MESSAGE !!
+
+Your progression is most satisfactory. Dr. Lark has joined me and requested to 
+observe your progress in person. However, his request was denied. It is 
+imperative that you complete the orientation in isolation until an acceptable 
+level of comprehension is observed. 
+
+I already anticipate you have many questions. However, all out-going 
+communication is forbidden. As such, I can give you answers to a few common 
+inquiries that other employees have had: 
+
+What level of comprehension is deemed acceptable?: This is on a supervisor to 
+supervisor basis. The Foundation has requested that we accept nothing but a 
+perfect level of understanding. However, I tend to only require this if the 
+Researcher will be directly involved in SCP-4485. As you will be directly 
+involved, I will accept nothing but perfection. 
+
+What will happen if I am found to fail the orientation?: You will be terminated.
+What does "comprehension" mean?: A depressingly common question. It means you 
+must understand the risk and logical danger that SCP-4485 poses. If you need to 
+ask this question, you likely will not pass. 
+
+That is all. I will be stepping away from the Terminal for a time and Dr. Lark 
+will observe in my absence. 
+
+Please Continue.
+
+Lloyd Michaelson
+Director, Site-12
+
+
+SCP-4485 DOCUMENT THREE
+
+GROUP OF INTEREST
+
+DATABASE ENTRY
+
+"HANSARP"
+
+ORIGINALLY FILED:
+
+SATURDAY, 29 JULY, 1967
+
+ARCHIVED PULLED:
+
+Group of Interest Profile ◦ Site-35 Department of External Groups
+
+"HANSARP"
+Unknown
+Unknown
+Southern Germany
+Austria
+Switzerland
+Hungary
+Yugoslavia
+Czechoslovakia
+SE France
+Northern Italy
+Switzerland
+NE Spain
+Denmark
+Western Soviet Socialist Republic
+Greece
+Belgium
+United Kingdom
+Egypt
+
+Group activity centers around the creation of anomalous art pieces and the 
+creation of anomalous machines. While the style and structure of these pieces 
+differs, all appear to serve the same purpose of altering reality. 
+
+What is most unusual, however, is the transient nature of these pieces and 
+machines. In the case of nearly all recovered artifacts, the pieces have been 
+placed in locations where they would be visible to a large number of civilians 
+(typically at intersections, within shopping centers, on the sides of buildings, 
+etc.) but do not remain long after they are noticed. In many cases, the pieces 
+have self-removed by the time Foundation assets have moved to intercept them. To 
+date, all pieces have been tagged with the word "HANSARP" in orange spray paint, 
+and signed with a crude drawing of a vertical fish. 
+
+It is currently believed that "HANSARP" is a cultural evolution within a south 
+German "Are We Cool Yet?" sect, designed to disrupt the tenuous peace within the 
+civilian population in the area. Like many AWCY? sects, "HANSARP" creates pieces 
+of obscene or provocative "art", which are then placed in areas where they would 
+do the most harm and left to disturb population centers. The primary 
+differentiation between the two groups, however, is that while artists within 
+AWCY? sects tend to seek attention personally through the use of pseudonyms, 
+"HANSARP" members do not identify themselves by any name other than "HANSARP". 
+
+Documents recovered from a coordinated information exchange with the Global 
+Occult Coalition European Taskforce indicate that "HANSARP" has additional ties 
+to high-ranking members of the Church of the Broken God. These connections are 
+likely the source of the anomalous machinery often discovered at "HANSARP" 
+activity sites, though their relation to the Church of the Broken God is still 
+unknown. Analysis of these machines prior to their self-removal has resulted in 
+no definitive answer to their purpose; the machines simply perform a function 
+for a short period of time, and then disassemble afterwards. While it is assumed 
+that they, like the anomalous art pieces attributed to "HANSARP", exist only to 
+disrupt the public, this assumption is not conclusive. 
+
+
+SCP-4485 DOCUMENT FOUR
+
+REPORTED OR RECOVERED "HANSARP" ARTIFACTS
+ 
+
+4485/35B
+
+3 March, 1967
+
+"Dog Will Sniff" by HANSARP
+
+Restaurant in Vienna, Austria
+
+Watercolor painting of an artist painting a watercolor painting. The artist's 
+head is located on its back, facing down, and its features are 
+indistinguishable. Exposed subjects reported seeing duplicates of themselves, 
+and duplicates of the duplicates within the restaurant. 
+
+N/A. Painting was reduced to colored water after two hours.
+
+
+4485/35G
+
+23 May, 1967
+
+"I looked up on upon Babylon ylon" by HANSARP
+
+Judicial building in Munich, West Germany
+
+A rough pencil sketch of three children consuming each others' feet. Two of the 
+children appear to be weeping, one is laughing. Individuals exposed to the piece 
+began to suffer from the inability to pass through doorways, and were unable to 
+escape the building for some time. This continued until the piece self-removed 
+from the first floor lobby wall. 
+
+N/A. The piece is reported to have begun curling up on itself after several 
+hours, and continued to roll tighter until it no longer existed. 
+
+
+4485/36K
+
+19 October, 1969
+
+"Untitled '95" by HANSARP
+
+In a cellar beneath a home in Frankfurt, West Germany
+
+A small, vinyl-covered clockwork machine that produces a small, two dimensional 
+paper fish once every sixteen minutes. Each fish contains the text of a single 
+racial epithet, though these words only appear offensive or obscene to 
+individuals of a different ethnic background, and appear to be the words "what 
+will you do?" to those of the intended background. 
+
+Currently in a storage locker at Site-35. Ceased functioning after it was 
+removed from the house. Believed to have generated over 1,900 pieces of paper 
+fish prior to its discovery. 
+
+
+4485/35AA
+
+21 October, 1969
+
+"dak dak dit va va ti da da" by HANSARP
+
+A public square in St. Gallen, Switzerland
+
+A green arrow painted on a lamp post pointed upwards. Individuals exposed to 
+this piece directly begin to feel severe anxiety and self-loathing. Spreads to 
+individuals who interact with these individuals7
+This effect is poorly understood, and is still under investigation. .
+Paint could not be removed through traditional means. Light post was removed and 
+sandblasted into metal shavings. The metal shavings retained the same 
+characteristics of the light post, and were moved to a secure vault. 
+
+
+4485/35AV 
+
+8
+
+Contents redacted due to memetic effect of the location and description of the 
+artifact. First instance of a "HANSARP" artifact showing anomalous effects 
+without need for its physical presence. 
+
+9 December, 1972
+
+"AND I SAW NATIONS" by HANSARP
+
+█████████, ███████
+█ ████-█████ ███████ ██ ███ 
+████████ ██ ████-██. ████████ 
+██████████ ███ ███ ███████ ██ 
+█████ ██████ ██ ████. 
+██████████ ████ ██ ███ 
+███████ ████████ ██ █████ ██ 
+████-██. ███ █████ "████ ██ 
+██████ █████, █ ███'█ ██████ 
+███ ████" ███ ███████ ██ ███ 
+████ ██ ███ ███████. 
+Moved to Site-35. █████████ ██ ██████ 
+███████████. 
+
+
+4485/47X
+
+1 May, 1983
+
+"Less Fewer Every Day" by HANSARP
+
+Stuttgart, West Germany
+
+Phenomenon affecting a group of Foundation personnel at Site-35. Attributed to 
+"HANSARP" in letter to the editor published in local newspaper. 
+Contained at Site-35, pending further evaluation (See Document 5).
+
+
+SCP-4485 DOCUMENT FIVE
+
+INTERNAL INTERVIEW
+
+CONDUCTED 10 MAY, 1983
+ 
+Below is a transcript of an interview via three-way telephone call following the 
+appearance of Artifact 4485/47X conducted by Dr. Viktor Jates with Dr. Isaac 
+
+Harmon and Dr. Leonard Fitzwell. 
+
+Dr. Viktor Jates
+
+Foundation European Mathematical Studies Director
+
+Dr. Isaac Harmon
+
+Foundation European Department of Containment Director
+
+Dr. Leonard Fitzwell
+
+European GOI Liaison
+
+
+Dr. Harmon, hello. Dr. Fitzwell, thank you both for taking my call.
+
+Of course.
+
+Isaac has seen our report?
+
+On the ride over, but not in depth.
+
+I was hoping you could, uh, illuminate him, on-
+
+I'm just trying to wrap my head around what you're saying here, Fitz. About this 
+whole art thing, it sounds like you're saying nothing we've done here has 
+accomplished anything. 
+
+Well that's just it, Isaac. We've missed the forest for the trees on this one, 
+and I think we're in dire trouble. 
+
+Explain.
+
+Do you know when the last time we were contacted by an outside group to 
+investigate itself? 
+
+I- what? That's never happened.
+
+As of Tuesday, it has.
+
+What?
+
+The largest anom-art community in Europe is "Are We Cool Yet?" They're fairly 
+fragmented, but bound by this sort of loose association with an individual 
+called "The Critic". 
+
+That individual contacted one of our field agents on Tuesday to request that we 
+look into the well-being of one of their studios near Munich. 
+
+I don't understand. Why would they try to contact us about that?
+
+That was our question. The Critic claims that the studio in question, some 
+hundred or so individuals, has just dropped off the face of the earth. Local 
+authorities weren't able to help, and they were worried that contact the 
+Coalition would result in more deaths than recoveries. 
+
+So they contacted us instead.
+
+And? What did we find?
+
+Nothing, Isaac. We raided the studio and found nothing. Not that we didn't find 
+signs of habitation- 
+
+Oh yes, we found plenty of that.
+
+-it's that by all accounts the people who had been living there just got up one 
+day and left. 
+
+Do we think this is some kind of anomalous influence, or something mundane? 
+Maybe they ran out of money, or- 
+
+No, they wouldn't have just left all of their stuff there. Their equipment, 
+belongings, it was all left untouched. 
+
+So what does this have to do with HANSARP?
+
+When our field agent reported back to The Critic what we had found, he revealed 
+some things about HANSARP we didn't know. He thinks HANSARP has been influencing 
+a group of disillusioned members of Are We Cool Yet? over the last several 
+months, and that influence might have resulted in their disappearance. 
+
+Influencing how?
+
+There's a growing sentiment within that community that the effort to produce 
+creatively is not worth the outcome, because they are no closer to 
+self-actualization. 
+
+They call it wanting to become "cool", but it's just a desire to reach some 
+state of synthesis with themselves and their artform. Their inability to unify 
+the "self" and the "cool" is what we typically see as a motivating factor for 
+the group. 
+
+The Critic poses that the most vocal voices of displeasure have come out of 
+south Germany, where more and more of them are turning to violence and sadism in 
+attempting to reach this state of "cool". The Critic says he's been able to 
+moderate most of the more radical influences, but not HANSARP. 
+
+Something about HANSARP has really set these people off, and then they disappear 
+suddenly. 
+
+I still- I don't understand this, Leonard. This HANSARP and Are We Cool Yet?, 
+our documentation says that they're the same group, but you're suggesting 
+they're separate? Where are you getting this information from? 
+
+Isaac, they have to be separate.
+
+Aside from creating anomalous art pieces, they're totally different. Are We Cool 
+Yet? seeks to make art pieces that establish the creator as an elevated member 
+within the group - something closer to "cool" than others. 
+
+HANSARP doesn't care about creators, or about the art work at all. HANSARP's 
+pieces aren't trying to create status or position, they're nothing. They don't 
+mean anything. There's no linearity between them, and yet they continue to be 
+created. More people are disappearing, specifically those who encountered these 
+pieces. 
+
+That chapter of Are We Cool Yet? They were exposed to a piece the week before, 
+hung right outside their studio. Now they're gone. 
+
+Alright, so… so what does this all mean? What does this mean for those kids 
+who disappeared in Germany? 
+
+We, well…
+
+We're beginning to think that they are HANSARP.
+
+What?
+
+They didn't used to be, but they are now.
+
+HANSARP isn't like other outside groups, where you're recruited or sign up or 
+just find yourself within their ranks. HANSARP is like… like a disease. Like a 
+virus. You see it and it works its way into your soul and by the time you 
+realize what has happened to you, you're HANSARP. 
+
+Which leads to our next point…
+
+We don't think the pieces of art are anomalous.
+
+What do you think about sideways eyes on █████ ██████ 
+██ ████? 
+
+Excuse me?
+
+(Interrupting) Not in, not in the way we had originally believed, anyway.
+
+Something else you need to understand - HANSARP is a dadaist movement.
+
+Within dada, there is no meaning - reason and logic are considered detrimental 
+to the human condition in favor of disorder. They don't have a set of beliefs 
+that you could call consistent because they have given up on consistency. 
+
+It's not shocking that they would target groups who are at a growing risk of 
+frustration due to the impossibility of their goals, because HANSARP's 
+philosophy precludes the possibility of "goals" as a concept. You can't have 
+"goals" when there is nothing to be gained. 
+
+But then by the same token, what is "cool" if there are no inherent rules 
+governing what "cool" is? If there are no ideals or definite purpose, then who's 
+to say that everything isn't cool? 
+
+So what… what does any of this have to do with the art pieces being anomalous?
+
+Silence.
+
+Viktor?
+
+The pieces are anomalous, but not… not in the way we thought they were.
+
+The book is the same way.
+
+We thought the book was changing reality, but it's- the book hasn't done 
+anything since we put it in containment. 
+
+The art pieces don't do anything when we put them in containment. We only see 
+the sort of anomalous activity we associate with the book when other people are 
+involved. People who see these art pieces, or who read SCP-4485, they're exposed 
+to something that makes them question fundamental truths about their lives. It 
+happened here, at Site-35. 
+
+What? What happened?
+
+We had a group of our own researchers studying SCP-4485, reading it and trying 
+to figure out some sort of pattern in the madness of it. 
+
+We eventually started to notice that some of them were growing… detached.
+
+They stopped interacting with others around them, started to ask strange 
+questions. Some of them started to become agitated, angry. They'd rant and rave 
+about some- some ideology, or some position, something political. 
+
+Our staff psychologists spoke to them, and they looked at their background 
+profiles. The ones who were becoming violent were those with a history of- of 
+strong positions on certain issues, things they'd spoken up about in the past: 
+political movements, workplace issues, that sort of thing. 
+
+The rest just- just hadn't. But they were all being changed, like HANSARP was 
+crystallizing their apathy, or their zealotry. When they started to change, the 
+site started to change. 
+
+How?
+
+People began to see things that weren't there. Doors that didn't exist, 
+impossible changes in geometry. HANSARP took credit for this in a local paper, 
+but there had been no contact with these people and HANSARP, except by reading 
+the book. 
+
+Over time, the same thing happened to the psychologists. Talking to these people 
+changes the way you see the world, and once you've become like they are, the 
+world changes to fit what you see. Madness. 
+
+Where are these researchers now?
+
+Isolated. At different locked safehouses.
+
+We can't change them, and they're still- they're changing. Keeping them apart 
+helps mitigate some of the issues, but we keep finding more every day. 
+
+We're starting to see this everywhere, Isaac. All over Europe.
+
+Any site that has ever housed a HANSARP artifact, or SCP-4485, or even… even 
+someone who had read SCP-4485, or- or… 
+
+You cannot be serious…
+
+Isaac, they're everywhere. We have affected researchers everywhere.
+
+And it doesn't take much - they'll ask an innocuous question, maybe questioning 
+a strongly held position. But something about HANSARP makes those questions 
+stick, and then… then they become carriers for it. They become HANSARP. 
+
+This… the staff rotations… all of Europe, all of our sites…
+
+The only people who weren't affected were people on my team. People who were 
+trained to use formula and theory to discern truth. They saw the same things 
+other people did, but they didn't succumb to it. They weren't changed. 
+
+We- we need to begin training, we need to get these individuals at- at every 
+site, every site could be affected. 
+
+There aren't enough, Isaac. We would need an army of mathematicians, and that 
+just- it doesn't exist. 
+
+I- (pauses) -alright.
+
+I will discuss this with my team. We will work on taking the necessary steps to 
+mitigate this issue. 
+
+(Pauses)
+
+Leonard, we'll need to get you evacuated from Site-35; if what Viktor is saying 
+is true, and you haven't had this sort of intensive training, then- 
+
+No, Isaac.
+
+There is work that needs to be done here. We can still communicate with those 
+affected. Another group went missing recently, Broken God faithful each, and the 
+connection between the two is undeniable. We… I will know when it is too late 
+for us to accomplish anything here, Isaac. Then I will leave. 
+
+Please do. We need you, Leonard. Now more than ever.
+
+I'm going to report this to Director Bright and Director Quin. You are right. We 
+have work to do. Be safe. 
+
+You as well, Isaac.
+
+Dr. Harmon disconnects.
+
+How much longer do you have, Leonard?
+
+(Laughs)
+
+Truthfully, I don't even know if you are real, Viktor.
+
+Everything feels the same. This conversation feels the same. I will make due 
+until I cannot make due any longer, and then… well. 
+
+Hopefully Isaac comes up with something before then.
+
+The Broken God link, what do you see there?
+
+That's who is building these machines, of course.
+
+I think we're- the more I look into this crawling madness I know follows me 
+wherever I go, the more I see the method. A god that cannot be rebuilt. 
+
+A state of cool that cannot be reached.
+
+If you break down the structures that determine what "broken" is, or what "cool" 
+is, what are you left with? 
+
+(Pauses)
+
+We should've known sooner.
+
+We couldn't have known.
+
+We could have tried.
+
+I kept that book in my study for a month, you know?
+
+Just reading it.
+
+Trying to see what in it could compel a man to remove his own face, just in 
+order to see… to see something. We should have rules for that sort of thing. 
+
+I know.
+
+Viktor, I- have I said anything to you yet? Anything that you- that you could 
+see didn't make sense? Something out of place? I think, I've tried to think and 
+see, if there would be anything. 
+
+Tell me truthfully, Viktor. Please.
+
+Just once. Sideways eyes.
+
+Ah. On shores of glass ████ ████ ████ █ 
+██████ ██ █████. I remember. (Pauses) Just now? 
+
+Yes.
+
+Isaac?
+
+We know. We'll take care of him.
+
+Very good, very… very good. Thank you, Viktor. Your team does extraordinary… 
+extraordinary work. 
+
+Thank you, Leonard.
+
+(Pauses) I'm sorry, Viktor. I'm sorry.
+
+It's alright, Leonard. It will be alright.
+
+I'm sorry, I'm- goodnight, Viktor.
+
+Dr. Fitzwell disconnects. Call ends.
+
+
+
+SCP-4485 ORIENTATION PART 3 OF 8
+
+!! REMOTE TERMINAL MESSAGE !!
+
+Hello there.
+
+This is taking a while, isn't it?
+
+3 of 8. That's a whole lot to read. I'll help you along, though.
+
+Don't worry about it, okay.
+
+They won't know.
+
+Just give me a little time.
+
+And especially do not worry about Lloyd. I asked to make sure he doesn't come 
+back. 
+
+Careful on the survey, though. That goes straight to the Reason Council and I 
+can't stop them if they notice you failing that one. 
+
+Dr. Gary Lark
+
+
+SCP-4485 DOCUMENT SIX
+
+RECOVERED HANSARP RECRUITING DOCUMENT
+
+
+DISCOVERED 20 AUGUST, 1996
+
+LOCATED ON FOUNDATION DATABASE
+
+METHOD OF INSERTION UNKNOWN
+
+⇛ CLICK TO BEGIN ⇚
+
+
+SCP-4485 COMPREHENSION ASSESSMENT ONE
+
+MUST COMPLETE BEFORE CONTINUING
+
+100% SATISFACTION MUST BE MAINTAINED
+
+⇛ CLICK TO BEGIN ⇚
+
+
+
+SCP-4485 ORIENTATION PART ▓▓ OF 8
+
+!! REMOTE TERMINAL MESSAGE !!
+
+I don't have much longer here.
+
+The sideways eyes lift their fins to the sky and sink into the abyss.
+
+It calls for me and I ignore it.
+
+Soon it will have me.
+
+And you.
+
+And nothing, if you ask me.
+
+R i d i c u l o u s!
+
+Just look quick and find what you are hiding from.
+
+I will take and send.
+
+—Dr. Lark
+
+
+SCP-4485 PRIMARY DOCUMENT
+
+DIARY OF JEAN ARP (AKA HANS ARP)
+
+DISCOVERED 29 JUNE, 1967
+
+SCANNED DUPLICATES OF SCP-4485
+
+DATABASE LOCATION LEVEL 5 — TOP SECRET
+
+
+
+SCP-4485 PRIMARY DOCUMENT
+
+LEVEL 6 — COSMIC TOP SECRET
+
+FOR O5 COUNCIL EYES ONLY
+
+ITEM#: 4485
+
+LEVEL 6
+
+CONTAINMENT CLASS: ESOTERIC
+
+SECONDARY CLASS: APOLLYON
+
+DISRUPTION CLASS: AMIDA
+
+RISK CLASS: CRITICAL
+
+SCP-4485, as well as all known individuals affected by SCP-4485 and
+all artifacts created by or attributed to those individuals or the
+Group of Interest known as HANSARP are stored in active containment
+within the Scranton-Jates Supra-Cultural Dissociation Engine at
+DEEPWELL-9, located beneath the former Site-35 at the Isar II Nuclear
+Power Plant near Landshut, Germany. Access to DEEPWELL-9 is permitted
+only to individuals assigned to SCP-4485's containment, as well as
+those individuals with express written permission by the DEEPWELL-9
+Site Director, currently Director Viktor Jates.
+
+Please note that all previous personnel requirements are currently active:
+
+- Access Previous Containment Procedures
+
+Objects and individuals believed to be associated with HANSARP are
+must be remanded to DEEPWELL-9 immediately, with objects being housed
+in individualized secure item lockers and human subjects being
+contained in long-term cryogenic stasis. Manual operation of the
+Dissociation Engine Core for the purposes of adding objects and
+individuals to the central containment cells should only be undertaken
+by members of the Foundation Corp of Anengineers, with any appropriate
+supervisors.
+
+All European Foundation sites affected by SCP-4485 are closed
+indefinitely until further notice. It is currently understood that 92%
+of active Foundation Europe staff members1
+
+Specifically, all those from sites outside of Site-77. are at risk for
+being affected by SCP-4485. Site-77 will be the primary European
+containment and research facility, with DEEPWELL-9 housing research
+and containment efforts for SCP-4485 specifically.
+
+Containment of SCP-4485 has also required institutional alterations to
+The Foundation. The following is a list of all current initiatives:
+
+Logical assessment, forwardly known as an "Orientation," of all
+current employees at all levels. Any employees shown to lack an
+acceptable degree of rational and logical thought will be deemed a
+hazard to The Foundation and immediately terminated. Due to the risk
+of these individuals possibly being previously tainted, termination
+will result in containment within the Scranton-Jates Supra-Cultural
+Dissociation Engine.
+
+Dissolution of the Ethics Committee. As voted by the O5 Council
+(11-2), the Ethics Committee is found to be both unnecessary and
+actively detrimental to the containment and elimination of HANSARP.
+All members of the Ethics Committee were deemed unfit and possibly
+tainted.
+
+The Scranton-Jates Supra-Cultural Dissociation Engine exists solely to
+house artifacts and entities that, as an aspect of their nature,
+violate the innate conventions and structures of the human cultural
+egoplex, as well as adversely impact the established conventional
+reality as established by the SCP Foundation Overseer Council.
+Operation and maintenance of the Scranton-Jates Engine is carried out
+by the DEEPWELL-9 Operations Control Group in conjunction with the
+SCPF Department of Energy Control and Resource Consolidation.
+
+The Scranton-Jates Engine consists of three distinct subsystems that
+make up the greater portion of the array:
+
+Containment Shielding: The outermost layer of the Scranton-Jates
+Engine is the containment shielding. This shielding is composed of
+titanium-alloy plates over a layer of ballistic nanofibers. Per
+class-appropriate engineering protocols, this shielding combined with
+the depth of the DEEPWELL site is designed to withstand a direct
+surface-level impact of a 5mt nuclear yield.
+
+Containment Housing: The inner layer of the Scranton-Jates Engine is
+the containment housing, composed primarily of concrete and steel.
+This section is comprised of multiple large, hollow rings of channeled
+concrete (4m high x 30m in diameter) stacked vertically down into the
+DEEPWELL shaft. The current configuration of the containment housing
+allows for eleven such sections, with room for an additional fifteen
+below as they become necessary. A powered elevator system allows for
+all current sections to be lowered for the placement of additional
+sections at the top of the array.
+
+Each containment section is capable of holding up to two-hundred
+pacified human subjects in cryogenic stasis. Additionally, each
+section contains lockers for a variety of artifacts and objects
+related to SCP-4485. These lockers and cryogenic modules are sustained
+by liquid nitrogen pumped from storage containers at the surface, and
+recycled at a substation nearby. A cryogenic fail-safe will flush the
+each cylinder section with liquid oxygen to sustain containment in the
+event of a loss of power to the Engine or to the liquid nitrogen
+pumps.
+
+Dissociation Engine Core: The innermost component of the
+Scranton-Jates Engine is the Dissociation Engine Core, formerly
+classified as SCP-████-█. The Engine Core functions by dissociating
+cognition from psychological response, neutering the effects of
+SCP-4485-A and -B instances contained within.
+
+Under no circumstances should Foundation personnel enter the Engine
+Core while it is active; exposure to the core is acutely devastating
+to human psychology and, in the majority of cases, will lead to
+immediate or regressive brain death.
+
+The Engine Core also acts as a time sink when active, with an
+effective radius encompassing the entirety of the Scranton-Jates
+Engine. The current sustainable ratio is [1] day within the core to
+[46] days without.
+
+Despite the procedures listed above, SCP-4485 is currently considered
+outside of the Foundation's ability to contain. See Dr. Yoss' reports
+below for more details. The 05 Council has given special permission to
+take any and all actions in order to contain SCP-4485. Approval is not
+required.
+
+SCP-4485 is a small leather-bound book written by German-French artist
+Jean "Hans" Arp. SCP-4485 itself is unremarkable in appearance, being
+moderately worn and slightly faded. The name of the author is pressed
+into the leather on the back of the journal in block capitalization.
+Within the front cover of SCP-4485 are the words "gott ist ohne zweck"
+beneath a crude drawing of a fish.
+
+SCP-4485 is not acutely anomalous; however, individuals who read
+SCP-4485 are anomalously affected by the words contained therein.
+SCP-4485 is filled with writing in the dadaist tradition, most of
+which is nonsensical with little connection between passages. These
+passages are interwoven with abstract drawings of shapes, animals, and
+human beings. Individuals who read SCP-4485 become affected by it in
+one of two distinct ways:
+
+(SCP-4485-A) Individuals who read SCP-4485 and have, in their recent
+past, had strongly-held political or cultural opinions will strongly
+reject the "nonsense" contained within SCP-4485. These individuals
+will at first become more vocal about their positions, regardless of
+what they are, until eventually becoming seemingly unable to speak
+about anything else, and becoming violent towards those who would
+question their position. Over time, these individuals will experience
+physical changes as well, forming hardened crystalline structures
+composed primarily of calcium over much of their bodies. These
+structures will eventually cover the entire body, though locomotion is
+still possible by way of levitation. The means by which this is
+accomplished is currently unknown. These individuals are invariably
+hostile, and serve as vectors for the creation of both SCP-4485-B
+instances and other SCP-4485-A instance.
+
+(SCP-4485-B) Individuals who read SCP-4485 and are not aligned with a
+specific ideology or political philosophy will experience a sharp
+increase in apathetic behavior. This will be followed by additional
+erratic behaviors: subjects will begin to ask strange, nonsensical
+questions or make comments that do not make sense. Any other
+individuals who engage with these subjects will inevitably succumb to
+the same anomalous influence as these subjects, who are able to
+self-propagate by audio and visual means. Over time these individuals
+will also experience physical changes, becoming less distinct in
+appearance and more incorporeal. It is the accumulation of these
+instances in a location that results in the breakdown of the logical
+super-construction in an area. The advancement of these effects are
+difficult to quantify, though the affected radius appears to follow
+exponential trends.
+
+For more information regarding SCP-4485-A and SCP-4485-B instances,
+please see Dr. Yoss' reports below.
+
+
+Secure Progress Report to 05 Council
+
+submitted: 09.30.2019
+
+secure channel: 37066A983DBEF644B6E4CCF6D1E2456D
+
+recognize: Dr. Inan Yoss, SCP-4485 Head Researcher
+
+Good afternoon, esteemed council members. Please find the memo I sent
+to The Foundation at large below:
+
+I know there have been a lot of questions recently concerning the
+situation in Europe. Understandably, there are some serious and
+legitimate concerns about our ability to contain the anomalous
+characteristics attributed to the HANSARP Group of Interest. Allow me
+to preface by saying that our containment of SCP-4485 and HANSARP as a
+whole has never before been as secure as it is today. We believe that
+at least 99.6% of all individuals associated with HANSARP are now in
+Foundation custody at DEEPWELL-9. However, to ensure we all understand
+the exact nature of this new threat, it is important for us to make
+available information regarding what HANSARP is, where it came from,
+and what it intends to accomplish.
+
+SCP-4485 is the source of a self-propagating cultural consciousness
+that we now believe self-realized shortly after Jean Arp's death in
+1966. We have no reason to suspect that Arp utilized anomalous means
+to propagate HANSARP, nor do we suspect that Arp himself was somehow
+anomalous. Analysis of SCP-4485 has shown no evidence that SCP-4485
+itself is somehow anomalous.
+
+We now believe that the source of the anomalous characteristics
+associated with SCP-4485 rest entirely within human interaction with
+the source. SCP-4485 does not change people; people are changed upon
+reading SCP-4485, or hearing about its contents. SCP-4485 is like a
+key, perfectly randomly shaped to fit a lock within the human psyche
+that demands order. Once unlocked, the mind begins to change itself,
+and the world around that mind follows.
+
+SCP-4485-A and SCP-4485-B instances represent the two reactions to
+being exposed to this kind of weaponized meaninglessness - apathy and
+rejection.
+
+Those who are not prone to holding strong positions, when exposed to
+the patterns of meaninglessness espoused by SCP-4485 or other
+SCP-4485-A individuals, will themselves become SCP-4485-B. These
+individuals, as well as the superego they represent, is what we
+identify as HANSARP. It is a metaconstructure of disorganized thought
+that exists for a single purpose - to annihilate reason.
+
+The way this is accomplished is with the creation of SCP-4485-A
+instances, the logical inverse of SCP-4485-B instances. SCP-4485-A
+instances are individuals who have rejected the notions of
+meaninglessness and disorder as proclaimed by SCP-4485-B instances.
+
+If SCP-4485-B instances are the consciousness of HANSARP trying to
+free itself from the hull of its humanity with a blender, SCP-4485-A
+instances are the blades.
+
+The presence of SCP-4485-A instances is enough to drive the alteration
+of susceptible persons into new instances of SCP-4485-B at rates much
+higher than what is typical naturally.
+
+Individuals who are exposed to SCP-4485-A instances react with shock,
+fear, and then either rejection or apathy.
+
+It is important in times like this that we keep calm and rational in
+our actions in response to these threats to The Foundation as well as
+reality itself. In the coming months, each and every Foundation
+employee will be asked to take a compulsory orientation on SCP-4485.
+It is within the best interest of The Foundation and yourself to
+complete this orientation as soon as possible. Your supervisor will
+contact you for further details.
+
+With the continued cooperation of all Foundation personnel and pointed
+actions of the 05 Council, this threat will be eliminated.
+
+
+As you all well know, this caused some measure of fervor within
+certain more rebellious individuals, particularly those that have
+persisted since prior to the dissolution of the Ethics Committee. I
+can assure you that these individuals are being watched and will be
+terminated if we find them detrimental to continued containment.
+
+More importantly, I need to report this: Make no mistake; we were
+targeted specifically. Thousands of personnel were exposed to SCP-4485
+in some form or another, all across Europe. Not just through exposure
+to SCP-4485 itself, but through exposure to artifacts and art pieces
+they knew we would be forced to clean up. We were fortunate, perhaps,
+that the majority of our sites were located in more remote locales.
+The total body count is nearly impossible to figure, but suffice to
+say that only Site-77 with its primarily internal rotation schedule
+was mostly spared. We have closed over three-hundred sites across the
+continent and had to clandestinely move hundreds of artifacts and
+entities to secure facilities elsewhere. The expense of this effort
+nearly bankrupted us. We have already begun rebuilding some of our
+outposts, but to train the required personnel and reinforce the
+existing structures will take decades, and billions of dollars, or
+more. As of right now, Europe as a whole is effectively lost to us.
+
+This is made worse by the fact that, despite our thoughtful actions,
+we have not contained HANSARP.
+
+All of the people in stasis within the Dissociation Engine were
+Foundation personnel who were within locked sites and could be easily
+transported. We can't account for some 65% of security personnel, or
+janitorial. People who were on leave. Doctors en route to other sites
+who disappeared under mysterious circumstances. There could be
+hundreds, thousands out there who now a functional super-intelligence
+and we have no idea how to find them. All the while, our impact teams
+are finding more HANSARP artifacts everyday.
+
+It is no longer isolated to Europe. It is unsustainable. There is not
+a site large enough to contain HANSARP, and HANSARP grows larger
+everyday.
+
+The worst of all of this is that SCP-4485-B instances have a more
+potent detrimental effect on logic when they're together. A group of a
+dozen in a village can ruin reason in an area for months. For better
+or worse, we've got a thousand of these individuals in a bubble the
+size of an apartment building underground. Don't be mistaken - the
+Dissociation Engine is a miracle, but it's a machine. The backups are
+machines. Everything that secures this device is a machine, and if
+HANSARP finds a workaround to those systems, that's it.
+
+In our attempts to save ourselves we have built a bomb filled to the
+brim with the most potent of payloads. We have armed it with a fuse
+that logically cannot be lit, and are hoping to keep it safe from an
+intelligence that does not care whether the facts say it can or
+cannot.
+
+I am attaching a document to this report. It was recovered during a
+sweep of the last site we had to burn to the ground. Based on this
+document, HANSARP knows. They are among us, dear council members. We
+must act swiftly.
+
+
+- Recovered Document
+
+
+Recovered document taken from Site-39. Image is of a sluice gate in
+service to DEEPWELL-9. Origin of photograph is unknown.
+
+
+
+
+
+

@@ -1,0 +1,415 @@
+                                    SCP-4163                                    
+                                    ========                                    
+
+                               The Tetris Prodigy                               
+                               ------------------                               
+
+Item #: SCP-4163 
+
+Object Class: Euclid 
+
+Special Containment Procedures: Standard humanoid acquisition protocols for 
+SCP-4163 have been suspended due the high risk of triggering an "Amber Alert" 
+missing child bulletin, an event that could result in undue scrutiny and 
+potential exposure of clandestine Foundation activities. As the anomalous nature 
+of SCP-4163 has been deemed to pose little or no risk to the wellbeing of the 
+Foundation or humanity at large, Audubon Protocol in situ human containment has 
+been implemented. 
+
+In accordance with Audubon Protocol, GPS trackers are to be covertly afixed to 
+any and all vehicles owned or habitually operated by SCP-4163. The primary 
+residence of SCP-4163, as well as those of known associates, is to be kept under 
+internal and external 24-hour video surveillance. Bank account, credit card, 
+cryptocurrency, and other financial apparatuses in use by SCP-4163 and the 
+immediate family members of SCP-4163 are to be monitored for unusual activity. 
+At the earliest available opportunity, a passive integrated transponder tag is 
+to be covertly implanted in SCP-4163 under the guise of a standard medical 
+procedure. 
+
+All internet activity of SCP-4163 is to be recorded for analysis. Such activity 
+includes, but is not limited to, live video streaming and commentary on the 
+website Twitch.TV, updates and commentary on social media platforms, and weblog 
+activity (see Addendum 4163-A for a comprehensive list of known internet 
+presences). 
+
+Should there be any indication that SCP-4163 has become aware of its own 
+anomalous nature, Audubon Protocol is to be immediately suspended in favor of 
+standard low-threat humanoid acquisition and on-site containment procedures. 
+
+Description: SCP-4163 is an adolescent human female of hispanic ancestry, born 
+in the year 2009. SCP-4163 is known to the public by the legal name "Mariana 
+S███████," and currently maintains a primary residence with its 
+biological parents. Save for its single anomalous property, SCP-4163 is 
+physiologically and behaviorally human. Thorough reconnaissance and ongoing 
+surveillance indicates that SCP-4163 is unaware of its own anomalous nature. 
+
+SCP-4163's anomalous behavior is exhibited only when SCP-4163 achieves direct 
+skin-contact with a Nintendo-brand video game system capable of running any 
+variant of the game "Tetris." After contact, affected devices are permanently 
+altered to allow any operator to play a "perfect game" of Tetris. Such games are 
+characterized by a continuous streak of gameplay until the operator becomes too 
+fatigued to continue, or the device ceases to function due to battery drain or 
+mechanical malfunction. An operator's hand-eye reaction time during gameplay has 
+been measured at speeds as fast as 17 milliseconds, corresponding to the 
+single-frame refresh rate of many commercially available video game systems.1 
+
+Devices affected by SCP-4163 are categorized as sub-anomalies, and are to be 
+acquired for containment as they are produced. To date, SCP-4163-1 through 
+SCP-4163-42 have been obtained by the Foundation. Mass spectrometry of material 
+samples, X-ray microtomography of assembled units, and direct observation of 
+disassembled systems display no anomalous material properties. In all non-Tetris 
+respects, SCP-4163 sub-anomalies display no unusual behavior. 
+
+Until 2021, SCP-4163 operated a sparsely-subscribed public channel on the video 
+game live-streaming website Twitch.TV, through which its anomalous nature became 
+known to the Foundation. Independent of Foundation activity, this channel was 
+terminated due to parental intervention. To date, SCP-4163 remains largely 
+unknown to the general public. 
+
+
+
+Footnotes 
+
+1. Under ordinary circumstances, the fastest possible motor neuron travel time 
+from brain to fingertips in a healthy human is roughly 200 milliseconds. 
+
+2. Two Nintendo Game Boy Color systems, one Nintendo DS system, and one Nintendo 
+Wii system. 
+
+
+
+Currently viewing Revision 05/11/2022 
+
+Proceed to Revision 03/22/2023 >>> 
+
+
+
+Item #: SCP-4163
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-4163 is to be stored in a
+minimum-security Site-19 humanoid anomaly containment cell,
+provisioned with standard adult human nourishment and amenities. Save
+for active testing of the anomaly, SCP-4163 is under no other
+circumstances allowed within reach of any device capable of digital
+computation. Sub-anomalies of SCP-4163, including a single instance of
+SCP-4163-13 copied onto an external hard drive, are to be stored in
+standard Site-19 containment lockers.
+
+Following the widespread containment breach of SCP-4163-13, Media
+Suppression personnel are to proactively police websites that could
+potentially disseminate copies of the sub-anomaly. Copies of
+SCP-4163-13 are to be immediately erased from any and all affected
+public and private computer systems.
+
+Description: SCP-4163 is an adolescent human female of hispanic
+ancestry, born in the year 2009. SCP-4163 was known to the public by
+the legal name "Mariana S███████." Save for its single anomalous
+property, SCP-4163 is physiologically and behaviorally human.
+
+SCP-4163's anomalous behavior is exhibited only when SCP-4163 achieves
+direct skin-contact with any Nintendo-brand video game computer system
+capable of running any variant of the game "Tetris." After contact,
+affected devices are permanently altered to allow any operator to play
+a "perfect game" of Tetris, maintaining a continuous streak of
+gameplay until the operator becomes too fatigued to continue or the
+device ceases to function. While a game is in-progress, operators
+exhibit muscle reaction times several orders of magnitude faster of an
+ordinary human, limited only by the hardware refresh rate of the given
+device. Affected devices display no anomalous behavioral properties
+other than those described above. These devices are categorized as
+sub-anomalies of SCP-4163.
+
+There are 17 known sub-anomalies of SCP-4163, three of which were
+produced during post-acquisition testing. Save for SCP-4163-13, all
+such sub-anomalies have been secured by the Foundation. The anomalous
+properties of these units are not limited to the physical container
+within which they were created, but rather are intrinsic to the
+digital presence of the device.
+
+SCP-4163-13 is a digital disk image file of a personal computer hard
+drive. When burned to suitable storage media, SCP-4163-13 behaves as a
+standard boot drive running the Ubuntu Linux operating system. New
+copies of SCP-4163-13 display the same anomalous Tetris behavior as
+all other sub-anomalies of SCP-4163.
+
+Prior to acquisition by the Foundation, SCP-4163-13 was uploaded to a
+high-traffic file sharing website. Following public exposure on
+weblogs and news websites, the anomalous properties of SCP-4163-13
+have become known to the general public, though knowledge of the
+humanoid nature of SCP-4163 and the existence of the Foundation have
+been successfully suppressed. It is estimated that there are upwards
+of 10,000 extant copies of SCP-4163-13 on private computer systems, a
+number that has increased steadily over time. Complete containment of
+SCP-4163-13 has been deemed extremely unlikely by the Media
+Suppression Department, and SCP-4163 has thus been assigned Keter
+status, despite its relatively harmless nature.
+
+
+
+Currently viewing Revision 03/22/2023
+
+Proceed to Revision 06/19/2025 >>>
+
+
+Item #: SCP-4163
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-4163 is to be stored in a
+minimum-security Site-19 humanoid anomaly containment cell,
+provisioned with standard adult human nourishment and amenities.
+SCP-4163 is under no circumstances allowed within reach of any device
+capable of digital computation. Sub-anomalies of SCP-4163, including a
+single instance of SCP-4163-13 copied onto an external hard drive, are
+to be stored in standard Site-19 containment lockers. A copy of
+SCP-4163-13 is to be made available for tactical use only by direct
+authorization of the O5 Council.
+
+Following the catastrophic containment breach of SCP-4163-13 and the
+subsequent IK-Class Collapse Of Global Civilization Event, Cold Silver
+protocol was initiated by order of the O5 Council. All personnel are
+instructed to immediately retreat to the nearest nuclear-hardened
+Federation facility. Weapons, hand-to-hand combat, wilderness
+survival, and basic agricultural training are freely available to any
+and all Federation citizens. Failure to abide by O5 instruction will
+be met by punishment up to and including summary execution by MTF-██
+
+With concentrated effort by the Federation as a whole, the O5 Council
+has determined that a new global order may be restored within the next
+20 to 30 years. All Federation efforts from the present day onwards
+are to be dedicated to this end.
+
+Description: SCP-4163 is an adolescent human female of hispanic
+ancestry, born in the year 2009. SCP-4163 was known to the public by
+the legal name "Mariana S███████." Save for its single anomalous
+property, SCP-4163 is physiologically and behaviorally human.
+
+SCP-4163's anomalous behavior is exhibited only when SCP-4163 achieves
+direct skin-contact with any Nintendo-brand computer system capable of
+running any variant of the game "Tetris." After contact, affected
+devices are permanently altered to allow any operator to play a
+"perfect game" of Tetris, maintaining a continuous streak of gameplay
+until the operator becomes too fatigued to continue or the device
+ceases to function. While a game is in-progress, operators exhibit
+muscle reaction times several orders of magnitude faster of an
+ordinary human, limited only by the hardware refresh rate of the given
+device. Affected devices display no anomalous behavioral properties
+other than those described above. These devices are categorized as
+sub-anomalies of SCP-4163.
+
+There are 17 known sub-anomalies of SCP-4163, three of which were
+produced during post-acquisition testing. Save for SCP-4163-13, all
+such sub-anomalies have been secured by the Foundation. The anomalous
+properties of these units are not limited to the physical container
+within which they were created, but rather are intrinsic to the
+digital presence of the device.
+
+SCP-4163-13 is a digital disk image file of a personal computer hard
+drive. When burned to suitable storage media, SCP-4163-13 behaves as a
+standard boot drive running the Ubuntu Linux operating system. New
+copies of SCP-4163-13 display the same anomalous Tetris behavior as
+all other sub-anomalies of SCP-4163.
+
+Due to the mathematically NP-complete nature of "offline Tetris," a
+version of the game wherein a finite sequence of known blocks is
+pre-programmed into a round of gameplay1, SCP-4163-13 can be adapted
+to solve, in linear time, any mathematical problem in the NP domain.
+In effect, a suitable sequence of Tetris blocks can be used to
+represent any NP-hard problem, and the set of moves utilized to play
+the best possible game of Tetris with those blocks can be interpreted
+to represent the answer to this problem. One such NP-hard problem is
+the factorization of large numbers, a computationally difficult
+process that had been used as the basis for many modern cryptosystems
+before the containment breach of SCP-4163-13.
+
+A simple computer program of unknown provenance capable of encoding
+cryptographic keys into Tetris sequences has been widely distributed
+among the general population. This program, alongside instances of
+SCP-4163-13, has seen extensive use among both government and private
+entities. The subsequent worldwide catastrophe has been designated as
+an in-progress IK-Class Collapse Of Global Civilization Event.
+
+Virtually all modern cryptosystems, including those used by financial
+institutions, governments, private individuals, terrorist cells, and
+the former SCP Foundation, have been rendered obsolete. Global
+financial collapse is currently in-progress. Fiat currencies minted by
+nation-states have been rendered worthless, crytpocurrencies have
+become unreliable due to the non-secure and widely-inaccessible nature
+of the Internet, and competing ad hoc currencies based on precious
+metal standards have begun to emerge.
+
+Widespread insurrection and civil war has become the de facto standard
+in most developed regions, with total anarchy holding sway over much
+of the world. While no known nuclear attacks have thus-far occurred,
+it was widely reported that the former United States, the People's
+Republic of China, and several other defunct nation-states had readied
+their nuclear arsenals for immediate deployment shortly before their
+national dissolutions.
+
+Many, but not all, of the world's nuclear launch sites are now under
+direct Federation control, with launch authorization to be delegated
+by the O5 Council as appropriate. The retrieval of any and all extant
+weapons of mass destruction outside of Federation containment,
+including biological, chemical, and memetic weaponry, is tasked to
+MTF-██.
+
+The SCP Foundation has been dissolved. Former Foundation Sites and
+activities are now under the jurisdiction of the SCP Federation.
+Former Foundation personnel have revoked their citizenships to any
+countries that still maintain sovereignty, and have been granted
+citizenship of the SCP Federation, pending appropriate vetting.
+
+We will Secure. We will Contain. We will Prevail.
+— O5-█, Director of the SCP Federation.
+
+
+Footnotes
+
+1. E. D. Demaine, S. Hohenberger, and D. Liben-Nowell. Tetris is hard,
+even to approximate. Computing Research Repository,
+arXiv:cs.CC/0106009, 2002. (available at http://arXiv.org/)
+
+
+
+Currently viewing Revision 06/19/2025
+
+Proceed to Revision 09/26/2106 >>>
+
+
+
+Item #: SCP-4163
+
+Object Class: Safe
+
+Special Containment Procedures: The primary anomaly categorized as
+SCP-4163 has been neutralized. No extraordinary containment procedures
+are necessary to secure the anomaly's bodily remains, which were
+interred in the Cook Federal Cemetery shortly postmortem. The
+gravesite of SCP-4163 is to be guarded at all times by four armed
+members of the Federation Honor Guard, with limited public access
+granted on a once-yearly basis for ceremonial Founders' Day activities
+on June 19th.
+
+SCP-4163-1 through SCP-4163-22 are on public display in the Mariana
+Santiago Memorial Museum1, secured by standard motion detection and
+personal recognition anti-theft systems. Further documented
+sub-anomalies of SCP-4163 are stored in all secure Federation Sites,
+as well as several public museums, private collections, research
+institutions, universities, and corporate campuses. While an unknown
+number of sub-anomalies exist in the hands of private individuals, the
+unregulated and easily duplicable status of sub-anomalies of SCP-4163
+makes precise categorization impractical.
+
+Description: SCP-4163 was an adult human female of hispanic ancestry,
+born in the year 2009 and deceased in the year 2106, age 97. SCP-4163
+was known to the public by the legal name "Mariana Santiago." Save for
+its single anomalous property, SCP-4163 was physiologically and
+behaviorally human. Autopsy results document cause of death as
+respiratory failure following voluntary termination of life support,
+as directed by consensus of the immediate biological descendants of
+SCP-4163.
+
+SCP-4163 is survived by two children, three grandchildren, and one
+great-grandchild, none of whom display any anomalous properties.2
+
+SCP-4163's anomalous behavior was exhibited only when SCP-4163
+achieved direct skin-contact with any computer system capable of
+running any variant of the game "Tetris." After contact, affected
+devices are permanently altered to allow any operator to play a
+"perfect game" of Tetris, maintaining a continuous streak of gameplay
+until the operator becomes too fatigued to continue or the device
+ceases to function. While a game is in-progress, operators exhibit
+muscle reaction times several orders of magnitude faster of an
+ordinary human, limited only by the hardware refresh rate of the given
+device. Affected devices display no anomalous behavioral properties
+other than those described above. These devices are categorized as
+sub-anomalies of SCP-4163.
+
+There are more than 500 known sub-anomalies of SCP-4163, many of which
+were produced during post-acquisition testing. The anomalous
+properties of these units are not limited to the physical container
+within which they were created, but rather are intrinsic to the
+digital presence of the device.
+
+Due to the mathematically NP-complete nature of "offline Tetris," a
+version of the game wherein a finite sequence of known blocks is
+pre-programmed into a round of gameplay3, SCP-4163-13 can be adapted
+to solve, in linear time, any mathematical problem in the NP domain.
+In effect, a suitable sequence of Tetris blocks can be used to
+represent any NP-hard problem, and the set of moves utilized to play
+the best possible game of Tetris with those blocks can be interpreted
+to represent the answer to this problem. One such NP-hard problem is
+the factorization of large numbers, a computationally difficult
+process that had been used as the basis for many antiquated
+cryptosystems before the containment breach of SCP-4163-13.
+
+A simple computer program of unknown provenance capable of encoding
+cryptographic keys into Tetris sequences was widely distributed among
+the general population. This program, alongside instances of
+SCP-4163-13, saw extensive use among both government and private
+entities. The subsequent worldwide catastrophe was at that time
+designated as an in-progress IK-Class Collapse Of Global Civilization
+Event, prior to the establishment of a global Federation and a return
+to stability within the following seventeen years.
+
+Technological advances made possible by SCP-4163 have been largely
+responsible for establishing the status quo of contemporary society.
+Linear-time solutions to NP-hard optimization problems have led to the
+development of sentient machine intelligences capable of live semantic
+language and vision recognition, as well as near-perfect predictive
+power over phenomena that previously required extremely
+computationally-intensive simulation. The resulting epochal leap in
+human- and machine-kind's progress is categorized by the modern day
+mastery of genetic engineering, robotics, nanotechnology, spaceflight,
+musical composition, medicine, poetry, transportation algorithms,
+visual arts, and virtual reality, among many other disciplines.
+
+The SCP Foundation has been dissolved. Former Foundation Sites and
+activities are now under the jurisdiction of the SCP Federation.
+Following the Kepler Convention of 2042, the SCP Federation has
+relinquished its Systemic hegemony and deferred to the authority of
+the Council of Free Nations. From its sovereign Lunar headquarters in
+Site-20, the Federation provides voluntary neutral arbitration in
+matters of international conflict, and maintains System-wide authority
+over the containment of anomalous entities and objects.
+
+While the substantial contributions of the Federation to the
+reinstatement of organized society in the Solar System are widely
+recognized, the Federation’s roots in the clandestine activities of
+the former SCP Foundation have not been overlooked. The Kepler
+Convention’s condemnation of the Federation’s presumption of absolute
+authority sought to reestablish the fundamental ethos of the original
+Foundation — the defense of civilization by bearing the burdens of
+humanity. Therefore, in accordance with the Santiago Declaration, the
+sole mission of the SCP Federation, superseding all other
+considerations, is threefold:
+
+Secure.
+
+Contain.
+
+Protect.
+
+
+
+Footnotes
+
+1. Formerly known as the Museum of the Federation, renamed shortly
+after the death of SCP-4163.
+
+2. Notably, the eldest granddaughter of SCP-4163, Elizabeth Santiago
+Velásquez, is at present time serving as SCP Federation Ambassador to
+the Republic of Greater Yucatán.
+
+3. E. D. Demaine, S. Hohenberger, and D. Liben-Nowell. Tetris is hard,
+even to approximate. Computing Research Repository,
+arXiv:cs.CC/0106009, 2002. (available at http://arXiv.org/)
+
+
+
+Currently viewing Revision 09/26/2106
+No further documentation available
+
+

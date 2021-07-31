@@ -1,0 +1,767 @@
+                                    SCP-2585                                    
+                                    ========                                    
+
+                                Savage Mountain                                 
+                                ---------------                                 
+
+Item #: SCP-2585 
+
+Object Class: Euclid 
+
+Special Containment Procedures: Due to the infrequency of human contact with 
+SCP-2585, containment for the phenomenon is largely self-imposed. The Foundation 
+will operate through various front agencies to minimize climbing attempts of K2 
+during periods of SCP-2585 activity, and all deaths attributed to it are to be 
+declared a result of avalanche or weather conditions. Terrestrial and satellite 
+observation of K2 is to be maintained continuously. As the nature of SCP-2585 
+remains unclear, containment procedures are to be considered tentative, however, 
+due to the largely static behavior of the phenomenon, modification of said 
+procedures in the foreseeable future is unlikely. 
+
+REVISION: ██/██/1991: Due to the results of Exploration C, and the 
+shortage of Foundation personnel with the appropriate mountaineering experience, 
+active explorations of K2 during periods of SCP-2585 activity are presently 
+suspended. 
+
+REVISION ██/██/1995: During each detected SCP-2585 manifestation, one 
+(1) Mummery-Class drone operated by a Level-2 engineer at Outpost-2585 is to 
+ascend the mountain and confirm the presence of SCP-2585-1. In the event that 
+SCP-2585-1 is not detected within 48 hours of the drone clearing the 7000m mark, 
+or SCP-2585-1 is confirmed as neutralized, one (1) D-Class personnel will be 
+allotted to Outpost-2585 and Contingency-Mīrāth will be executed (Level 2 or 
+higher personnel may see Document-2585-Mīrāth for details). 
+
+Description: SCP-2585 is a cloud known to manifest in the vicinity of K2 in 
+Pakistan. The cloud, upon appearing, will enshroud K2 entirely, obscuring the 
+mountain's surface. SCP-2585 does not visibly differ from normal cloud cover, 
+but is detectable by the spontaneity of its onset and the unusually high 
+atmospheric pressure within it. Regions affected by SCP-2585 experience volatile 
+meteorological and topographical disturbances, none of which are observable from 
+outside the cloud cover. SCP-2585 manifestations may occur at any time, and 
+there is no determined pattern to these occurrences. 
+
+SCP-2585-1 is a humanoid entity which, to date, has been encountered by all 
+individuals who attempt to climb K2 during SCP-2585 manifestations. The entity 
+is equipped with an Apollo/Skylab A7L spacesuit, which entirely conceals their 
+characteristics, and is roughly 2 meters in height. When encountered, SCP-2585-1 
+has been observed to travel the surface of K2 on foot as well as levitate via 
+unknown means. The entity has never communicated verbally, but may have 
+attempted to do so through body language (see exploration logs). The motivations 
+of SCP-2585-1 are unclear; presently it is not even known whether the entity is 
+sentient. SCP-2585-1 has never been observed except by individuals inside 
+SCP-2585's cloud cover, and has only been encountered at altitudes above 7km. 
+
+SCP-2585 was discovered by the Foundation in 1984, thirty years after the first 
+successful ascent of K2. Since its discovery, SCP-2585 is believed to be 
+responsible for at least ██ of the known 80 deaths on the mountain. During 
+that time, a number of disappearances have been reported in the region of 
+Karakoram surrounding K2. These disappearances total at ██ civilians and █ 
+aircraft, and have all occurred during periods of SCP-2585 activity. While no 
+direct link to SCP-2585 has been determined, the incidents have been covered up 
+to avoid drawing attention to the anomaly. 
+
+Three explorations of K2 have been conducted by Foundation operatives during 
+SCP-2585 manifestations. Due to the conditions inherent to SCP-2585, low 
+visibility on the mountain is a consistent hindrance. For full information on 
+these explorations, please see below. 
+
+
+Clearance 2585/2 
+
+SCP-2585 Exploration Log A
+
+Exploration A
+
+██/██/1984
+
+Due to the nature of the exploration and requirement for
+mountaineering prowess, D-Class personnel could not be utilized. A
+team of three Foundation personnel (identified as "A", "G", and "T")
+trained in advanced mountaineering was assembled for this mission. To
+minimize the risk of fall and allow for expedited descent, the team
+was allotted access to a prototype harness system developed from
+technologies [REDACTED]. In addition to their climbing equipment and
+bottled oxygen, the team members were also outfitted with a radio link
+to Outpost-2585 at Base Camp, a shoulder-mounted video/audio recording
+device, and three Beretta Series 81 pistols. The climbers were
+instructed to ascend the southeast ridge or "Abruzzi Spur."
+
+[Sections of the climb prior to Camp C (altitude 7300 meters) are
+uneventful and have been omitted for brevity.]
+
+A: Base, are you reading me?
+
+Base: Roger, A. Status?
+
+A: We're going to depart from Camp C shortly and continue up the
+shoulder. No abnormalities thus far.
+
+Base: Roger that, A. How's the team?
+
+A: G's a bit under the weather…or, well, over it, I guess. Just
+altitude issues. We're going to let him get composed. No problems with
+me or T.
+
+Base: Noted. Please report in with any significant developments; we'll
+maintain silence until then.
+
+A: Roger, Base. Out.
+
+Eight minutes of silence.
+
+A: Base, come in.
+
+Base: We're reading you, A, what's the situation?
+
+A: G's losing it, Base. He's huddled up, rambling that he wants to go
+home. We can't rouse him and he's stark white. I don't think he's
+going to make it.
+
+Base: Have you noticed any abnormal activity, other than G's episode?
+
+A: No.
+
+A pauses.
+
+A: Do you want us to go ahead with Protocol R-0?
+
+Base: …Affirmative, A. Give G's camcorder to T.
+
+A: Roger.
+
+A brief pause, ninety seconds.
+
+A: Right, we're ready to continue our ascent. G's still out of it;
+he's still moving, but he's not talking.
+
+Base: Roger, A. You are clear to continue.
+
+A: Requiescat in pace, G. Out.
+
+Twenty-four minutes of silence.
+
+T: Base, come in!
+
+Base: T, is that you? Where's A?
+
+T: I don't know, I lost him in the storm!
+
+Base: Repeat, T?
+
+T: STORM. You know, that giant thing around the mountain right now?
+
+Base: Negative, T.
+
+T: What? Can you even see the mountain?
+
+Base: There's cloud cover, but it's not turbulent.
+
+T: …Base, I'd like to report an anomaly.
+
+Base: The storm?
+
+T: What do you think?
+
+Base: Standby while we try to contact A.
+
+T: Fine.
+
+Base's attempts to contact A are unsuccessful.
+
+Base: T, we can't reach him. Is the route still climbable?
+
+T: Not a chance.
+
+Base: Very well; return to camp.
+
+T: Roger. Out.
+
+Fifteen minutes of silence.
+
+T: Base, are you-oh God.
+
+Base: T, what is it? Come in.
+
+T: I've found A, he's-fuck, it looks like he's frozen solid. Yeah, no,
+his skin feels like rock, fuck.
+
+Base: Ignore A and continue your descent as fast as possible; this
+mission is officially aborted.
+
+T: I'm heading back down, Base, I'm heading-wait, what?
+
+Base: T, What do you see?
+
+T: There's someone else up here. I-wait, it's gone…it was right there.
+Unknown contact lost, Base.
+
+Base: T, descent remains your priority.
+
+T is silent.
+
+Base: T, do you copy?
+
+T remains silent.
+
+Base: T?
+
+T: The mountain is coming down.
+
+Base: T!
+
+No further response from T is heard, however, a rumbling sound
+possibly consistent with an avalanche is recorded, along with several
+sounds of unknown origin. After thirty seconds, contact is lost
+entirely.
+
+One hour later, G was discovered walking into Base Camp. In his
+possession was the video/audio recording unit originally assigned to
+him and later given to T. Analysis of the feed shows evidence of the
+storm attested to by T, despite no evidence of the phenomenon from the
+monitoring station. The feed appears to cut out prior to the avalanche
+which presumably killed T, and no recordings exist to clarify how the
+device returned to G's possession, or how G descended the mountain.
+
+Three appearances by SCP-2585-1 were identified in the recordings,
+however, it appears that only the last was noticed by the team
+(specifically, T). These images of SCP-2585-1 are the first known to
+the Foundation.
+
+G expired of a cerebral edema two hours after his return, and did not
+speak during that time. No trace of A or T has been found.
+
+
+
+SCP-2585 Exploration Log B
+
+Exploration B
+
+██/██/1987
+
+No further reports of SCP-2585 activity occurred until 1987, which
+resulted in the deaths of three climbers. Due to this, another
+exploration was planned to verify the status of the anomaly. As with
+the first exploration, a team of three Foundation personnel with
+significant mountaineering experience were selected (P, J, and L). In
+addition to their climbing equipment, harness, and bottled oxygen, the
+team was given a more sophisticated video/audio recording device and
+three Beretta Series 81 pistols. The team once again ascended via the
+Abruzzi Spur.
+
+[Sections of the climb prior to Camp C have been omitted for brevity.]
+
+P: Base, we're about to start towards Camp D; no anomalies.
+
+Base: How's the team? Report everything, no matter how minor.
+
+Indistinct talking is heard, muffled by the wind.
+
+P: J says his fingers are cold.
+
+Base: Is that everything? Altitude sickness, frostbite, anything?
+
+P: Nothing, we're all green, here.
+
+Base: Alright, we'll maintain silence until you find something. Report
+anything new.
+
+P: Roger. Out.
+
+Twenty-one minutes of silence.
+
+P: We've got something, Base.
+
+Base: What is it, P?
+
+P: The terrain is different. I've climbed K2 before, this ridge should
+head north, not south.
+
+Base: Is the route climbable?
+
+P: Yes, but if it takes us to the Polish Line, there's no way we can
+ascend it in this weather.
+
+Base: Roger that, P. You are clear to return should the route prove
+not climbable.
+
+P: Understood, Base. Out.
+
+Eleven minutes of silence.
+
+P: Base?
+
+Base: We read you, P.
+
+P: The route is obstructed by seracs1.
+
+Base: Repeat, P?
+
+P: Seracs; I know K2 is notorious for them, but they shouldn't be
+here…actually, I'm not quite sure where "here" is at the moment, but
+I'm still pretty sure that they shouldn't be there.
+
+Base: Is the route impassable?
+
+P: …Yes. If we try to climb that, we won't end up anywhere but beneath
+an avalanche-oh fuck!
+
+A loud rumbling and crashing is heard.
+
+Base: P? Come in!
+
+P: We're alright, Base; part of the seracs just broke off, but we
+weren't hit. Everything's…
+
+Base: P?
+
+P: …It's here, that…thing in the spacesuit.
+
+Base: SCP-2585-1 is present? What is it doing?
+
+P: Nothing. It's just floating near a ledge about ten meters above us.
+It's nearly upside down, just hanging there. It's also staring at us,
+I think; the face screen is just black.
+
+Base: Is the team alright?
+
+P: Everyone seems okay.
+
+Base: Are you sure you're alright, P?
+
+P: I've climbed Eiger2, Annapurna3, and this is my third time on K2.
+The astronaut really isn't frightening me much.
+
+Base: I see. Please continue to observe SCP-2585-1 and inform us if
+anything changes.
+
+P: Roger, Base. It's still just floating there, I-wait a moment.
+
+Base: P?
+
+P: It's holding its hand out towards us. The palm is facing us,
+fingers outstretched. I'm not sure if it's reaching out to us or…
+
+Base: P, come in?
+
+P: The…the seracs are moving. The wall is shifting slightly.
+
+Base: Fall back, P. Mission aborted, fall back!
+
+P: Retreating, Base - standby!
+
+Five minutes of silence.
+
+P: We've lost sight of the entity and the seracs, Base. Everyone is
+still…uh, alive.
+
+Base: Do you see or hear anything else?
+
+P: We see fog and hear wind; the storm's gotten a lot worse. Mission
+still aborted, Base?
+
+Base: Yes, there's really nothing more you can do up there.
+
+P does not respond.
+
+Base: P?
+
+A sound resembling a muted shriek is heard, source unclear; contact is
+then lost.
+
+P, J, and L are first observed finishing their descent forty-five
+hours later. P was physically well (aside from issues attributable to
+the conditions, though no permanent damage was accrued), J was
+suffering from frostbite and had to have three digits amputated, and L
+has no memory of the events on K2 whatsoever.
+
+P and J were able to attest that they had encountered SCP-2585-1 again
+during their descent, and had attempted to contact Base Camp several
+times, without response. The "muted shriek" heard prior to
+communication failure was created by J upon seeing SCP-2585-1. Aside
+from SCP-2585-1's reappearance, the team reported no further anomalies
+during descent.
+
+Analysis of the video feed demonstrated an abnormality, however. While
+the team reported that SCP-2585-1's face plate was opaque, this is not
+the case in the video. SCP-2585-1's face plate generates bands of
+visible light at varying intensities and hues. At times these bands
+produce an image similar to a human face, or alternatively a set of
+fractals that coincide with a heightened presence of digital
+artifacts. Closer analysis reveals that, in several images, both the
+human face and the second phenomenon are visible. During these
+periods, the two images appear to either "share" the area behind the
+face plate, or "merge" together (the latter of which is extremely
+distressful for the human face). P and J were not able to account for
+this inconsistency; L, however, who has remained consistent that he
+cannot remember any of the events on K2, screamed at the sight of the
+video and became so distressed that he had to be administered
+sedatives. Following the episode, L could not account for why he
+screamed, and did not react as such during a second viewing.
+
+The topographical anomalies observed on K2 during the exploration were
+not evident on the mountain after SCP-2585 dissipated.
+
+
+Footnotes
+
+1. A block of ice formed in glacial regions.
+
+2. A mountain located in Switzerland, the north face of which is known
+as Mordwand or "Murder Wall."
+
+3. The tenth highest mountain in the world, located in Nepal, and
+noteworthy for its 38% fatality rate among climbers.
+
+
+
+SCP-2585 Exploration Log C
+
+Exploration Log C
+
+██/██/1991
+
+Following the results of Exploration B, SCP-2585 activity continued,
+however, no further excursions were planned due to personnel
+constraints. In 1991, however, the disappearance of a private aircraft
+(carrying five civilians) over the Karakorum region during an SCP-2585
+manifestation prompted further inspection. In addition to upgraded
+mountaineering equipment, the personnel selected (R, O, and H) were
+given a video/audio recording unit with direct upload to Outpost-2585,
+and three Beretta Series 89 pistols. As with the previous
+explorations, the team ascended via the "Abruzzi Spur."
+
+[Sections of the climb prior to Camp C have been omitted for brevity.]
+
+R: Righto, our rest is over. Are you seeing this, Base?
+
+The video feed displays a milder section of terrain, consistent with
+Camp C.
+
+Base: Affirmative, R. Visibility's just as poor. Can you see the Base
+Camp at all?
+
+R: Negative.
+
+The video feed confirms this.
+
+Base: Is there anything wrong with the team? Anything at all?
+
+R: No, we're all fine - physically, mentally, everything.
+
+Base: Right. Continue whenever you're ready; notify us with any
+development.
+
+R: Will do. Out.
+
+Over twenty-five minutes, the team is observed scaling the mountain.
+No anomalies or sightings of SCP-2585-1 were detected by either the
+team or Base Camp during the trek. Thus far, the route seems
+consistent with K2 in its natural state, and inconsistent with the
+previous explorations. The turbulence of the weather, also, appears
+less severe than previously.
+
+R: It doesn't seem too bad up here. I saw the previous recordings; are
+we sure this is a genuine manifestation?
+
+Base: What's the atmospheric pressure?
+
+R: …Yeah, it's at about a thousand hectopascals. That's almost sea
+level pressure. I guess it is genuine.
+
+Base: Don't relax too much. Team status?
+
+R: All green.
+
+Base: Alright. Continue your ascent.
+
+No irregularities are observed on the video feed of the ascent for
+seventeen minutes.
+
+H: What is that?
+
+Base: What?
+
+R: Hold up, Base, we're going to get a good look at it-it's something
+on the ground.
+
+H: Oh fuck.
+
+R: I-oh. Base, are you seeing this?
+
+SCP-2585-1 is visible, prostrate and motionless on the ground. The
+suit is heavily damaged, the face-plate is broken open, and there
+appears to be nothing inside.
+
+Base: Is there activity on it, inside it, anything?
+
+R: Nothing.
+
+H: I can't figure out what caused this damage-R, get the camera on
+this.
+
+A close-up of the suit's damage is taken. It appears to be partially
+disintegrated, though no sign of burn or chemical damage is present.
+
+R: It looks like it's just turned to dust.
+
+O: Wait, so if it's dead, is that why things aren't so bad up here?
+
+H: Maybe.
+
+Base: Yet the anomaly is still present, which means that SCP-2585-1
+was not the source.
+
+R: Do we continue, Base?
+
+Base: …Yes, proceed with utmost caution.
+
+R: Continuing mission. Out.
+
+Over the next seven hours, the team continues climbing. While no
+disturbances are observed or reported, it is noticed by both the team
+and Base that ambient light inside SCP-2585 has reduced significantly
+(the current time is only 3:39PM).
+
+Base: R, is the camera malfunctioning?
+
+R: No, it really is that dark. How's the light outside this mess?
+
+Base: Normal, it's still bright out here.
+
+R: It almost looks like nighttime here. This isn't something it's done
+before, is it?
+
+Base: No. This is new.
+
+O: Fuck.
+
+H: We're not too far from Camp D, I think.
+
+R: I think you're right. I-what the…?
+
+H: Whoa.
+
+Base: What's going on?
+
+O: Stars.
+
+R: Base, are you seeing this?
+
+The camera shows that the cloud cover has dissipated, and the night
+sky is visible.
+
+Base: The mountain still appears to be completely concealed by cloud
+cover from our location.
+
+R: Extradimensional?
+
+O: Fuck.
+
+H: Calm down, we might be able to get out by just climbing down, this
+is way too soon to lose your shit.
+
+Base: Details, R, what do you see?
+
+R: Everything looks normal up here, it's just night. There's cloud
+below us, I assume that's the scip itself—well, I guess we're inside
+the scip now, but you know what I mean.
+
+Base: Anything new or unusual on the mountain itself?
+
+R: It looks fine, I—wait.
+
+H: Do you see it too?
+
+O: See what?
+
+Base: What is it?
+
+R: Faint light coming off a slope above us, it's not too far away, but
+from this angle, we can't see what's projecting it.
+
+Base: Can you describe the light? What color is it?
+
+R: It's-no, I…I'm not sure. Investigate?
+
+O: Fuck no!
+
+H: We may not get another chance to see what's up here.
+
+O: I'm fine with that!
+
+Base: R, listen to me. Observe only, try to get images on the
+recording unit. Avoid direct contact and return once you get a look.
+
+R: Roger.
+
+O: No! We need to leave!
+
+H: Shut up!
+
+R: O, be quiet, we're—O, no!
+
+O is observed to flee from the area, retreating down into the cloud
+cover. In his haste, he stumbles and falls out of sight, presumably to
+his death.
+
+R: …Man down, Base.
+
+Base: Get the images and get out of there, R.
+
+R: Doing. Out.
+
+The remaining team members ascend the terrain between their current
+position and the unidentified light source. The trek takes seven
+minutes. No abnormalities are reported by the team or observed on the
+video feed.
+
+R: Base.
+
+H: My God.
+
+Visible on the feed is a crater, roughly thirty meters in diameter,
+extending into the side of K2. The crater contains the wreckage of an
+unknown-model space shuttle. The light is seen to emanate from among
+the debris, though the exact source is not yet identified.
+
+R: The hell is this doing here?
+
+Base: Can you see what the light source is?
+
+R: Negative.
+
+Base: Go ahead and return, R. We'll see what we can get out of this
+footage.
+
+R: Alright, we—
+
+H: R, look!
+
+Something moves in the wreckage. A humanoid figure emerges, limply
+suspended by unknown means. The figure appears to be dressed in the
+same manner as the team.
+
+H: It's O.
+
+This is confirmed on the video feed as it stabilizes. Also visible are
+luminescent phenomena similar to the fractal imagery seen in
+Exploration Log B.
+
+R: What the fuck happened to him? He-oh God.
+
+[DATA EXPUNGED]
+
+SCP-2585-1: R, H, get back down to the cloud cover!
+
+The team attempts to descend the mountain as [DATA EXPUNGED]
+
+SCP-2585-1: —eaten away. I'm running out, but I'll try to make the
+terrain easier down there. Goodbye, guys.
+
+Contact is lost. R and H returned to Base Camp ten minutes later,
+though how this was accomplished is presently unclear. Further details
+regarding Exploration C, including the debriefing report, are
+currently restricted to Clearance 3/2585.
+
+
+
+Clearance 2585/3 
+
+Executive Brief Investigative Report Orpheus
+
+- Executive Brief, Investigative Report "Orpheus"
+
+Due to the results of Exploration Log C, the Outpost-2585 supervisor
+made a formal request to Overwatch, pending an investigation of the
+United States space travel program and its possible connection to
+SCP-2585.
+
+Appropriated documents and testimony from the US Government and NASA
+indicate that, starting from the commencement of the Space Shuttle
+Program in 1972, both the aforementioned parties are shown to have
+been involved with an individual or organization identified only as
+"Black Eagle" (assumed to be a code-name). There is no evidence that
+Rockwell International (now Boeing Defense, Space and Security) had
+any connection with, or indeed was even aware to the existence of, the
+party known as "Black Eagle." In 1974, under the supervision of the US
+Government (though not NASA or Rockwell International), "Black Eagle"
+performed several alterations to the Space Shuttle Horizon, a Space
+Shuttle Orbiter prototype developed prior to the first officially
+recognized model, the Enterprise. No explicit record of these
+alterations is known to exist. Space Shuttle Horizon performed its
+first orbital flight in 1975, one year before the unveiling of the
+Space Shuttle Enterprise and six years before the first orbital flight
+of the Space Shuttle Columbia. Details regarding the Horizon's launch
+facility at [REDACTED], along with information regarding specific
+personnel involved, is limited to the full report (see
+SECURE-FILE-ORPHEUS). Contact was lost with the Horizon two hours and
+thirty-nine minutes after launch, at which time the spacecraft was
+orbiting Earth over the Indian Ocean.
+
+The following piece of testimony was compelled from Derek Wright, a
+former employee of the National Security Agency (NSA) in 1995:
+
+I need to make it abundantly clear that I don't know who or what the
+hell "Black Eagle" is, and none of my colleagues had any idea either.
+Information on BE was classified above my pay-grade, and my bosses
+were touchy on the subject.
+
+It was the seventies, we'd put the first human foot on the moon, but
+the space race wasn't even close to being over. There was immense
+pressure towards militarization of space, and the SSP was critical on
+that front. Ever since Saylut 1 went up, there was a frenzy to get our
+own space station in orbit, and plans for putting missiles on such a
+station were very seriously being considered. If that prospect sounds
+crazy now, believe me, it sounded crazy then too, but it's what we had
+to work on. Just to be clear, I was never actually involved in any of
+this "work," I only made sure that the proceedings were secure, so I
+can't speak for any of the technical aspects of these subjects, I can
+only talk about what I saw or heard. In any case, missiles on a space
+station wasn't even the craziest notion. We'd actually proposed
+outfitting the shuttles for a weapons program, but the consensus was
+that such a system would be too cumbersome, conspicuous, and
+inefficient.
+
+That was before BE.
+
+I said before that I don't know who they are, and I meant that. I
+never saw these people, someone saw them, apparently, but it wasn't me
+or any of my colleagues. They barely existed on paper; virtually
+everything issued or relayed about them was done so by mouth. That was
+unusual, but not unheard of. What bugged me was how often I heard "Let
+BE take care of it." I heard it all the time. Weirder still was that
+we seemed to be ahead of schedule on everything. In my line of work,
+we're never ahead of schedule. The launch date kept becoming sooner
+and sooner, and it seemed like things became too quick to notice. I
+heard whispers, hurried quiet conversations about the "unprecedented
+weapon" that BE was working on, and all I can remember thinking is
+when did the SSP become cemented as a weapons project when it was
+deemed unfeasible less than a year earlier? It was so fast, so bizarre
+that it was surreal, and I found myself just going along with it,
+right up until the night of the launch.
+
+I got a call to my office from the Horizon. No, not from the launch
+site, from the space shuttle itself. I don't know how the hell they
+reached my office, why they called me, or what they even used to place
+the call in the first place, there's no record of it even existing,
+but it happened. The guy on the phone said he was Phil McGinnis, whom
+I knew to be one of the astronauts on the shuttle. Naturally I thought
+it was a joke or something similar at first, but I heard something in
+the background that convinced me otherwise. I honestly can't describe
+what I was hearing, but I…didn't like it. I could barely hear what
+McGinnis was saying: I had to write it down on a piece of scratch
+paper in my office. "The light that eats time," "Mustn't come back,"
+and "I will hold the light in me" are the only clear things I heard.
+After less than two minutes, the call cut out. I sat for at least a
+half hour, literally doing nothing, and I honestly can't remember what
+I was thinking about. I don't know if I was questioning what had just
+happened, or if I even knew what had just happened at all. Until this
+day, I've told no one about this.
+
+As I'm sure you know, the shuttle went down less than three hours
+later, and BE vanished without a trace. The whole thing was swept
+under the rug, and work on the SSP went on like nothing ever happened.
+All of us that had worked on the project while BE was on-board were
+rotated to other things, or we disappeared.
+
+

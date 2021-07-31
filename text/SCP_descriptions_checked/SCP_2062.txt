@@ -1,0 +1,81 @@
+                                    SCP-2062                                    
+                                    ========                                    
+
+                                   Kronecker                                    
+                                   ---------                                    
+
+Item #: SCP-2062 
+
+Object Class: Kronecker
+
+Special Containment Procedures: Type-3 FWAB (Foundation Web Analysis
+Bot) OMICRON-20-PSI (" Alan") is to constantly search and remove
+SCP-2062 affected entries from the Foundation's SCP Catalog.
+Non-computerized versions of affected entries are to be destroyed.
+
+The document regarding SCP-2062 is the only object that has been
+voluntarily classified as "Kronecker" by the Foundation, and does not
+display any anomalous properties. Classifying other anomalous items as
+"Kronecker" is prohibited.
+
+Description: SCP-2062 is an anomalous Object Class known as
+"Kronecker", appearing on random computerized SCP entries. Entries
+affected with SCP-2062 will autonomously change their Object Class,
+Special Containment Procedures and Description, claiming that said
+items are no longer anomalous and are to be exempted from containment,
+often adding details in the Description section that attempt to
+disprove the anomaly. Reverting these changes have been unsuccessful.
+However, these entries can be deleted from the main catalog.
+
+There appears to be no pattern in entries selected for the SCP-2062
+anomaly. Any changes that are made to an SCP entry regarding this
+anomaly are instantaneous and will appear on any device currently
+displaying the affected article. Any non-digitized copies of the
+documentation, however, are exempt from this effect. If non-digitized
+copies of the articles are scanned into the system, SCP-2062 does not
+appear to affect them. Similarly, renumbering the article appears to
+be effective in mitigating SCP-2062's effect, allowing for reversions
+to be made.
+
+SCP-2062-1 is the IP address from which all SCP-2062 anomalies
+originate. Triangulation of the IP address results in failure with
+standard positioning systems. Tracing with equipment tuned for extra
+dimensional topography, indicates that SCP-2062-1 originates from an
+extra dimensional space. SCP-2062-1 appears to be the only signal
+originating from this space.
+
+SCP-2062 also affects any article labelled with the following code.
+
+**Object Class:** Kronecker
+
+This anomaly can affect SCP entries, as well as personnel records and
+other documents. SCP-2062 based revisions always follow the same
+parameter: SCP-2062 attempts to disprove the subject's existence, if
+applicable. If not, then SCP-2062 has minimal effect, and often makes
+small and negligible notations on various points of information.
+However, documents labelled manually with this code are irreversibly
+affected by SCP-2062: renaming or renumbering the document is
+ineffective in mitigating its effects.
+
+SCP-2062 does not affect the actual subject of any documentation, only
+the documentation itself.
+
+
+Addendum: Leopold Kronecker (Lifespan: 7 December 1823 – 29 December
+1891) was a German mathematician who studied number theory and
+algebra. Kronecker was best known for his quote on Georg Cantor's set
+theory.
+
+
+Die ganzen Zahlen hat der liebe Gott gemacht, alles andere ist Menschenwerk.
+
+God made the integers, all else is the work of man.
+
+
+While SCP-2062 bears no semblance to any records of the mathematician
+Kronecker, further studies into the records of Kronecker's life and
+death are underway.
+
+
+
+

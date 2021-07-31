@@ -1,0 +1,635 @@
+                                    SCP-3426                                    
+                                    ========                                    
+
+                                    Reckoner                                    
+                                    --------                                    
+
+Item #: SCP-3426 
+
+Object Class: Keter 
+
+Special Containment Procedures: Until the nature of SCP-3426 can be definitively 
+ascertained, containment should focus on preventing as many of the theorized 
+conditions for its occurrence as possible. As such, scientific progress into a 
+unified physics hypothesis1Footnote One: Colloquially termed "theories of 
+everything," such as string theory or loop quantum gravity. and the creation of 
+infinitely sustainable energy should be heavily impeded. Other areas of social 
+and technological progress that could potentially result in an occurrence of 
+SCP-3426 on Earth must be prevented by any reasonable means currently available. 
+Additional measures may be taken in the event that the collective human race 
+approaches attainment of Type I civilization status (as defined on the Kardeshev 
+scale)2Footnote Two: Defined as being able to store and use all energy that 
+reaches the planet from the parent star.. 
+
+Investigation of phenomena related to SCP-3426 will take place under Operation 
+GREY VOICES. Mechanical probe surveys to a maximum range of 100 light years will 
+attempt to ascertain the commonality and range of SCP-3426, and manned 
+excursions of post-3426 planets are currently in the planning process. Operation 
+GREY VOICES will centralize the relevant collected data, and collaborate with 
+other Foundation internal research divisions, including the Memetics and 
+Infohazards Division, Temporal Anomalies Department, Thaumatological Department, 
+and Biological Containment and Research Division, for the purpose of attaining a 
+greater understanding of SCP-3426. 
+
+Civilian surveys of exoplanets and cosmological imaging projects will be 
+strictly monitored for images or data that show evidence of SCP-3426. Upon 
+discovery, data of SCP-3426 is to be erased or edited as necessary, and 
+amnestics administered to persons involved. 
+
+Description: SCP-3426 is a phenomenon that is responsible for the total 
+extinction of a technologically and socially advanced planetary civilization. 
+SCP-3426 may be an event, entity, process, object, or concept; to date there 
+exists no definitive hypothesis on the attributes of the anomaly. However, it is 
+known that the conditions for the manifestation of SCP-3426 are self-consistent 
+and follow an established pattern. It is believed that SCP-3426 manifestation is 
+widespread and possibly universal. 
+
+A planet that has been affected by SCP-3426 is termed "post-3426." Post-3426 
+planets and civilizations share a number of common characteristics. 
+
+The civilization must have achieved a relative degree of global sociopolitical 
+stability3Footnote Three: By "relative," it is meant that - as a whole - 
+widespread changes in the world order, upheavals in social norms, and 
+non-localized political unrest are essentially eradicated.. 
+
+A limitless or indefinitely sustainable source of worldwide energy is in use 
+(e.g. nuclear fusion, hydrogen mining, orbital solar collection, or enhanced 
+geothermal systems). 
+
+This energy must be widespread and plentiful enough for the civilization to 
+qualify as a Type I civilization or higher on the Kardeshev scale. 
+
+A unified scientific theory/model of the universe must have been developed. 
+
+Space travel is commonplace, and is advanced enough to allow for detailed 
+exploration of the local solar system. 
+
+There exists an organization whose purpose is to catalogue and contain as many 
+anomalous phenomena as possible. 
+
+Post-3426 planets display widespread anomalous material corrosion, reality 
+distortion, complete or near-complete corruption of information and information 
+media, and the pervasive presence of visual cognitohazards and abnormalities. 
+Sapient lifeforms on a post-3426 planet appear in two stages based on time since 
+SCP-3426 took place. If it has been 1 year or less since the occurrence of 
+SCP-3426, such organisms appear suspended or frozen in place, lack any 
+consciousness, and display total cell death. In some cases, they may appear 
+translucent or blurred to cameras and to the eye. Afterwards, intelligent life 
+is apparently completely spatially erased; while possessions, information, and 
+structures created as a result of the species remain present, if highly 
+deviated, no physical remains of the species itself exist. 
+
+Data, items, and artifacts were collected primarily through the mass usage of 
+drones, orbital probes, and imaging sensors deployed onto post-3426 planets. 
+Further information on the exact properties or effects of SCP-3426 has been 
+difficult to recover. Probes that enter the atmosphere of a post-3426 planet 
+quickly deteriorate within 24 hours, becoming affected by the spacetime 
+distortion and material corrosion permeating the planet's surface and 
+surroundings. As a result, recovered data on post-3426 planets is extremely 
+limited. 
+
+Based on data and related analysis from Operation GREY VOICES, it is believed 
+that SCP-3426 induces a slow collapse of the consistency of universal constants 
+and stable states within the planet. This collapse weakens force interactions 
+between elementary particles, creates extreme planetwide ontokinetic and 
+material distortion effects, and gradually prevents any information or conscious 
+thought from being distributed. This process culminates in all matter on the 
+planet reaching a state of catastrophic incoherence, theoretically resulting in 
+the slow erasure of objects, concepts, and lifeforms originating from it. This 
+phenomenon has been provisionally classed as a ZK-λ-Class Cosmic Fragmentation 
+Scenario. 
+
+While research into SCP-3426 has yielded a vast variety of information regarding 
+its nature and end results, the mechanism by which SCP-3426 acts remains 
+unknown. 
+
+
+Addendum 3426.1: Incomplete List of Post-3426 Planets 
+
+At present, Operation GREY VOICES has examined all exoplanets within a 75-light 
+year radius of Earth. From this current exploration area, 16 planets have met 
+the hypothesized conditions required for the occurrence of SCP-3426. All 16 were 
+affected by SCP-3426 either upon discovery or within 5 years of detection. 
+
+
+A partial list of post-3426 exoplanets and their characteristics is shown below. 
+
+Gliese 1214b (Post-3426-2) 
+
+Traits 
+
+Ocean planet, hydrogen and helium atmosphere. Dominant lifeforms were aquatic 
+non-humanoids with primary settlements underneath the ocean. Technologically 
+advanced society organized into strict unified social hierarchies. Outposts 
+existed both in the atmosphere and in space, used for the purpose of research 
+into the local star system. The civilization had no clear leader of governmental 
+system; rather, computers dispensed resources distributed according to caste. 
+
+Post-3426 Characteristics 
+
+After SCP-3426, post-3426-2 had approximately half of its water transmuted to 
+deuterium and tritium oxide. Consciousness in all sapient lifeforms 
+spontaneously stopped. Computers and other data storage devices underwent 
+apparent global information corruption, with only 15% of the civilization's 
+information remaining readable. Water molecules no longer "flow"; the substance 
+acts as a single, rigid, continuous solid. 
+
+Notes 
+
+None 
+
+
+Kepler-443b (Post-3426-5) 
+
+Traits 
+
+Thick atmosphere, strong gravitational field, and cold average temperatures. 
+Dominant lifeforms had mammalian characteristics such as body hair and live 
+birth, but possessed ectothermic circulation in the same fashion as reptiles. 
+Dominant religion involved the worship of an entity ascribed to the planet's 
+star, which was said to be responsible for continually rebuilding and moving the 
+universe. 
+
+Post-3426 Characteristics 
+
+Post-3426-5 experienced a form of catastrophic reality degradation in which the 
+formation of chemical compounds became impossible due to weakening of the 
+electrostatic force. An additional anomalous effect causes all native living 
+organisms to be perceived as a two-dimensional shimmering, gray film. This 
+effect is both present in photographs and video from the planet and physical 
+artifacts collected from it. 
+
+Notes 
+
+None 
+
+
+Luyten b (Post-3426-10) 
+
+Traits 
+
+Rocky planet with Earth-like composition, orbiting a red dwarf. Mild (292 K) 
+temperatures and nitrogen-oxygen atmosphere. Dominant intelligent life was 
+humanoid. The planet had recently survived the effects of a catastrophic nuclear 
+war which subsequently led to a current period of utopian peace and social 
+stability. Primary energy source was obtained through large-scale drilling into 
+the planet's mantle. 
+
+Post-3426 Characteristics 
+
+All events taking place on post-3426-10 occur in apparent disjointed slow 
+motion. Movement, interaction, and even thought are anomalously decelerated; 
+this deceleration is inconsistent among the surface, with some regions being 
+"slower" than others. This effect can also manifest as a complete and total 
+stopping of time, with all particle movement in an affected region ceasing. 
+Analysis of the mantle of the planet revealed that it had been transformed to a 
+perfectly smooth, transparent layer of pink glass. Interaction with this glass 
+results in malfunction of any nearby electrically-powered devices and an intense 
+feeling of vertigo. 
+
+Notes 
+
+The dominant lifeforms inhabiting post-3426-10 appear to communicate in an 
+undocumented Indo-European language with significant similarities to 
+Hittite4Footnote Four: An extinct language spoken by the Hittite empire of the 
+16th-13th centuries BCE.. The status of this phenomenon as an anomaly is 
+currently under review. 
+
+
+TRAPPIST-1f (Post-3426-13) 
+
+Traits 
+
+Orbits ultracool dwarf star; rocky Earth-like composition with large 
+high-pressure water vapor envelope covering planet. Similarly to Earth, 
+planetary society consisted of a multitude of separated geopolitical states 
+coexisting in a roughly capitalist system. Analogue of the SCP Foundation, 
+notably, was a peacekeeping organization that traded anomalies and used them 
+strategically to prevent wars, research medical and scientific advances, or 
+expose social and economic injustices. 
+
+Post-3426 Characteristics 
+
+Extreme spatial distortion. Entire regions are "displaced" from the rest of the 
+surface, while a low static blur is visible across most of the planet. It is 
+unknown whether this is a visual or an ontokinetic effect. On occasion, a sudden 
+tear in the spacetime continuum within the planet's atmosphere is detected, 
+followed by the appearance of black mist. This mist will usually move towards an 
+unconscious sentient lifeform or data storage device and enter it. Once this has 
+been completed, it becomes impossible for any being to comprehend any concepts 
+related to or contained in the affected object. This has made data gathering 
+from post-3426-13 extremely difficult. 
+
+Notes 
+
+All containment sites operated by post-3426-13's SCP Foundation analogue have 
+been replaced by large spheres of total darkness. Mechanical probes entering 
+these regions of total darkness experience an unusual form of breakdown (see 
+Addendum 3426.3). 
+
+
+Addendum 3426.2: Recovered Data and Artifacts List 
+
+Rough translations of recovered data were provided by the Linguistics Department 
+under request by Operation GREY VOICES. Translations are not guaranteed to be 
+accurate. 
+
+Item Source: Computer terminal drive on space station orbiting post-3426-2. 
+
+We are on the verge of finally discovering it - [CORRUPTED] equation of 
+everything. The mathematics is working perfectly; too perfectly, perhaps, for me 
+to remain comfortable with this experiment much longer. [CORRUPTED] natural 
+laws, behaviors, and forces? 
+
+I cannot help but fear at what these findings imply. I cannot keep this secret. 
+This conclusion is something that affects everything. Not just on the planet, 
+everywhere. [CORRUPTED] that exists. We are n[CORRUPTED] and as I stare further 
+and further into the sandgrains that make this world, I am further convinced 
+that they are built out of mist and magic. 
+
+
+Item Source: Emergency message found playing on repeat in all structures in 
+post-3426-2. 
+
+Attention! [CORRUPTED] worldwide informational, physical, and chemical hazards. 
+Please remain calm and take note of the following precautions to ensure your 
+safety. 
+
+Once this message completes, shut off all electric devices you currently 
+possess. Close all openings or viewings from outside the building you are 
+currently in. If you are not currently inside an enclosed building, seek shelter 
+in one immediately. 
+
+Cover up or illuminate all sources of darkness in your location of shelter. 
+Destroy any reflective surfaces in your location of shelter. Destroy any 
+transparent surfaces in your location of shelter. If you begin witnessing 
+bizarre, disturbing, or unsettling effects occuring in your location of shelter, 
+do not report or point them out to any other person. Doing so will allow 
+[CORRUPTED] to spread. 
+
+When you begin to hear the screaming in your mind, move to a room or place where 
+you can be alone. Darken the room completely. This will allow the fading to 
+happen most quickly. Bring any possessions of sentimental value with you. The 
+screams will become overpowering. Do not panic. Focus on a memory of great 
+intensity to you, and be silent until you do not exist. 
+
+If at any point you feel that you cannot continue, remember that a 
+Society-issued weapon should be available in every facility. Your death will be 
+quick and painless. 
+
+This message will continue until nothing is left to hear it. This message 
+[CORRUPTED] it. This message will continue until nothing is left to hear it. 
+
+
+Item Source: A native plant from post-3426-5. 
+
+As far as can be ascertained, the plant is approximately 0.75 meters tall and is 
+most likely a flowering plant. This plant was common across post-3426-5’s 
+ground and was pollinated by many native fauna on post-3426-5. 
+
+Within the first fifteen minutes of viewing, the object is perceived by all 
+intelligent life as a plant-shaped mass of static. This static appears 
+two-dimensional from all sides despite existing in a three-dimensional space. 
+Extended observation of the static tends to cause discomfort in all observers. 
+After fifteen minutes have passed, the plant is no longer able to be perceived 
+by the observer. The observer’s memories of the plant are immediately 
+retained, but physical viewing of the plant’s location presents itself as if 
+the object itself was not present. Testers could describe an unknown object 
+perfectly even if it was presumably obscured by the plant. 
+
+This effect changes after an additional two to three days have passed. All 
+people who are affected by the property that prevents perception of the plant 
+begin to see the plant as a miscellaneous flower that the observer attaches 
+emotional value or meaning to. The flower type that is perceived varies greatly 
+from person to person. 
+
+Foundation AICs, upon being presented with the plant, appear to perceive it as a 
+random pattern of shapes and colors. The reason for this effect is undetermined. 
+
+
+Item Source: Official internal statement from the SCP Foundation equivalent from 
+post-3426-10. 
+
+To All That Remain: 
+
+We, the Conclave of Six, reveal our words to you today because Celcigng5Footnote 
+Five: Approximate phonetic recreation of the native name for post-3426-10. will 
+soon cease to exist. And it must come to pass because of our doing. We delved 
+too far, knew too much. We wanted to know secrets which were not meant for the 
+mortals to know; questions of gods and creators, questions of the elementary 
+makeup of everything. Now we face the apocalypse. Divine punishment for our 
+transgressions. 
+
+We have little left to say. In the coming days, you will find that the domain of 
+physical meaning will shatter into a billion pieces. Specifically, this planet 
+will be ravaged: both by a massive upheaval in universal laws that is roughly 
+equivalent to the entire planet becoming a high-intensity hostile 
+matter-affecting anomaly (or, as you also know it, a Segment-M/Threat-RH 
+phenomenon); and by a vast number of incorporeal entities (we believe they're 
+entities, but we're not sure) that will attempt to slowly erase and corrupt all 
+sources of information and knowledge originating from Celcigng. Yes, this 
+includes you. 
+
+You have two choices. 
+
+If you stay on Celcigng, your consciousness will be ripped apart from you and 
+leave only a pale image of anything you were. Time and space will blend their 
+twisted forms into each other until everything and nothing happens at once; 
+every second squished together and lengthened into eternity. Communication and 
+thought will die a slow death. Eventually, everything that originates from our 
+world will collapse into itself, and be erased from the universe. The only 
+fragments of our legacy will be warped to be unrecognizable. 
+
+Alternatively, you can take the preliminary space shuttle we have made out of 
+all the anomalous material we still have left. It will get you far, but not much 
+farther; from what we understand, it is the very fabric of the multiverse itself 
+that is coming to blot us out. 
+
+Long live Celcigng. May its death not be in vain. 
+
+
+Item Source: Handwritten note scrawled into the inside back cover of a book on 
+post-3426-13. 
+
+The world is on slow fire. Swarms of bitter void break apart from the sky and 
+attack. I don't think there's time left to escape. I think, even if we did, they 
+would follow. 
+
+I looked upwards and in a moment the sky was suddenly black and the sun was even 
+darker, all filaments and strands of infectious shadows. I don't even know how 
+they got here, why they chose us, why why why; they sent 
+
+sent — the flying things, signals — I can't recall the names 
+
+but as it hit the black barrier they simply disappeared. We're going away, too. 
+Everything I know is fading. I look at the world, and half of the words I use 
+for things have been blocked out by my memory. 
+
+The computers don't work anymore. When I open this book, the words are replaced 
+by bars of white and black and. That's what they're doing, don't you see? They 
+are v? nothing but nothing and they want to make us unreal and time and space 
+unreal 
+
+As I look out of this window, the top half of the building next to me is 
+disjointed from the bottom half. The people in the window across are frozen. 
+Then they flash and move for an instant, and are frozen once more. Every time 
+they move, the color of everything turns red and blue and green in a strobe of 
+terror. 
+
+Reality is coming apart at the seams. 
+
+I have 
+
+My sister is in the house with me. We are trying to keep out of reach of the 
+unreal darknesses. She has 
+
+she has told me that there is a voice in her head. I asked her what the voice 
+was saying; she said it was only a wailing. It is the end for her, then. I will 
+watch as the wailing overpowers her mind, and she forgets everything she is. She 
+will forget she was ever an intelligent being. She will forget all of the world 
+and all of the past and the present and the future, the little of it we have 
+left. She will then become unregisterable to me in my mind or to anyone's mind. 
+Her consciousness and her identity will be severed from the rest of our 
+knowledge, until she dissolves alone in a universe of one, and becomes an object 
+eaten by the all-consuming unreality. 
+
+She was too young. 
+
+I hear something in my head [CORRUPTED] the light 
+
+
+- LEVEL 4/3426/CLASSIFIED 
+
+- ENTER LEVEL 4 CLEARANCE 
+
+Addendum 3426.3: Post-3426-13 Exploration Log 
+
+Exploration Log 3426-UA-13C
+
+The following log depicts the received camera feed of the exploration
+of the void regions of post-3426-13, involving the usage of an
+unmanned drone. This file is limited to personnel level 4 clearance or
+higher. While neither infohazards nor cognitohazards have yet been
+detected to be present in this transcription, all personnel viewing
+this file must undergo a Level 2 Hazardous Meme Scan before
+proceeding.
+
+In order to further investigate the widespread regions of void present
+across post-3426-13, the SCPS Sternenlicht, an unmanned exploration
+vessel, drops out of FTL in the upper atmosphere of post-3426-13. The
+Sternenlicht simultaneously launches a close-range automated drone
+(SKF-070) with camera feed connected to the main ship.
+
+[BEGIN LOG]
+
+<T+00:01:27> The drone enters the lower atmosphere and deploys
+parachute. Drone registers minor surface damage; later analysis shows
+that a thin layer of the material surrounding the drone had been
+transformed into balsa wood. Cause of this event is unknown.
+
+<T+00:04:50> The drone lands on the surface of post-3426-13. Video
+feed shows that the sky appears to be "phasing" in and out, making
+formations such as clouds and the sun periodically look transparent.
+The sky is a pinkish-red color with a dark hue, caused by the low
+brightness of the red dwarf star, TRAPPIST-1. A number of avian
+lifeforms appear to be frozen in the sky.
+
+<T+00:05:01> Drone begins movement towards point of target. From its
+altitude, the camera can see the regional landscape. The area appears
+to be a coastal grassland plain. Ocean water drifts towards the
+shoreline in misshapen, angular waves. As the waves break onto the
+beach, they are suddenly turned into what are apparently perfectly cut
+diamonds. The diamonds fade away a few seconds after they are
+deposited on the beach. Camera pans 180 degrees. A number of vaguely
+humanoid lifeforms are frozen in place along the shore, thin white
+wisps "evaporating" off of their forms. Debris is strewn about the
+area, and small fires burn in the distance.
+
+<T+00:05:11> Abruptly, there is a flash on the camera feed that blinds
+the view momentarily. After a few seconds, the view returns, revealing
+that the entire sky appears to have lost all color contrast. There is
+a crackling noise, and the color of the sky returns to normal. Drone
+begins heading towards target location.
+
+<T+00:14:08> Drone passes over planet's surface for approximately 4
+km. Video feed notes the appearance of several more anomalous
+features. Several structures and buildings appear to be completely
+"flattened" into the ground, creating two-dimensional images of the
+structures and their contents on the surface. The drone passes by a
+number of posters, billboards, and other signage - however, all words
+and iconography on the signs appear as unreadable black bars. Many of
+the objects, flora, and fauna on post-3426-13 are warped or disjointed
+in some way, and some are translucent or nearly transparent.
+
+<T+00:17:35> Drone approaches target. Camera shows a completely dark
+sphere, completely static, emitting no sound or light. The sphere is
+roughly estimated to be about a quarter mile in radius. Drone
+activates several sensors to scan anomaly, including light, sound,
+sentience, matter scattering and conceptual identity. All sensors
+return negative.
+
+<T+00:17:59> Drone breaches the barrier of the void.
+
+<T+00:18:36> Camera feed begins to play faint sounds of static. A
+pristine, non-anomalous planetary landscape is seen; about fifty yards
+ahead, there is an industrial building with large glass windows and
+unreadable insignia branded on the front. Drone enters an open door on
+the first floor of the complex.
+
+<T+00:18:55> Static slightly increases in volume. Drone emerges in a
+clean, bluish-white office space with a large plastic counter on the
+far side, decorated with potted plants. A sign is hung on the back of
+the wall behind the counter. Normally, this sign would be illegible or
+obscured by sensory bars; however, there are words on the sign,
+reading "NOTHING IS HERE, LOCK YOURSELF INSIDE".
+
+<T+00:21:40> Drone proceeds down open corridor. To one side, there are
+large glass windows open to the sky. As the drone continues down the
+corridor, the windows appear to grow and shrink in dimension. There is
+a small object at the end of the corridor, which terminates in a dead
+end. The corridor is not lit well enough for the object to be
+identified.
+
+<T+00:22:23> Set onto the floor of the corridor is what is evidently a
+television set. The television has the same shape and dimensions to
+match a typical CRT television from the late 1970s. As the drone
+approaches, it turns on.
+
+<T+00:22:31> The drone stops despite the control systems from the
+Sternenlicht being completely severed. The sound of static on the
+video feed suddenly increases in volume, nearly drowning out any other
+noise. The television shows a series of sounds and images, including
+clips of asteroids floating through space, large networks of massive
+supercomputers, crowds of people going about their daily activities,
+the drone itself hovering in front of the television screen, and an
+endless brightly-lit corridor. These images cycle through each other
+interspersed with flashes of white light. The cycling becomes faster,
+and the flashes of light last longer and longer. Faintly visible in
+the light now are outlines of shapes; amorphous forms that move about
+the screen. The amorphous forms combine and reform until they create
+the vague outline of a human head. The human head is looking directly
+into the drone's camera.
+
+<T+00:24:57> The drone is suddenly propelled forward towards a
+collision course with the blank wall. The wall appears to fall away
+and the drone is pushed forward into an empty white space and begins
+to fall.
+
+<T+00:34:57> After exactly ten minutes of continuous falling, the
+drone suddenly emerges in the office lobby at the entrance of the
+building. The lobby is nominally the same in organization, appearance,
+and features. The sign behind the counter has changed words: it now
+reads, "GO BACK TO SLEEP GO BACK TO SLEEP GO BACK". Outside the
+floor-to-ceiling windows, the entire sky has acquired a dull red glow.
+
+<T+00:37:09> The camera notes the presence of a new hallway to the
+other side of the previous hallway that was not present before. As the
+drone approaches, faint sounds of mechanical operation, such as
+electrical beeps and running motors, become faintly audible. Just as
+the drone is about to enter the hallway, the video feed suddenly emits
+the sound of screaming, and the drone appears again in the center of
+the office foyer. For approximately two hours, the drone continuously
+attempts to enter the newly made hallway, with the same events
+occurring each time.
+
+<T+02:32:32> Over the next two hours, the sun sets and night falls.
+There is knocking on the windows, but no movement is registered from
+the outside. The knocking on the windows becomes more and more
+frantic. From the outside, the stars appear to be blood-red. The drone
+approaches the hallway, and is this time not impeded. The static in
+the background swells and crackles, and a faint voice can be made out
+just underneath the interference. The voice says, "The universe is an
+infinite staircase, but it is shattered. You will shatter it." The
+drone proceeds down the hallway.
+
+<T+02:38:15> The hallway is an endless, brightly-lit corridor with no
+exits or side doors. Fluorescent lights are positioned on the ceiling
+at regular intervals. After a few minutes of travel, it is impossible
+to tell how far the drone has moved; the featurelessness of the
+hallway prevents any kind of relative positioning.
+
+<T+03:50:49> After about one hour of travel, the static slowly begins
+to quiet, and is replaced with the growing sound of high-pitched
+wailing coming from thousands of sources.
+
+<T+04:01:50> Dark wisps are emitted from the lamps, swarming together
+and flowing through the air. The audio is interspersed with intense
+high-frequency sound; when the sound is emitted, the video feed
+suddenly pixelates and shows random patterns of vivid colors. This
+pattern continues for a little less than two days.
+
+<T+51:37:04> A subtle change is now added to this pattern of data.
+Every time a pixelation event occurs, one of the pixels in the camera
+remains "dead," sticking to the camera screen. Over time, the dead
+pixels fill the entire camera view.
+
+<T+78:23:30> The video feed has now been completely obscured by a
+variety of dead pixels. The sound of screaming has reached
+approximately 150 Db, intense enough to cause rupturing of the
+eardrums. Shapes appear to form in the dead pixels, as if the pixels
+were moving through a field or an outline of static. The hallway's
+shape is vaguely visible in the static as the drone continues to move
+through it, but now visible are hundreds of distorted human figures
+that stand still in the hallway, extending indefinitely through the
+corridor. Their faces are featureless except for eyes and a mouth.
+
+<T+78:25:41> The high-frequency pitches cease. The audio feed is now
+completely silent.
+
+<T+78:25:48> The swarm of humanoid faces all simultaneously turn
+towards the drone's camera. The figures disintegrate into black minute
+particles. The pixelation effect on the camera clears. The lights in
+the hallway all go out, leaving the drone in complete darkness.
+
+<T+78:25:53> The drone activates its searchlight and shines it into
+the hallway. The hallway begins to spin and reflect in on itself.
+Different sections of the hallway seem to cross over each other,
+rotate, and reverse until it creates a kaleidoscope-like pattern in
+place of the original corridor. The hallway splits in half repeatedly
+into sections separated by cracks of blinding white light. The hallway
+then appears to unravel and coil itself around the probe until it has
+no room left to move. The cracks in the hallway expand and the light
+spilling out of it grows brighter.
+
+<T+78:26:36> The camera view switches abruptly to a continuous white
+field.
+
+<T+84:11:47> Nearly six hours later, change is detected in camera
+view. The white field begins to gradually fade into total blackness.
+As this occurs, systems on the drone progressively shut down in
+sequence, and the probe begins to lose capabilities.
+
+<T+84:14:21> The drone shakes violently as its processing systems
+completely fail. A dark red flash is briefly seen permeating the
+camera's view before the feed cuts out.
+
+[END LOG]
+
+Addendum: The transcription of this camera feed is based on general
+consensus from a variety of viewers of the drone's camera recordings.
+The accuracy or reality of this transcription is currently not known.
+Re-recordings or attempts at computer analysis of this exploration log
+indicate that all reception ends past timestamp T+00:17:59; past this
+point, the recording apparently consists entirely of static.
+
+
+
+Footnotes 
+
+1. Colloquially termed "theories of everything," such as string theory or loop 
+quantum gravity. 
+
+2. Defined as being able to store and use all energy that reaches the planet 
+from the parent star. 
+
+3. By "relative," it is meant that - as a whole - widespread changes in the 
+world order, upheavals in social norms, and non-localized political unrest are 
+essentially eradicated. 
+
+4. An extinct language spoken by the Hittite empire of the 16th-13th centuries 
+BCE. 
+
+5. Approximate phonetic recreation of the native name for post-3426-10. 
+
+
+

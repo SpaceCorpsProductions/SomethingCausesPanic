@@ -1,0 +1,243 @@
+                                    SCP-4027                                    
+                                    ========                                    
+
+                        Anomalous Dissociative Identity                         
+                        -------------------------------                         
+
+Item #: SCP-4027 
+
+Object Class: Euclid 
+
+Special Containment Procedures: Periodic interruptions in SCP-4027's containment 
+are an expected component of the anomaly's nature. Once confirmed, SCP-4027 is 
+to be contained in a modified humanoid containment chamber at the nearest 
+Foundation site. 
+
+When SCP-4027 is uncontained, reports of partial corpses are to be investigated 
+and cases with avian activity prioritized. Foundation zoologists are to be 
+consulted to determine the most likely site of future activity. 
+
+Description: SCP-4027 is a dissociative personality that presents across 
+individuals (termed "instances") as an elderly, English-speaking male. SCP-4027 
+can be identified by a sudden change in vocal and behavioral idiosyncrasies, 
+self-admittance, and its canonical rapport with Foundation personnel.1 This 
+personality may be elicited from instances by applying persuasive psychological 
+techniques, sufficient psychological duress, or pharmacological agents known to 
+produce fugue states.2 
+
+Instances are not aware of SCP-4027's underlying presence and do not recall 
+episodes of SCP-4027's emergence. They frequent graveyards and/or burial sites 
+and have been sighted near locations where cadavers (termed "victims") are found 
+half-consumed.3 At the time of writing, the remainders of all victims have never 
+been recovered. 
+
+Evidence left at sites suspected of SCP-4027 activity do not suggest human 
+involvement, instead implying avian participation.4 The presence of said 
+evidence is not indicated from visualization of the gravesites by the unaided 
+eye; superficially, the graves of victims are undisturbed. Law enforcement is 
+therefore ill-equipped to indict an offender, and the Foundation was consulted 
+by Agents Drumel and Cyllus of the UIU for additional support in apprehending a 
+suspect. 
+
+Foundation zoologists recognized that the pattern of suspected SCP-4027 activity 
+coincided with known migratory routes of indigenous vulture populations. This 
+observation remains a reliable tool for SCP-4027 identification, recapture, and 
+re-containment. 
+
+
+Supplemental Documentation 
+
+[     Enter Credentials    ] 
+
+[  Credentials Accepted  ] 
+
+
+Interview Transcript
+
+Interviewed: SCP-4027-1 ("James Cochran")
+
+Interviewer(s): Agents Smith and Lombardi
+
+Foreword: The following is the interrogation of the first proactively
+identified SCP-4027 instance (shortly after its capture in
+Haddonfield, New Jersey), as well as the first time that direct
+communication with SCP-4027 was achieved. Surveillance footage is
+included to assist in the future identification of SCP-4027. The
+agents are separated from SCP-4027-1 by a glass pane and speak through
+a PA system. Two guards stand in proximity to SCP-4027-1 after
+restraining it to a chair.
+
+[BEGIN LOG]
+
+SCP-4027-1: What am I doing here?
+
+Agent Lombardi: Please state your name and birthdate for the record
+before we begin, please.
+
+SCP-4027-1: James Cochran. June 2nd, 1989.
+
+Agent Smith: James, tell us what you were doing prior to being here.
+
+SCP-4027-1: I was at my house and you guys showed up. I was about to
+watch the game. And, um... next thing I know I'm here.
+
+Agent Smith: Well unfortunately, we got some eyewitnesses that place
+you at a grave, the body of which has been found desecrated.
+
+SCP-4027-1: I don't know anything about that, that's... really weird.
+
+Agent Lombardi: Do you know how a body may have been taken from the
+ground...
+
+SCP-4027-1: Nope.
+
+Agent Lombardi: ... with no signs of digging?
+
+SCP-4027-1: (Scoffs) No.
+
+Agent Smith: Well it doesn’t make sense to us either, but we think we
+are onto a theory that involves your cooperation.
+
+SCP-4027-1: I... don't know what to tell you- I don't know what you
+want me to say.
+
+Agent Lombardi: Do you have any form of government-issued
+identification on you by chance? Is there anyone who can vouch for
+you? Family?
+
+SCP-4027-1: Um, I... I have a social security card, it's at my house.
+I've got family, um, I have a sister who I haven't seen her in several
+years, she was deployed.
+
+Agent Smith: Your sister... (flips paper) Janine?
+
+SCP-4027-1: I mean who are you people, man? What authority do you have
+to just come into my fucking house and take me to this fucking place?
+
+Agent Lombardi: That's fair James. We're doing this because we believe
+something is influencing your memories and actions, against your
+will...
+
+SCP-4027-1: I'm sorry, what?
+
+Agent Lombardi: ... and we hope to use an injection to find out a
+little more information.
+
+SCP-4027-1: You're going to what?
+
+Agent Smith: James, we believe we can help you, and you can help us.
+Is that fair?
+
+SCP-4027-1: Look, I've done nothing wrong, I don't know what is going
+on here, and you better fucking untie me from this damn chair.
+
+Agent Lombardi: I'm so sorry James, we just can't do that right now.
+
+Agent Smith: Can we ask you to please relax your arm? We are only
+hoping for your cooperation. We apologize, James.
+
+(SCP-4027-1 protests at the sight of a syringe in the hands of one of
+the guards. His restraints allow the guards to successfully administer
+the serum into the right antecubital vein. The serum takes effect
+quickly, and SCP-4027-1 can be seen becoming somnolent.
+
+Analysis suggests that at this moment, the serum relaxed the
+psychological fronts constructed by SCP-4027 in SCP-4027-1, and that
+communication with SCP-4027 itself was hereafter achieved. The
+designation henceforth reflects this conclusion.)
+
+SCP-4027: Ah. (Looks around) The Foundation. Now you see me. But I
+have seen you for quite some time. I've known about you and your...
+what do you call it... containment (chuckles) yes, for quite some time
+now. And, um, agent? Do you know about me? What is it that you think
+you know?
+
+Agent Smith: We know something about what you are and what you do, but
+not much about how or why you do it.
+
+SCP-4027: Well that's very cute. Oh... if you must know, and I would
+like you to because well, it's necessary, would be that uh, I need
+dead bodies to survive.
+
+Agent Smith: And what do you do with them?
+
+SCP-4027: Oh well they're my sustenance, agent. I use them to give me
+renewed life.
+
+Agent Lombardi: How is it that you are so familiar with us?
+
+SCP-4027: Because I've been around for quite some time, agent. Quite
+some time. So many years, and you have only now discovered me. So I
+think it is quite reasonable—don't you?—to why, let me go. Um, I am
+not harming anyone if you think about it.
+
+Agent Smith: Even if that were true, we strongly feel that we have an
+obligation to prevent you from roaming freely.
+
+Agent Lombardi: For the good of the community and for yourself, we're
+going to have to specialize some containment procedures and keep you
+here.
+
+SCP-4027: Is that so? Because agent, if I do get out of here—and I
+assume you think I might —I'm going to come for your family. (To Agent
+Smith) And yours. Your family. There are a few who are not cremated,
+is that so? I think so. Actually… Agent Smith is it? Yes. I know your
+family. I see your family. Right now. Three generations, buried. Ah,
+what is it, um, First Methodist on Park? Yes. I see them. Oh they look
+tasty. I may not be able to sustain... may not be able to resist on
+the other hand, agent. I am going to give you one last chance to let
+me go, or I can guarantee you will regret this. I'll let you think it
+over, agent.
+
+(SCP-4027 closes the eyes of SCP-4027-1 and seems to relax. Upon
+opening them again, SCP-4027-1's mannerisms and rapport returns.
+SCP-4027 is not able to be evoked again in the session.)
+
+[END LOG]
+
+Closing Statements: 12 days after initial containment, known
+techniques were no longer able to elicit SCP-4027 from SCP-4027-1.
+This coincided with the indigenous vulture population's migration from
+the area.
+
+Within that time, it was confirmed that Agent Smith had several family
+members buried at First Methodist Church on Park Avenue in
+Haddonfield, New Jersey, and MTF-Mu-15 ("Ecto Cooler") was deployed to
+investigate and safeguard the graveyard. It is unknown how SCP-4027
+knew of the agent's surname and family history.
+
+Once there, the MTF reported the sporadic encroachment of large
+numbers of vultures that perched on nearby structures and watched the
+team with minimal to no movement. No apparent disturbances had
+occurred to the grave plots; this was corroborated by the church
+staff, including the pastor who lives on the property with his family.
+Ground-penetrating sonography was utilized to non-invasively survey
+the contents of the plots, and revealed no unexpected findings.
+
+Responding to sounds described as "hissing and scratching" emitting
+from the graveyard with no apparent source (day 11, 0414AM), the team
+again scanned the graveyard's plots, beginning with Agent Smith's
+three family members. The images suggested an increased concentration
+of erratically-shifting, solid mass within. Upon immediate
+disinterment, the coffins were found empty with markings consistent
+with those of talons and beaks upon all surfaces.
+
+
+
+Footnotes 
+
+1. SCP-4027 recalls its interactions with the Foundation continuously across 
+evocations and instances. 
+
+2. Trials have shown that SCP-4027 is more expository when such compounds are 
+administered in appropriate doses. If the recommended dose is exceeded, the 
+personality limits itself to staring and producing vocalizations described as 
+guttural hissing and whistling. 
+
+3. Forensics suggests that remnant soft tissues including the skin, organs, and 
+eyes are prioritized in this process. 
+
+4. Indications include feathers, tracks, excrement, and various markings upon 
+and within victims' exhumed coffins. Analysis suggests no anomalous properties. 
+
+

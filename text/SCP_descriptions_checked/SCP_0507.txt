@@ -1,0 +1,2216 @@
+                                    SCP-507                                     
+                                    =======                                     
+
+                           Reluctant Dimension Hopper                           
+                           --------------------------                           
+
+Item #: SCP-507
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-507 is allowed free roam of the facility, 
+obviously barring anything that would breach security or safety protocols. Any 
+time SCP-507 leaves its private quarters it must be accompanied by an agent, 
+mostly at this point to make sure that it does not “shift” without the 
+facility’s knowledge. SCP-507 should not be physically touched if there have 
+been more than two weeks since its last “shift”; the risks inherent in 
+disobeying this protocol make the action its own punishment, should the issue of 
+disciplinary measures ever come up. 
+
+When SCP-507 undergoes a shift, faculty will be informed to keep an eye out for 
+its eventual reappearance. It also has a tracking device implanted into it, and 
+a daily signal check should verify whether or not SCP-507 has returned from its 
+trip. If it reappears in or nearby the facility, SCP-507 will return to its 
+quarters on its own; otherwise, a retrieval team of three plainclothes agents 
+may be sent to provide transportation back. Upon successful return, SCP-507 can 
+be the subject of various physical tests up until two weeks after each shift. 
+
+It is worth noting that SCP-507 is allowed a computer with an Internet 
+connection (via a proxy which strictly limits what information can be uploaded, 
+and to where) in its room, and may petition to use/meet with/act as a test 
+subject for Safe or Euclid SCPs that do not affect mental functions negatively 
+or carry an infectious trait. This is a result of SCP-507's persistently clean 
+record, and the implication that if SCP-507 was ever going to be a security leak 
+it would have used its faux-teleportation powers to do so already. It is also 
+worth considering that SCP-507 is actually below-average in most physical 
+traits, and that in even worst case scenarios any SCP agent should be more than 
+capable of carrying out a termination order. 
+
+Description: SCP-507 is a Caucasian male with blond hair and green eyes, 
+sporting no other outstanding characteristics besides being somewhat overweight 
+and speaking with a vague accent of disputable origin. Although SCP-507 has an 
+already-established name due to its unremarkable upbringing, it seems to find 
+entertainment in forcing those it meets to give it a nickname in lieu of 
+divulging this information. Thus SCP-507 will now respond to the names Tommy, 
+Steve, Bruto, Guy, Houdini, and Grabnok the Destroyer. 
+
+SCP-507 was originally recovered from the ████ ██ asylum, when 
+standard surveillance following repeated successful escape attempts brought its 
+abilities to light. All records of this incident were confiscated, and SCP-507 
+was taken into custody under the pretense of moving it to a more secure 
+facility. 
+
+The original theory was that SCP-507 possessed some form of teleportation 
+ability, as it would suddenly disappear and eventually reappear in a different 
+location. Subsequent interviews with the subject did verify that its ability 
+could be used in such a manner, but that it was merely a side effect for its 
+main affliction. SCP-507 holds that during its periods of “disappearance” it 
+is actually displaced into a random alternate reality; the landscape generally 
+stays the same, but the inhabitants and climate of the parallel world often do 
+not. SCP-507 also insists that it has no control over the time and duration of 
+these shifts; this has more-or-less been confirmed by the subject being known to 
+“displace” at inconvenient times such as mid-sentence, while sleeping, or 
+even while using on-site public facilities. If SCP-507 moves about in the 
+alternate world, the eventual shift back will then place it at the corresponding 
+area in our reality. A sample list of SCP-507s descriptions of alternate 
+realities can be found in Document 507-00. 
+
+Mentally, SCP-507 shows no large deviations from the psychological profile for a 
+normal person. It has confessed to have always had a great interest in the 
+paranormal and mythological, which has directly led to its eventual permission 
+to interact with relatively harmless SCPs. SCP-507 especially enjoys meeting 
+with other sentient SCPs, once going so far as to request a small “vacation” 
+to visit SCP-082. The request was eventually granted after persistent pleading 
+from SCP-507, and the meeting was thankfully uneventful. 
+
+
+Document #507-00: A sample list of SCP-507s supposed extradimensional travels, 
+along with any demands made by it after returning. 
+
+
+Subject arrived in complete darkness, leading it to assume that the current 
+location was indoors or subterranean. After fumbling about for a possible way 
+out, subject heard a sound akin to muted breathing nearby. Subject then decided 
+to curl up in the nearest corner and “wait it out” instead of risking a 
+blind confrontation with an unknown creature. 
+
+Request: A standard flashlight, which it now always carries on its person.
+
+
+Subject appeared in a replica of the facility, although apparently fallen into 
+disuse. Further exploration led to the discovery of various corpses strewn about 
+the area, all heavily decayed and covered in an odd type of mold. Upon noting 
+that the “corpses” seemed to rhythmically expand and contract as if still 
+breathing, subject attempted to leave the facility. This idea was quickly 
+discarded when it opened an exit and found that the outside world was apparently 
+coated with the same odd growth. 
+
+Request: Heavy doses of voriconazole, and a fungal expert to help ascertain the 
+nature of the mold. No exact match of the described mold was found, but it was 
+noted to share many attributes with certain types of Cordyceps Fungi. [See 
+Addendum 507-02] 
+
+
+Upon reappearing, subject was reported to mutter “So many spiders.” Subject 
+refused to elaborate. 
+
+Request: A handheld firearm of any type. Request was granted under the 
+stipulation that said firearm is specifically built to only use rubber bullets. 
+
+
+Subject once again appeared in a pitch black location with breathing nearby. 
+Upon turning on its flashlight, subject was surprised by a man wearing a black 
+business suit and sunglasses, with an impossibly wide smile. Said “Smiling 
+Man” was apparently leaning in toward SCP-507 when it turned on the light, the 
+end result being that their faces were almost touching. Smiling Man then 
+remarked “Back so soon?” before subject switched the light off again, 
+discharged all the rounds in its firearm at the general vicinity of the man, and 
+once more curled up into the nearest corner until shifted back into our reality. 
+
+Request: None.
+
+
+Those with Level 2 Security Clearance may read a full list by accessing document 
+#507-3B 
+
+Those with Level 2/507 Security Clearance should also see Interview 507-G for 
+evidence of a particularly noteworthy shift. 
+
+
+Addendum 507-00: Agent ████ went missing on [EXPUNGED] at the same time 
+as SCP-507. A full scale search was launched to find either of them, only for 
+SCP-507 to appear a week later. When questioned, it said that ████ was 
+holding onto its shoulder when it shifted, leading to both of them to appear in 
+an alternate dimension where [EXPUNGED]. During the ensuing chaos, SCP-507 lost 
+contact with ████ and could not relocate him before it shifted back into 
+“standard” reality. A new protocol has been placed in light of this - no one 
+is to come in physical contact with SCP-507 after two weeks following a 
+displacement. Reevaluation of previous incidents has shown that there have 
+always been at least two weeks between each, so this timeframe will be the only 
+“safe” time to touch SCP-507 until further notice. 
+
+
+Addendum 507-01: I don’t care how much he grumbles about it; SCP-507 is not to 
+be cleared for challenging SCP-076-2 to fifty rounds of Tic-Tac-Toe. Just… no. 
+-Dr.███ 
+
+
+Addendum 507-02: Fungus encountered by SCP-507 seems similar to that resulting 
+from experimentation with SCP-407. 
+
+Document 507-3B
+
+Foreword: Below is an archive of all documented "shifts" undergone by SCP-507. 
+Each of these entries is presented with their contents in the following order: 
+
+Dimensional label (created upon discovery of a "new" reality, for ease of later 
+reference) 
+
+Retrieval (used for the documentation of any complications or anomalies in the 
+recovery of SCP-507 post-shift) 
+
+Description of reality, and description of any aftereffects caused by visiting 
+said reality. 
+
+Request (listings of any special requests made by 507 upon return, or for noting 
+any "souvenirs" retrieved from the shift) 
+
+For easy note, this is a list of equipment thus far: 1x handgun, loaded with 
+rubber bullets. Only one magazine which is carried in the gun. 1x knife, sheath, 
+and belt. 1x tank of air. 1x high intensity flashlight. One week of vegetation 
+ration packs. A waterproofed set of binoculars. A tracking collar. 1x camera. 
+
+
+1B7-55E-728
+
+Retrieval: Uneventful.
+
+Subject arrived in a desert environment, and wandered around for roughly an hour 
+before encountering another human. Said human was wearing a tanned leather 
+overcoat and was described as "completely unshaven." Said man was extremely 
+surprised to find the subject, and demanded that he be followed in order to lead 
+it back to food and shelter. 
+
+Subject originally began to follow the man, but intentionally lost contact with 
+him upon noticing that his leather coat contained no seams or stitching. 
+
+Request: None.
+
+
+9E2-66V-7HG5
+
+Retrieval: Uneventful.
+
+Subject arrived in a forest habitat, with no signs of previous or current 
+industrialization. No further anomalies were perceptible until the subject grew 
+hungry, at which point it discovered that harvesting or eating the plant life 
+would cause them to emit "telepathic screams." Subject abstained from eating for 
+the first day because of this, but became hungry enough on the second day onward 
+to consume the flora in spite of the screams. 
+
+Testing has shown no biological changes in the subject from this, but subject 
+repeatedly affirms that it "felt horrible" for doing so. 
+
+Request: None specifically, but subject adopted a gelatin- and pudding-based 
+diet for two and a half weeks after returning from this shift. 
+
+
+J75-R63-3TF
+
+Retrieval: Uneventful.
+
+Subject arrived in a dimension with flipped genders. No notable differences 
+besides this were discovered, although subject found issue with the fact that 
+its female counterpart "looks pretty much the same" as the standard version. 
+
+Request: None.
+
+
+000-000-000 (Invalid)
+
+Retrieval: Via tracking device. Plainclothes agents found subject sitting in an 
+alleyway at ███████, ███████. 
+
+Subject was largely unresponsive upon retrieval, and remained so until the 
+standard questioning phase. When asked where it went this shift, subject 
+answered, “Nowhere. I think I missed it this time.” 
+
+Subject experienced minor motor skill impairment and decreased activity levels 
+for roughly a month after this shift. 
+
+Request: A nightlight, and a wristwatch which makes an audible "tick" as the 
+second hand moves. Both were approved. 
+
+
+J7Q-53Y-8ST
+
+Retrieval: Subject was found in its quarters, sprawled on the floor, attempting 
+to gnaw through the "sleeves" of a straitjacket it was wearing. The jacket, leg 
+restraints, and the loss of motor skills still present from the last shift led 
+to the subject being unable to stand up or open the door to find assistance. 
+
+Subject shifted while sleeping, and awoke restrained and lying in a 
+hospital-grade bed. A nurse informed the subject that he was still a patient at 
+the ████ ██ asylum, and was currently suffering from advanced stages 
+of dementia. Subject was then sedated, and spent the rest of this shift 
+alternating between semi-consciousness and total unconsciousness. 
+
+Request: Disregarding "Get this [EXPLETIVE] thing off me," none.
+
+
+9E2-66V-7HG5-2
+
+Retrieval: Subject found in its quarters, balled up with its hands over its 
+ears. 
+
+Subject once again arrived in the forest habitat from 9E2-66V-7HG5. The flora 
+seemed to have remembered subject's last visit, though, and they reacted by 
+"screaming" for its entire four-day shift. 
+
+Request: A hug. Approved.
+
+
+6K3-21B-I0S
+
+[DATA EXPUNGED] under the direct order of the O5 Council. Level 5 clearance 
+required. 
+
+
+BN2-AL6-CTE
+
+Retrieval: Uneventful.
+
+Subject arrived in a derelict metropolitan area. Subject was unable to locate 
+any other humans, but noted an overabundance of cats in every area it visited. 
+Said felines seemed no different from normal housecats, though, and subject 
+spent most of this shift petting any who came near. 
+
+During the standard examination procedures after retrieval, trace amounts of a 
+Toxoplasma gondii variant were discovered on the subject’s clothing, as well 
+as larger amounts on its shoes. Further testing showed that subject had not yet 
+been infected with the Toxoplasmosis variant, most likely attributed to the 
+short timeframe of this shift not allowing the subject to grow hungry and seek 
+out food. 
+
+All clothing and belongings that were on subject's person during this shift were 
+incinerated, and the subject forced to undergo special decontamination 
+procedures, in order to prevent any possibility of contagion. 
+
+Request: a pair of rubber gloves. Denied, on the basis that hand protection 
+would not have protected subject from infection in any way. 
+
+
+125-28P-OS4-3
+
+Retrieval: Via tracking device. Subject was attempting to return on its own, but 
+was making less progress than usual due to the discomfort of doing so. 
+
+Subject once again arrived in a pitch-black area, with muted breathing nearby. 
+Subject decided to seek an exit this time via blind wandering. Subject 
+eventually found itself at the mouth of a corridor with what appeared to be a 
+light source at the end. Subject began to run towards the light upon noticing 
+this. 
+
+As it grew closer, the light suddenly grew in intensity and the subject was 
+exposed to "searing pain." Subject passed out at this point, and only awoke 
+after it had shifted back. 
+
+Examination upon retrieval revealed that the subject's epidermis had been 
+cleanly stripped down to the stratum granulosum in all areas open to sunlight, 
+and down to the stratum lucidum in all areas covered by clothing. 
+
+Request: None, but subject reappeared wearing a pair of large, heavily tinted 
+sunglasses. Subject did not notice that it was wearing these until they were 
+pointed out, and supposed that they were probably why its eyes did not undergo 
+the same process as its skin. 
+
+
+7F2-WA3-193
+
+Retrieval: Uneventful.
+
+Subject arrived in an urban area, with no major changes as far as it could tell. 
+Subject used the public computers of a library to search for differences between 
+this dimension and ours, eventually finding that Abraham Lincoln was 
+assassinated by his Vice President in order to claim his position. This 
+ultimately led to the Presidency becoming a "tribe-leader-like" position, where 
+the current holder is legally allowed to be challenged and overthrown by other 
+suitable candidates. 
+
+Subject noted, with great surprise, that this change did not do much to alter 
+the times that most "major" presidents took and held the office. Many of the 
+minor and/or detrimental presidencies tended to end via bullet wounds, often in 
+unlikely locales or from improbable angles, which deterred most from attempting 
+coups at all. 
+
+Request: None.
+
+
+WS6-ECU-83D
+
+Retrieval: Uneventful.
+
+Subject arrived at the mouth of a cave, surrounded by "almost unbearable" heat. 
+Subject walked outside the cave for further investigation, to find that the area 
+around it was a baked wasteland. Most of the heat appeared to emanate from two 
+suns in the sky; the subject could not decide whether they were extremely large 
+or extremely close to the planet. 
+
+Upon further examination, the "suns" blinked and turned away, taking the heat 
+with them. 
+
+Subject spent the rest of this shift as far back in the cave as possible.
+
+Request: None.
+
+
+Q56-DRU-865
+
+Retrieval: Subject found in the cafeteria, masticating on what appeared to be 
+[REDACTED]. 
+
+Upon containment of [REDACTED], Subject uttered the words, "More! More! More!" 
+before losing consciousness. 
+
+Subject regained consciousness 2 hours later, expressing a strong desire for 
+pudding. When questioned, Subject claimed to see "the biggest mound of pudding 
+ever". When questioned as to why it was masticating on [REDACTED] upon arrival, 
+subject claimed to be eating a "glob a pudding" at the time. 
+
+Subject reported seeing [REDACTED] rolling around the hallways. Hallucinations 
+passed within 24 hours. 
+
+Request: Pudding. Request granted.
+
+
+F24-9S6-33C
+
+Retrieval: Subject found in Service Tunnel 6r3bk without original equipment. 
+Subject was wearing a simple uniform with a similar design to the current 
+Foundation D-class uniform. 
+
+Subject shifted while dining in the cafeteria. Destination dimension had an 
+analogue to the Foundation with a facility in the same location, although 
+internal layout had significant differences. Security responded to subject as an 
+intruder and detained it immediately. During this process, the subject was 
+imprisoned and stripped of all equipment, including the tracking device. For the 
+remainder of the shift, subject underwent repeated questioning, the Foundation 
+analogue refused to accept subject's explanation of dimension hopping. 
+
+Information gleaned from post-shift debriefing indicates that F24-9S6-33C has a 
+Foundation analogue in the Society for Containment of the Paranormal. This 
+analogue has a strong British influence, and is opposed by the Covert Occult 
+Group and Church of the Mending God. Further details remain unclear as the 
+Society refused to answer the subject's questions and only slipped details by 
+assuming it knew them already. 
+
+Request: Replacement equipment. Request granted.
+
+
+4GT-F1Q-H17
+
+Retrieval: Subject was found by the cafeteria kitchen staff of site-██, 
+drenched, covered in mud, and suffering from severe hypothermia. 
+
+Subject arrived in what appeared to be a large field during a rainstorm. Subject 
+attempted to find shelter from the rain, but found none, remaining in the rain 
+for the entire shift. After an unknown length of time, the subject reported 
+seeing entities in the distance. Although the heavy rain obscured the subject 
+from obtaining a detailed report of their appearances, the subject described 
+them as being vaguely humanoid in shape. The entities began to slowly move 
+towards the subject from all directions. Near the end of the shift, the subject 
+reported hearing labored breathing from the nearest entities. 
+
+Requests: a set of warm clothing. Approved.
+
+
+2AW-9U2-E5T
+
+Retrieval: Uneventful.
+
+Subject arrived in midair, falling from an outdoor environment into a 
+subterranean body of water at the bottom of a large cavern. Though admittedly 
+experiencing a strong surge of adrenaline from this event, subject reported 
+swimming "a long way" before reaching land. Subsequent observation revealed a 
+giant hole in the ceiling of the cavern, through which subject had apparently 
+fallen. Also reported were archways to other large caverns, most with shafts of 
+sunlight visible indicating other surface collapses. Regular vertical grooves in 
+the walls indicate possible excavation, despite the caverns' immense size. No 
+other sign of life was observed. 
+
+Before returning, subject realized that the possibility of shifting back to our 
+reality so far underground might cause it to be displaced in solid rock, and 
+spent its remaining time frantically searching for a way back to the surface. 
+When subject succeeded, it discovered that the sinkholes were much more 
+widespread than what had been visible from below ground. 
+
+Request: Diving Lessons. Denied.
+
+
+2UU-5I9-Q3D
+
+Retrieval: Upon seeing Foundation personnel in ████████, 
+████, subject approached them and requested to be recontained, showing 
+knowledge of SCPs that were of Level 3 clearance. 
+
+The length of time the subject was absent from our reality was notable, being 
+roughly three months in length. However, during this time, it made several 
+notable discoveries, including several SCPs uncontained by our reality's SCP 
+Foundation but contained by Universe 2UU-5I9-Q3D's equivalent. These SCPs have 
+now been contained. 
+
+Through this three-month time frame, the subject managed to become a member of 
+2UU-5I9-Q3D's SCP Foundation equivalent, working its way up the ranks far faster 
+than would have been anticipated assuming it had been made a member of 
+Foundation personnel on the same day. At the time of its return, he was 
+apparently in the field, working to contain 2UU-5I9-Q3D's equivalent of 
+SCP-███. Curiously, our Foundation had sent out a Task Force for precisely 
+the same reason, on the same day. Further links between Universe 2UU-5I9-Q3D and 
+our reality are being investigated. 
+
+Request: To be made a member of Site personnel. Denied.
+
+
+3JT-3MD-DIG
+
+Retrieval: Subject retrieved via implanted tracker; medevac required to Site 
+██ 
+
+Subject was immobile upon retrieval due to greatly increased body mass, measured 
+at ███ kg. Lead Researcher ██████ approved emergency use of 
+SCP-394 to keep it alive in order to obtain a report. 
+
+Upon recovery, subject reported being surrounded by "really [EXPLETIVE] big" 
+creatures resembling ██████████. They quickly trapped him in 
+a transparent container. It was then transported an unknown distance to a shiny 
+surface, whereupon the creatures began to observe him. After approximately one 
+day tubes were inserted into [DATA EXPUNGED] unknown fluid which was not found 
+upon examination. 
+
+Subject reported that the tubes were removed shortly before the shift and it 
+observed [REDACTED] approaching it, presumably for the purpose of extraction. 
+
+Request: Services of a personal trainer. Dr. ████████ has agreed 
+to let the subject borrow her workout tapes. Subject now displays a strong 
+aversion to pudding. 
+
+
+9J3-Y6X-GTY
+
+Retrieval: The subject was found hanging from its ankles in a tree on-site. 
+Subject was partially encased in insulated, reflective titanium armor upon 
+retrieval. 
+
+The subject described the world it had arrived in as "extra shiny" and stated 
+that it was apprehended by law enforcement officers upon arrival. After being 
+apprehended, the subject was transported to a nearby manufacturing facility and 
+placed upside down on an assembly line where a series of metal sheets were 
+shaped and cut to fit its body. It briefly had time to ask what was going on and 
+was informed that the radiation from the sun was extremely dangerous and 
+titanium reflective suits were required by law to prevent thermal radiation 
+damage to any person or structure. 
+
+Request: Sun-screen and an eye exam. Granted.
+
+
+52J-O79-3GH
+
+Retrieval: Via tracking device. Subject was found inside a padlocked metal shed, 
+behind an abandoned house on the outskirts of ███████, ██. 
+
+Subject arrived in a small room housing several dried corpses. Besides said 
+corpses, the room was mostly bare; the only things subject noted were a single 
+paneless window and a light fixture on the ceiling which occasionally flickered. 
+Subject attempted to rise to his feet, but had difficulty doing so due to 
+repeated and unpredictable surges of motion. 
+
+Subject eventually made its way to the window, at which point it discovered that 
+its "room" was actually a container suspended in midair by a large chain. 
+Subject watched as similar containers passed by him, and as it passed by others, 
+via a complex web of rails above it which the chains were attached to. Subject 
+could see nothing besides this but darkness in all directions. 
+
+Subject then tried to "wait out" its time in this dimension by falling asleep, 
+but found it difficult due to a newly discovered quality of the corpses. During 
+moments of darkness caused by flickering, the corpses rearranged themselves into 
+poses which would be logical for living people during that particular moment. If 
+the subject was looking out the window the corpses would be crowded around him 
+in an attempt to get a better view, if the subject was sitting they would also 
+be seated in a pattern to form a full circle, if the subject attempted to reach 
+the light fixture they would act as a support/seem to be in the process of 
+pushing him upwards, etc. 
+
+Request: None. The area which the subject exited, though, has been cordoned off 
+and is currently under surveillance. If no evidence of Foundation-worthy 
+phenomena has been experienced by ██/██/██, an anonymous tip will be 
+sent to local law enforcement agencies so that they can "discover" the crime 
+scene and take appropriate investigative actions on their own. 
+
+
+YTF-5N2-Q00
+
+Retrieval: Uneventful
+
+Subject arrived in a crowded casino-like area. Subject noted that the only type 
+of machine available was something similar to slots, but they apparently 
+required no money to play and gave out nothing upon a "win." 
+
+Upon actually sitting down in front of one and trying it, the subject discovered 
+that the machine dispensed a small slip of paper with writing on it upon every 
+pull of the lever and spin of the symbols it displayed. Subject could discern no 
+real pattern to what symbol would produce what type of note, but wrote down a 
+list of its attempts and what it received from each just in case. 
+
+
+- List of results
+
+Jewel/Crescent/Claw: "If given a slice of death, could you tell how large it 
+was?" 
+
+Hammer/Crescent/Crescent: "A poor base leads to rushed patch-jobs."
+
+Crescent/Hammer/Jewel: "Déjà who?"
+
+Claw/Circle/Hammer: "There are things worse than death. For one: Not dying."
+
+Crescent/Hammer/Crescent: "There will always be someone to look after you."
+
+Crescent/Jewel/Crescent: "They’re not that jolly; it’s just stuck that way."
+
+Hammer/Crescent/Hammer: "There will always be something to look after."
+
+Claw/Claw/Claw: "The future's looking bright."
+
+Request: None.
+
+
+FN3-05P-KHC
+
+Retrieval: Uneventful.
+
+Subject appeared in a white corridor, with steel doors lining both walls. Each 
+door had a keypad, a small speaker system, and a clipboard containing forms 
+written in undecipherable characters. 
+
+As the subject approached one door to examine said clipboard, the door’s 
+attached speaker turned on and began to address it. Subject was informed that 
+the voice belonged to the person locked behind that specific door, and that he 
+was wrongfully imprisoned, then left to die. The prisoner then pleaded with the 
+subject to release him from his cell. 
+
+Subject, jokingly, replied that he would free the prisoner if he promised not to 
+stab the subject upon release. There was roughly a seven second pause before the 
+prisoner asked what “stabbing” was. After a moment of deliberation, the 
+subject defined stabbing as “The creation of a new orifice through the use of 
+a pointed object.” 
+
+Another pause followed. The prisoner eventually affirmed that he could not stab 
+the subject, because all of his objects were “very blunt.” 
+
+Subject, naturally, did not open that door or any of the others.
+
+Request: None.
+
+
+I52-37G-Z8M
+
+Retrieval: Via tracking device. Subject was in a holding cell of the ███ 
+█████ police station, under charges of public indecency. Extraction 
+was successfully made with no complications. 
+
+Subject arrived in an area apparently undergoing a large snowstorm. Subject 
+attempted to find shelter but could not find its way in the storm, and had 
+almost succumbed to exposure by the time it was located and pulled into a cave 
+by a man covered in protective furs. 
+
+The man helped the subject out of its soaked clothing; although he did not have 
+an extra set of garments, he led the subject to an underground hot spring his 
+cave was connected to. When the man was sure that the subject was regaining its 
+strength, he removed his furs and entered the spring as well. 
+
+Subject was extremely surprised to discover that the man was a second SCP-507. 
+Subject noticed no obvious physical differences between itself and the double, 
+although the alternate-507 had a pattern of "tribal scarring" across his torso, 
+as well as at the bases of some of his limbs. Subject and the double remained in 
+the cave and conversed with each other until the subject’s shift ended. 
+
+Request: Subject drew a replica of the alternate-507's scars from memory, and 
+asked for any information on possible cultural or symbolic meaning behind the 
+patterns. None was found, but Foundation researchers noted that the lines were 
+congruent with incision marks which would be made during a standard [REDACTED]. 
+
+
+S43-51U-P09
+
+Retrieval: Via tracking device. Subject recovered in a cornfield in 
+██████, █████████, with unidentified brown liquid 
+splattered on its cheek. A human heart with the words "I NEED YOU" written with 
+the same liquid was discovered in subject's hand. Subject claimed that said 
+object was not in its possession during the shift and does not know how it came 
+into its possession. Researchers are attempting to identify the liquid. 
+
+Subject arrived in pitch black darkness, with the sound of crying nearby. Upon 
+activating its flashlight, subject discovered the "Smiling Man" from previous 
+shifts leaning towards him. Brown liquid leaked from around its sunglasses. 
+Smiling Man pushed its face closer to subject's and uttered the phrase, "Why did 
+you do this?" Smiling Man then wiped off a portion of the brown liquid from its 
+eyes with its hand and began caressing subject's cheek with it. 
+
+Subject forcefully pushed Smiling Man away. Subject observed that the Smiling 
+Man's business suit contained several holes, with brown liquid trailing down 
+from them. Subject drew its firearm and pulled the trigger; however, for unknown 
+reasons, the pistol did not fire. Smiling Man began slowly walking towards 
+subject. Subject ran for approximately 10 minutes and spent the rest of the 
+shift huddled in a corner. 
+
+Request: A more reliable pistol. Denied, as the cause of the error is unknown.
+
+
+9E2-66V-7HG5-3
+
+Retrieval: Via tracking device. Subject was discovered 7km (4.3 miles) 
+North-East of the facility. 
+
+Subject shifted while reading in its quarters. Subject found itself returned to 
+the forest habitat containing telepathic trees. The trees remained silent upon 
+its entry to the environment. The subject admitted that despite its previous 
+experiences within the environment, it was curious about the absence of any 
+human habitation. The subject propelled itself to the highest ground it could 
+find in order to see over the tree canopy. 
+
+The subject found a clearing on the top of a hill. Subject reported seeing a 
+huge semi-translucent blue dome covering the entire forest. The tree canopy 
+extended out to the edge of the dome with foliage so thick that looking up and 
+through it was unfeasible. Subject reported itself to see the dome slightly 
+off-center, suggesting it was not underneath the direct middle. 
+
+Request: None.
+
+
+5Z4-75T-7YB
+
+Retrieval: Subject was found prone and unresponsive in its quarters. Subject was 
+bleeding significantly. Several deep gashes were discovered in the left side of 
+the subject, just under the armpit. The claw marks extended to the bottom of the 
+ribcage. Subject received traditional first aid and was committed to the onsite 
+infirmary. 
+
+The subject woke up on a snow-covered plain. Subject did not have its backpack 
+on hand at the time of the shift, having been asleep. All that went with it was 
+its bed sheets and pajamas. Subject reports having seen a TV show of how to 
+survive in a cold environment before the shift. It attempted to build a crude 
+snow cave using its hands when it was interrupted by a large white bear. 
+
+This is the extent of its recollection.
+
+Request: A proper weapon. Granted. Losing subject to a non-anomalous polar bear 
+would be a waste of Foundation resources and an embarrassment. Subject shall 
+receive a knife, sheath, and belt and is required to keep these items on its 
+person at all times. 
+
+
+3G8-14H-9UX
+
+Retrieval: Re-contained in the kitchen missing left hand and using expletives in 
+an uncontrolled fashion. The subject was returned to the infirmary. 
+
+The subject transitioned into a dimension very similar to our own at first 
+glance. The subject was apprehended by Foundation personnel in the infirmary and 
+questioned about his small "canines." The subject admitted to not knowing what 
+that meant, but quickly worked it out after his interviewer opened its mouth and 
+pointed to a set of large fangs located either side of its incisors. The 
+interviewer also commented on the subject's roundish body shape, which was 
+considered unusual and fascinating in this dimension. 
+
+Despite these differences, the subject described the creatures who interviewed 
+it as kind. They proceeded to bring the subject a large amount of food. The 
+subject noted a distinct lack of anything green in the meal offered to him. When 
+later told to elaborate by Foundation personnel, he stated, "It was all meat!" 
+After eating the meal, two of the creatures containing the subject in their 
+equivalent of the infirmary escorted him into a small room nearby containing a 
+locket hanging on the opposite wall. They told the subject to remove its clothes 
+and stand in front of the locket. After the subject had done as ordered they 
+opened the locket and exposed it to a green orb for approximately 8 minutes. The 
+subject noted the lack of any scar tissue on his left side and a strong feeling 
+of general well being. 
+
+The next day a creature came to him and asked for a small portion of his skin 
+and musculature in order to "study genetic differences." To this, the subject 
+responded with, "Only if you provide me with another delicious meal!" The 
+creature was visibly excited by this outcome. A small biopsy was conducted on 
+the subject's upper right thigh. The subject described this experience as 
+"painful but totally worth it." A huge amount of unspecified meat was delivered 
+to the subject upon completion of the biopsy. The subject was then released to 
+explore the facility. 
+
+For the next month and a half, the creatures continued to supply the subject 
+with mounds of meat and engage it in amiable conversation. The subject acquired 
+14kg (30.8lb) of fat during this time. On 16/4/2015 the subject was escorted to 
+the kitchen equivalent. It was then put on a chopping block and its left hand 
+was removed. 
+
+Request: A replacement hand. Granted.
+
+
+8A8-91T-710
+
+Retrieval: Uneventful.
+
+Subject arrived in a large, opaque dome filled with plants, without any signs of 
+human habitation. Subject stated that walking was difficult and uncomfortable. 
+Upon further investigation, the subject found a window, displaying what was 
+described as "pitch black, with Earth on the horizon." 
+
+Several minutes later, a tall humanoid encountered the subject, inquiring about 
+his comparative short stature. Subject replied, asking where he was. The 
+humanoid stated they were in "Base 12, oxygen and vegetable wing". Subject asked 
+what Earth was doing in the sky; humanoid appeared puzzled and responded, "That 
+is the moon," gesturing to Earth. A short argument ensued and the humanoid 
+departed. 
+
+Subject noted that after the Earth "set," a rocky grey landscape became visible, 
+becoming identifiable as the lunar surface after "an hour or so". Subject 
+attempted to explore more of his surroundings, but shifted back to our reality 
+shortly after setting out. 
+
+Request: One camera; subject stated: "the view was breathtaking". Denied.
+
+
+7J0-175-35X
+
+Retrieval: Subject was re-contained on the roof of the facility, after having 
+fallen approximately five meters. 
+
+Subject shifted while attempting to fall asleep. Subject arrived in a large body 
+of water, believed to be freshwater by the description of its taste. Subject 
+swam upward an estimated thirty-five meters before reaching the surface of the 
+water and beginning to tread. Subject noted several dark shapes moving in the 
+water beneath it and bright lights in the distance, but did not attempt to 
+approach either. Subject reportedly found breathing extremely difficult. 
+Subsequent physical tests indicated that the subject had ingested substantial 
+amounts of methane during the shift. 
+
+Request: A tank of breathing gas as part of its equipment. Approved.
+
+
+99P-UT1-24J
+
+Retrieval: Subject was found in the location in which it had left, curled up and 
+crying violently. Subject screamed "Why did I have to go?!" when an attempt was 
+made to interact with it, and suffered from severe depression for several days 
+thereafter. Agents described a "beautiful" smell coming from it. 
+
+Subject landed in a place it could only describe as "impossibly beautiful". 
+Subject stated that it was "like the best parts of every place all put 
+together", and that the beauty was so overwhelming that Subject had no desire to 
+move. When it began to become thirsty and hungry, plants apparently extended 
+vines and shot a liquid into its mouth which it described as "the best anything 
+I have ever drunk ever — sweet and rich and everything all at once". After 
+roughly one day (subject, having never looked at his watch during this time, had 
+no clear knowledge of the duration) a humanoid female close to subject's age 
+unexpectedly encountered subject as she walked over a hill. Subject claimed that 
+they had a "long conversation", despite not speaking the same language, and was 
+unable to explain how this was possible or the form their communication had 
+taken. Subject claimed that he understood her answers to his questions about her 
+and their location, but was unable to articulate them. Subject described her 
+with: "I know I'm sounding repetitive here, but she was the most amazing person 
+I've ever met". With some reluctance, subject stated that they had been about to 
+kiss when the shift ended. Subject then had to be prevented from committing 
+suicide. Tests after successful psychiatric treatment indicated subject was 
+considerably more physically fit and had gained roughly 8 IQ points, despite 
+having done no significant exercise during the shift. 
+
+Request: Various foods, beverages, and pictures of women widely regarded as very 
+physically attractive. The subject considered all granted requests 
+unsatisfactory, making statements such as "it's not the same," and "no, no, not 
+like that!" Subject then requested a way to stay in a universe permanently after 
+having arrived there, and was reminded that that was impossible. 
+
+
+6A5-93W-132
+
+Retrieval: Subject returned malnourished and suffering from the effects of an 
+unknown toxic substance, from which it soon recovered. Later analysis showed the 
+substance to be a venom containing a high level of silicon. A small 
+silicon-based crystalline creature was hanging from the subject's finger when 
+the subject returned. This specimen subsequently died of unknown causes, 
+possibly starvation. 
+
+Subject shifted to a dimension which primarily contained crystals of varying 
+sizes and hues. The sun was described by the subject as "smaller and bluer than 
+ours." The ground was covered in sand, also of various dull colors. The subject 
+noted that many of the larger crystals were moving slowly and appeared to be 
+alive. It also saw smaller creatures which scuttled around quite rapidly, and 
+seemed to be composed of crystal. The subject spent some time searching for 
+water, which it found. It noted that there seemed to be considerably more of the 
+smaller crystalline animals near the water. Shortly before the subject returned, 
+it was attacked by one of the small creatures. 
+
+The subject described both the larger and smaller creatures as both looking and 
+behaving similarly to crustaceans. 
+
+Request: Food and water "that doesn't taste like sand." Granted.
+
+
+7XJ-HG5-77B
+
+Retrieval: Subject reappeared in its quarters, highly agitated. D-3762 and the 
+handcuffs binding the two together were reported missing. 
+
+Subject, before the shift, was handcuffed to D-3762, a convicted serial killer. 
+Subject was instructed to terminate D-3762 if either of them were placed in 
+mortal danger. 
+
+507 shifted to a dimension where a second ice age was occurring on Earth. 
+Immediately after landing, D-3762 and the subject were captured by agents of a 
+post-apocalyptic SCP Foundation. The former was immediately recognized as a 
+D-Class and was swiftly terminated by an individual claiming to be Agent 
+███. 507 was placed in a cell in the lower levels of a facility called 
+Site ██. Subject recalls that from the interrogation, the agents believed 
+that it was a junior researcher attempting to help D-3762 escape from the 
+Foundation. During the interrogation, the subject shifted back into our 
+dimension. 
+
+Request: Replacement gear. Granted.
+
+
+T34-DE2-04F
+
+Retrieval: Subject was found in Sector █-█, a highly restricted area. 
+Subject was swiftly removed. 
+
+Subject shifted to a dimension with a world covered in water1, Subject then 
+equipped its scuba gear and decided to see what was below the water. Subject 
+descended for approximately 3 minutes and believed it had traveled 50 meters 
+down before seeing the ocean floor. The floor was covered with abandoned 
+buildings and rubble, corroded and covered with aqueous plant life; several 
+skeletons could be seen. Subject had searched the underwater city for 3 minutes 
+when the Subject spotted 3 black, fish-like creatures moving towards it at an 
+estimated speed of 10 meters per second. Subject drew his knife and firearm 
+before shifting back into our dimension. 
+
+Request: A pair of waterproof binoculars. Approved.
+
+
+A60-D99-75Q
+
+Retrieval: Subject returned to the site, wearing an elaborate costume made of 
+silks, wool and several unidentified mammals. 
+
+Subject appeared in an empty alleyway of a "futuristic" city inhabited by a 
+large variety of unknown humanoid entities. When subject encountered said 
+entities they appeared startled at its presence and began vocalizing loudly and 
+seemed to become agitated. Eventually, the equivalent of local authorities took 
+the subject into custody and were able to communicate with it. When questioned 
+about how he arrived there subject stated it had "amnesia" and could not recall 
+the last several years. Subject then questioned the origin of the various beings 
+and the reason for their presence on Earth. Said authorities explained to the 
+subject that after the Earth suffered a CK-Class End of the World Scenario 
+(based on the description given it is hypothesized that the event was caused by 
+SCP-███) the Earth, left with a greatly reduced human population, was 
+subsequently colonized by various extraterrestrial races. The few remaining 
+humans on the planet mostly inhabited isolated areas away from the alien cities. 
+These authorities then offered to take the subject to the nearest of these 
+locations, but subject refused, insisting that it stay among the 
+extraterrestrials. It appears the subject's status as one of the few remaining 
+humans comfortable with the presence of the aliens, combined with a large number 
+of facts that it fabricated about life on earth prior to the CK-Class Scenario 
+allowed the subject to gain a high social profile as part of the alien society, 
+becoming something of a celebrity during the 2 weeks its spent in shift. 
+
+Request: A camera to better record and document events and sights experienced 
+during shifts. Approved. 
+
+
+Z73-3DD-89E
+
+Retrieval: Subject was found in the basement of a house in █████, 
+███████. 
+
+Subject arrived in an airship of some sort, flying across what appeared to be a 
+mountainous region. Subject reported meeting several humanoids it described as 
+dwarves and elves, similar to those found in typical high fantasy literature. 
+These beings were supposedly mercenaries investigating an anomaly in their 
+world, described as a dragon having fallen from the sky. Subject requested to 
+join them in their mission, getting excited to partake in an apparently 
+fantastical adventure. 
+After landing at the site of the mission, subject was reluctantly convinced to 
+stay on the airship, as the mission would likely be dangerous. Eventually 
+getting impatient, subject investigated the cave in which the supposed dragon 
+hid on its own, managing to take a picture of a massive, reptilian creature with 
+metallic scales and wings with its camera just as it shifted back. The picture 
+is described by Foundation staff as 'sick as [EXPLETIVE]'. 
+Subject repeatedly affirmed that a child wearing a large, pointed hat appeared 
+just before the shift and grabbed its leg. 
+
+Request: A Dungeons and Dragons 5th Edition Player's Handbook. Granted.
+
+
+CZE-582-7DG
+
+Retrieval: Uneventful
+
+Subject appeared in the bedroom of a “cute little suburban lookin’ house” 
+and was greeted by several people of varying age and race. They welcomed him to 
+their home and showed him around the building. Subject noted an abundance of 
+windows in the building. Upon looking outside, noticed that the house was 
+encased in a large glass dome and was being viewed by several cameras. The 
+residents explained that they were part of a zoo-like enclosure. Subject was not 
+distressed, as he knew he would eventually return to the Foundation. Subject 
+spent the next several days meeting the residents and relaxing while waiting to 
+return. 
+
+Request: None
+
+
+DRK-038-891
+
+Retrieval: SCP-507 was found in Dr. King's office.
+
+Subject appeared in what seemed to be an endless forest of apple trees. It was 
+inhabited by a race of humanoids, all of whom appeared identical to Dr. King. 
+The entities seemed to recognize SCP-507, and gave him a message to pass on to 
+Dr. King: 
+
+Come home, lost child. We have sent you the signs countless times, yet still, 
+you do not come. Do you not remember the holy orchard of your birth? The wind 
+through the trees, the crisp delight of Her Holy Fruit? Please come home. 
+We miss you.
+
+Request: To pass the message on to Dr. King. Denied, for the safety of SCP-507.
+
+
+SCP-LD9-431
+
+Retrival: Uneventful
+
+Subject appeared in a highly furnished version of its containment chamber. After 
+leaving the chamber it discovered that the facility was inverted from the main 
+reality in the sense that all of the offices were replaced with containment 
+chambers and vice versa. Further inquiry revealed that foundation staff were 
+being contained due to their ability to create dangerous experiments. The 
+primary containment staff consisted of more docile versions of the baseline 
+reality's humanoids in containment. Notably less hostility did not make their 
+lack of containment any safer causing the facility to be filled with biological 
+memetic and other hazards. It is unknown how a K-class scenario has not occurred 
+despite the apparent lack of containment. D-class and non-research staff were 
+unchanged. 
+
+Request: Heightened psychological evaluations on staff. [REDACTED].
+
+I swear you guys aren't telling us something about 507. It didn't bring anything 
+dangerous back somehow and never does. Not to mention it was in a mental 
+institution and aspires to be a researcher. - Agent McDaniels 
+
+
+RED-B9R-AVO
+
+Retrieval: Subject was found in its quarters, in a catatonic state of 
+depression. Subject was exposed to SCP-999 and all mental issues have been 
+reverted. 
+
+Subject appeared dressed in a full dive suit in a large crowd of people, who did 
+not seem to notice his appearance. Equipment bag was taken during a security 
+check. Subject followed the crowd until eventually directed onto a large boat 
+with several tanks and large amounts of dive masks and snorkels. When driven 
+out, subject noticed the water was colored red. A diver was seen verbally 
+protesting against a security officer, at which point he was terminated via 
+gunshots and thrown into the water. Subject decided not to inquire about his 
+whereabouts due to the apparently brutal ways the guards dealt with the non 
+ordinary. Subject soon went on a diving expedition, and managed to follow 
+through most of the dive. The crowd of divers soon met with what was described 
+to be almost identical to SCP-3000. Subject underwent actions common with the 
+memetic cognitohazards SCP-3000 presents. At this point subject returned to 
+reality, and all memetic hazards had disappeared. 
+
+Request: Termination. Denied.
+
+
+SPC-268-110
+
+Retrieval: Subject was found in quarters, equipment and clothing damaged and 
+covered in blood, missing his left index finger. 
+
+Subject appeared in an alternate Foundation Site with the site's alarms 
+activated. As soon as the subject looked up, he was immediately made aware that 
+he had appeared directly beneath SCP-682 during a containment breach. Subject 
+remained motionless until SCP-682's tail brushed past him by chance. SCP-682 
+immediately attacked, removing the subject's index finger and creating several 
+deep lacerations across its body before an MTF unit engaged SCP-682. This 
+provided the subject an opportunity to escape, running towards the nearest 
+medical bay to stabilise its condition. Foundation staff located the subject 27 
+hours later after SCP-682 had been re-contained. Foundation personnel helped 
+stabilise the subject's condition before escorting it to its chambers. 
+
+Request: A new finger. Granted.
+
+Jesus Christ, I can't imagine what he must have gone through in there, all the 
+more reason to destroy that damned lizard as soon as possible. -Dr. J Evans 
+
+
+JPL-114-904
+
+Retrieval: Via tracking device. Subject was discovered in a department store in 
+█████,█████. Subject was covered in burns, and its clothes 
+were singed. 
+
+Subject found itself in a burning building. Subject immediately attempted to 
+escape only to find all exits blocked or consumed in flame. Subject wedged open 
+a window in an attempt to jump. Upon looking out the window, Subject noticed 
+there was a large crowd of humanoids staring silently up at the building. Each 
+was dressed in a long robe, and was wearing an ornate mask. Several of them were 
+holding torches. One of the humanoids held up a sign, which Subject described as 
+saying "He has found you guilty of sin, and He will see you punished." Facing no 
+other choice, Subject jumped from the window and shifted mid jump. 
+
+Request: Burn cream and a book on cults. Granted.
+
+
+WQK-112-994
+
+Retrieval: Uneventful
+
+Subject appeared in the middle of a large dense forest. The forest showed no 
+signs of life, either humanoid, animal or insect. Subject reported feeling 
+"unnerved" by the stillness and the silence, and attempted to leave the forest 
+on foot. Despite travelling for over three weeks on foot, Subject was unable to 
+locate an end to the forest. Subject was forced to scavenge edible looking nuts 
+and fruit in order to survive. When unable to find any more of these nuts or 
+fruit, Subject was forced to start to eat its own belt. When Subject had shifted 
+back to our reality, it still had not seen evidence of life other than itself. 
+However, it did report the feeling of being "watched" and that something was 
+following it. Without further proof of this, it will be recorded as a symptom of 
+the isolation faced by the subject. 
+
+Request: That enough non-perishable rations to last a week be added to its gear. 
+Granted 
+
+
+CDY-745-924
+
+Retrieval: Uneventful
+
+Subject appeared in a world entirely made of candy. It described it as "Willy 
+Wonka's factory but on steroids." Upon reappearing subject appeared to have 
+gained 6.8 kg (15 lb). 
+
+Request: More candy. Denied
+
+
+WLM-003-279
+
+Retrieval: Subject appeared in the middle of the cafeteria unconscious and 
+foaming from the mouth. Medical intervention revealed its blood contained 
+dangerously high levels of Sodium Thiopental, Pancuronium Bromide, and Potassium 
+Chloride. 
+
+Subject appeared in a cell of a maximum security prison. Upon questioning of the 
+guards, Subject learned that it was accused of being a serial killer. It was 
+informed that due to the nature of its crimes, Subject had been sentenced to 
+death. Subject was unable to question guards any further due to the restrictive 
+nature of the prison. Upon meeting with its lawyers, Subject learned that it was 
+scheduled to be executed the following morning. The lawyers then produced a 
+large list of evidence linking the Subject to the crime including fingerprints 
+and security cam footage. This evidence matched up to 507 exactly, including DNA 
+and dental records. The current theory is that the doppelganger of 507 in this 
+dimension was guilty of these murders, and somehow used its powers to escape its 
+cell. An investigation into this incident is ongoing. Upon arriving in the 
+execution chamber, Subject was administered a lethal injection. At the time of 
+its shift back to this dimension, Subject was experiencing heart failure but was 
+able to be saved by Foundation medical staff. 
+
+Request: None
+
+
+12N-U677-22F
+
+Retrieval: Uneventful
+
+Subject arrived in an urban area in a reality which it described later as "a 
+weeaboo's wet dream," which appeared at first to be modern-day Japan. Subject 
+figured out that it had not left the Western hemisphere through attempts to 
+gather information, including successfully accessing the internet on a tablet 
+computer it found in an internet café. Subject spent several days without issue 
+in the alternate reality before shifting back. 
+
+Based on Subject's research and limited conversations with locals, it figured 
+that the point of divergence from our universe was that Japanese sailors 
+discovered a way to America in the 14th century. As a result, America's western 
+coast was colonized by the Japanese and the influx of food and natural resources 
+to Japan resulted in Japan's dominance first in Asia then globally. The Japanese 
+empire and European powers apparently waged several wars in America and Western 
+Asia. The most recent war with the British empire in 1932 resulted in a cold war 
+that lasted until Britain's bankruptcy and the independence of its overseas 
+territories in 1977. 
+
+Retrieved objects: One tablet computer with a solar charger and an external 
+input device acquired by the subject from an internet café. Subject was only 
+able to access its basic functions due to his unfamiliarity with the language. 
+The input device is optimized for the Japanese language. Despite the amount of 
+divergence in the target universe, the computer and its peripheral devices were 
+found to be compatible with modern computers in the baseline universe. 
+Request: Japanese lessons. Denied; subject was given access to study material on 
+the Foundation intranet. 
+
+
+37S-993-8814
+
+Retrieval: Via tracking device. Subject appeared in 
+███████,██████ with its feet tied to an anvil and 
+clutching a wooden mallet. 
+
+Subject appeared in a large open field in a universe that appeared to be 
+identical to a cel-shaded cartoon. Subject also appeared as a cel-shaded cartoon 
+instead of its normal appearance. Inhabitants appeared to be a combination of 
+funny animals and humanoids with cartoonish features. It appeared that the 
+normal laws of physics did not apply, with the inhabitants instead following a 
+form of cartoon physics. Notably, Subject reported having glanced at the sun, 
+and the sun "told him not to stare and put on a pair of sunglasses". Subject 
+learned it was also affected by these physics, which was determined when Subject 
+was startled by an entity and jumped "at least 100 feet". 
+
+Request: To jump off the roof with a sheet to "see if it still worked". Denied
+
+
+92P-152-92FJ
+
+Retrieval: Via tracking device. Subject appeared in ████████ 
+with severe lacerations covering its left side and arm. 
+
+Subject appeared in a pitch-black space, with lights floating at head level. 
+Closer examination of these lights revealed them to be a type of fruit, hanging 
+from trees with black bark. The flashlight was noted as "less effective than 
+before." A distant light moved steadily towards the subject. Upon closer 
+inspection of this light, Subject reported it to be a humanoid figure, glowing 
+brightly. The entity was non-hostile, and preferred to follow Subject. After two 
+hours, the entity left the vicinity of Subject, and disappeared among the 
+strange "fruit". Subject noted heavy breathing approximately one hour after the 
+entities' departure. Subject used the flashlight to illuminate the source of 
+breathing, which proved to be an entity "black as coal". This meant that this 
+second entity was almost invisible in the dark. Subject fled from the entity, 
+which gave chase and attacked Subject, causing lacerations down Subject's left 
+side. 
+
+Request: (Aside from medical attention) A stronger flashlight. Approved.
+
+
+HYO-772-939
+
+Retrieval: Subject appeared in its quarters bleeding from the eyes, ears, nose, 
+and mouth. Subject remained in a coma in Medical Bay C for 42 days after 
+returning. During this time, Subject did not shift or change position at all. 
+
+Subject has very few concrete memories beyond its arrival in this dimension. 
+Subject remembers appearing in a shifting white landscape looking upon a city 
+"made of pure light." The buildings of this city were built into impossible 
+shapes and forms that rendered Subject incapable of describing it in any detail. 
+Out of the city came two massive beings who approached the Subject. The very 
+presence of these beings, presumably the inhabitants of the city, caused extreme 
+pain and rapid blindness to the Subject. The beings attempted to speak to the 
+Subject, only for the Subject's eardrums to rupture under the force of their 
+words. Subject's last reported feeling is a sense of "coming undone" before it 
+blacked out. 
+
+When asked to describe what the beings looked like, Subject described them as 
+"looking into the face of God." 
+
+Note: Despite reporting massive injuries, Subject was completely uninjured when 
+it awoke from its coma. An inquiry into this is ongoing. 
+
+Request: None
+
+
+HYX-324-21K9
+
+Retrieval: Via tracking device. Subject was discovered in ██████ 
+National Park in the back of a cave halfway up the mountain. Subject was dressed 
+in animal skins and was clutching a crude crossbow. 
+
+Subject was transported to a world where human beings never became the dominant 
+species on Earth. The ruling species was a form of reptile, possibly a 
+descendant of the larger dinosaurs. 
+
+Subject was immediately apprehended upon arrival, stripped of its clothes and 
+gear, and placed on a human reservation. These reservations were used for 
+hunting the remaining humans for sport. Subject was able to survive due to its 
+higher reasoning skills, and ability to hide. Subject spent the remainder of 
+this shift hiding in the trees in order to survive the various hunting parties. 
+
+Request: Replacement gear. Granted
+
+
+H37-U24-M13
+
+Retrieval: SCP-507 appeared nude in Basement Hallway-4C, although it still had 
+its belt, knife, and flashlight. 
+
+Subject arrived in a dimension "entirely made of living humans". The environment 
+appeared to be completely made of living humans, and Subject conjectured that 
+the population took turns performing various mundane jobs along with acting as 
+its own infrastructure and food source. Subject alleged that women seemed able 
+to self-conceive and go through pregnancy in days without requiring extra food. 
+Subject's clothes were stolen by other people, although it did not have to 
+complete any jobs in its time there (about 7 days). 
+
+Request: "To not have to see any people it does not need to for a few weeks". 
+Granted for three weeks. 
+
+
+G31-E20-I14
+
+Retrieval: By Tracking Device. Found approximately 120 km away.
+
+Subject appeared in a dimension made of varying forms of gelatin. The area 
+appeared to be a flat plain stretching to the horizon with occasional small 
+hills about 20 km apart. The subject traveled for about a day before climbing a 
+hill and noticing "a metal object glinting in the distance". The subject 
+continued to travel for several days, occasionally sipping from puddles of 
+liquid gelatin or sleeping, and was approximately 18 km away from the metal 
+object before returning to our dimension 
+
+Request: Subject refused to consume soft foods for nearly a month.
+
+
+S33-4G3-BG4
+
+Retrieval: Appeared about fifteen feet above the ground in the site cafeteria.
+
+Subject appeared in a large basketball court which was occupied by six 
+individuals playing basketball. This group included two humans, two 
+tri-laterally symmetrical insectoid beings, one squid-like organism with a sharp 
+rough brown skin, and one hovering yellow spherical being with eight 
+triple-jointed arms. Subject asked where he was and was told he was in an 
+"All-Species Sports Center". Subject then checked several rooms with various 
+games, most of them unknown and several unplayable by humans, before being taken 
+to a locked room by two creatures wearing orange and pink uniforms. When the 
+subject asked why he was brought there, one of the creatures claimed that he was 
+"being held until closing time for sneaking into the sports centre." Subject 
+stayed there for about seven hours before shifting back. 
+
+Request: None.
+
+
+A10-ER5-436
+
+Retrieval: Uneventful.
+
+Subject arrived in a dimension where everything was frozen in place as it was on 
+December ██, 2012. Subject found it easy to find food and water, but noted 
+the sky was red and pink and displayed a message reading "ERROR 14528: LOADING 
+TIME: expec. 228-342 years". Subject spent nearly two months there before 
+shifting back. 
+
+Request: To spend more time with personnel due to "feeling lonely there." 
+Granted. Subject is now sometimes allowed to follow Dr. Garson. 
+
+
+AQL-58H-99M
+
+Retrieval: Via tracking device. Subject appeared in ██████, Idaho 
+and was found by Foundation Agents attempting to hitchhike back to the facility. 
+
+Subject appeared in a dimension where the average human life span was around 24 
+hours. Residents of this dimension aged at an extremely fast rate so that a baby 
+who was born at 9 AM would have been equivalent to an 85-year old by the 
+following morning. Despite their short life span, citizens would still obtain 
+jobs and marry, just at an accelerated pace. Subject personally witnessed a 
+couple meet, get married, and have two children within the space of three hours. 
+
+Subject remained in this dimension for 2 months. Because of his normal life 
+span, he watched generations live and became internationally famous as "The 
+person who doesn't die." Subject reported that it was treated as a wise elder, 
+and consulted for advice on world events. 
+
+Request: None
+
+
+JDP-H0V-KRZ
+
+Retrieval: Appeared in a janitorial closet in the site basement.
+
+Subject appeared two meters above the stands in a very large indoor sports arena 
+of approximately four kilometers in length and half a kilometer in height. At 
+the center of the arena were four teams wearing orange, yellow, pink, and purple 
+body armor and fatigues respectively, engaged in combat. Each team possessed 
+four members, armed with two anti-tank rocket launchers, four assault rifles, 
+and one tank. Subject was unable to ascertain the approximate amount of people 
+watching the event, but he claimed every seat was full. 
+
+After three minutes, subject was apprehended by two guards and escorted to a 
+cell. When subject asked why he was being held, a guard responded: "You have 
+disrupted the daily games and will be held as a player for a future game." 
+Subject was allowed to watch 'the games' on an old-fashioned television in his 
+cell and learned that all games are controlled by someone called "The Master, 
+Zero-Two-Four", who regularly interrupted with rule changes. During the third 
+game the subject watched, several researchers wearing outfits bearing an altered 
+Foundation logo were forced to play in obstacle courses. 
+
+Subject reappeared after approximately thirty-six hours. A very close similarity 
+to SCP-024 has been noted, and 024's research team has been made aware of this 
+event. 
+
+Request: Access to the site gym in case of a similar circumstance. Denied on the 
+grounds that 507 revisiting this dimension in the future is unlikely and that it 
+would not offer a substantially higher chance of winning. 
+
+
+4H6-78V-FG9
+
+Retrieval: Subject was found in the on-site break room, with what first appeared 
+to be a series of deep gashes running down the subject’s right cheek, neck, 
+and shoulder. Subject informs that the “gashes” are actually stage makeup. 
+
+The subject appeared in a site break room appearing identical to the one of his 
+retrievals at first glance. Researcher ████ and Dr. ███ had been 
+talking about nothing in particular, equipment seen on a television show set 
+production present, along with men in uniforms resembling those of a tv show set 
+worker uniform managing the equipment. Upon taking a closer look, the subject 
+realized the break room was actually just a set for a television or movie. The 
+two doctors replied to the subjects sudden appearance by expressing surprise at 
+his entrance, but for the reason that the subject’s “shift back to our 
+reality scene wasn’t for another ten minutes”. Dr. ███ also informed 
+the subject that he needed to stop by the makeup department. Subject notes that 
+after this Researcher ████ then tells the men managing the equipment to 
+start the scene over from the top. 
+
+Subject had just returned from the makeup department back to the apparent 
+“set” when it shifted back into our reality. 
+
+Request: Some time to reflect. - Granted; Subject was taken to site psychologist 
+for a session. 
+
+
+3LE-4NN-0UT
+
+Retrieval: Subject was found approximately twenty kilometers from the site.
+
+Subject appeared in what first was thought by subject to be a forest. Subject 
+quickly determined that the "forest" was in a concrete heptagonal tunnel, lit by 
+an unknown brand of blue fluorescent lamp, with each side approximately eight 
+meters long. Subject then discovered that the tunnel contained an incredibly 
+diverse amount of plants, containing many that do not naturally grow even on the 
+same continent. 
+
+Subject soon found the phrase "043 WARNING" written in yellow spray paint 
+exactly every one hundred meters, with an abnormally large bloody handprint on 
+the wall near each message. Each handprint was approximately sixty (60) 
+centimeters long and twenty (20) centimeters wide. Subject attempted to find an 
+end to the tunnel, eating many of the recognizable plant species he could find, 
+but did not reach the end. Subject shifted back after six days. 
+
+Request: None
+
+
+TE2-OO1-AN9
+
+Retrieval: Subject fell approximately nine meters to the site's roof and broke 
+his leg. Subject is currently healing in the site infirmary. 
+
+Subject woke up in a dark room, with a clock displaying the time and date as 
+07:33:84, 3120 GAN 01. Subject quickly found a staircase and ascended eight 
+levels of stairs before reaching what the subject described as "an airplane 
+control room", overlooking a destroyed airfield, with several dozen stone 
+statues standing in various poses outside. After the subject blinked, it was 
+noticed that almost every visible statue had moved. Subject spent the remaining 
+four days of the shift hiding in the stairwell with his flashlight attempting to 
+read magazines and flight manuals in an unknown language. Subject noted no 
+people during this shift, but claims to have heard explosions in the distance 
+three days into the shift. 
+
+Request: None
+
+
+WQ6-927-DH7
+
+Retrieval: Subject was retrieved in a large blue dog costume, with large patches 
+anomalously fused to the subject's skin. The costume was removable, but large 
+portions of the subject's skin had to be taken off, prompting a skin graft. 
+
+Subject arrived in a building exactly like the Foundation's site ██, 
+excluding that all staff seemed to be wearing anthropomorphic animal costumes. 
+The staff quickly tried to corner the subject, talking about something called, 
+“being furred”. The subject escaped and ran off in a different direction, 
+but due to its broken leg sustained during the last shift was caught by a 
+different staff member, who then put a large blue dog costume on the subject, 
+who then felt large amounts of pain and then shifted back. 
+
+Request: A thin skin suit. - granted
+
+
+LYM-240-ERP
+
+Retrieval: Via tracking device. Subject was found on a deep sea fishing boat in 
+the Southern Pacific. 
+
+Subject appeared on a 2 lane highway in the middle of a desert. There were no 
+signs of any other lifeforms. The highway itself bore signs of damage as if it 
+had recently been through a large battle. Signs were placed every hundred feet 
+which bore the phrase "STAY ON THE ROAD!" and "THE ROAD WILL KEEP YOU SAFE." For 
+lack of a better option, and because it isn't one to ignore road signs, Subject 
+set off down the road. 
+
+While it was walking, Subject witnessed several mirages in the desert. Subject 
+reported that these took the form of its friends and family all gesturing for 
+Subject to join them in the sand. As time wore on, these illusions became more 
+elaborate. Subject reports one notable instance where his mother appeared 
+alongside "pizza parlor that was also a water slide inside a giant fire 
+breathing robot." 
+
+On one occasion, the Subject was forced to leave the road due to a massive 
+crater that prevented him from crossing it. During this time, Subject reported 
+"shifting" underneath its feet and a general sense of unease. Subject shifted 
+back to our dimension after 4 days. 
+
+Request: None
+
+
+W7R-O18-1D3
+
+Retrieval: Via Tracking Device. Subject found waiting in a public library 
+approximately three hundred kilometers from the site. 
+
+Subject appeared in a body of water and quickly swam to the surface, quickly 
+discovering it was floating on a giant ocean. Subject tread water for nearly two 
+hours before sighting a ship in the distance and signalling it by reflecting 
+light off his knife. Subject was quickly picked up by said ship. 
+
+The ship was found to be a fishing vessel with much higher technology than in 
+our dimension, and with a crew of about a dozen sentient slug-like creatures. 
+The subject was at first unable to communicate with the crew but was able to 
+develop a rudimentary system of communication by drawing images. Subject was 
+allowed to stay on the vessel and be fed in return for helping clean beds. 
+Subject describes the experience as “the most disgusting thing [he’s] ever 
+done”. Approximately nine days and twelve hours passed before subject shifted 
+back. 
+
+Retrieved Items: One half-eaten purple fish with a hair-like substance growing 
+from the back 
+
+Requests: None
+
+
+N3O-MSI-R1C
+
+Retrieval: Uneventful
+
+Subject appeared in an alternate Foundation site where every solid and liquid 
+object was “crimson red”, including all living organisms. Subject was 
+contained and designated Anomalous Object 598 for his strange appearance. 
+According to one researcher at the alternate site, SCP-507 “is a completely 
+normal human but looks so strange. It hurts normal eyes.” Subject was 
+contained for about twenty hours before shifting back. 
+
+Requests: A green blanket instead of its current red blanket. Granted.
+
+
+M7E-F52-198
+
+Retrieval: Uneventful
+
+Subject appeared in a featureless white room containing nothing but the subject 
+and the late 41st President of the United States George H. W. Bush. George H. W. 
+Bush proceeded to produce wet broccoli from an unknown location and continually 
+throw it at the subject while repeatedly saying “1992.” 
+
+Requests: None
+
+
+2Q2-W1E-R18
+
+Retrieval: Uneventful
+
+Subject appeared in a room with entirely black walls, ceiling, and floor. After 
+the subject got its bearings, it attempted to knock on several walls. After 
+knocking a few times, the subject noticed a humanoid entity standing in the 
+corner. Said entity was wearing a standard Foundation D-Class uniform and 
+appeared human from the neck down, but the entity’s head was that of a 
+domestic house cat, complete with fur and whiskers. The entity than proceeded to 
+hit 507 in the stomach with a baseball bat it had been holding. When asked why 
+it did this, the entity responded “You know damn well, punk. Don’t leave.” 
+The entity then walked through one of the room’s walls. Subject spent the 
+remainder of its shift unsuccessfully attempting to break out of the room. 
+
+Requests: None. Subject’s bruised abdomen taken care of.
+
+
+507-E56-T8G
+
+Retrieval: Subject found bleeding and bruised in the hallway outside its 
+containment chamber. Medical assistance was given and the subject is currently 
+healing. 
+
+Subject shifted into an incredibly large dark room filled with thousands of 
+other humanoids, of which nearly fifty percent (50%) were identical to 507 in 
+appearance, with an additional forty percent (40%) appearing to be 507 with 
+minor or major changes such as sex, race, height, scarring, uniform, build, 
+weight, and species, including gorilla, SCP-1000, and a species resembling 
+SCP-2703. Subject began to talk with the other confused 507s and quickly 
+determined that they were other realities’ equivalents of itself, such as a 
+507 wearing a business suit who had never told anyone of his reality shifts and 
+had never heard of the SCP Foundation. 
+
+After a few minutes, a loud voice was heard from the ceiling that gave an 
+announcement. “Attention dimension-hoppers; for your crimes against the order 
+and the separation of worlds, you shall be terminated.” Following this, 
+several thousand bullet-like objects were fired into the crowd of 507s. After 
+approximately ten seconds, all 507s in the room began to shift back to their 
+various dimensions with subject shifting back to our reality after sixteen 
+seconds. Subject was hit in the arm with one bullet that passed completely 
+through while trying to shield himself and sustained severe bruising and a 
+broken rib from the stampede of other 507s caused in the panic. 
+
+Retrieved Items: Subject shifted back with one corpse that it had been touching 
+with both feet when it shifted back. The corpse was human and a complete 
+genetic/physical match for SCP-507 from the waist up but ended in a large 
+flesh-colored snake tail that was five meters long. The corpse’s cause of 
+death was determined to have been caused by two of the bullet-like objects 
+entering its head. One was found lodged in the corpse’s right frontal lobe and 
+is available for study. The corpse has been put in indefinite cold storage and 
+has not shifted back to its dimension for reasons unknown. 
+
+Requests: Lessons on how to avoid gunfire and other projectiles. Granted, 
+subject given access to manuals on cover and concealment. Protective armor: 
+Denied. 
+
+
+PCS-010-DCM
+
+Retrieval: Uneventful
+
+Subject appeared in a containment cell matching its own and learned that it was 
+in a site owned by the “MCD Foundation” whose motto is “Maintain. Contain. 
+Detain.” This dimension's most notable property was that organizations and 
+individuals found within it seemingly had opposing goals and motives in relation 
+to their counterparts in our dimension. In its time in this dimension, the 
+subject learned of other counterpart organizations. The MCD Foundation was 
+allied with the “Lion’s Paw” and the “Global Containment 
+Organization”, and was opposed by “Seckle, Charon, and Phenworth”, an 
+organization that supposedly tortures anomalies. Their counterparts in our 
+dimension are currently believed to be GOIs Marshall, Carter and Dark, the 
+Serpent's Hand, the Global Occult Coalition, and the SCP Foundation, 
+respectively. 
+
+The rest of the shift was uneventful and the subject was allowed to tour up to 
+level three areas of the site. Subject’s PCS-010-DCM equivalent shifted back 
+to that reality after two days and was allowed to talk with subject. Of note is 
+that the PCS-010-DCM equivalent of SCP-507 was referred to as MCD-705. 
+
+Request: None
+
+
+493-SPA-4D8
+
+Retrieval: Subject recovered seventeen kilometers away riding to the site with a 
+recovered bicycle-like vehicle. 
+
+Subject woke up in a wheat field and quickly discovered it had shifted onto a 
+field near a farmhouse and a barn. The subject then went to the farmhouse to 
+attempt to find signs of life, and was greeted by an elderly Caucasian man and 
+the man’s family. The man was able to somewhat communicate with subject using 
+a book that the subject later found to be a Spanish-to-English dictionary. The 
+subject gave a cover story of having developed partial amnesia and managed to 
+find that he was in a country that had rebelled from the prominent “Spanish 
+Empire”, an empire that controlled much of western Europe and almost all of 
+North and South America, in the year 1763 CE. 
+
+The subject was given a ride into a nearby town and some money and spent most of 
+the remainder of its shift in the town’s public library using an advanced 
+computer system that offered English as a language. The subject managed to find 
+a vehicle resembling a bicycle in a trash can and was riding said vehicle when 
+it shifted back to our reality. 
+
+Retrieved Items: One vehicle resembling a bicycle but with three wheels in a 
+row, a seat with a backrest, and a broken brake system. Several paper bills 
+printed with purple ink depicted various unknown people and various Spanish 
+phrases. 
+
+Request: None
+
+
+952-7YD-ABBA
+
+Retrieval: Subject appeared in the medical wing of Site ███ in 
+███,███ screaming and wildly swinging a chair. 
+
+Subject appeared in the maternity ward of a large hospital. Subject was 
+discovered by a being dressed as a nurse checking on the infants. Subject was 
+unable to describe the appearance of the nurse as it began screaming every time 
+it tried.2 
+
+The creature spoke to the Subject in a pleasant voice that it had been 
+"upsetting the other patients" with its strange appearance and that "it was time 
+to start the operation." 
+The nurse then pounced on the subject and wrapped him in a straight jacket 
+before wheeling him into an operation room. When the straight jacket was 
+removed, Subject jumped off the table and attempted to fend off the creatures 
+when it shifted back. 
+
+Retrieved Items: One chair. It appears to be a normal office chair, but further 
+tests must be performed. 
+
+Requests: A memory wipe. Denied.
+
+
+RRA-1944-20X0
+
+Retrieval: Via tracking device. Subject was found inside an abandoned house in 
+Unalaska, Alaska. Subject was wearing a full military uniform with unknown 
+symbols that appeared to indicate rank. Subject had "S-CLASS 507" stitched into 
+the uniform above its breast pocket. Subject's face was completely covered in 
+mud, and appeared to be suffering from a severe concussion as well as from 
+shell-shock. 
+
+Subject shifted while sleeping. Awoke to the sound of mortar bombardment hitting 
+underground bunker it had shifted into. Subject had already been stripped of 
+gear. Subject says a man bearing the description of Agent ███████ 
+entered the bunker, and ordered the Subject to get into its uniform. Agent 
+███████ apparently also mentioned that "they" had been waiting for 
+the Subject to shift back for quite some time. Agent ███████ then 
+proceeded to give Subject a camera to "record the combat" before leaving the 
+building. Subject claims that his memory was a bit foggy, but stated that he had 
+shifted into a dimension were World War II was still being fought fiercely and 
+that the year was apparently 1961. The SCP Foundation existed as the 
+"Specialized Anomalous Combat Unit of the United States Army" (SACU-USA), and it 
+seemed that anomalous entities of various sorts were being used. (See "Notable 
+Entity Involvement"). The war had boiled down to a three-way fight between 
+Germany, the United States, and the Soviet Union; it was reported that no 
+uniforms or insignia of any other countries was spotted, and photographs seem to 
+confirm this. Subject suffered a severe concussion from mortar fire prior to 
+shifting back. 
+
+Subject was in dimension 20X0 for approximately 15 days.
+
+- Notable Entity Involvement
+
+Notable Retrieved Items: One (1) camera of unknown make/model; two (2) 
+fragmentation grenades (appear to be modified Mk. II grenades); one heavily 
+modified M1 Garand; twelve (12) spare "en bloc" magazines; one (1) makeshift 
+combat knife made of an unknown metal; one (1) three-paged document formed by 
+the SAC-USA, going into detail about the confirmed instances of 963-1 through 
+-4. (For a full list of recovered items, please see document "507 RRA-1944-20X0 
+Recovered Materials") 
+
+Requests: A long hot shower [Granted], a resupply of equipment [Granted], fresh 
+clothes [Granted] and being allowed to keep the gun [Denied; currently held in 
+storage] 
+
+
+FD5-WSL-2115
+
+Retrieval: Via tracking device. Subject appeared inside the stomach of a goat in 
+a petting zoo outside █████, Canada. Because of the size difference 
+and sudden arrival of the Subject, the goat exploded. Class A Amnesics had to be 
+delivered to patrons upon retrieval of the Subject. 
+
+Subject appeared in a world that was completely identical to our own except it 
+appeared that it was entirely devoid of life. All infrastructure and materials 
+were still in use but Subject found no sign of any life even insects. Subject 
+described it as "it's as if somebody went to the store but it was like 
+everybody, even the dogs and cats." 
+
+Subject lived in this reality for 64 days, surviving off of food he was able to 
+loot from nearby stores and houses. A reported lack of mold and rot on the bread 
+suggests that even bacteria was missing from this reality. 
+
+The Subject reports that it repeatedly found long claw marks in the sand, and 
+once thought it saw a large, bulbous shape on the horizon. Attempts to 
+investigate this shape all failed. 
+
+Requests: Human Company. Denied on the grounds that the Subject had not had a 
+shower in two months. 
+
+
+250-26B-34L5
+
+Retrieval: Via tracking device in ██████,█████. Subject 
+had been exposed to mild amounts of radiation, and was suffering from mild 
+radiation poisoning. Subject has undergone treatment. 
+
+Subject arrived in an arid environment devoid of life. Subject described the 
+atmosphere as “burning, like it was hard to breathe properly”. Upon arrival, 
+subject began seeking shelter from the heat, and walked for approx. 15 
+kilometers before finding evidence of human civilization. Subject arrived in an 
+apparent town which had been destroyed, with few structures standing and all in 
+disrepair. Subject discovered residents living in the remaining buildings, and 
+inquired about its’ whereabouts, claiming it had amnesia. Residents informed 
+subject that a nuclear war between this dimension’s equivalent of NATO and 
+multiple eastern countries, including Russia, China, Turkey, North Korea, and 
+Iran had killed most of the human population, and that major population centers 
+were now uninhabitable due to massive amounts of radiation. When subject asked 
+how the town’s inhabitants had survived, it was informed that they were 
+nowhere near the closest site of nuclear detonation, and that atmospheric 
+fallout had not yet caused the majority of the earth to become uninhabitable. 
+Subject spent the remainder of the shift (13 days) living among the residents 
+and learning more about the war. 
+
+Subject, after reading books it found in an abandoned library, learned that the 
+point of divergence was during the Second World War. The 250-26B-34L5 version of 
+the United States never used nuclear weapons against Japan, resulting in an 
+opening for Russian forces to invade the Pacific Theater. After an additional 3 
+years of bloody conflict, the United States withdrew from the Pacific in 1948, 
+resulting in a Russian victory and occupation of Japan and the territories it 
+had conquered during the war. Japan was subsequently absorbed in the USSR, and 
+China was granted an affiliation status. After the collapse of the Soviet Union, 
+Russia, Japan, China, and several other eastern nations formed a treaty 
+organization to compete with NATO, known as the Eastern Treaty and Trade 
+Coalition (ETTC). In the early 2000’s, NATO involvement in the Middle East and 
+southern Asia was heavily contested by the ETTC, culminating with an invasion of 
+NATO occupied Myanmar. After a brief conflict that was confined to Myanmar, NATO 
+launched an invasion of Western Russia. Shortly after, Russia launched a nuclear 
+strike on occupied Moscow, and the resulting use of nuclear weapons in response 
+rapidly triggered an all out nuclear holocaust. 
+
+Subject found no evidence of the Foundation or any related organizations.
+
+Items Retrieved: One (1) textbook, detailing the alternate dimension’s world 
+history up to 2017 
+
+Requests: None.
+
+
+QAZ-568-PLM
+
+Retrieval: Via Tracker. Subject found unconscious several hundred meters from 
+the site lying on the ground with various burns on its chest and face. Subject 
+was determined to be under the effect of a high-grade sleeping medication, which 
+wore off nine hours later. 
+
+Subject is incapable of remembering anything that occurred in the twenty-five 
+hour duration of the shift. Attempting to remember this results in the subject 
+rapidly losing consciousness and bleeding from various orifices. Giving the 
+subject Class-W mnestics has had no effect. 
+
+Retrieved Items: An expensive blue bathrobe made of fur that the subject was 
+found wearing 
+
+Requests: Replacement tools. Granted.
+
+
+BE4-5YH-009
+
+Retrieval: Subject found in a locked storage freezer next to the cafeteria. 
+Subject released from the freezer. 
+
+Subject shifted to a near-identical version of its containment chamber with a 
+male skeleton wearing SCP-507's jumpsuit and utility belt nearby on the floor. 
+After this, the subject found a loaded pistol nearby on the floor and used it to 
+shatter the window to the observation room overlooking the containment chamber. 
+This resulted in a deluge of water flooding into the room and the subject losing 
+consciousness. 
+
+Subject then awoke wearing a diving suit in a dark room with nearly waist-high 
+water and several crates scattered around. Subject then spent the next several 
+minutes attempting to leave the room but found all doors were locked. After 
+waiting several more hours, a trapdoor in the floor opened and three humanoid 
+creatures resembling "movie aliens mixed with mermaids but with glowing eyes" 
+emerged. One of the creatures offered subject several dozen wet pieces of 
+seaweed and various meats. Following this, all three vocalized "Don't smile 
+back. Smiles hide lies. Stay here" in unison before leaving through the 
+trapdoor. 
+
+Subject spend the next several days in the room not wearing the diving suit. One 
+of the creatures returned briefly after two days to remove several rusty 
+medieval weapons from one of the crates. The creature did not vocalize anything 
+during this time, but hummed an unknown song. 
+
+Following the departure of the creature attempted to find what was in the 
+various crates, and found several items including bags of microwaved popcorn, 
+laundry, toy kaleidoscopes, and various machine parts. However upon opening a 
+crate labeled "G-4567-A2", subject found a corpse highly resembling, but not 
+perfectly matching, the "smiling man" encountered on previous trips. Subject 
+spent the remainder of the shift avoiding that part of the room. 
+
+Retrieved Items: A November 1996 Boy's Life magazine issue found in a crate. The 
+magazine has not been found to contain any differences from the baseline issue 
+beyond word choice in certain articles. 
+
+Requests: A warm blanket. Granted.
+
+
+SKS-45K-923
+
+Retrieval: Via Tracker. Subject was found buried in a grave in █████, 
+India. 
+
+Subject spent the entire shift free falling through the air as if it had jumped 
+from a plane. During the entire shift Subject was unable to see any kind of 
+solid ground, only more sky. After he stopped panicking about falling, Subject 
+described seeing "some huge [Expletive] birds" covered in a multitude of eyes or 
+spikes. 
+
+Requests: none
+
+
+ABR-043-997
+
+Retrieval: Via tracking device. Subject was found in ███ █████, 
+██████. 
+
+Subject shifted while asleep and woke up in a desert near ███ 
+█████, ██████. Subject walked 20 km to the east until it 
+reached a city. Subject doesn’t notice anything out of the ordinary and says 
+that the dimension is very similar to ours with one exception. Upon going to an 
+internet cafe to look for clues on how ABR-043-997 is different to ours. Subject 
+found out that the SCP Foundation is merely a fictional foundation published on 
+a website called scp-wiki.net. Upon browsing the website, subject came across 
+with the idea to look for its own page. Subject stated that the last log on its 
+dimension shift was its last shift in ███-███-███. 
+
+Subject was able to print some SCPs that the foundation hasn’t contained yet 
+like SCP-████, SCP-████, and SCP-███. 
+
+24 hours after its arrival, subject shifted back while in the middle of eating a 
+burger. 
+
+Retrieved Items: Pages from the website and a burger
+
+Requests: Finished its burger. Granted
+
+
+FRQ-3R5-KKS
+
+Retrieval: Subject appeared in Doctor Rangwala's office completely engulfed in 
+flames. Subject did not appear in be in distress or pain, and did not even 
+realize it was on fire until it was pointed out.3 
+
+Subject appeared in a dimension composed completely out of fire. The Subject 
+caught on fire immediately upon entry and discovered that the flames were not 
+harmful to it 
+
+After exploring, Subject discovered the inhabitants of the dimension were 
+humanoid beings comprised of living fire called the Flambos. They provided the 
+Subject with a set of flame resistant clothing similar to their own, and allowed 
+him to stay within their community. Subject was able to survive off of a 
+singular volcanic pond it found far outside the Flambo community and food 
+provided to it. 
+
+Subject stayed in this dimension for close to nine months, during which time he 
+worked as a member of the fire department. This job entailed relighting the 
+flames on any structure whose fire had gone out. Subject was in the middle of 
+attempting to relight a multi block fire outage when he shifted back to our 
+dimension. 
+
+Retrieved Items: One set of completely fire proof clothing. This is being 
+replicated for use by Foundation Agents. 
+
+One fireman's handbook detailing the most efficient ways to relight fires that 
+have gone out 
+
+A large piece of hose that the subject was holding when it shifted back. The 
+hose has been built to shoot flames rather than water. 
+
+Request: The temperature in the Subject's room to be turned to 145 degrees. 
+Denied 
+
+
+KID-690-WQL
+
+Retrieval: Via Tracking device. Subject appeared on the field in the middle of a 
+World Series Game on live TV in front of millions. The Foundation had to go to 
+great lengths to erase all the footage of the incident, administer Class A 
+Amnestics to everyone present, and spread rumors about the entire event being a 
+political stunt. 
+
+Subject arrived in a world populated by people under the age of 20. Subject was 
+immediately arrested upon landing, and taken before a judge. The judge, a 12 
+year old girl, charged the Subject with "being too old and gross" and sentenced 
+him to serve the community. 
+
+Subject was placed in a holding cell with several other people. Through 
+questioning, Subject was able to determine that all of them had recently turned 
+21. Subject was taken to a warehouse and where it found numerous freshly 
+butchered human corpses hanging from the ceiling. The others explained to the 
+subject that anyone over 21 was sentenced to serve the community, and this meant 
+being served as its food source. Subject shifted back to our dimension as it was 
+standing in line waiting to be gutted and cleaned by the butchers. 
+
+Requests: Subject became a vegetarian after this shift.
+
+
+PRG-372-FDR
+
+Retrieval: Subject appeared in Sub-Basement 17-E wearing a tattered suit with an 
+American flag pin on the lapel and a noose around its neck. 
+
+Subject found itself in a world identical to our own except that the Subject had 
+been elected President of the United States. Due to its absence of leadership 
+abilities, minimal understanding of politics, and complete lack of social 
+skills, Subject managed to bring down the entire government within two weeks. 
+According to the Subject, it caused Wall Street to crash, started a trade war 
+with Japan and Germany, accidentally sold the national parks to Switzerland, and 
+caused the entire southeast to be annexed by Disney. During its 3rd week in 
+office, an angry mob stormed the White House and attempted to execute the 
+President before it shifted back. 
+
+Request: Access to the C-Span channel. Granted.
+
+
+TR3-APP-6ED
+
+Retrieval: Subject appeared in its chamber hyperventilating and collapsed to the 
+floor. Subject then began swearing profusely and screaming while lying on the 
+ground. 
+
+Subject manifested within a cramped crawlspace between two walls, unable to 
+move. Subject attempted to call for help but heard no noises beyond a dripping 
+noise and an unknown creature scurrying nearby on two occasions. Subject shifted 
+back after twenty-four hours, and thirteen minutes. 
+
+Requests: To be given "something sharper to break down walls, like a freakin' 
+fire-axe"; denied. 
+
+
+773-URC-332
+
+Retrieval: Subject reappeared in break room, and expressed dismay about being 
+"so close". 
+
+Subject manifested in a large auditorium containing an estimate of 50,000 
+identical 507 objects. Objects seemed to be having an analogue to a political 
+rally, advocating for the overthrow of the government, under the organization 
+name of the "People's Dimension-Hopper Republic". Within the two weeks of the 
+duration of subject's shift, the PDHR overthrew the United States government, 
+establishing their own government in the form of a republic entirely composed of 
+507 objects. Subject was elected to the office of representative of 
+"Hoppechusetts" (Massachusetts), and was about to introduce its first piece of 
+legislation when subject shifted back to prime reality. 
+
+Requests: None.
+
+
+812-BCF-121
+
+Retrieval: Subject reappeared within its containment chamber, without its 
+handgun or knife. 
+
+Subject manifested in a train-like vehicle. Upon manifesting, it noticed several 
+other subjects seated at various locations along the carriage, which did not 
+remark upon his sudden appearance. The subject noted that the train appeared to 
+be in some kind of black void, with nothing visible out the windows. After 30 
+minutes, a humanoid creature without facial features spotted the subject, and 
+asked him for his "ticket". Upon the subject reporting his lack of tickets, he 
+was searched, and his weapons were confiscated. The subject was told they would 
+have to leave the train at the next stop, and they would be fined "10 minutes". 
+The subject began to explore the train, but shifted back after walking 
+approximately 3km and finding no end. 
+
+Requests: Replacement Gear. Granted.
+
+
+816-MPJ-697
+
+Retrieval: Subject manifested asleep in D-278-423's bed. Upon manifestation 
+D-278-423 nor Subject awoke resulting in Subject having to be carried back to 
+its cell where it awoke 12 hours later. 
+
+Subject found itself in a black void with the only audible noise being the song 
+"Mr Sandman" by the Charlottes. The void itself lacked any laws of physics 
+allowing it to walk in any direction it desired even ones that would be 
+impossible in baseline reality. Subject has as of yet been unable to elaborate 
+on this. During the duration of its trip Subject reported that it felt as if it 
+was in a state of constant fatigue but was unable to rest. 
+
+Approximately 30 hours into its shift subject came across a small glowing orb 
+roughly the size of a ping pong ball. After inspecting the orb for approximately 
+2 minutes Subject decided to place its index finger onto the object at which 
+point the ball rapidly expanded in a burst of light. Subject then shifted back 
+and spontaneously fell asleep. 
+
+Requests: 5 more minutes. Granted.
+
+
+G18-A22-ITY
+
+Retrieval: Subject manifested upside-down one meter above the floor of an 
+unoccupied interview chamber several stories above its containment chamber. 
+Subject treated for mild back pain following fall and returned to containment. 
+
+Subject shifted while sleeping and awoke upon what was initially self-believed 
+to be the floor of a small cave. After traveling for several minutes and 
+experiencing minor issues with disorientation and balance, before finding a 
+"floor in the ground, leading downwards to a sunny forest." After further 
+examination, subject determined that they were upside-down for unknown reasons 
+and managed to "fall" onto the lower branches of a massive tree that measured 
+roughly 200 meters in height. 
+
+Exploring the forest further by safely crawling along the underside of connected 
+branches revealed it to be at least five kilometers in length, and subject 
+observed that all trees also were being pulled skywards, although their roots 
+prevented this. During the remainder of the shift, multiple native animals were 
+spotted. These appeared similar to ibexes, though possessed longer snouts and 
+sharp pointed hooves adapted for puncturing and holding onto the ground. 
+Communication attempts failed and the creatures swiftly fled upon hearing 
+subject vocalize, one falling upwards and impaling itself on a high branch after 
+losing its footing. It is currently believed that these lifeforms are 
+unintelligent. 
+
+Requests: Medicine to deal with disorientation-induced headaches. Granted for 
+two weeks. 
+
+
+B90-C37-LOL
+
+Retrieval: Uneventful
+
+Subject appeared in yet another alternate version of the Foundation. This 
+version of the Foundation had a "-J" alternate Anomaly list in addition to the 
+"-EX," "-D," and "-ARC" ones used by the Baseline Reality Foundation. Subject 
+was unable to discover what the significance of the "-J" designation was, but 
+was able to print out the documentation for a significant number of the 
+Anomalies in this list. Notable examples include a large Cuttlefish inhabiting a 
+forest, a pistol that summons a live, talking eagle in place of firing a bullet, 
+a beaker that produces liquid of varying color and effects when one walks within 
+range, a button suspected to activate a ZK-Class Reality Failure when pressed, 
+and a dog that claims to be the offspring of famous musician ████ 
+██████. Also of note is the unconventional classification system of 
+this Foundation, with many items on their -J list being assigned non-integer or 
+even non-numeric SCP designations. 
+
+Retrieved Items: Several documents on potential Anomalies that baseline reality 
+has yet to discover. 
+
+Request: none.
+
+"I think that the very documentation for SCP-666.5-J should itself be classified 
+as an infohazard; I don't know what it contains, but every D-class who's read it 
+has asphyxiated." -Dr ██████ 
+
+
+AM0-RDM-YZD
+
+Retrieval: Subject appeared approximately 3 kilometers from the site. Returned 
+of his own volition. 
+
+Subject appeared in a small shop selling various electronic items. Subject did 
+not recognize any brands for sale. Subject was greeted by a cashier. Subject 
+stated that he wasn't looking to buy anything, and exited. The shop was one of 
+four in the corners of a courtyard with an ornate statue of an unidentified 
+cat-like creature in the center. This courtyard was just one on an apparently 
+infinite grid of nearly identical courtyards, with the only differences being 
+the shops in the corners, and the animal depicted in the central statues. 
+(Subject only provided description of the first one) The courtyards were 
+connected by bridges over a series of water-filled channels with fountains at 
+the points where they crossed. After walking for three kilometres, subject found 
+a bill of what was apparently the local currency on the ground, and used it to 
+purchase a slushie. 
+
+Retrieved Items: A slushie, contained in a cup with no visible branding.
+Requests: To be allowed to finish the slushie. Granted.
+
+
+Addendum 507-3B-00: Due to a particularly trying encounter with 
+███-███, several documents in the archives have been altered, 
+corrupted, or technically-never-existed. Document 507-3B appears to have been 
+affected by this, and is currently being rebuilt using backup files, references, 
+and █████ respectively. Subject matter may occasionally increase, 
+decrease, or undergo modifications in light of this. -Dr. ███ 
+
+
+Footnotes
+
+1. Claimed to be saltwater
+
+2. Subject submitted what it claimed was a drawing of the creature, but it was 
+merely a wild mass of jagged lines. 
+
+3. Flames proved very resistant to being put out. Subject had to be completely 
+submerged in ice water for them to go out. Subject still occasionally 
+spontaneously combusts and must be put out. 
+
+
+Interview 507-G
+
+Interviewed: SCP-507 , SCP-507
+Interviewer: Dr. ████
+
+Foreword: During a daily signal check for SCP-507, two independent verifications 
+were returned. The following investigation led to the discovery of identical 
+SCP-507 duplicates in its assigned quarters. Both apparently made their way to 
+the room by themselves, and had spent at least half an hour conversing with each 
+other upon meeting. The following interview took place between them and the 
+first informed employee to reach their location; the duplicates have been each 
+given an alphabetical notation for the purpose of readability. 
+
+<Begin Log>
+
+507-A: Hey, doc.
+
+507-B: Welcome to the party.
+
+Dr. ████: I am afraid you are going to have to explain this to me.
+
+507-B: There’s apparently more than one version of me with this problem.
+
+507-A: Should have seen this coming, honestly. There are so many ways an 
+alternate reality could differ without affecting my personal life, y’know? 
+
+Dr. ████: So which one of you is the visitor?
+
+(Roughly ten seconds of silence)
+
+Dr. ████: Is something wrong?
+
+507-A: We’ve actually been talking about this for a bit. Now you guys have 
+been real nice to us- 
+
+507-B: More than we might deserve, really.
+
+507-A: -But we also know that this could be a rather enticing opportunity for 
+your research department. It’d probably be best if you didn’t know which one 
+of us was- 
+
+Dr. ████: Temporary?
+
+507-A: Expendable.
+
+Dr. ████: … I don’t know what kind of stories you two have been 
+sharing, but our job is to secure and protect the likes of you. Perhaps this 
+other reality has a less benign code of conduct? 
+
+507-B: And perhaps I can shoot fireballs from my mouth.
+
+507-A: We don’t mean to be hurtful, but this place isn’t the best source of 
+human compassion. I’m sure that there’s at least one person on staff who 
+would love breaking me open in an attempt to find out how all this freaky stuff 
+works, if it wasn’t for the fact that you couldn’t keep studying me 
+afterwards. 
+
+507-B: Do you have to put it like that? I have enough things that keep me awake 
+at night. 
+
+507-A: Good god, I know. Once there was this guy with a huge ass smile-
+
+507-B: You met him too?
+
+507-A: Nearly soiled myself.
+
+507-B: I wish I was that lucky.
+
+Dr. ████: You know, this could be interpreted as a security breach.
+
+507-B: Who’s the doppelganger going to report to? Alternate-SCP? I’m fairly 
+sure that there’s a better chance of a meteor striking this place than 
+successful cross-dimensional sabotage. 
+
+507-A: I‘ve actually come across at least three dimensions where something 
+fell from- 
+
+507-B: You’re not helping.
+
+507-A: I rarely do.
+
+507-B: Anyway, where were w-
+
+(507-B disappears mid-sentence. Roughly five seconds of silence)
+
+Dr. ████: Well now that our visitor has left, I have a question.
+
+507-A: Alright.
+
+Dr. ████: Did you two figure out the difference between your realities?
+
+507-A: Actually, I think we did. In his world Abraham Lincoln was killed while 
+sleeping by his vice-president, instead of by General Lee. 
+
+Dr. ████: … In this reality, Booth assassinated Lincoln.
+
+507-A: Oh. Bugger.
+
+<End Log>
+
+
+Closing Statement: Subsequent testing revealed that SCP-507's abilities have no 
+biological basis, and that severed pieces will still “shift” along with the 
+main body. The SCP-507 of this reality reappeared three days later, and has not 
+been informed of this incident. 
+

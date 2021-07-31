@@ -1,0 +1,247 @@
+                                    SCP-214                                     
+                                    =======                                     
+
+                                Hemotopian Virus                                
+                                ----------------                                
+
+Item #: SCP-214 
+
+Object Class: Euclid 
+
+Special Containment Procedures: SCP-214 is to be contained in a 4 by 4 meter 
+quarantine cell suitable for long term human habitation within Bio-Research 
+Area-12. It is to be considered an etiological agent of a level four biohazard. 
+Level four biohazard containment requires clean rooms, pre- and post-entry 
+decontamination showers, and a vacuum antechamber. All air and water sources to 
+SCP-214's containment area are to be isolated from the rest of the area. All 
+employees entering SCP-214's containment area must wear hazmat-suits with 
+self-contained oxygen supply and supplemental cut-resistant liner. The cell 
+shall be under continuous observation using remote video surveillance. SCP-214 
+is to be considered a danger to itself and others and shall not be allowed to 
+possess potentially dangerous utensils. Due to SCP-214's distinct perception of 
+pain, guards shall not cause physical injury to it except under the direction of 
+Level 2 staff. 
+
+Beyond the above procedures, all personnel intending to interact with SCP-214 
+are to undergo psychological evaluation. Any employees with prior history of 
+depression are not permitted to interact with it. Regular sessions of 
+psychological observation are to occur post-research on all participants. Any 
+personnel exhibiting two or more of the following symptoms during observation 
+are to be quarantined immediately in identical containment to SCP-214: 
+
+self-harming behaviors 
+
+blunted affect 
+
+glossolalia 
+
+logorrhea 
+
+compulsive lying 
+
+silvery discharge from mucus membranes or wounds 
+
+obsessive-compulsive behaviors, particularly in writing or speech 
+
+Research staff is heavily encouraged to read Log-214 and Interview-214 before 
+conducting experiments, as a precautionary measure. 
+
+Description: SCP-214 is male, age ██, formerly Agent █████ of the 
+Foundation. Physical and mental changes were noted after investigation of 
+Incident ███ at ██████ Public Library, MA. Containment of 
+SCP-214 is detailed in [REDACTED]. A physical examination of SCP-214 shows the 
+replacement of most bodily fluids, including but not limited to blood, vitreous 
+humor, seminal fluid, and cerebrospinal fluid, with a mercury-like substance. 
+Chemical analysis shows that the substance is a suspension of complex 
+organometallic compounds in a protein- and lipid-enriched serum, but so far, 
+nothing more can be ascertained of its origins or purpose. Most bodily functions 
+were observed to no longer be active in SCP-214, though the related organs still 
+exist in a preserved state within the body cavity. This includes the brain, 
+which no longer shows activity on electroencephalography. It shows notable 
+selective regenerative properties, some injuries vanishing within moments of 
+infliction while others remain unhealed, even after a period of time in which a 
+normal human would have recovered. SCP-214 does not experience pain normally, 
+instead reacting to it as pleasure with no regard to physical damage to its 
+body. Objects have been noted to disappear in the vicinity of SCP-214. There is 
+currently no known method of recovering lost items. 
+
+
+Addendum 214a Excerpts of Agent █████'s diary relating to becoming 
+SCP-214 have been transcribed to Log-214 
+
+Log-214
+
+Personal Log of: Agent █████
+
+Date: 04-05- ████
+
+I got my latest assignment. Apparently there's reports of cult
+activity centered around a public library in ██████. Shipping out
+tomorrow to investigate, along with the rest of Lambda-7. There's
+major concern about it being a part of Church of the Broken God given
+that the location contains a large museum of machinery. Hate dealing
+with them, the crazy machine god thing gives me more creeps than rest
+of the shit here. Most of them only kill your body.
+
+Date: 04-09- ████
+
+Initial recon's back on the building. Nothing anomalous so far with
+ninety percent of the building mapped. Only thing left is the
+periodicals wing, that seems to be closed for renovations. Seems like
+people go into there quite a bit after dark, but the door's always
+locked and the architect that designed this place seems to have a
+personal vendetta against windows. Nothing wrong with spikes though,
+this place has spikes on every surface they could think of. Team's
+going to shadow one of them in tomorrow and see what's going on
+inside.
+
+Note: Between this log and the next, the entirety of Lambda-7 vanished
+without a trace, along with the reported cultists.
+
+Date: 04-11- ████
+
+Pages upon pages flitter through my mind, breeze born motion revealing
+in the saturation of information. Coalesced and indexed to perfection,
+safely stored. The Library approves of the new acquisitions to its
+collection, filling her walls evermore with the distilled essence of
+being, for all to borrow but never keep. Subsuming the identity,
+enrobing oneself in another for a time for the goals for the plans and
+partly realized dreams. Emulating the flesh and its frailties, its
+ichors and impulses as a marionette on string dancing its jerky
+frivolity.
+
+Date: 04-12- ████ 9:32 AM
+
+Awake again. Not sure how long I've slept on the way back to
+[REDACTED]. Read previous log, I think I might have been sleep
+deprived. It doesn't make any sense. Cult's gone. Team's gone. Writing
+after action report. Attempted to erase previous log but can't see the
+button to do that. Compromised. The word keeps echoing in my head. I
+think I've been compromised. Cut myself shaving this morning and bled
+quicksilver into the sink. The sensation of the blade cutting into my
+skin felt like a lover's caress. It's my duty to self terminate. I've
+been compromised. Once the report's done, I'll do that. Still have my
+side arm.
+
+12:04 PM
+
+Tension, build up, trembling finger, burnt cordite taste, the flash,
+the burst, the romance of lead entangling bone and fat, followed by
+orgiastic release.
+
+Date: 04-13- ████
+
+Awake again. Bullet didn't do anything. No recollection since I pulled
+the trigger. I was in the bathroom, now I'm in bed. There's hotel and
+medical staff uniforms laying around but no people, no remains, no
+sign of a struggle and not a drop of blood. Tried to call my superiors
+to warn them that I'm coming but my fingers keep missing the numbers.
+All I can do is write in here. Something makes me think that they want
+this to be found, just too late. Still bleeding out of the back of my
+head. Something feels right about that and the warm sensation running
+down is delightful.
+
+<End Log>
+
+
+Addendum 214b Logs of interview with SCP-214 have been transcribed to 
+Interview-214 
+
+Interview-214
+
+Interviewed: SCP-214
+
+Interviewer: Researcher ██████
+
+
+Foreword: Initial interview to ascertain the origin of SCP-214
+
+<Begin Log>
+
+Researcher ██████: I'd like you to tell me again about what happened
+at the library.
+
+SCP-214: Library, home sweet home. Have you been to the periodicals
+section? Such a lovely place, glittering with the dewy webs of
+knowledge strewn across the indexes.
+
+Researcher ██████: Home? Do you mean like a metaphysical home, or did
+you actually plan to live there? We show your address of record as
+[REDACTED].
+
+SCP-214: I've always been there. I'm still there. Home is where the
+Library is, after all. And this is my home now, isn't it? So this is
+the Library now. It'll be a fine one too, once I get everything
+organized.
+
+Researcher ██████: What do you remember of before the library? Do you
+remember your name? Do you remember why you were sent to the library?
+
+SCP-214: Oh, my name is SCP-214, isn't it? Filed and stored away with
+so many other texts. I greatly admire your work. You hold so many
+beautiful things here.
+
+Researcher ██████: That's your designation, yes. Do you remember what
+it was?
+
+SCP-214: Designation, a distinguishing name. Yes. I know it. Do you
+remember what yours is?
+
+Researcher ██████: Of course, it's ██████, but I'm not the one
+answering the questions here. Do you remember what happened at the
+library between when you arrived and you were found?
+
+SCP-214: Are you sure? Because you told me it was Alicia before. Some
+times, people lose themselves and I wouldn't want that to happen to
+you. It's for your own good that you know yourself. What happened?
+What always happens in a Library. Knowledge was exchanged.
+
+Researcher ██████: Alicia? What, no. You're attempting to change the
+subject. What knowledges were exchanged in the library? With whom?
+Reports suggested ██ people inside engaging in some kind of
+synchronized ritual, but when we showed up, you were the only one
+there. What happened to the rest of the people, 214?
+
+SCP-214: I already told you. Knowledge was exchanged. Everything is
+information, to be stored and sorted. Compressed, if need be.
+
+Researcher ██████: Stored where? There were no traces of any other
+individuals inside that building when the recovery team arrived, but
+you were covered in [long pause] the unknown sample.
+
+SCP-214: Oh Alicia, you do have such a limited view of things here.
+You ask the wrong questions. You already know where. They're in the
+Library. They never left.
+
+Researcher ██████: My name isn't… we did a thorough search of the
+library. You were the only one inside. We didn't even pick up DNA
+traces; someone or something had swept it clean. Tell me what happened
+in the library. What happened to those seventeen people, T… 214?
+
+SCP-214: You keep confusing the map for the territory Alicia. It is a
+bad habit. They've been indexed in the Library, stored, numbered and
+sorted.
+
+Researcher ██████: You… you don't mean the building, do you? When you
+talk about the Library?
+
+SCP-214: You do good work here. We work at complimentary purposes. To
+secure, protect and contain. To organize, quantify and enlighten. You
+are so bright, Alicia. Just a few more steps now.
+
+Researcher ██████: Can you… can you show me the Library?
+
+SCP-214: Of course I can.
+
+<End Log>
+
+Closing Statement: Researcher ██████ was found after the interview
+inside SCP-214's enclosure, leaking silvery fluid from [REDACTED].
+
+
+
+Addendum 214c Researcher ██████ has been detained after showing 
+symptoms identical in nature to SCP-214 at the conclusion of L214. Containment 
+procedures have been updated to reflect the contagious nature of SCP-214. 
+
+

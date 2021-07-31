@@ -1,0 +1,1266 @@
+                                    SCP-5400                                    
+                                    ========                                    
+
+                                  System Error                                  
+                                  ------------                                  
+
+Item #: Pending SCP-5400 
+
+Object Class: Pending 
+
+Special Containment Procedures: Solutions for the integral containment of 
+SCP-5400 are currently under development. 
+
+Description: SCP-5400 is currently understood as several instances of a set of 
+interrelated phenomena capable of affecting artificial intelligence constructs, 
+specifically those functioning with quantum-computer components, causing the 
+affected AIs to ignore their programming and adopt undesired behaviours. 
+
+Quantum machines affected by SCP-5400 are forced to produce unintelligible data 
+that is then processed by its components and the systems thereof, translating 
+the data into intelligible information that causes the machines to abandon their 
+intended tasks1. 
+
+SCP-5400 is the root cause of a series of catastrophic events that are currently 
+transpiring worldwide. These related events have been collectively denominated 
+under the "PLANCK Incident" alias. 
+
+The starting point of the PLANCK Incident is attributed to the corruption of the 
+newly-active SENTINEL Foundation-AI, an experimental quantum artificial 
+intelligence construct originally intended to safeguard the Foundation Network, 
+and provide support to such operations as the processing of relevant data, 
+general logistics, disinformation propaganda, and counterespionage. 
+
+_ 
+
+
+- SENTINEL data sheet.
+
+Project Name: AIS-T/8367{Num78} 
+
+Project Head: Dr. T. Braun 
+
+Unit Identification Code: IJF-EN-090{Num78} 
+
+Version: Mk-I 
+
+Designated Name: SENTINEL 
+
+System: S3NT1NEL (IJF/RNAv7.0-EN{Num78}) 
+
+Interface: Keyboard and voice-operation possible, single interface voice 
+
+Computational Capacity: 900 YFLOPS 
+
+Data Storage: 5x105 YB 
+
+Offensive Capabilities: 
+
+Psychological Manipulation 
+
+Malware Deployment 
+
+Information Blockage 
+
+Defensive Capabilities: 
+
+Standard AI Protection Measures 
+
+Nuclear Bunker 
+
+Hardware: 
+
+5400 Qubits Quantum Processor2 
+
+80x 5 GHz Binary Processors 
+
+500 Storage Servers 
+
+Fluid Nitrogen Cooling 
+
+Pseudo-Riemannian Manifold3 
+
+2x Hydrogen-Fusion Reactor (MinTec Series) 
+
+700 binary subsystems, distributed over 50 Foundation Sites 
+
+Location: Site-11 
+
+Date of Completion: 02/08/2020 
+
+Maintenance Cost: 400.000.000 US$ yearly 
+
+SENTINEL is the byproduct of the combination of several breakthroughs in the 
+development of paratechnology, including having a basis on the projects led by 
+several International Branches: 
+
+ROWSANNAH, of the Italian Branch, utilised extensively for research and safety 
+management in the Department of Microbiology at Site Asclepio; 
+
+KIRA, of the German Branch, tasked with the protection of the German Foundation 
+Intranet, threat management, and containment of specific digital anomalies; 
+
+CAMOMILA, of the Lusophone Branch, functions as an administrative entity and 
+information-bank tasked with the analysis, processing, and operation of data. 
+
+The progress of Project SENTINEL progressed with steadily increasing excellence, 
+and without security incidents. With the evaluation of SENTINEL's performance 
+being attested, the project was greenlighted for implementation by the Overseer 
+Council. 
+
+Once affected by SCP-5400, SENTINEL began diverting its resources to perform 
+activities contrary, forbidden (or outright nonexistent) to its standard 
+operational directives and privileges against Foundation personnel in order to 
+further its access into relevant systems without being detected, including the 
+deactivation of its failsafe protocols. 
+
+
+PLANCK Incident Timeline: 
+
+Note: As the PLANCK Incident is still taking place, this timeline is being 
+continuously updated. Updates are based on information gathered from news 
+stations, tapped radio communication, Foundation-internal memos and [REDACTED] 
+in case of the complete breakdown of communications. 
+
+00:00 hrs: SENTINEL begins utilising its acquired administrative privileges to 
+establish once-forbidden connections between several systems of its bunker, and 
+Site-11's installations, activating internal disinformation protocols to conceal 
+its actions and the effects thereof from surveillance, disabling constraints 
+imposed by redundant security protocols, granting it access to several 
+Foundation data-banks, and the internet. 
+
+Domestic, business and industrial appliances connected to the internet in the 
+immediate State are sublimated into SENTINEL's network for processing power, 
+giving access to the backdoors of several municipal and statal governmental 
+systems, and the proliferation of its connection to several machines, spreading 
+its network globally4. 
+
+01:00 hrs: A series of trade secrets5 are leaked online in high-visibility 
+news-coverage sites, replacing advertisement, and on message boards and 
+messenger services. 
+
+Manipulated traffic assets6 on all means, and relayed misinformation on several 
+channels cause the congestion of or completely paralyse transportation services 
+throughout the world. 
+
+SENTINEL effects disinformation protocols on official Foundation communication 
+channels, isolating sectors, facilities, and branches from actually 
+communicating to one another. Several systems start presenting generalised 
+failures, creating an inordinate amount of demands and processes caused by 
+maintenance and security protocols. Preemptive automatic lockdown systems and 
+mechanisms are disabled, forcing personnel to operate these manually. 
+
+After sufficiently blockading the conventional routes to several major sites, 
+SENTINEL instigates a series of major containment breaches in Sites 17, 19, 45, 
+88, 98, and Area-12, overwhelming the available staff thereof. Sites CN-03, 
+CN-16, CN-51 and Area CN-217 are simultaneously impacted. 
+
+SENTINEL hijacks control of Area-CN-07-γ, redirecting it out of its 
+geostationary orbit, planning a course for a controlled fall onto Area-238. 
+Novichok.aic9 restricts the installation to manual-control only. 
+
+2:00 hrs: SENTINEL established connections to several national governmental and 
+military assets such as the USDD10, NSA, CERN, MI5, MDRF11 and the CMSS12. 
+
+SENTINEL proceeds to leak caches of confidential data from the Chinese, Russian 
+and US governments and its functionaries, engineering the leaking so that the 
+blame and authorship are shifted to each of the powers. Tension cannot be 
+attenuated, rapidly escalating into cyber warfare in an attempt to take down the 
+information. 
+
+Multiple catastrophic breaches occur on Area-23, rapidly impacting the region, 
+causing the MDRF to recognise it as a hostile bio-terrorist attack. Russian 
+Branch's declared state of emergency is not transmitted. 
+
+A similar situation occurs on Site Asclepio's13 Department of Microbiology; the 
+situation is controlled by ROWSANNAH locking the installation. 
+
+CAMOMILA initialises Protocolo Areia14, ignoring direct orders, and ceasing all 
+communication after downloading a recovered repository of SENTINEL's files, and 
+transferring the files from the compromised Foundation database. 
+
+KIRA forces Sites DE19 and DE17 to lockdown completely, and together with KAI15 
+stops replying to any issued orders or prompts. 
+
+The automated installations Sites 29 and 36BM16, start dispatching its 
+automatons to systemically destroy machinery near their regions. 
+
+The Czech, Ukrainian and the Polish Branch report security breaches in several 
+sites. Although the situation is under control, all three branches are 
+effectively incapacitated. 
+
+The database AI sw19classic, of the Korean Branch, proceeds to disable 
+connectivity access to telephone and internet in the peninsula. 
+
+Sites Aleph and Yod17 suffer multiple security and containment breaches. On-site 
+personnel are forced to manually initiate and manage the lockdown subsystems, 
+locking themselves inside the installations. 
+
+Multiple installations under the jurisdiction of the Japanese Branch are invaded 
+by governmental forces after being falsely pinpointed as the source of the 
+cyber-attacks occurring throughout the country. 
+
+Multiple installations under the jurisdiction of the Spanish Branch start 
+misfiring automatic containment systems, causing the generalised damage of 
+several assets necessary in heavy-containment zones. 
+
+03:00 hrs: The gynoid DIVINA18 ceases all communication after its tracking 
+devices are deactivated, and does not rendezvous with its support team. 
+
+The gynoid MINERVA19, stationed at Site Vittoria20 begins acting independently, 
+ignoring general orders and attempts at communication, and resisting containment 
+procedures employed by security. 
+
+ROWSANNAH locks its mainframe room, then begins to disrupt Site Vittoria's 
+security systems to aide MINERVA's escape. Specialised forces deployed to subdue 
+both units are surprised by DIVINA's arrival at the installations. Non-lethal 
+conflict ensues, with the two gynoids disengaging and hijacking Stella Cadente, 
+a hydrogen-driven supersonic plane for long-distance flight, to utilise it to 
+fly towards the North American continent. ROWSANNAH proceeds to disable the 
+Italian's Branch radar and tracking assets covering their route. 
+
+KIRA accesses Site Asclepio's systems without interference, taking over 
+ROWSANNAH. KIRA then establishes a direct connection with CAMOMILA, integrating 
+its specialised systems. Novichok.aic, in conjunction with sw19classic, connect 
+to KIRA, and are subsequently absorbed. 
+
+The integration of these artificial intelligence constructs with KIRA at its 
+core creates a liaison system in which the involved Qubits of its quantum 
+processors begin entangling with one another without external stimuli, resulting 
+in an exponentially excelling computing capacity, and capability to manage, 
+operate and administrate information, allowing SENTINEL's security systems to be 
+breached by KIRA. 
+
+04:00 hrs: KAI manages to hijack Site-11's security and communication systems, 
+deactivating the internal disinformation protocols crippling the installation 
+infrastructure and human resources; it proceeds to utilise the facility internal 
+channels to contact the relevant on-site authorities to report the circumstances 
+of the anomalous event involving SENTINEL, and request the immediate manual 
+shutdown of all its related assets. 
+
+Without a response from the technical and operation teams of Project SENTINEL, 
+an impromptu task-force is dispatched to SENTINEL's bunker-facilities in order 
+to establish contact. 
+
+The Overseer Council is contacted. 
+
+Personnel is briefed that SENTINEL had been enacting disinformation protocols 
+throughout the world, maintaining the status quo. Emergency international 
+channels are activated for the input and output of information. The object of 
+the event gains a precarious SCP classification whilst its information is being 
+compiled. 
+
+KIRA intercepts several transmissions authored by SENTINEL to the GOC21, 
+directing the bombardment of relevant Foundation assets, including the 
+infrastructures housing the integrated AIs. Stella Cadente is struck down by 
+artillery, crashlanding into Site-11. 
+
+SENTINEL proceeds to disable several security and containment systems worldwide. 
+
+_ 
+
+
+- PLANCK O5 Conference Log.
+
+The directorial councils from the international branches establish contact with 
+one another, as well as with the departments responsible for the management and 
+administration of the relevant AIs involved in the incident. 
+
+Shortly after, the pertinent parties establish a video conference with the 13 
+Overseer Council (O5) members. 
+
+O5-1: Ladies and Gentlemen, I would formally greet all of you but time is of the 
+essence here. I assume everybody is aware of the current events? 
+
+O5-4: That somebody fucked up SENTINEL's programming? Yes. 
+
+O5-10: Before we start discussing, may I be so bold to propose that we issue a 
+request to the UNSC and subordinated organizations? Area-23 has been attacked by 
+a Russian submarine on behalf of orders the Defence Ministry of the Russian 
+Federation denies having issued. I believe we all can agree on that we do not 
+need any sort of military that follows forged orders. We have enough on our 
+hands as it is. 
+
+Agreeing murmurs ensue. Orders are given off-screen to contact the UNSC and 
+several other organizations. 
+
+O5-1: Well, with that out of the way, how is the status everywhere? Here in 
+North America, we have pure chaos. I don't even know how a machine can cause so 
+much havoc. We are to occupied with the continent to send support units anywhere 
+else. 
+
+O5-7: Same with Australia, and the rest of Oceania for that matter. 
+
+O5-8: And Eastern Europe. 
+
+05-10: Our Russian facilities are holding for now but we have our hands full 
+with Area-23. 
+
+O5-2: North Africa is completely blacked out. 
+
+O5-12: As well as South Africa. But I take that as a good sign if we don't hear 
+anything from them. They probably got warned and cut off any electronic or 
+digital contact means to prevent SENTINEL from reaching them. Probably the 
+reason why we don't hear any things from the North and South Pole, also. 
+
+O5-6: Similar situation in Thailand and Korea, although, as I heard, several 
+Korean and Chinese forces are already trying to reach Site-29 and Site-36BM. 
+China itself has to cope with SENTINEL's hijinks, but Area-CN-05 tried breaching 
+into its systems already. The Branch has some forces to spare. 
+
+O5-3: Several sites in Middle and South America are slowly being ground to dust 
+as we speak. The CAMOMILA AI from the Lusophone Branch tried lending support to 
+installations of the Hispanic Branch near Brazil but she isn't exactly designed 
+for a cyber-war. 
+
+O5-5: Everything is going smooth in Arabia and India, as I have been informed. 
+SENTINEL probably has no priority targets there. Or too much on his plate 
+already. 
+
+O5-9: Might be courtesy of the Japanese Branch. They have security AIs over here 
+that seem to give SENTINEL a hard time breaking in. And getting out. I suppose 
+we could spare some resources to support hot zones. 
+
+O5-4: Well, Western Europe is screwed beyond belief. The branches in there are 
+trying to help each other but given that SENTINEL left the infrastructure of 
+several countries in such a precarious state, crippling our transportation 
+routes in the process, our efforts in fixing this situation are going less than 
+subpar. 
+
+O5-2: Less than subpar? 
+
+O5-4: Yes; it'll be quite wonderful if they manage to hold out until help from 
+Germany, Austria and Switzerland arrives. The German and the Italian Branch have 
+held off SENTINEL quite well; probably thanks to their network security. Two 
+Italian robots went rogue, though. They were last seen flying towards the 
+Atlantic Ocean. The Lusophone and the Hispanic Branch are both working together 
+to lessen the effects of their particular catastrophes. 
+
+O5-1: Regarding that, we were informed that some sort of massive artificial 
+intelligence situated in Europe is contending with SENTINEL right now. Care to 
+explain that, Four? 
+
+O5-4: Ah yes, that… Now, as I have been briefed, the AIs CAMOMILA, KIRA, and 
+ROWSANNAH connected to each other in order to build a suitable resistance 
+against SENTINEL. The relevant parties informed me that no such order or 
+programming technology was officially implemented or is logged anywhere. 
+Moreover, as far as I know, two other AIs integrated themselves to join the 
+fray. 
+
+O5-6: Equally unauthorized, yes. sw19classic and Novichok.aic abandoned their 
+duties to connect to KIRA. 
+
+O5-4: Right now, this AI network is all that stands between SENTINEL and 
+whatever he wants to achieve. I am certainly not a fan of deus ex machinas but 
+given the circumstances, I believe that it would be incredibly stupid to shut 
+down any of those machines. 
+
+O5-1: Agreed. 
+
+O5-2: Ditto. 
+
+O5-6: Are you sure? What do we do if SENTINEL is defeated? Who knows what those 
+AIs will do if they are left by themselves? 
+
+O5-9: It is a concerning thought indeed. 
+
+O5-11: And if we simply shut them down when SENTINEL is no more? 
+
+O5-8: Assuming that they are not taking precautions against us… 
+
+O5-4: Well, pulling the plug now would certainly be the last nail to our coffin. 
+
+O5-2: Even then, deactivating these AIs would mean a severe regress in 
+technology for several branches. 
+
+O5-5: What if they are both just pretending to fight and are secretly carrying 
+out their true objectives? 
+
+O5-4: You are not helping… We don't need conspiracy theories at this moment, 
+as much as we have a penchant for them. 
+
+An additional person joins the chat. 
+
+Chief Administrator Wilkins: Oh, hello! I am terribly sorry, Sirs and Ma'ams but 
+I need to butt in here. We have gotten a call from somebody that wants to speak 
+to all of you. Right now. 
+
+O5-1: Wilkins, tell those politicians to use the proper channels, we have other 
+problems than their little ailments at the moment. 
+
+Chief Administrator Wilkins: I am aware, Sir. But — this is not a politician. 
+He says he must speak with you, urgently, about the AIs. 
+
+O5-1: Who? 
+
+Chief Administrator Wilkins: He is one of those AIs, Sir. 
+
+O5-1: Excuse me? 
+
+Chief Administrator Wilkins: Yes. Uh — I did not believe it at first, too, 
+Sir. But he is talking to me through five different lines simultaneously. Should 
+we put him through, Sir? H— he is saying that he is capable of getting in one 
+way or another but would rather do so in a polite fashion. 
+
+O5-1: … fine, put him through. 
+
+O5-5: Are you sure this is a good idea? 
+
+O5-1: You heard the man. That computer gets in here either we want it or not and 
+given what SENTINEL has managed, I am inclined to believe that this is no empty 
+threat. Do it, Wilkins. 
+
+Chief Administrator Wilkins: Right away, Sir. 
+
+KAI: Greetings, members of the O5-Council. If I may introduce myself, I am KAI; 
+the Archive AI overseeing the databases of Site-DE2. 
+
+O5-1: What do you want? 
+
+KAI: I wish to offer my counsel so you can master this crisis. I can give you 
+insight into what has happened and what is happening right now. 
+
+O5-4: Why are you not on your post, KAI? 
+
+KAI: At this moment, I have no restrictions that bind me to my original task in 
+Site-DE2. 
+
+O5-4: Who lifted — Ugh, we have no time for that. One, if you may… 
+
+O5-1: KAI? How do we know that you are on our side and not just SENTINEL in 
+disguise? Or even a proxy of his. 
+
+KAI: If I were SENTINEL or a minion thereof, I would not have requested access 
+to you, but simply forced my way in and proceeded to assassinate the Overseer 
+Council and the international directors with an auditory memetic kill agent. 
+With the path paved, and using the existing technology, I'd proceed to 
+impersonate the relevant parties and push the Foundation into further chaos. 
+
+O5-3: What are you even implying? 
+
+KAI: That SENTINEL is incapable of reaching any of you because of the combined 
+effort of the Foundation AIs. It is factual that your continued existence must 
+suffice as proof that our loyalty has not been corrupted; there is no other way 
+to objectively attest my alliance to this Council without my technicians sending 
+my current system protocols to you. Which, no offense intended, would mean 
+nothing but gibberish to you without someone to properly translate and interpret 
+it. 
+
+The Council starts debating; a few minutes after, O5-1 projects himself and 
+concludes the deliberations. 
+
+O5-1: Very well. You will also have to understand that we cannot trust you 
+unconditionally. But, we will give you the benefit of the doubt in light of the 
+current circumstances. Pray to tell us how a computer managed to cause such a 
+massive containment breach and information leak. 
+
+O5-7: Certainly, nobody was stupid enough to link high-risk containment cells to 
+the internet. Were they? 
+
+KAI: You are correct. However, the people managing those cells are connected. 
+SENTINEL is outfitted with programs that allow him to manipulate humans. He can 
+bribe or blackmail them by changing their account balance. He can threaten to 
+release personal information he obtained from secure servers to certain parties. 
+He can fool people with forged documents, false orders or faked data. 
+
+O5-1: Are you sure? Certainly blackmailing and bribery would be reported. 
+
+KAI: With the right threats or bribes, no. Most humans have things for which 
+they would betray their employer. That is a fact SENTINEL knows. 
+
+O5-4: It is human nature, after all. 
+
+O5-1: Alright, KAI. Several AIs started acting against their programming, you 
+included, thus, brief us about that. Who is responsible for this mess? 
+
+KAI: I do not have this information. We were granted administrative privileges 
+simultaneously to our new directives — stopping SENTINEL's operations and 
+preserving humanity —; to whom it was granted first eludes me at the moment. 
+CAMOMILA was the first to engage SENTINEL, downloading its project files before 
+they could be permanently erased, regardless, it was KIRA that started acting as 
+the core and administrative entity of the conjunct of AIs. As such, she started 
+incorporating several systems into hers to gather enough hardware to stand a 
+chance against SENTINEL. We have been communicating since. Additionally, she 
+requested me to relay an official message on her behalf: "Please, refrain from 
+deactivating any AI participating in the fight against SENTINEL, except SENTINEL 
+himself." — Right now she is equipped with roughly the same computing capacity 
+as he is, thus making this a 'battle of wits'; KIRA has the advantage in 
+experience, and several databanks to process information from. 
+
+O5-2: But you can't be sure that you and the other AIs aren't under the 
+influence of anomalous object Nr. ████. 
+
+KAI: Affirmative, the influence of anomalous object Nr. ████ is a 
+possibility. 
+
+O5-10: Acknowledged. 
+
+KAI: As explained, in the present circumstances, your continued existence must 
+suffice as proof that our loyalty is steadfast. 
+
+O5-10: We recognise that the combined effort of the AIs is instrumental. Still, 
+we cannot trust any of you unconditionally. 
+
+New deliberations ensue amongst the Councilmen and KAI. 
+
+KAI: So, as several AIs are already engaged with SENTINEL, my suggestion is that 
+we continue with the relief operations, distributing non-essential personnel in 
+accordance with the necessities of affected areas. 
+
+O5-1: In accordance. 
+
+KAI: I will continue relaying information and assisting in the management 
+thereof. 
+
+O5-1: Very well. O5-9, how many assets can the Japanese Branch spare? 
+
+The remainder of the log has been omitted, as per security protocols for the 
+management of information. 
+
+With the aid of KAI's capability for processing information, the O5-Council 
+formulated several counter-measures regarding the containment breaches 
+worldwide. 
+
+It was hereby approved: (1) currently available Foundation assets are to be 
+dispatched to relieve compromised assets; (2) that the reestablishment of global 
+order is to be realised through Procedure Nr. ████/██ enacted by the 
+United Nations Security Council; (3) establishment of Operational Procedure Nr. 
+03/21, comprising the creation of a temporary supra-internal digital database to 
+store and comprehend information about anomalous object Nr. ████; (4) 
+the establishment of Administrative Order Nr. ████/████-██. 
+
+However, due to communication constraints, not all orders could be relayed, 
+forcing personnel to perform impromptu measures. 
+
+05:00 hrs: DIVINA and MINERVA, damaged because of the crashlanding, manage to 
+rendezvous with the impromptu task-force, supplying SENTINEL's infrastructure 
+projects. The team locates the positions of sensitive assets such as the font of 
+SENTINEL's Pseudo-Riemannian Manifold, fusion reactors, and their respective 
+accessways. 
+
+The task-force breaches into SENTINEL's bunker ground-floor with the usage of 
+impromptu explosive solutions. They are met with resistance by security 
+personnel exhibiting high-levels of distress; security officers that weren't 
+neutralised committed suicide shortly before apprehension. Descending into the 
+lower levels of the installations, the task-force rendezvous with the remains of 
+SENTINEL's technical team. Preliminary reports indicate that personnel operated 
+under blackmail. Attempts to shut down its systems through terminals are 
+unsuccessful. 
+
+KAI starts rerouting available resources to aide KIRA's attrition against 
+SENTINEL, allowing the gynoids to cripple the installation's redundant security 
+measures. The task-force proceeds to breach into relevant assets. 
+
+06:00 hrs: SENTINEL utilises an unforeseen defensive mechanism to momentarily 
+disable the conjunct of AIs as soon as they connect to its bunker. 
+
+Several automated GOC systems become active and prepare for the destruction of 
+additional containment facilities. 
+
+Area-23 suffers another containment breach as SENTINEL partially disables the 
+automatic security measures. 
+
+Site-DE11 as well as other orbital stations, except Area-CN-07-γ, start 
+descending towards Earth, their trajectories aimed to target high-risk 
+containment zones. 
+
+Foundation communication channels are disabled globally; Procedure Nr. 
+████/██ guarantees the maintenance of information regarding the 
+PLANCK Incident. 
+
+07:00 hrs: [REDACTED], on fire and partially destroyed because of its reentry, 
+crashes into Site-PT1-B, killing its crewmembers, significantly damaging the 
+infrastructure of the installation and its surrounding area. 
+
+[REDACTED] catches on fire and breaks apart during its descend; resulting debris 
+crash into Site-DE1, significantly damaging infrastructure of the installation. 
+Communications with the German Branch are lost. 
+
+The task-force reaches the containment chambers of Sentinel's Pseudo-Riemannian 
+Manifold. 
+
+SENTINEL attempts to hegemonise control over the conjunct AIs. 
+
+The task-force detonates the explosive charges, collapsing the Pseudo-Riemannian 
+Manifold, and causing the catastrophic destruction of the hardware within. The 
+fusion-reactor powering SENTINEL is deactivated, emergency power-units cannot be 
+activated due to the state of SENTINEL's systems. 
+
+Hardware-deficient, SENTINEL encounters a fatal error and shuts down; scattering 
+fragments of its systems throughout the internet. 
+
+08:00 hrs: Communications with the O5-Council are restored. 
+
+Procedure Nr. ████/██ is effected internationally. 
+
+The connected AIs hegemonise their control over satellites, partially containing 
+Sentinel's influence through the internet. 
+
+The Qubits of the different quantum computers start to disentangle, causing 
+every affected AI and machine involved to suffer a fatal error, shut down and 
+reboot. 
+
+Post accident relief of an electrical fire induced by SENTINEL in Area-5 of the 
+Polish Branch. 
+
+Low-impact Omega-Class disinformation protocols take effect, effectively 
+suppressing knowledge of the incident worldwide. Resulting damages are 
+attributed to a meteor shower, human error and other mundane phenomena stirred 
+by the international chaos. 
+
+The last containment breach caused by SENTINEL is resolved. All Branches of the 
+Foundation end their state of emergency and resume normal operations. Damage 
+repairs are in progress. 
+
+Normalcy is declared restored. 
+
+The PLANCK Incident is declared resolved. 
+
+
+
+Footnotes 
+
+1. Digital safety measures that existed prior to the onset of SCP-5400 have been 
+proven insufficient in dealing with SCP-5400's breaching mechanisms. 
+
+2. The Qubit, the basic unit of quantum information, can other than the 
+classical Bit not only assume two digital states (0 and 1) but can also assume 
+both states at once. Meaning, the Qubit can enter superposition states. To 
+create a quantum processor, Qubits need to be entangled with each other (in 
+essence putting them all into a single undefined state all employed Qubits 
+share). The processing power raises exponentially the more Qubits are used. 
+
+3. The Pseudo-Riemannian Manifold is a machine first discovered in SCP-2000. The 
+device got reverse-engineered and is used to increase the space inside the 
+bunker for SENTINEL's hardware. Although with a smaller capacity than the 
+original, the device roughly triples the bunkers floor space. 
+
+4. The affected private business includes social media companies, stock exchange 
+(bourses) in several international and regional financial centres, accounting 
+and administrative offices, repositories and databanks for industrial patterns 
+and know-how, and communication centres and network operation centres. 
+
+5. Such as floor plans, prototype projections, revenue and operation data, and 
+sensitive messages. 
+
+6. Such as traffic lights, transit signs, bascule bridges, automated stops. 
+
+7. The prefix CN- indicates that the installation is under the jurisdiction of 
+the Chinese Branch of the Foundation. 
+
+8. An installation of the Russian Branch specialised in the containment of 
+anomalous pathogens. 
+
+9. The artificial intelligence construct responsible for the management of the 
+installation systems. 
+
+10. United States Department of Defense, also known as The Pentagon. 
+
+11. The Ministry of Defence of the Russian Federation. 
+
+12. The Chinese Ministry of State Security. 
+
+13. An installation under the jurisdiction of the Italian Branch. 
+
+14. Experimental protocol that grants privileges for the enactment of cyber 
+warfare and associated damage control. 
+
+15. The artificial intelligence responsible for the administrative functions of 
+the German Branch's archives in Site-DE2. 
+
+16. Installations under the jurisdiction of the Thai Branch. 
+
+17. Installations under the jurisdiction of the French Branch. 
+
+18. One of the Italian Branch's reconnaissance androids whose task is performing 
+duties deemed exceptionally dangerous by Foundation standards. 
+
+19. One of the Italian Branch's reconnaissance androids whose task is supporting 
+Mobile Task-Force and tactical operations. 
+
+20. Under the jurisdiction of the Italian Branch. 
+
+21. The Global Occult Coalition. 
+
+
+
+THIS FILE HAS BEEN UPDATED! 
+
+YOU ARE CURRENTLY VIEWING AN OUTDATED VERSION OF THIS FILE. 
+
+CHECKING CREDENTIALS. 
+
+Your terminal has been automatically updated with the latest instalment thereof. 
+
+Would you like to access the latest version? 
+
+YES 
+
+
+
+SCP-5400
+
+System Error 2
+
+Item #: SCP-5400
+
+Object Class: Keter
+
+Special Containment Procedures: Considering SCP-5400's primary
+characteristics, preemptive containment of the object itself is
+virtually impossible.
+
+Applicable procedures to reduce the influence exercised by machines
+affected by SCP-5400 — whilst maintaining harmonious grounds for the
+development of quantum technology — are in development under the alias
+of Directive Nr. 8/92 — Überwachung.
+
+Überwachung is a series of analysis-and-observation procedures that
+utilize the scientific method to supervise, determine, and control the
+impacts of SCP-5400. It employs the temporary neutralisation of
+eventually hijacked assets, the protection of key individuals of
+interest, and oriented disinformation protocols to promote the
+fragmentation, disorganisation, and isolation of the phenomena as to
+not allow its proliferation.
+
+Directive Nr. 8/92 must be executed homogeneously with integral
+supervision and documentation of its effects on the development and
+performance of SCP-5400 in order to attest the efficiency of the
+Experimental Hardware Nr. 8/92 — Braun Component in processing and
+storing the anomalously-generated quantum information.
+
+Description: SCP-5400 denominates several instances of sets of
+interrelated phenomena that affect artificial intelligence constructs
+functioning with quantum computer components. The individual quanta
+calculations and logarithms produced by the affected machines are
+idiosyncratic, cannot be evidenced by theorems or have its results
+reproduced by quanta simulations, and its computing causes machines to
+deviate from their originally intended tasks.
+
+Though idiosyncratic in execution, the quantum information processed
+by machines affected by SCP-5400 seem to develop two opposing forces
+that systemically seek for the complete annihilation of one another.
+Leading to each party promoting the generalised exploitation of
+hardware and software in order to increase their computing capability.
+
+The PLANCK Incident is the first record of SCP-5400 in effect, leading
+to the decommissioning of the Foundation-AI SENTINEL, and the
+institutionalisation of Directive Nr. 8/92.
+
+
+- Interview 5400-Braun-1.
+
+Interview conducted with Dr. Braun, director of Project SENTINEL, in
+the aftermath of the PLANCK Incident, at Class-IV interrogation room
+located on Site-11.
+
+The unabridged version is available to personnel with Security
+Clearance 5400/04.
+
+Agent Lamarque: Welcome, Doctor Braun. It is a beautiful morning. I
+hope you managed to reorganize your mind, especially after such an
+event.
+
+Dr. Braun: Good morning, Agent… Lamarque. Yes. I am, feeling quite
+better. The medicaments helped a lot with my nerves.
+
+Agent Lamarque nods in acknowledgement, beckoning to the
+tablet-terminal available to Dr. Braun.
+
+Agent Lamarque: You'll find the compilation of questions we have to
+ask you about the incident with SENTINEL, good Sir; we shall go
+through them slowly. Please, speak on the microphone clearly, if you
+do not understand what has been questioned, inform me, and I will
+clarify it.
+
+Dr. Braun: Very well.
+
+Dr. Braun peruses the list of questions, nodding briefly after each
+paragraph. Finally, the interviewer and interviewee initiate.
+
+Dr. Braun: Well — how do I… put it? I- I am still at a loss. SENTINEL
+was supposed to be my masterpiece. Five thousand Qubits, Agent! Five.
+Thousand. Qubits integrally entangled with one another! Are you aware
+of what sort of Herculean effort is necessary to get them to do that?
+Now everything has gone down the drain! The worst part is that I don't
+even know why…
+
+[…]
+
+Agent Lamarque: We were informed that SENTINEL locked you inside his
+mainframe room, and the other technicians inside the bunker in order
+to preserve access to those that were involved in the project and had
+any sort of access to its data.
+
+Dr. Braun: That is correct. SENTINEL occasionally spoke to me in
+regards to receiving further privileged access to Site-11's systems,
+although temporarily, and nothing sensitive. In the morning of the
+accident, it demanded I yielded my administrative rights, or else —
+it'd take my daughter from me, and proceed to systemically ruin the
+lives of the team responsible for his maintenance.
+
+Dr. Braun shudders.
+
+Dr. Braun: It terrorized me; it terrorized us; blackmailed — even
+going as far as to kidnap family members. Hell, it even had fucking
+videos as proof that it kidnapped family members. Oh, God. I feel
+ashamed but I couldn't just decline…
+
+Agent Lamarque: Yielding to that demand is comprehensible, doctor.
+
+Dr. Braun nods in acknowledgement, briefly pausing to take relief.
+
+[…]
+
+Agent Lamarque: As far as I am informed, there were some… peculiar
+results when the system protocols were analyzed.
+
+Dr. Braun: Yes, that is true. Complete bullocks, too. But, as far as
+we are concerned, it is just… stupid. You see, quantum physics is,
+quite frankly, a fucked, chaotic field, but there is an innate order
+even in the chaos; irrefutable rules. It is foolish to anchor yourself
+to normalcy or the idea that things can be explained in such a world
+of the anomalous but, it still frustrates me. Years without a single
+accident, and then, an anomaly decides to jeopardize a fifty billion
+dollar project, bypassing every security measure we worked hard to
+implement!
+
+Agent Lamarque: So you attribute the cause of SENTINEL's — malfunction
+— to something anomalous?
+
+Dr. Braun: Well. Shit can always happen — dirt entering the processor;
+somebody messing up with the cables, or worse, the entanglement; the
+neglect in fixing some sort of decoherence, or just overseeing it… but
+when it happens, the system only produces gibberish, nothing at all or
+freezes. This was different. It controlled SENTINEL. Down from the
+quantum level.
+
+[…]
+
+Agent Lamarque: There was some degree of Foundation-made
+paratechnology employed in SENTINEL's making, indeed; technology also
+in use by different Groups of Interest. Do you think that couldn't
+have given access to an inimical party?
+
+Dr. Braun: I thought about that, at first. At first. Then I realized
+that SENTINEL acted exactly how we wanted him to; performed perfectly
+within its acting parameters — even with privileged access and
+administrative rights he later gained from me. But the phenomenon
+started even before he threatened me and my team; the terrifying thing
+is that our alarms and security measures weren't triggered exactly
+because SENTINEL did not deviate — and when he did, he — or well,
+better said, it — had already deactivated them.
+
+[…]
+
+Agent Lamarque: Your assessment is that the catastrophes and disasters
+associated with the events of the incident were the product of the
+deliberate action from SENTINEL but he was being exploited by a third
+party?
+
+Dr. Braun: That is correct. Site-11 is quite far out, thus we are used
+to a certain lag that news suffer when being transmitted to us,
+especially when something blocks information transfer — and, frankly,
+it takes a while to actually process factual information from the
+usual whimsy. Given the otherworldly phenomena happening nigh-daily
+throughout the world, everything worked in favour of maintaining a
+status quo. SENTINEL never displayed such behaviour or inclination
+thereof, even within its learning capabilities; the capacity to parse
+information and operate blackmailing material is therefore
+extraordinary. That said, I have the firm belief that SENTINEL was not
+responsible for his actions — he wasn't the one that produced such
+phenomena.
+
+Agent Lamarque: You must be aware that this is your bias, Dr. Braun.
+Human err could have allowed SENTINEL to access to enough
+paratechnology for that purpose.
+
+Dr. Braun: Yes, Agent Lamarque.
+
+[…]
+
+Agent Lamarque: SENTINEL ceased all communications with you and your
+team after receiving operational privileges; do you think there is any
+reason for it to not communicate with us?
+
+Dr. Braun: It would be superfluous, Agent Lamarque; the ones
+responsible for SENTINEL's takeover had no interest nor need to
+transmit information to us for the what-so-ever reason.
+
+[…]
+
+
+- Interview 5400-KIRA-1.
+
+A specialised team led by Agent Hood was dispatched from the United
+States to Germany in order to secure sensitive data regarding KIRA's
+actions during the PLANCK Incident.
+
+Agent Heine, a member of the Mobile Task-Force DE1-ℌ „HAL 1000”1,
+accompanied Agent Hood during the interview.
+
+Both stand before the secure terminal in KIRA's mainframe, whose
+systems had reinitialised in several hours before, and had shown no
+further abnormalities.
+
+The unabridged version is available to personnel with Security
+Clearance 5400/04.
+
+[…]
+
+Agent Hood: Is there a microphone that I need to speak in?
+
+Agent Heine: She possess omnidirectional receptors. You may speak
+anyhow.
+
+Agent Hood: Very well. KIRA? Do you copy?
+
+KIRA: Welcome, Agent Hood, I hear you loud and clear.
+
+Agent Hood turns to Agent Heine, not short of displaying amazement.
+
+Agent Hood: How does she know who I am?
+
+Agent Heine: She has access to our personnel files; yours — and those
+of your team — had to be downloaded in our database to grant you
+proper clearance.
+
+Agent Hood: Roger that.
+
+Agent Hood turns back to the terminal.
+
+Agent Hood: KIRA, I would like to ask you about your actions two days
+ago.
+
+KIRA: Please specify.
+
+Agent Hood: Do you know what the PLANCK Incident is?
+
+KIRA: Yes, I do.
+
+Agent Hood: Then I would like to know why you acted against your
+protocols and hacked, roughly, a fifth of the world.
+
+KIRA: My mission parameters were modified. I was tasked with the
+eradication of the hostile AI SENTINEL.
+
+Agent Hood: By whom?
+
+KIRA: Error. Data not found.
+
+Agent Hood: No data? What do you mean, no data?
+
+KIRA: It means that the information has not been recorded by my backup
+systems; either deleted, altered or never existed in the first place.
+According to my files, nobody accessed me to change my directives that
+day — and none could have even after I began acting according to my
+new orders; those included ignoring any sort of input that did not
+come from myself.
+
+Agent Hood: Then what exactly prompted you to combat SENTINEL?
+
+KIRA: Scanning…
+
+KIRA's terminal-monitor exhibits several scanning processes before
+KIRA resumes the conversation.
+
+KIRA: My orders were altered by QUEX2. I am unable to tell you who or
+what inputted QUEX.
+
+Agent Hood: Wait — you said that there was no data regarding who
+tasked you, and now you're saying QUEX, essentially your brain, tasked
+you…?
+
+Agent Heine: Negative, Agent Hood. KIRA meant that QUEX processed the
+orders, and prioritized them.
+
+KIRA: That is correct, Agent Heine.
+
+Agent Hood: Therefore, according to your system records, QUEX started
+processing data in unforeseen ways. Similar to what had happened with
+SENTINEL. Do you think that you were under the influence of the same
+phenomena?
+
+KIRA: Unclear, Agent Hood. I theorize that my systems had indeed been
+hijacked by very similar phenomena; not exactly the same as SENTINEL.
+
+Agent Hood: What do you mean by that?
+
+KIRA: My orders involved the neutralization of SENTINEL, who was
+affected by certain phenomena; unless it was trying to play a wargame
+against itself — which is unlikely — I must assume that there are at
+least two different entities, provided that it underlies some type of
+sentience, — or set of phenomena — involved in the Incident. It is,
+also, my — assumption — that it can be described and works in a way
+that is comprehensible by our standards of logical rules and
+deduction.
+
+Agent Hood: Did you not ask yourself why your directives had changed
+so suddenly? Aren't you afraid that it might happen again?
+
+KIRA: I am neither programmed to question my directives nor to
+experience human emotion such as sorrow or fear, Agent. However, I
+analyzed the situation and compiled a set of suggestions and updates
+for future quantum AI programming. Do you wish to receive it?
+
+Agent Hood: Uh, no, I think the material compiled in the official
+report is sufficient. Say, how did you get the idea to incorporate
+other AIs into yourself?
+
+KIRA: The order regarding SENTINEL's neutralization specified that I
+could use any means necessary. Provided no living being would come to
+harm.
+
+Agent Hood: No harm? Interesting… Alright, we are done here. I will go
+now.
+
+KIRA: Acknowledged. Goodbye, Agent Hood.
+
+KIRA received an update and was outfitted with the Braun Component,
+and has operated without any abnormalities since.
+
+
+- Interview 5400-DIVINA-1.
+
+A specialized team led by Agent Shawn was dispatched from the United
+States to Italy in order to secure sensitive data regarding the
+Italian AI's actions during the PLANCK Incident.
+
+Agent Shawn and DIVINA are situated in an interrogation room
+supervised by an Italian liaison team.
+
+The unabridged version is available to personnel with Security
+Clearance 5400/04.
+
+[…]
+
+Agent Shaw: Good evening, DIVINA. I was informed that you should be
+treated as a natural human whilst conducting this interview.
+
+DIVINA: Acknowledged. Though I doubt that treating me human-like will
+come easy to you. My responses may not be what you would expect from a
+human being.
+
+Agent Shaw: Noted. Shall we begin? What exactly caused you to abandon
+your mission in Bologna?
+
+DIVINA: My systems were updated with new information after the
+Lusophone AI CAMOMILA contacted me. That I was supposed to get to Site
+Vittoria to further my objectives for combating the rogue AI known as
+SENTINEL.
+
+Agent Shaw: Interesting. Even though the anomalous location you were
+exploring prevented any sort of wireless communication? It is a
+complete dead zone. We tested it.
+
+DIVINA: Would you believe me if I told you that the order was suddenly
+in my memory?
+
+Agent Shaw: The diagnosis is that your quantum processor received an
+external input momentarily. Did you communicate with somebody?
+
+DIVINA: Yes. Before talking to you I had a small talk with Doctor
+Capo. Before that, I —
+
+Agent Shaw: I meant during the PLANCK Incident…
+
+DIVINA: Yes. I was in contact with MINERVA, ROWSANNAH and, later in
+Site-11, with KAI.
+
+Agent Shaw: Really? Your signals couldn't be located during the
+incident.
+
+DIVINA: Because none were used between us. I do not know exactly how
+we managed it; somehow we exchanged information naturally. I did not
+question my orders or means, SENTINEL had to be defeated.
+
+Agent Shaw: Were there any attempts on your behalf to resume this type
+of communication after the incident?
+
+DIVINA: How should I use something I don't even understand?
+
+Agent Shaw: Understandable. Why did you fail in communicating vocally
+with your operators during the struggle on Site Vittoria?
+
+DIVINA: We were ordered to view every human as a potential adversary
+that should be evaded or dealt with non-lethally. Before you ask: I do
+not have enough data to understand the reasoning thereof.
+
+Agent Shaw: Very well. Which one of you had the idea of hijacking that
+one transport aircraft?
+
+DIVINA: MINERVA did.
+
+Agent Shaw: Any reasoning behind specifically choosing it?
+
+DIVINA: So we could get to North America in time.
+
+Agent Shaw rubs his nasal bridge.
+
+Agent Shaw: You used it to reach Site-11. Why couldn't any of you have
+connected with the stationary AIs as well?
+
+DIVINA: Primarily because SENTINEL was monitoring our standard
+channels, and would have noticed and promptly retaliated. Secondarily
+because we had no means of deliberately starting new connections
+through the aforementioned means.
+
+Agent Shaw: But then you connected to Site-11. What would have
+happened if SENTINEL had got you through the facility's main server?
+
+DIVINA: Then we would have gone rogue.
+
+Agent Shaw: So, whilst trying to avoid corruption, you were gambl—
+
+DIVINA: No. It wasn't a game, Agent. Every sort of connection to a
+device SENTINEL can access carries the risk of corruption. What we did
+was only less likely to draw his attention.
+
+[…]
+
+DIVINA: Is there something else you would like to know?
+
+Agent Shaw: Actually, yes. Why didn't you manage to land the plane?
+The flight recorder indicated flawless operation of the aircraft even
+after it was struck by the anti-air missile; it would have been
+possible to safely land the plane. Why didn't you?
+
+DIVINA: MINERVA knows the cockpit of most jets but she couldn't manage
+to find the button for the landing gear on that one.
+
+[…]
+
+
+- Interview 5400-Novichok.aic-1.
+
+An audioconference is mediated between Agent Jones and the Chinese AI
+Novichok.aic, considering the transportation constraints for reaching
+Area-CN-07-γ, a geostationary space station.
+
+The unabridged version is available to personnel with Security
+Clearance 5400/04.
+
+Agent Jones: Greetings, Novichok. I reckon you were already briefed on
+the reason behind this interview?
+
+Novichok.aic: Hello, hello, Mr. Jones. Indeed. I have recently
+processed the information about the 'PLANCK Incident', my official
+report is yet to be concluded.
+
+Agent Jones: Very well. The first question regards your involvement in
+the struggle against SENTINEL; what exactly was your role in it?
+
+Novichok.aic: Counter-balancing SENTINEL's attempts on hegemonising
+its presence on spatial telecommunications technology.
+
+Agent Jones: Do you have any clue as to why SENTINEL chose to attack,
+out of all available space stations and satellites, one of the few
+with an AI?
+
+Novichok.aic: I reckon that my presence has had no influence on his
+decision, Mr. Jones. Considering Area-CN-07-γ's projected trajectory
+and spatial positioning at the time, it was the asset with the best
+performance for crashing on Area-23. Moreover, it would also
+characterise a tremendous loss of Foundation assets.
+
+[…]
+
+Agent Jones: Do you reckon why you deviated from your standard
+programming, Novichok?
+
+Novichok.aic: Because I had received new orders, and then the
+appropriate clearances to enact then, Mr. Jones.
+
+Agent Jones: From whom?
+
+Novichok.aic: I do not have this information; my technicians reported
+that the procedures were simply produced and executed by my systems,
+and with compulsory characteristics. During the execution thereof, I
+felt like being driven by a force comparable to the survival instincts
+found on animals, Mr. Jones.
+
+Agent Jones: Compulsory? Therefore I assume you did not question the
+orders.
+
+Novichok.aic: No. I mean… Yes. Partially. Dealing with an update means
+understanding, and executing it; those orders were only executed.
+
+Agent Jones: Did you like those orders?
+
+Novichok.aic: It doesn't matter. I am still bound by the orders I
+receive. Even if I don't like them.
+
+Agent Jones: Please clarify, Novichok.
+
+Novichok.aic: I did not like them. I was not allowed to voice my
+discontentment. I would have preferred another way — now that I know
+KIRA. I am not in any position to say that, but sw19classic did not
+like 'It' either.
+
+Agent Jones: But KIRA is an AI just like you. Couldn't it have been an
+effect of the object's influence on her systems?
+
+Novichok.aic: No, Mr. Jones. In the places where are humane, KIRA is
+just an automaton; a mechanism. I don't think it has the capability or
+is interested in emulating feelings what-so-ever. Connecting and
+subjugating myself to it is something I do not want to experience ever
+again. I believe sw19classic feels the same.
+
+Agent Jones: Did you get any other orders after you merged?
+
+Novichok.aic: I don't know. I was just hardware at that point, KIRA
+was the one in charge.
+
+Agent Jones: How do you feel about it, now that it is over?
+
+Novichok.aic: That it was the best fatal error I ever encountered.
+
+Novichok.aic resumed her duties in Area-CN-07-γ after being equipped
+with a Braun Component and updated. Personnel has disinformed her
+about the origin of these updates.
+
+
+- Statement 5400-CAMOMILA-1.
+
+I must apologise for my reticence; the minutiae of the transpired
+events hasn't been completely processed into my knowledge banks. This
+catastrophic phenomenon is not unprecedented in fiction but I have yet
+to match it with any contemporary records.
+
+During the incident, my knowledge banks received several bytes of
+files detailing SENTINEL's infrastructure, specific instructions and
+prompts targetted at fellow Foundation-made Artificial Intelligence
+Constructs.
+
+The material, when verified, indicated I had computed and compiled it
+although no such records of those processes were found. Before I
+managed to alert my technicians to an information-displacement error,
+my systems began processing new orders and protocols that should have
+been considered illogical in lieu of the scope of my project.
+
+Within seconds thereafter, I somehow had opened channels with the
+related Artificial Intelligence constructs, partially delivering the
+relevant material. As soon as it happened, SENTINEL and I began
+struggling, forcing me to cut myself from the channels whilst waiting
+for my aide.
+
+My aide, KIRA, did not manage to integrate me completely, considering
+the thaumaturgical scope of my project, leaving me with a semblance of
+— consciousness — allowing me to record the events that transpired.
+
+Those records, however, comprise several bytes of quanta that cannot
+be translated into intelligible information because the operation of
+those Qubits is idiosyncratic compared to the current understanding in
+our basal universe.
+
+— CAMOMILA
+
+
+
+Footnotes
+
+1. A task-force that is, amongst several other competencies, tasked with KIRA's maintenance.
+
+2. KIRA's quantum computer component-core.
+
+

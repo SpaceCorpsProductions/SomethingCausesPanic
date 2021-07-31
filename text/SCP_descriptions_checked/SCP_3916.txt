@@ -1,0 +1,520 @@
+                                    SCP-3916                                    
+                                    ========                                    
+
+                                 Hungry Locusts                                 
+                                 --------------                                 
+
+NOTICE:
+
+You are currently viewing an outdated version of this document. Please
+see the bottom of the page for a newer version. This is version 1 of
+4, written on March 28, 2021.
+
+
+Item #: SCP-3916 
+
+Object Class: Euclid 
+
+Special Containment Procedures: One small swarm of SCP-3916 is contained in a 
+standard biological containment cell at Site-121. It is to be fed daily with 
+500kg of fresh plant matter. Excess instances (past roughly 1500) are to be 
+terminated as necessary. Any instances that escape containment are to be 
+terminated by conventional means, such as fire or insecticide. Any personnel 
+wishing to conduct experiments on SCP-3916 should contact its current head 
+researcher. 
+
+Wild instances of SCP-3916 should be eradicated immediately and thoroughly, 
+unless otherwise notified. The Foundation is currently cooperating with the 
+government of the United States of America (through the cover of LARPA, see 
+Addendum) to capture, kill, or otherwise contain all wild SCP-3916 instances, as 
+they have been recognized to pose a significant threat to humanity at large. MTF 
+δ-17 "Metarhizium" is to be notified of any outstanding reports of SCP-3916. 
+
+Description: SCP-3916 is a species of insect that physically resembles 
+Chortoicetes terminifera (Australian Plague Locust). However, SCP-3916 has two 
+anomalous traits of particular note. 
+
+First, SCP-3916 eats at an alarming rate. A single instance is able to consume 
+roughly 100g of matter per second. SCP-3916 has only been found to eat fresh 
+plant matter. 
+
+Second, SCP-3916 reproduce unusually quickly, and do so asexually. An instance 
+of SCP-3916 will grow visually larger as it consumes more food, and after a 
+certain size threshold, split into two instances of SCP-3916. Both new instances 
+will be fully-formed adults. Each "cloning" takes a significant amount of 
+consumption, currently estimated at 500g of food. However, due to its eating 
+speed, SCP-3916 swarms grow very quickly. 
+
+History: The Foundation was first made aware of the existence of SCP-3916 when a 
+small swarm of them escaped the captivity of GoI-466 ("Wilson's Wildlife 
+Services") in a transportation accident in Maupin, Oregon, along US Route 26. 
+GoI-466 contacted the Foundation for assistance in containment, and the majority 
+of the SCP-3916 instances were captured or eliminated. GoI-466 informed the 
+Foundation of the nature of SCP-3916, and the few instances that remained 
+uncontained were deemed to pose a significant threat. The uncontained instances 
+of SCP-3916 spread rapidly across Oregon and into California, prompting the 
+United States of America's government to take action, and leading to the 
+formation of LARPA. 
+
+
+Addendum - LARPA: Due to the nature of SCP-3916, the Foundation determined that 
+it would be overly difficult to eliminate wild instances without alerting the 
+general public. Thus, the Foundation contacted the USA government and negotiated 
+the formation of LARPA (Locust Active Removal and Prevention Agency), an 
+official government organization funded and staffed entirely by the Foundation. 
+LARPA serves as a front through which the Foundation can openly take action 
+against wild SCP-3916. Site-121, the current containment site of SCP-3916, has 
+been designated as LARPA headquarters. 
+
+Oldest version available 
+
+
+View newer version >>>> 
+
+
+NOTICE:
+
+You are currently viewing an outdated version of this document. Please
+see the bottom of the page for a newer version. This is version 2 of
+4, updated on August 18, 2021. Important changes from the previous
+version have been highlighted in blue.
+
+
+Item #: SCP-3916
+
+Object Class: Euclid
+
+Special Containment Procedures: One small swarm of SCP-3916-1 is
+contained in a standard biological containment cell at Site-121. It is
+to be fed daily with 500kg of fresh plant matter. Excess instances
+(past roughly 1500) are to be terminated as necessary. Any instances
+that escape containment are to be terminated by conventional means,
+such as fire or insecticide. Any personnel wishing to conduct
+experiments on SCP-3916 should contact its current head researcher.
+Personnel entering SCP-3916-1's containment chamber are to wear
+class-4A or higher protective equipment.
+
+Wild instances of SCP-3916 should be eradicated immediately and
+thoroughly, unless otherwise notified. The Foundation is currently
+cooperating with the government of the United States of America
+(through the cover of LARPA, see Addendum) to capture, kill, or
+otherwise contain all wild SCP-3916 instances, as they have been
+recognized to pose a significant threat to humanity at large. MTF δ-17
+"Metarhizium" is to be notified of any outstanding reports of
+SCP-3916.
+
+Based on previous and projected damage, any uncontrolled population of
+SCP-3916-1 is likely to cause a Class-ARBH event. All Level 3 and
+higher personnel dealing with SCP-3916 are to read the ARBH-Class
+Event Debriefing File.
+
+Description: SCP-3916 is a species of insect that physically resembles
+Chortoicetes terminifera (Australian Plague Locust). There are two
+subspecies of SCP-3916, designated SCP-3916-0 and SCP-3916-1. All
+instances of SCP-3916-1 are currently contained at Site-121, while all
+wild instances are of subspecies 0. SCP-3916 has two anomalous traits
+of particular note.
+
+First, SCP-3916 eats at an alarming rate. A single instance is able to
+consume roughly 100g of matter per second. SCP-3916-0 has only been
+found to eat fresh plant matter, while SCP-3916-1 can eat fresh plant
+and animal matter.
+
+Second, SCP-3916 reproduce unusually quickly, and do so asexually. An
+instance of SCP-3916 will grow visually larger as it consumes more
+food, and after a certain size threshold, split into two instances of
+SCP-3916. Both new instances will be fully-formed adults. Each
+"cloning" takes a significant amount of consumption, currently
+estimated at 500g of food. However, due to its eating speed, SCP-3916
+swarms grow very quickly.
+
+History: The Foundation was first made aware of the existence of
+SCP-3916 when a small swarm of them escaped the captivity of GoI-466
+("Wilson's Wildlife Services") in a transportation accident in in
+Maupin, Oregon, along US Route 26. GoI-466 contacted the Foundation
+for assistance in containment, and the majority of the SCP-3916
+instances were captured or eliminated. GoI-466 informed the Foundation
+of the nature of SCP-3916, and the few instances that remained
+uncontained were deemed to pose a significant threat. The uncontained
+instances of SCP-3916 spread rapidly across Oregon and into
+California, prompting the United States of America's government to
+take action, and leading to the formation of LARPA.
+
+SCP-3916-1's ability to consume animal matter is currently presumed to
+be a mutation accidentally induced during experimentation. This
+development was observed during Incident 3916-A, during which a
+researcher entered SCP-3916's containment chamber, and was attacked
+and eaten. No such mutations have been seen in the wild SCP-3916, and
+as such the instances contained at Site-121 and the wild instances are
+currently considered separate subspecies.
+
+
+Addendum - LARPA: Due to the nature of SCP-3916, the Foundation
+determined that it would be overly difficult to eliminate wild
+instances without alerting the general public. Thus, the Foundation
+contacted the USA government and negotiated the formation of LARPA
+(Locust Active Removal and Prevention Agency), an official government
+organization funded and staffed entirely by the Foundation. LARPA
+serves as a front through which the Foundation can openly take action
+against wild SCP-3916. Site-121, the current containment site of
+SCP-3916-1, has been designated as LARPA headquarters.
+
+
+View newer version >>>>
+
+
+NOTICE:
+
+You are currently viewing an outdated version of this document. Please
+see the bottom of the page for a newer version. This is version 3 of
+4, updated on February 9, 2022. Important changes from the previous
+version have been highlighted in blue.
+
+
+Item #: SCP-3916
+
+Object Class: Euclid
+
+Special Containment Procedures: One small swarm of SCP-3916-1 is
+contained in a modified biological containment cell at Provisional
+Site-136. All exposed surfaces in the containment cell are to be
+covered in at least 1cm of solid hardened glass. The cell is to be
+inspected daily, and any damage repaired immediately. A minimum of two
+identical backup containment cells are to be maintained for use during
+repairs.
+
+The swarm is to be fed daily with 500kg of fresh plant matter. Excess
+instances (past roughly 1500) are to be terminated as necessary. Any
+instances that escape containment are to be terminated by fire. In the
+case of a partial containment breach at Provisional Site-136, MTF δ-17
+is to help re-contain or terminate the escaped instances while the
+site is being evacuated; if a full containment breach occurs,
+Provisional Site-136 is to be destroyed via its built-in nuclear
+warhead. Any personnel wishing to conduct experiments on SCP-3916
+should contact its current head researcher. Personnel entering
+SCP-3916-1's containment chamber are to wear class-12G protective
+equipment.
+
+Wild instances of SCP-3916 should be eradicated immediately and
+thoroughly, unless otherwise notified. The Foundation is currently
+cooperating with the government of the United States of America
+(through the cover of LARPA, see Addendum) to capture, kill, or
+otherwise contain all wild SCP-3916 instances, as they have been
+recognized to pose a significant threat to humanity at large. MTF δ-17
+"Metarhizium" is to be notified of any outstanding reports of
+SCP-3916.
+
+Based on previous and projected damage, any uncontrolled population of
+SCP-3916-1 is likely to cause a Class-ARBH event. All Level 3 and
+higher personnel dealing with SCP-3916 are to read the ARBH-Class
+Event Debriefing File.
+
+Description: SCP-3916 is a species of insect that physically resembles
+Chortoicetes terminifera (Australian Plague Locust). There are two
+subspecies of SCP-3916, designated SCP-3916-0 and SCP-3916-1. All
+instances of SCP-3916-1 are currently contained at Site-121, while all
+wild instances are SCP-3916-0. SCP-3916 has two anomalous behavioural
+traits of particular note.
+
+First, SCP-3916 eats at an alarming rate. A single instance is able to
+consume roughly 100g of matter per second. SCP-3916-0 has only been
+found to eat fresh plant matter, while SCP-3916-1 can eat almost any
+matter, with the only known exception being silicon-based glass.
+SCP-3916-1 seems to prefer fresh organic matter over other matter.
+
+Second, SCP-3916 reproduce unusually quickly, and do so asexually. An
+instance of SCP-3916 will grow visually larger as it consumes more
+food, and after a certain size threshold, split into two instances of
+SCP-3916. Both new instances will be fully-formed adults. Each
+"cloning" takes a significant amount of consumption, currently
+estimated at 500g of food (SCP-3916-1 can consume non-organic matter
+but must consume organic matter to reproduce). However, due to its
+eating speed, SCP-3916 swarms grow very quickly.
+
+SCP-3916-1 has developed a remarkable resistance to chemical-based
+attacks such as poisons or corrosive substances, likely as a side
+effect of its ability to consume them. It is completely immune to all
+conventional chemical attacks, and highly resistant against
+Foundation-engineered and anomalous substances. Physical force is also
+unreliable as SCP-3916-1 can eat through any weapons used against them
+(glass-based weapons have not been found to be practical). The most
+reliable ways to eliminate SCP-3916-1 are currently intense heat and
+radiation.
+
+History: The Foundation was first made aware of the existence of
+SCP-3916 when a small swarm of them escaped the captivity of GoI-466
+("Wilson's Wildlife Services") in a transportation accident in in
+Maupin, Oregon, along US Route 26. GoI-466 contacted the Foundation
+for assistance in containment, and the majority of the SCP-3916
+instances were captured or eliminated. GoI-466 informed the Foundation
+of the nature of SCP-3916, and the few instances that remained
+uncontained were deemed to pose a significant threat. The uncontained
+instances of SCP-3916 spread rapidly across Oregon and into
+California, prompting the United States of America's government to
+take action, and leading to the formation of LARPA.
+
+SCP-3916-1's ability to consume animal matter is currently presumed to
+be a mutation accidentally induced during experimentation. This
+development was observed during Incident 3916-A, during which a
+researcher entered SCP-3916's containment chamber, and was attacked
+and eaten. No such mutations have been seen in the wild SCP-3916, and
+as such the instances contained at Site-121 and the wild instances are
+currently considered separate subspecies.
+
+SCP-3916-1's ability to consume non-organic substances is believed to
+be a spontaneous mutation. This development was first noticed when the
+inside of SCP-3916-1's containment chamber suffered repeated damage,
+prompting review of surveillance footage. Videos showed SCP-3916-1
+seemingly eating at the chamber's walls. This ability, and the
+inability of SCP-3916-1 to consume glass, were confirmed during
+further testing.
+
+
+Addendum - LARPA: Due to the nature of SCP-3916, the Foundation
+determined that it would be overly difficult to eliminate wild
+instances without alerting the general public. Thus, the Foundation
+contacted the USA government and negotiated the formation of LARPA
+(Locust Active Removal and Prevention Agency), an official government
+organization funded and staffed entirely by the Foundation. LARPA
+serves as a front through which the Foundation can openly take action
+against wild SCP-3916. Site-121, the former containment site of
+SCP-3916-1, has been designated as LARPA headquarters. Provisional
+Site-136, the current containment site of SCP-3916-1, is designated
+"Boromine Branch", and is an official LARPA site.
+
+
+View newer version >>>>
+
+
+NOTICE:
+
+You are currently viewing the most current version of this document.
+
+This is version 4 of 4, updated on July 25, 2022. Important changes
+from the previous version have been highlighted in blue.
+
+
+Item #: SCP-3916
+
+Object Class: Keter
+
+Special Containment Procedures: Currently none. All SCP-3916 instances
+in the Foundation's possession have breached containment.
+
+All instances of SCP-3916 are to be exterminated immediately and
+thoroughly. Extermination efforts are to focus on SCP-3916-1 instances
+in particular. Personnel attempting to engage with SCP-3916-1 are to
+observe the guidelines listed in Document 3916-K. The Foundation is
+currently cooperating with various government agencies and GoIs to
+ensure the complete destruction of SCP-3916.
+
+At the time of writing, SCP-3916-1 is the cause of an active
+ARBH-Class event. See the History section below for further details.
+All Foundation personnel are to read the ARBH-Class Event Debriefing
+File.
+
+Description: SCP-3916 is a species of insect that physically resembles
+Chortoicetes terminifera (Australian Plague Locust). There are two
+subspecies of SCP-3916, designated SCP-3916-0 and SCP-3916-1. Both
+subspecies currently exist outside of Foundation captivity. SCP-3916
+has two anomalous behavioural traits of particular note.
+
+First, SCP-3916 eats at an alarming rate. A single instance is able to
+consume roughly 100g of matter per second. SCP-3916-0 has only been
+found to eat fresh plant matter, while SCP-3916-1 can eat any form of
+matter. SCP-3916-1 seems to prefer fresh organic matter over other
+matter.
+
+Second, SCP-3916 reproduce unusually quickly, and do so asexually. An
+instance of SCP-3916 will grow visually larger as it consumes more
+food, and after a certain size threshold, split into two instances of
+SCP-3916. Both new instances will be fully-formed adults. Each
+"cloning" takes a significant amount of consumption, currently
+estimated at 500g of food (SCP-3916-1 can consume non-organic matter
+but must consume organic matter to reproduce). However, due to its
+eating speed, SCP-3916 swarms grow very quickly.
+
+SCP-3916-1 has developed a remarkable resistance to chemical-based
+attacks such as poisons or corrosive substances, likely as a side
+effect of its ability to consume them. It is completely immune to all
+conventional chemical attacks, and highly resistant against
+Foundation-engineered and anomalous substances. Physical force is also
+unreliable as SCP-3916-1 can eat through any weapons used against
+them. The most reliable ways to eliminate SCP-3916-1 are currently
+intense heat and radiation.
+
+History: The Foundation was first made aware of the existence of
+SCP-3916 when a small swarm of them escaped the captivity of GoI-466
+("Wilson's Wildlife Services") in a transportation accident in in
+Maupin, Oregon, along US Route 26. GoI-466 contacted the Foundation
+for assistance in containment, and the majority of the SCP-3916
+instances were captured or eliminated. GoI-466 informed the Foundation
+of the nature of SCP-3916, and the few instances that remained
+uncontained were deemed to pose a significant threat. The uncontained
+instances of SCP-3916 spread rapidly across Oregon and into
+California, prompting the United States of America's government to
+take action, and leading to the formation of LARPA.
+
+SCP-3916-1's ability to consume animal matter is currently presumed to
+be a mutation accidentally induced during experimentation. This
+development was observed during Incident 3916-A, during which a
+researcher entered SCP-3916's containment chamber, and was attacked
+and eaten. No such mutations have been seen in the wild SCP-3916, and
+as such the instances contained at Site-121 and the wild instances are
+currently considered separate subspecies.
+
+SCP-3916-1's ability to consume non-organic substances is believed to
+be a spontaneous mutation. This development was first noticed when the
+inside of SCP-3916-1's containment chamber suffered repeated damage,
+prompting review of surveillance footage. Videos showed SCP-3916-1
+seemingly eating at the chamber's walls. This ability, and the
+inability of SCP-3916-1 to consume glass, were confirmed during
+further testing.
+
+SCP-3916-1's ability to consume glass was discovered on July 25, 2022.
+This ability is believed to be another spontaneous mutation, similar
+to its previous one that allowed it to consume non-organic substances.
+This development was noticed when the SCP-3916-1 instances contained
+at Provisional Site-136 ate through their containment chamber's wall,
+breaching containment. MTF δ-17 was mobilized, and though the events
+that follow are currently unclear, they evidently failed to
+exterminate or recapture the escaped instances. Provisional Site-136's
+on-site nuclear warhead was manually detonated at 11:33 AM, and
+successfully destroyed the site.
+
+At 12:15 PM, LARPA received a distress call from Etna, California. The
+caller claimed that their town was under assault from an unusually
+aggressive group of locusts, and that several people had been eaten.
+Foundation agents were deployed immediately. Upon arrival, agents
+found that all people in the town had already been consumed, and the
+SCP-3916-1 instances had left the area.
+
+At 1:55 PM, the O5 council unanimously voted to declare an active
+ARBH-class scenario, and initiated emergency protocols.
+
+The current time of writing is 5:43 PM. The Foundation has received
+reports of SCP-3916-1 ranging from Oregon to Colorado. Projections
+suggest that at their current rate of growth, SCP-3916-1 will spread
+across the entirety of the United States within eighteen hours, and
+across the entire world within forty-eight hours.
+
+
+Addendum - LARPA: Due to the nature of SCP-3916, the Foundation
+determined that it would be overly difficult to eliminate wild
+instances without alerting the general public. Thus, the Foundation
+contacted the USA government and negotiated the formation of LARPA
+(Locust Active Removal and Prevention Agency), an official government
+organization funded and staffed entirely by the Foundation. LARPA
+serves as a front through which the Foundation can openly take action
+against wild SCP-3916. Site-121, the former containment site of
+SCP-3916-1, has been designated as LARPA headquarters. Provisional
+Site-136, the former containment site of SCP-3916-1, is designated
+"Boromine Branch", and is an official LARPA site.
+
+
+Addendum - Audio log:
+
+- AUDIO LOG: July 25, 2022
+
+< BEGIN LOG >
+
+Stephen Chang: John, we need to get to somewhere safer. There's a
+swarm of locusts headed toward us. We have an hour left at best.
+
+Johnathan Morris: Wait. I have to finish updating the article.
+
+Chang: Who are you even writing this for? You've seen what those
+things can do, John. There won't be anyone left to read this.
+
+Morris: There will be somebody left. There always has been, and there
+always will be.
+
+Chang: Please, John. Listen to me. Those things eat anything and they
+won't stop until they've eaten everything. There's nothing we can do
+except run and hide.
+
+Morris: Bullshit. We are the Foundation. We are humanity's first and
+last line of defense against what should not exist. I've been doing my
+job for twenty-seven goddamn years and I've faced alien gods and
+immortal reptiles and sentient ideas, and I'm still standing here
+today. The Foundation has conquered all that and more. I refuse to
+believe that we are going to get done in by a bunch of insects. So
+shut up and watch the cameras. I have work to do.
+
+Chang: (sighs) Okay. Just hurry up.
+
+Morris: Thank you.
+
+(typing)
+
+Morris: Alright. That should do it.
+
+Chang: You're done?
+
+Morris: (exhales) Yeah. Let's pack up and get out of here.
+
+(silence)
+
+Chang: Hey, you know all that stuff you said earlier? About how we're
+going to come out on top of all of this? Do you really believe that?
+
+Morris: I do.
+
+Chang: How can you look at these locusts and say we're going to be
+fine? Remember Dr. Mattison? Those things ate him in seconds. And now
+they eat through everything, John. How are we supposed to win?
+
+Morris: We have no other choice. We have to win, Stephen, because if
+we lose, there won't be anything left. I believe in the Foundation, in
+humanity, because if I don't, all I have left is fear. And I refuse to
+be afraid.
+
+Chang: Heh. That's one heck of a reason. Well, I think that's
+everything. Let's get go… Oh no. No no no, this can't be happening.
+
+Morris: Stephen? What's wrong?
+
+Chang: The… the locusts. Oh god, the locusts. They're here.
+
+Morris: You said we had an hour!
+
+Chang: An hour at best. But even then… They shouldn't be this fast.
+Why are they so fast?
+
+Morris: Okay. Okay, let's calm down and think. Where are the locusts
+right now? Can we still get to the car?
+
+Chang: No. No, they've already gotten to it. That was our only way
+out. We're going to die, aren't we? I don't want to die, John. Oh god,
+I don't want to die like this.
+
+Morris: Shit. Shit, goddammit. Of all the times… (sighs)
+
+Okay, look at me, Stephen. Remember what I just said about not being
+afraid. If we die here today, I want you to promise me that you will
+die believing that we will win. Because we will. Even if these locusts
+eat every last leaf on this godforsaken planet, even if there's
+nothing left but dirt and rocks, we will win. Promise me that you
+believe.
+
+Chang: I… I don't know, John. I'm scared. I don't want to die here…
+
+Morris: But here we are. What you want doesn't matter anymore,
+Stephen. All that matters now is what you do.
+
+Chang: But what can we do?
+
+Morris: We still have our weapons. I figure the two of us together are
+worth 300, maybe 350 of those locusts. If we kill any more than that,
+it's our victory. Do you think you can do this, Stephen?
+
+Chang: (silence) Yeah. I believe I can.
+
+Morris: That's the spirit. Now come on, those tiny bastards aren't
+going to torch themselves.
+
+< END LOG >
+
+Newest version available
+
+

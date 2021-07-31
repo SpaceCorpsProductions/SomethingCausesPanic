@@ -1,0 +1,1074 @@
+                                    SCP-2759                                    
+                                    ========                                    
+
+                               As Above, So Below                               
+                               ------------------                               
+
+Item #: SCP-2759 
+
+Object Class: Euclid Thaumiel 
+
+Special Containment Procedures: Due to its size and location, SCP-2759 is to be 
+surrounded by 4.5m high barbed wire fencing and patrolled by security personnel 
+until a better form of containment is established. Additionally, remote 
+audiovisual surveillance should be strategically installed around the perimeter 
+and throughout its containment area. 
+
+The surrounding desert within visual range of SCP-2759 is extremely large and 
+arid, making foot traffic in the general vicinity a relatively uncommon 
+occurrence. Therefore, any individuals coming within 5km are to be detained, 
+questioned and amnesticised. 
+
+SCP-2759-1 is to be kept on location in a hermetically sealed provisional 
+containment area designated Site-2759. Any unauthorized activity should be 
+immediately reported to Site Command. 
+
+In order to prevent unnecessary distress in subjects utilized for 
+experimentation purposes, research personnel are discouraged from discussing 
+details regarding the testing process and the nature of the anomaly as a whole. 
+
+UPDATE: As of ██/██/████, all information relating to SCP-2759 
+is considered non-essential to Foundation personnel and thus is currently 
+designated RESTRICTED. This includes knowledge of related items, locations, 
+quantitative and experimental data, personnel records and all other relevant 
+documentation. If you are reading this file in error, terminate your connection 
+and proceed to the nearest medical bay for Class-A amnestic application. 
+
+A small group of individuals selected by the O5 Council are to be given access 
+to Site-2759 and resources for use in study and experimentation. All personnel 
+assigned to SCP-2759 are to be screened daily for fluctuations by an approved 
+Cognition Integration Testing (CIT) Proctor. 
+
+Description: SCP-2759 refers to former Location of Interest and Unexplained 
+Environment 54701. SCP-2759 appears to be an exact replica of the Ziggurat of 
+Ur, found to have materialized near White Sands, New Mexico. Given the 
+significance of the original Ziggurat, Etemenniguru1, the complex has been 
+contained and is under heavy scrutiny and analysis by Foundation historians and 
+archaeologists. 
+
+Although mostly inactive, there have been multiple unverified reports of "moving 
+shadows" seen cast on the walls and floor of the temple interior. It is unknown 
+if this phenomenon is hallucinogenic or otherwise, as claims tend to vary 
+between individuals and are not detectable via video surveillance. Additionally, 
+evidence suggests an anomalous connection may exist between SCP-2759 and the 
+original temple complex, with meteorological fluctuations and occasional noises 
+that resemble those reported in the vicinity of Tell el-Muqayyar, Iraq. This, 
+combined with the difficulty of containment, led to it's official classification 
+as Euclid on ██/██/████. 
+
+SCP-2759-1 refers to a clay brick altar recovered from within the central shrine 
+of SCP-2759. The object was discovered with the skeletal remains of an unknown 
+individual laying on its surface. Dating places the remains at approximately 
+████ years old. 
+
+Unlike other altars of its kind, SCP-2759-1 features atypical iconography, 
+including several large cuneiform symbols engraved into the sides of the 
+object.2 
+
+SCP-2759-1's primary anomalous nature becomes apparent when an individual dies 
+while laying across the surface of the object. The subject does not need to be 
+awake for this and therefore sedation is to be administered during testing.3 
+Once death has occurred, the altar will vibrate with a low hum for around thirty 
+seconds, after which the cuneiform symbol for "TRANSPORT/MOVEMENT" will flash 
+briefly and emit a soft tone. The altar will then cease action. 
+
+
+Incident Log 2759-03: 
+
+During evaluative testing of SCP-2759-1, Sr. Researcher Rowena Scully reportedly 
+left her work-provided cell phone on the surface of SCP-2759-1 while 
+administering inert gas (nitrogen) to D-8821. Twenty minutes later, Dr. 
+Rosenberg received a call from Scully's number, despite her phone having been 
+accounted for. Dr. Rosenberg was then able to speak to the deceased D-8821 via 
+an unknown means. The transcript of the call can be found below: 
+
+[BEGIN TRANSCRIPT] 
+
+Dr. Rosenberg: Hello, yes? 
+
+D-8821: Doc? Are you there? 
+
+Dr. Rosenberg: Rowena-? Who is this? 
+
+D-8821: What do you mean? Is this part of the test? I know you guys mess with 
+some weird stuff, but this one hell of a trip. 
+
+Dr. Rosenberg: Wait… D-8821? 
+
+D-8821: Yeah. Last thing I remember was you guys knocking me out? Now I'm… 
+here. 
+
+A brief period of silence is heard as Dr. Rosenberg sets up a recording device 
+and places the call on speakerphone. 
+
+Dr. Rosenberg: Understood. Can you describe your surroundings? 
+
+D-8821: Well, uh, it looks a lot like that temple you showed me. The one from 
+New Mexico? I woke up, half naked on the steps out here. I found the phone 
+shortly afterward. Your name is the only one I recognize from the contacts. 
+
+At this time, SCP-2759 was searched and monitored for signs of D-8821; none were 
+found. 
+
+D-8821: I'm definitely not in New Mexico. Too cold. Foggy. I think I see trees? 
+
+Dr. Rosenberg: We're not picking you up at either complex. Do you see any 
+identifying landmarks? 
+
+D-8821: Too much fog, I can't see maybe ten feet in any direction outside the 
+temple. I bet I'll see something from the top. Give me a second. 
+
+Silence, followed by sounds of movement for approximately ten seconds. 
+
+D-8821: Oh boy. 
+
+Dr. Rosenberg: What do you see? 
+
+D-8821: Well, uh, it just seems to go on forever. The fog. There is only this 
+place. Where the hell am I, Doc? 
+
+Dr. Rosenberg: I don't know. We are trying to locate you. 
+
+D-8821: Damn it, the battery is dying. What should I do? 
+
+Dr. Rosenberg: Stay where you are for now. We will try to send someone to aid 
+you. 
+
+D-8821: Please do. Tell them to bring me a sweatshirt. 
+
+Dr. Rosenberg: Good luck, D-8821. 
+
+D-8821: Yeah. 
+
+[END TRANSCRIPT] 
+
+Note: Following this call all contact with D-8821 was lost. 
+
+
+Addendum 2759-1: 
+
+Due to the events of Incident 2759-03, it has been determined that SCP-2759-1 is 
+not sacrificial by nature, but instead some sort of ancillary tool used for 
+interstellar or trans-dimensional travel. 
+
+Subjects report a brief period of unconsciousness following death that lasts 
+approximately fifteen minutes. After this period, the subject's consciousness 
+will be translocated to another copy of SCP-2759 seemingly not located on Earth, 
+designated SCP-2759-E1. Subjects retain a portion of the items and clothing they 
+died with, however, man-made materials have been shown to degrade at a variable 
+accelerated rate. Through extensive testing, the following factors have been 
+found to influence what will ultimately be transferred to SCP-2759-E1: 
+
+Size and shape of the item (With a preference for smaller and rounder objects) 
+
+Complexity of the item4 
+
+How the item relates to the concept of "tool", "instrument" or "weapon"5 
+
+How the item relates to the concept of "clothing" vs "belongings" 
+
+Attachment to item (sentimental or otherwise) 
+
+GPS positioning systems fail to trace the location of SCP-2759-E1, however, 
+audiovisual transmissions can still be received with decent clarity when 
+receivers are placed within .4km of SCP-2759, SCP-2759-1, or the original temple 
+complex. SCP-2759-1 seems to operate without issue regardless of its distance 
+from SCP-2759. 
+
+The composition of SCP-2759-E1's environment and atmosphere are unknown. It is 
+presumably breathable and generally considered cold, humid and subject to a 
+dense fog that surrounds the complex proper. Unlike SCP-2759, SCP-2759-E1 is the 
+only temple complex with architectural deviations from the original Ziggurat of 
+Ur, including a spacial anomaly at the center that is defined as SCP-2759-E2. 
+
+It is believed that the dimension containing SCP-2759-E1 and SCP-2759-E2 has a 
+mild cognitohazardous effect on sentient beings, the full scope of which is 
+unknown at this time. 
+
+
+Exploration Log 2759-Enlil: 
+
+Abstract: Exploration 2759-Enlil was approved and took place on 
+██/██/████, two days after contact with D-8821 was lost. D-3733 
+was sent through SCP-2759-1 with shoulder-mountable audiovisual recording gear, 
+one hooded sweatshirt, and a small kit containing a flashlight, three flares, 
+extra batteries and two granola bars, establishing contact eighteen minutes 
+after death. 
+
+[BEGIN LOG] 
+
+D-3733: Did one of you take my pants? What the hell guys, it is really cold and- 
+
+Control: [coughs] -Okay, D-3733. Let's get started. You should have a mountable 
+camera in your pack. Please take it out and activate it. 
+
+D-3733: Ugh, alright. Let me just tie the sweatshirt around my waist. 
+
+After approximately one minute, camera feed comes live, revealing a full frame 
+of gray fog. Camera view is jostled as D-3733 is seen scaling the side of the 
+temple complex. As they approach the zenith, subject pans camera around, 
+revealing the expanses of fog to stretch on around SCP-2759-E1 in all 
+directions. The fog line terminates abruptly just outside the perimeter. Sky is 
+dark and purple in color. No celestial bodies are present, but area is dimly lit 
+and seemingly desaturated. 
+
+D-3733: I'll be damned. No stars. Where is this? 
+
+Control: That's what we're hoping to find out. 
+
+D-3733: This place- I'm going to die here, aren't I? 
+
+Control: What makes you say that? 
+
+D-3733: A feeling, I don't know. There's this weight, this heavy, empty feeling 
+in my stomach. It feels like sorrow, like death. 
+
+Control: Just try and remain calm, if you need a minute to adjust, we can wait. 
+
+D-3733: I'm calm, I'm calm. 
+
+Subject stops for a moment and is heard taking a deep breath. After a period of 
+silence, a voice is heard off-camera that resembles a small child. 
+
+D-3733: Huh-? Wait, hey! Hey! 
+
+Camera swings around as the subject turns, the feed showing brief movement 
+coming from the entrance to the interior of the central temple. 
+
+D-3733: Someone just went inside. Should I follow? 
+
+Control: Affirmative, but make sure to keep an eye out for any signs of D-8821. 
+You'll find a flashlight and some flares in your kit. 
+
+Brief silence, some wind and rustling is heard. 
+
+D-3733: Found the flares. No flashlight. 
+
+Control: At least it's something. 
+
+D-3733 is seen approaching the threshold at the top of SCP-2759-1. Subject 
+lights a torch, which bathes the corridor in red light. 
+
+D-3733: Hello? Anyone? 
+
+D-3733 proceeds down the hall, into the central shrine, or cella, which contains 
+several connecting pathways. The walls are lined with cuneiform symbols and 
+imagery, and a group of clayware pots litter the ground in pieces of varying 
+size. Post analysis revealed much of the symbols relate to Ereshkigal, Sumerian 
+goddess of the Underworld. 
+
+D-3733: I hear something. 
+
+Audio feed picks up the sounds of whispers coming from the hallways. As D-3733 
+passes by, figures are seen moving in the shadows. 
+
+D-3733: There are people… They're hiding just outside of view. I don't know 
+how many. 
+
+Subject takes a second before choosing a direction. The red light reveals the 
+hall to be empty and slopes downward. The ceiling drops swiftly and turns 
+sharply right. After a few seconds, a distant scream is heard. 
+
+D-3733: This place is freaking me out. The walls are cold, I'm cold. Everything 
+is cold. 
+
+Control: Noted. Please continue. 
+
+D-3733 descends into the heart of the temple. The camera picks up further signs 
+of distress and unintelligible vocalizations. 
+
+D-3733: No, No- I don't think so, nope. I'm done. Go ahead and pull me out now, 
+please. Please. 
+
+Control: That is not possible at this time. Your mission is to locate D-8821. 
+
+[EXTRANEOUS DIALOGUE REMOVED] 
+
+D-3733: Fine, but don't expect me to be happy about it. 
+
+Control: Understandable. Now, if you would. 
+
+D-3733 sighs and continues on. Coming to a small intersection, subject lights up 
+the left pathway, revealing it to be a dead end. Three emaciated, naked 
+humanoids are crouched in the corner and sharing a single tattered blanket. They 
+do not look up at D-3733, but are heard whimpering and speaking in an unknown 
+language. One figure appears to be albino in pigmentation. 
+
+D-3733: I'm not going up to them. 
+
+Control: Fine by us. 
+
+Subject chooses the right hand path, which continues to slope downward as it 
+angles back towards the center of the temple. D-3733 says nothing for several 
+minutes, stopping multiple times to look behind him. The flare starts to burn 
+out, D-3733 proceeds to light another. Upon closer inspection, the used flare 
+appears aged and worn, burning out five minutes earlier than expected. 
+
+D-3733: At this rate I'm going to be out of light in no time. Ina etuti absu.6 
+What? Was that me? Did I say that? 
+
+Control: We believe that the environment may be exerting some effects on your 
+mental state and cognitive faculties. How do you feel right now? 
+
+Mild static interference overtakes the audio feed for two seconds. 
+
+D-3733: -[stu]pid question. I feel like I'm walking into my grave. 
+
+Control: I understand that this is not an optimal situation. The sooner you find 
+D-8821, the sooner we can find a way to get you back. 
+
+Subject does not respond and moves along the now bare walls. D-3733 proceeds for 
+two minutes before the hallway terminates sharply in a 180° turn that continues 
+down into darkness. 
+
+D-3733: [muttering] Ana harrani sa alaktasa la tarat, eli baltuti ima'idu 
+mituti.7 
+
+Control: I'm sorry? 
+
+D-3733: I didn't say anything. 
+
+The pathway begins to widen out, another right turn is seen at the bottom of the 
+landing. 
+
+D-3733: There's light up ahead. 
+
+As D-3733 rounds the corner, an archway is seen roughly 30m away. Waves are 
+heard, crashing against unseen shores. Several voices are discerned, drowned out 
+by the other noise. 
+
+D-3733: I feel a breeze. Is that the sky? 
+
+Subject approaches the area now designated as SCP-2759-E2, the microphone 
+picking up the sounds of more voices. As D-3733 emerges from the archway, the 
+ruins of an amphitheater-esque complex come into focus. The "seats" of the 
+structure grow larger and steeper as they move outward, becoming impossible to 
+peer over and reaching an unknown height. One wall of the structure seems to 
+have collapsed, and waves from a dark ocean on the other side roll in, pooling 
+in the far side, across from the door back into SCP-2759-E1. Humanoid figures 
+are seen in abundance, easily a hundred. All individuals seem to be emaciated 
+and vary widely in physical characteristics. A few possess additional limbs or 
+mutations. All appear to be sapient and intelligent to a degree, conversing with 
+one another in various unknown languages ranging from heavily distorted Sumerian 
+to hisses and clicks. No sign of D-8821 is found. 
+
+D-3733: This just keeps getting weirder. Look. 
+
+Subject points the camera upwards to reveal a small moon, orange-red in color, 
+lingering in the violet sky. 
+
+D-3733: No moon outside the temple, as far as I could tell. 
+
+A group of entities are seen loitering down by the shore. D-3733 proceeds to the 
+pool to investigate. 
+
+D-3733: These guys don't seem hostile. They all seem quite sad, actually. 
+
+Approaching the waterline, D-3733 keeps to himself, although several figures are 
+seen looking at him and speaking to one another. 
+
+D-3733: Hi, guys. 
+
+Figures say nothing but continue to stare. Minor interference is detected on 
+both audio and visual equipment. 
+
+D-3733: Oh, I know. 
+
+Subject checks the kit and retrieves a granola bar, the second having not 
+survived the transfer. D-3733 unwraps it, breaking the snack into small pieces 
+and offering them to the creatures in an outstretched hand. 
+
+D-3733: You guys eat? Like food? Food? Sorry about the raisins, but it's all I 
+have. 
+
+Entities step back cautiously as D-3733 approaches. With some convincing, one 
+individual, possessing scales and a flat, widened forehead, tentatively reaches 
+out and accepts a piece. The being sniffs the item and eats it, expressing 
+approval. The humanoid says something to the others, one of them is heard saying 
+"akalum", or "food". Several others approach in interest, including two which 
+appear to have chitinous carapaces and large insect-like mandibles. They make 
+noise like cicadas as they snatch bits of granola and consume them voraciously. 
+
+D-3733: Whoa, slow down, there's not enough for everyone- 
+
+D-3733 is interrupted by a distressed vocalization. Camera turns to show a 
+humanoid with equine features, writhing on the ground, howling in apparent pain. 
+Several other figures crowd around the entity in with a mix of concern and 
+curiosity. A few moments later, the crowd grabs their troubled peer and drag it, 
+screaming, to the dark shoreline. They pause for a moment, as if reluctant, and 
+then push the entity into the ocean waters below. It disappears beneath and does 
+not resurface. No signs of struggle are seen, and the screaming ceases 
+instantly. At this point, an unknown Sumerian dialect is detected among the 
+chatter. POI-2759-A, an antlered humanoid, is seen speaking to D-3733. A 
+Foundation historian is brought in to help with translation. 
+
+POI-2759-A: [Are] you the Annunaki? The ones who know the stars? They who 
+birthed the [unknown]? 
+
+D-3733: [in Sumerian] They are the child of Ningishzidda, Lord of the Artifact 
+of Life. They see through the eyes and ears of all children. 
+
+POI-2759-A: We are those without light, those which wait at the feet of Anu. 
+Eternal [unknown] of the gateway, the [firmament/world] of twilight. 
+
+Control: Please ask the individual where you are located. 
+
+D-3733: I don't think they understand English. 
+
+POI-2759-A: Have you come to pay rites to the Mistress of the Underworld? 
+
+D-3733: [in Sumerian] They are the souls of the Damned, open the gate so they 
+may enter the Valley. 
+
+POI-2759-A frowns and appears to step aside, allowing D-3733 a full view of the 
+ocean, which stretches as far as the eye can see. No fog is present. 
+
+D-3733: I don't like the look of this. 
+
+Control decides not to tell the subject about their conversation with 
+POI-2759-A. D-3733 stares into the depths of the ocean as the surface slowly 
+ripples. 
+
+D-3733: I feel nauseous. I need a minute. 
+
+Subject sets the camera down and sits on the pathway. Thirty seconds of silence 
+pass, D-3733 is seen sitting with his head in his hands. Subject looks out at 
+the water, which is still black in color. 
+
+D-3733: There- There's something down there. 
+
+D-3733 picks up the camera and angles it downward. Small specks are seen in the 
+distance. The dark liquid is abnormally clear, view disrupted minimally by 
+smooth, rolling waves which appear almost velvet in nature. Due to worsening 
+static distortion, it is impossible to discern what the objects are. 
+
+D-3733: The Tiamatu.8 [pause] That's what it is called, I think. The Valley of 
+the Lost. What? Stop it. 
+
+Control: Are you alright? 
+
+D-3733: I'm sorry, yes, it's this- thing. It's trying to talk to me, to talk 
+through me. Filling my head with knowledge and… oh. 
+
+D-3733 pauses and appears to be listening. 
+
+D-3733: I-I see. I'm on my way. 
+
+Subject hesitates before facing the ocean, bending over to look down. 
+
+Control: What? Who is talking to you? 
+
+D-3733: Reflected in the mirror, as above, so below, for each sin incurs greater 
+debt unto the soul. Forgive me. 
+
+Control: Please exit through the archway, D-3733. 
+
+D-3733 says nothing, takes a breath, and jumps from the edge into the dark 
+waters below. Camera seems unaffected by this, although all light is quickly 
+extinguished. 
+
+Control: D-3733, do you copy? 
+
+Silence is recorded for thirty seconds. No sounds of water are present. 
+
+Control: D-3733, please respond. 
+
+D-3733 does not respond and is considered lost. However, over the next fourteen 
+hours, D-3733's voice is picked up sporadically before static distortion 
+overwhelms the transmission. 
+
+D-3733: [laughter] - No, stop. Get out of my head! 
+
+D-3733: It will remain. It will remain. [repeats] 
+
+D-3733: [in Sumerian] Now the debt shall be paid. 
+
+D-3733: This is my fault, I did this, I know. Please, stop telling me. I want to 
+be alone. 
+
+D-3733: [unintelligible vocalizations] 
+
+D-3733: [sobs] I'm sorry, ma. 
+
+[END LOG] 
+
+
+Incident Log 2759-04: 
+
+On ██/██/████, personnel on site at SCP-2759 reported the 
+activation of SCP-2759-1 without external manipulation. No one was observed 
+leaving or arriving from SCP-2759-1, it is unknown at this time who or what may 
+have caused the artifact to activate. 
+
+Exploration Log 2759-Eribu: 
+
+Abstract: Exploration 2759-Eribu was approved after the events of Incident Log 
+2759-04. The goal of the exploration was to ascertain the possible cause of 
+SCP-2759-1's activation. Several attempts were made to send D-Class personnel 
+through with surveillance equipment, but all failed to reconnect with Site 
+Command post transversal. D-1212 was the next individual who successfully 
+transitioned to SCP-2759-E1 with the equipment needed to remain in contact. The 
+whereabouts of the other subjects are unknown. 
+
+D-1212 was administered inert gas (nitrogen) while laying across the surface of 
+SCP-2759-1, equipped with the same gear as in the previous log, plus an extra 
+set of mountable cameras, one handheld camcorder, an extra flashlight and 
+additional provisions. Audio contact was established twenty-one minutes after 
+death. 
+
+[BEGIN LOG] 
+
+Once more, the camera's activation reveals SCP-2759-E1 and its fog-lined 
+perimeter. The quality and unsteadiness of the feed implies the mountable 
+cameras did not survive traversal into the anomaly. D-1212 is instructed to 
+observe the rest of the temple exterior before entering the cella. Subject's 
+breath is seen as they circumnavigate the center of the temple. 
+
+D-1212: This place is giving me the spins. 
+
+Control: Take as much time as you need. 
+
+D-1212 rests for a moment before continuing onward. 
+
+D-1212: You'll get me out of here if things go south? 
+
+Control: We'll do everything we can to keep you safe. 
+
+D-1212: Thank you. 
+
+Coming around the side, another entrance into the temple is visible, farther 
+down and out of view. In the video feed, a dark silhouette is seen peering out 
+of the entrance. Subject starts towards it, wordlessly, and the entity 
+disappears into the structure. D-1212 approaches the entryway and points the 
+camera into the darkness. She pauses, then pulls off her pack and looks inside, 
+taking out a flashlight and switching it on. 
+
+The hallway is wide but low, dipping down before ending at a left turn. More 
+cuneiform imagery is seen on the walls, the symbols "mul" and "ki"9 are 
+predominant, seen carved over the relief sculptures that were present before. 
+The reason for this vandalism is unknown. 
+
+D-1212: I don't know what these symbols are, but they feel.. loud? Familiar too. 
+Hello? 
+
+Control: Noted. We are analyzing the writing now. Please continue. 
+
+Subject takes the turn to see it terminate in a small room of unknown purpose. 
+In the center is a clay altar that looks like SCP-2759-1. D-1212 approaches it 
+and places a hand on it. 
+
+D-1212: Warm. Is this another one of those tables that you put me on? 
+
+Control: It appears to be. 
+
+Unknown: It is. 
+
+D-1212 panics and swings around, dropping the camera. View is clouded with dust 
+and lays askew, with two pairs of legs seen struggling. After a moment, the 
+scuffle subsides. 
+
+Unknown: Wait, stop- stop-Just- calm down! 
+
+D-1212: The hell I will. Who are you? 
+
+Unknown: [quiet, inaudible] 
+
+D-1212: Thank goodness, but how? Why are you even here? 
+
+Unknown: [quiet, inaudible] -number of dead folk that end up here, I mean 
+wouldn't you? It's crowded enough here as is. [louder] Is Site Command in your 
+ear? Can you tell them to contact O5-11, tell him MacLaughlin wants to speak 
+with him. He'll know who I am. 
+
+D-1212: Sure, but- wait, dead folk? Am I -? 
+
+Subject is seen hyperventilating. Control attempts to contact O5-11 about the 
+matter; no response is given. The entity10 is seen moving into view of the 
+camera and approaching. He brushes the lens and sets the device on a ledge, 
+facing the two. 
+
+MacLaughlin: They didn't tell you? Jesus. Short answer is yes, but it's never 
+that simple. What you are right now is an informational construct. It's what we 
+all are, really- information. At present moment, your information is on a 
+different substrate, or plane of existence, or whatever you want to call it. If 
+it makes you feel any better, you won't be dead forever. At least, you won't be 
+stuck here forever, which is obstensibly worse. Death is a blessing, don't take 
+it for granted. 
+
+D-1212: What do you mean? 
+
+MacLaughlin: It- It's nothing to you. This is what you want, right here. 
+
+MacLaughlin is seen producing a clay disk, roughly 15cm across. The object, now 
+classified as SCP-2759-2, possesses a carving of an isosceles triangle but 
+appears otherwise unremarkable. 
+
+D-1212: And what is that? 
+
+MacLaughlin: The way back. Well, it makes the way back, the right way back. 
+
+D-1212: The right way? 
+
+MacLaughlin: Trust me. We've been looking for this for a while. 
+
+D-1212: We? How many more of you are there? 
+
+MacLaughlin: Forty-something. 
+
+MacLaughlin is seen approaching the altar and laying the disk flat on its 
+surface. The altar hums, the symbol for "HALL/VESTIBULE" glowing bright. O5-11 
+arrives onsite unannounced and assumes administrative control of the situation. 
+
+MacLaughlin: Not where we want to go. Look here though. 
+
+He turns the object like a dial, and as he does so, the light switches to 
+"GARDEN", then to a new symbol where "UNDERNEATH" was present on SCP-2759-1, 
+with the frequency of the hum audibly changing with each. 
+
+MacLaughlin: There we are. 
+
+D-1212: That'll take me back? 
+
+MacLaughlin: Yeah. You go first. 
+
+D-1212 scrambles onto the altar and lays down. 
+
+MacLaughlin: This journey is much easier if you're already dead. Sorry I can't 
+be more helpful. 
+
+D-1212: What do you mean? 
+
+MacLaughlin: It'll be quick, I promise. 
+
+MacLaughlin is seen pulling out a small knife. Before D-1212 can react, he is 
+seen pulling the subject's head back and slicing her cartoid artery in one 
+motion. D-1212 quickly dies via blood loss, the altar reacting as expected not 
+long after. 
+
+MacLaughlin: It doesn't get easier. Let's hope this works. 
+
+Once the altar stops function, they are seen pulling the corpse of D-1212 off 
+the surface and laying down. They appear to fall immediately unconscious, the 
+altar starting to hum only seconds later. 
+
+Sixteen minutes later, D-1212 is found unconscious on the grounds of SCP-2759, 
+SCP-2759-2 laying beside her. MacLaughlin is not found, and O5-11 debriefs 
+several Level 5 members of Site Command. 
+
+[END LOG] 
+
+
+Addendum 2759-1: 
+
+After the events of Exploration 2759-Eribu and with the assistance of O5-11, 
+personnel assigned to the project were screened and reassigned as necessary. 
+Select Foundation staff assigned to SCP-2759 were kept on the project and 
+debriefed on the existence of a heretofore unknown Mobile Task Force consisting 
+exclusively of incorporeal entities informational construct facsimiles of 
+Foundation agents. These beings are able to freely travel via SCP-2759-1's 
+anomalous properties utilizing an unknown vector.11 Using SCP-2759-E1 as a focal 
+point, the O5 Council is now able to communicate with the deceased Mobile Task 
+Force Omega-Zero ("Ará Orún") with relative ease to corroborate, plan and 
+execute missions in a discreet and effective manner. 
+
+Reclassified as Thaumiel on 04/10/2012 per request of O5-11. 
+
+Exploration Log 2759-Anzu: 
+
+Abstract: On 09/13/2012, an exploration of SCP-2759-E1 and SCP-2759-1's 
+alternate destinations was approved by O5-11. A team of five members from MTF 
+ω-0 were selected to travel to SCP-2759-E1, set up a small short-term camp, 
+then split up into teams to explore both remaining destinations and, if 
+possible, find another instance of SCP-2759-1 to return with. Kits packed with 
+standard Mobile Task Force gear and redundant sets of audiovisual surveillance 
+equipment were placed on SCP-2759-1 during transport. 
+
+After one hour of radio silence, it was assumed that none of the broadcast 
+equipment successfully transferred to SCP-2759-E1. Two weeks after the start of 
+the exploration, a personal log book of the late agent Richard Larenz was 
+discovered on the grounds of SCP-2759. 
+
+
+
+Footnotes 
+
+1. A name which translates roughly to "Temple whose foundation emanates aura". 
+
+2. Translated roughly as "TRANSPORT/MOVEMENT, GARDEN, HALL/VESTIBULE, 
+UNDERNEATH" 
+
+3. As of ██/██/████, inert gases will now be used for ease of 
+testing and subject comfort. 
+
+4. Audio broadcasting equipment averages at a 27% rate of success, cameras/video 
+equipment 18%, with more sensitive equipment yielding an average 10% chance of 
+transference. 
+
+5. Average rate of transference for a basic weapon (Tactical knife): 3.4% 
+
+6. Sumerian for "[To] live in darkness". 
+
+7. Sumerian. Roughly "On this road, whose course has no way back, the dead will 
+outnumber the living." 
+
+8. "abyss/ocean" 
+
+9. "Mulki" meaning "A celestial body which has been separated/cleaved/broken. 
+
+10. Later identified as Agent ███████ MacLaughlin, determined KIA 
+on ██/██/████ following a containment breach of SCP-███. 
+
+11. Recovered materials suggest SCP-2759-E1 is likely entirely construct in 
+nature, however, the "realness" of its reality is still subject of debate, as 
+well as our own, for that matter. 
+
+
+
+VIEW PERSONAL LOG OF AGENT RICHARD LARENZ 
+
+
+Personal Log of Richard Larenz
+
+Personal Log of: Agent Richard Larenz, KIA 10/12/2009, member of
+Mobile Task Force Omega-Zero ("Ará Orún")
+
+Date: 9/13/2012
+
+Travel to the Underneath was successful for the most part. No
+broadcast equipment made it through though. We decided to keep going
+with the mission; the log books made it through no problem, and we
+have one of those instant-print cameras. Apparently the lack of LCD
+screens makes a big difference in this dimension, so we will use that
+in the meantime. Three of our five two-ways made it, we are lucky to
+even have that. Lowrie found one of the mircodrones in the pack, so
+she is going to set it up and see if anything exists outside the
+temple. Doubtful, but worth a look.
+
+It's nice to inhabit a real body again. A real real body. Even if we
+are dead, we are alive as we'll ever be in this place, which is more
+than enough motivation to come out this way.
+
+Who am I kidding? This place sucks. I'm hungry. Hungry! Haven't felt
+that in a long time. The pangs are real though- almost as if I've been
+starving myself for all these years. I wanted to plow through our
+rations but MacLaughlin was right. We need to make it last. Apparently
+the folk in this place won't succumb to hunger, but they'll feel the
+pain of it. They're already dead too, aren't they?
+
+We avoided the main shrine and set up a pop-up base camp near the
+return altar. Vasilev and MacLaughlin are going to check out the
+"GARDEN" destination, while Fontaine and I check out "VESTIBULE".
+Vassi spent months pouring over the texts and learning the language,
+and he has some theories as to where these places go. None of them are
+good.
+
+Date: 9/14/2012
+
+Realized there is no way to tell time in this place. I swear
+everything crawls by, but it's probably just me. MacLaughlin
+supposedly asked for a few watches. None of them made the transition,
+and our circadian rhythms haven't existed for years. Who needs sleep?
+Not I, said the ghostly apparition. Oh well.
+
+The first two set off today. Watching MacLaughlin tune the altar and
+lie to sleep reminded me- we are really out of our depth here. Mobile
+Task Forces undergo years of specialized training and experience with
+their chosen field. We are a hodgepodge collective of the dead that
+never die. Vasilev was a Junior Researcher before his death, I think.
+Just a baby, taken hostage, forced to pour his mind out into a crystal
+drinking glass only to get caught up in the assailant's crossfire and
+Swiss cheese'd. I was there watching as his brain was forced out of
+new holes in his head, but he wouldn't see me until a little later.
+Swore I smelt it, the gray matter, the blood and cerebrospinal fluids
+pooling and mixing around his mangled corpse.
+
+There's one thing we all have in common though, one thing that makes
+us almost invincible as a team: We aren't afraid to die. Been there,
+done that.
+
+In fact, I know a few Omega-Zeds that were grabbing at any chance they
+could get to experience something other than what we are out there. I
+don't blame them. So many of us want to die, to really die, and there
+had to be a way out. Some tried erasing all traces of themselves, but
+it didn't work. Not like intended, anyway. If you listen, you can
+still hear them, screaming in unison, not at all closer to approaching
+the veil than the rest of us. Good times.
+
+I didn't want the suicidal bunch, so I took along four Orúns that
+weren't about to dive headfirst into the maws of the void. Still, we
+were giddy. Well, everyone except Vassi- he is always miserable. As
+the altar finished working on MacLaughlin and his turn approached, I
+watched as he traced his form, feeling the bridge of his nose, the
+angle of his chin, the width of his forearm.
+
+As if memorizing the shape of his coil.
+
+In fear he might lose it again.
+
+Fontaine and I decided it was time. Lowrie volunteered to be the one
+who stayed behind to keep watch on the pop-up site and do some drone
+surveillance. She has high coghaz tolerance and a morale most of us do
+not possess, so we figured she would fare alright. The rest of us took
+two radios and went our separate ways. We waited a bit for the first
+two to contact us before setting off ourselves. Felt like forever, but
+they called in eventually, both sounding very relieved. I was too.
+Said they ended up in a grove of sorts. Lots of foliage, and it was
+warm. Sounds like a dream.
+
+It's odd, seeing the corpses of your teammates pile in the corner
+while knowing that they are still very much alive (In whatever sense
+"alive" is in this place). I couldn't keep myself from looking at
+Vasilev's body, his blank, half-open eyes, glazed over with that milky
+sheen only the dead can produce. Is that what we looked like? What did
+they do with our bodies? I never checked.
+
+Not that it matters. If all goes well, I'll be dead again in a minute.
+See you on the other side.
+
+Emerging from the void was like ripping the bandaid off of my gaping
+existential wounds. I'm here, though.
+
+I had this strange feeling right before I lost consciousness, like I
+had remembered something. Can't tell you what it was exactly, but it
+was important. Like one of those things you shouldn't forget,
+shouldn't be able to forget. I felt it once before, when I died. When
+I closed my eyes this time, that familiar dark engulfed me and I
+forgot it just the same.
+
+I woke up in what I can only describe as a hallway for gods. The roof
+is immeasurably high, disappearing on occasion behind clouds that
+linger near the very top. The walls I saw were littered with
+cuneiform, and I almost instantly regretted not bringing Vassi. The
+walls I didn't see, however, eluded us entirely. How big is this
+place?
+
+I was noting the windows, stained, ornate and perfect in design.
+Colorful, not like the temple. Crafted by the hands of a power beyond
+comprehension. Light poured in from outside, though all I saw was more
+gray fog. The mind-bending is a little different here, not as
+depressing. It's still there though, trying to push thoughts into my
+head.
+
+Went to take some photos and the camera is gone, hopefully the other
+two have a copy of their own. Lowrie briefly checked in, said drone
+surveillance revealed little so far. Said she might try the other sky
+for clues. Took me a while to figure out what she meant. Fontaine
+joined me not long after, and we decided to set up camp. We're finally
+getting tired.
+
+Sleep is for the weak. Too many nightmares. Fontaine had them too.
+Shaken awake by the horrors of a long-dead mind, I righted myself to
+see his rugged form fidgeting with a pack of cigarettes. He found out
+a little while later that the lighter didn't survive the journey.
+
+Fontaine was a Rat before he died. They always get the worst of it,
+moribund in the depths of some hellhole. He knew nothing else. In
+fact, his spirit had clawed its way out of that hole once his
+teammates left him behind. He harbored no resentment though, claiming
+he would have done the same.
+
+"I was too far gone", he would say. "I was a liability."
+
+Would he do the same to me? Could I do the same to him? Funny how even
+your own death doesn't prepare you for the possibility of it happening
+again.
+
+The whispers are getting louder, so we've decided to move on.
+
+Been wandering this place for a while. There doesn't seem to be an
+end, but we know it isn't true. If there was one set of walls, the
+others had to exist too. We're cursing ourselves for not just
+following the wall itself, but I don't know how much that would've
+helped.
+
+It took a while for Vasilev and MacLaughlin to check in, apparently
+they were hiding from something. Something big. They wouldn't, or
+couldn't, elaborate on it much more. Vasilev says it's the Garden of
+Babylon, and not the hanging one. Don't know what that means, maybe I
+should have studied a bit more.
+
+I worry about Lowrie.
+
+We made a breakthrough today. Found a spiral staircase, going up. Not
+necessarily where we want to go, we really just want to see whatever
+else is in this place. No sign of a return altar. The architecture
+doesn't seem even remotely Sumerian. In fact, it doesn't resemble
+anything I've ever seen before. We are beginning to doubt we will find
+a way back at this point.
+
+At the top of the stairs, we got a nice view of the place. It has to
+be dozens of kilometers across, maybe more. There's something in the
+distance, some change in the layout that implies this place is not
+actually endless. We found some cuneiform tablets too, transcribed the
+symbols. I'll have Vasilev translate them if when we get back.
+
+Note: See Recovered Materials Log 2759 for more information.
+
+Radio silence. Not sure what to think. Fontaine is restless and
+insists we keep moving.
+
+Made it to the other side of the complex. Felt like days of walking,
+but I have no frame of reference. The journey revealed a small temple
+contained within this immense complex. Like a scaled-down version of
+the Ziggurat itself. It felt like a joke, and it would have been funny
+if it didn't have this ominous churning sound emanating from within,
+something mechanical, perhaps. Fontaine and I are debating our next
+plan of action.
+
+We have decided to investigate. Since caves and corridors are his
+specialty, Fontaine is leading. We waited a while to see if the noise
+would subside on its own. It didn't. If anything, it's louder, and
+changing. I hear the words in the sound now. It's our only lead, so
+hopefully this isn't my last entry.
+
+Ana biti sa eribusu, mituti ikkalu baltuti. Adi la basi alaku.1
+
+I woke up just outside where the temple was- or where I thought it
+was. Fontaine is gone. I don't know where he is. I don't remember
+anything after following him into the structure, and that's gone too.
+Maybe it was a hallucination. If that's the case, why hasn't the
+churning stopped?
+
+I need to leave. Find an exit. There is one. There's gotta be one.
+
+Walked in a straight line until I hit a wall. The area is so dizzying
+in size, I have no clue where I am. Followed it for a bit before I
+heard something. Something large, footsteps echoing like cannon shots.
+Hid like a child. Glanced out at one point an saw something bright,
+radiant. Ineffable. It held a power so immense I could feel it
+tangibly. Looking at it made my eyes hurt. It left shortly after.
+
+I heard from Vasilev today, saying there are giants about. Gods, he
+said. After my experience, I believe him. He had been holed up in the
+forests there with MacLaughlin, waiting for them to pass. Still no
+word from Lowrie. Running low on food.
+
+Found what I believe is the front door of this place. It's huge, a
+hundred meters tall. No way I can open that myself. I wonder if
+Fontaine is still a ghost. Maybe he's finally moved on.
+
+I think I found Fontaine. Or, what is left of him. Found an eyeball,
+same green-brown iris and all. Bits of viscera blanket the columns and
+floor. Where he may have stood, a large scorch mark is etched into the
+ground. At least he is at peace.
+
+Another one of them came today. Managed to slink by unnoticed, making
+it to the door before it swung shut. The outside world is… wrong.
+Disfigured. The complex appears to be a floating island of sorts, torn
+apart from the rest of the world, which is also in pieces. An
+orange-red moon hovers below. Nowhere to go. No food either, but it
+won't kill me. Just hurt like a bitch.
+
+Some good news: apparently Vasilev and MacLaughlin found another altar
+and just managed to escape before almost getting caught. MacLaughlin
+apparently has some burns from getting too close to one of them.
+They're gonna pull him out once they get back.
+
+I think I'm starting to lose myself to the cognitohazardous effects of
+this dimension. I can somewhat understand the cuneiform now. It forms
+concepts in my head when I stare at the symbols. I know I don't belong
+here. I know I don't. Keep talking to myself, reassuring myself over
+the constant yelling. I don't want to hear the message, theywe can't
+make meyou [illegible scribbling].
+
+No. No. It can't be.
+
+Once there was a young, fledgling planet. On this planet lived a race,
+the dawn of our lineage, proto-human but neo-human. Technologically
+advanced due to their use of anomalous items and artifacts, they
+mapped the landscape of the universe and unlocked great secrets. Means
+to cover great distances, travel to other worlds, create them, even.
+They worshiped the seven gods and the fifty immortal children, the
+Annunaki.
+
+[DATA EXPUNGED], a spiteful and jealous god, sought to end the human
+race for its own pleasure. It had its own hand in the creation of the
+sky. When it did so, it built a celestial body, massive and known only
+to itself, putting the glowing sphere on a collision course for the
+lonely, perfect little home of the humans. It took thousands of years
+to align just right, but it was a spiteful god, not an impatient one.
+
+By the time they realized their fate, it had been sealed. They knew
+death was upon them.
+
+In a last-ditch effort, they created large ships of strange metal,
+looking to their artifacts for other worlds. One, a mysterious disk,
+was studied and replicated in clay. Its destinations were tarnished by
+Sin, but the mechanism intruiged them. It was brought to their eldest
+temple, and upon the altar, presented the device before the Seven.
+They, in an act of great mercy, blessed it with the means to bring
+them together again with the power of a blood sacrifice.
+
+Only a few made it to the other side. Two ships made it off-world, the
+rest perished in flame. The Annunaki, distraught for the loss of the
+human race, released their essence into the heavens. It reached out to
+touch fifty individuals, granting them with immortality, with undeath
+forevermore.
+
+It can't be.
+
+I see now that the island hovers in the heavens high above the
+Underneath. There is no exit in sight for me. I'm going to toss this
+book over the side and confront one of the seven. I'm not afraid of
+annihilation. I welcome it.
+
+I don't want to live forever. Tell O5-11 I'm sorry, I failed him.
+
+According to the accounts of MacLaughlin and Vasilev, they had
+retrieved the Foundation-issue leather-bound log book while searching
+for Lowrie, who was not found. The drone video footage was discovered
+near the camp. Nothing of interest is recorded for the first twelve
+hours of observations. Lowrie is seen taking the drone to SCP-2759-E2.
+After launch, the drone is piloted over the walls of the ruins to
+reveal the shape to resemble a borehole, with similar holes found
+strewn throughout the surrounding area. Piloting the drone across part
+of the ocean, vocalizations are picked up sporadically, emanating from
+the dark waters below. The drone cuts feed abruptly and is not
+recovered.
+
+
+Recovered Materials Log 2759:
+
+Excerpts from recovered cuneiform texts, translated by Agent Pyotr
+Vasilev.
+
+…and when in the height, heaven was not named,
+And neither the earth beneath bear itself,
+And the primeval, the Apsu, who begat them,
+And the chaos, the Tiamut, the mother of them both
+Their waters were mingled together,
+No field was formed, no marsh was to be seen;
+When of the gods none had been called into being,
+And none bore a name, and no destinies were ordained;
+Then were created the gods in the midst…
+
+…and as they drank from the waters,
+they too became the sea,
+they sing within the Valley,
+without light.
+
+…They who have slaughtered a god, together
+I have imposed your toil on man.
+In the clay, god and they shall be bound,
+To a unity brought together, undying;
+So that to the end of days,
+The Flesh and the Soul,
+which in a god have ripened–
+in a blood-kinship be entwined…
+
+…Upon the death, the god, the star
+Broken upon the altar they wept and fled.
+The great body of light, bound to man lay cleaved;
+They, the fifty, the Annunaki, bore by seven,
+The toil of man, forever in their suffering.
+In death, the rapture is for the unclean.
+And for the rest, they are the gods.
+
+
+
+Footnotes
+
+1. Roughly "The house within which the dead consume the living. Then
+they become nothing."
+
+

@@ -1,0 +1,253 @@
+                                    SCP-5153                                    
+                                    ========                                    
+
+                           The Meteor Who Cried Wolf                            
+                           -------------------------                            
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+The following documents have been archived from the American Secure Containment 
+Initiative (ASCI) and SCP Foundation databases. They have been preserved for 
+historical context regarding SCP-5153. 
+
+— Maria Jones, Director, RAISA
+
+08/12/2018
+
+
+Threat Catalog Number: ASCI-5153
+
+Threat Level: Black
+
+Containment of Threat: In preparation for an imminent extinction-level asteroid 
+impact event, ASCI-2000 is to be prepared and all essential personnel are to be 
+evacuated. 
+
+Description of Threat: ASCI-5153 is a large asteroid that is presently on course 
+to impact Earth in late June 1908 (N.S.). The effects of such an impact are 
+expected to destroy all life on Earth. 
+ 
+May God help us all.
+
+Page revision 1/5 from 06/10/1908
+
+
+Next iteration from 02/02/1923
+
+Item #: SCP-5153
+
+Object Class: Safe
+
+Special Containment Procedures: Foundation plants within the global scientific 
+community are to coordinate the dissemimation of disinformation campaign 
+Gamma-19 ("Airburst") to conceal the true nature of SCP-5153. 
+
+Description: SCP-5153 refers to a large asteroid impact that occurred on 30 June 
+1908 near the Podkamennaya Tunguska River in Russia. SCP-5153 was caused by a 
+fifteen kilometer meteor entering Earth's atmosphere before spontaneously 
+demanifesting approximately seven to ten kilometers above the planet's surface. 
+The energy required to displace SCP-5153 resulted in a 15 megaton explosion that 
+destroyed 2,150 km2 of the Siberian taiga and killed three people. 
+
+Page revision 2/5 from 02/02/1923
+
+
+Next iteration from 01/14/1947
+
+Item #: SCP-5153 
+
+Level 5/5153
+
+Containment Class: Keter 
+
+CLASSIFIED
+
+Item #: SCP-5153
+
+Object Class: Keter
+
+Special Containment Procedures: In accordance with the United Nations Near Earth 
+Object Mandate of 1945, the SCP Foundation is working with the United Nations 
+Global Occult Coalition, the United States NME Pentagram Division, and various 
+other Groups of Interest to ensure the continued survival of humanity. SCP-2000 
+has been placed on standby and is ready for activation at the behest of the O5 
+Council. Foundation .aic Alexandria has been tasked with tracking the progress 
+of SCP-5153. 
+
+Description: SCP-5153 is an asteroid measuring approximately thirteen kilometers 
+across which is on course to impact Earth on 12 February 1947. Foundation 
+astrophysicists have predicted that the object will collide with Earth in the 
+Sikhote-Alin Mountains, USSR, and that the effects of such an impact will be 
+comparable to those of the Cretaceous-Paleogene extinction event, up to and 
+including the extinction of more than 75% of all life on Earth. 
+
+Addendum 5153.1: Foundation .aic Alexandria logs
+
+Time and Date (GMT — DD/MM/YYYY)	
+
+Distance From Earth	
+
+Estimated Time of Arrival
+
+
+0000 — 01/01/46	
+
+2,890,000 km	
+
+1y 1m 11d
+
+
+0000 — 01/06/46	
+
+1,530,000 km	
+
+0y 7m 11d
+
+
+0000 — 01/01/47	
+
+360,000 km	
+
+0y 1m 11d
+
+
+0000 — 01/02/47	
+
+220,000 km	
+
+0y 0m 11d
+
+
+0000 — 11/02/47	
+
+7,000 km	
+
+0y 0m 1d
+
+
+0000 — 12/02/47	
+
+[SUBJECT NOT FOUND]	
+
+[SUBJECT NOT FOUND]
+ 
+Page revision 3/5 from 01/14/1947
+
+
+Next iteration from 10/16/2018
+
+Item #: SCP-5153
+
+Level 1/5153
+
+Containment Class: Safe
+
+CLASSIFIED
+
+Special Containment Procedures: SCP-5153 is to be contained via a low-intensity 
+disinformation campaign. Foundation scientists are to track and monitor all 
+potential Near Earth Objects in search of SCP-5153. In the event that SCP-5153 
+is rediscovered, its trajectory and estimated time of arrival are to be tracked. 
+SCP-5153 is not to be neutralized, as it does not pose a risk to both the 
+continued survival of humanity and the Veil. 
+
+Description: SCP-5153 is a meteor measuring approximately thirteen kilometers 
+across. Invariably, SCP-5153 will approach Earth, seemingly on a course to 
+impact somewhere in Siberia. Despite this, SCP-5153 will demanifest when it is 
+within fifteen kilometers from the ground, resulting in a large explosion 
+without a crater of any kind. 
+
+
+Addendum 5153.1: Confirmed Manifestations of SCP-5153.
+
+Confirmed manifestations of SCP-5153 have occurred in 1908, 1941, 1947, 2002, 
+2009, 2013, 2017, and 2018. Foundation astrophysicists are currently tracking a 
+Near Earth Object that is believed to be SCP-5153, which is on a course to make 
+impact in February of 2020. 
+
+Date of Impact	
+
+Location	
+
+Casualties
+
+
+30 June 1908	
+
+Tunguska River, Russia	
+
+Three dead
+
+
+9 April 1941	
+
+Chelyabinsk, USSR	
+
+None
+
+
+12 February 1947	
+
+Sikhote-Alin Mountains, USSR	
+
+None
+
+
+25 September 2002	
+
+Bodaybo, Russia	
+
+None
+
+
+7 February 2009	
+
+Tyumen Oblast, Russia	
+
+None
+
+
+15 February 2013	
+
+Chelyabinsk, Russia	
+
+1491 injured
+
+
+15 December 2017	
+
+Kamchatka, Russia	
+
+None
+
+
+18 December 2018	
+
+Kamchatka, Russia	
+
+None
+
+
+Predicted to arrive 25 February 2020	
+
+Predicted to land in Lake Baikal, Russia	
+
+No Casualties Predicted 
+ 
+
+Page revision 4/5 from 08/12/2018
+
+
+Next iteration from 02/25/2020
+
+SCP-5153
+
+SCiP Net Database
+
+SCP-5153
+
+ERROR: UNABLE TO CONNECT TO THE FOUNDATION DATABASE
+ 
+[DATA LOST]
+
+

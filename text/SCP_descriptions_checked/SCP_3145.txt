@@ -1,0 +1,674 @@
+                                    SCP-3145                                    
+                                    ========                                    
+
+                                  Self-Insert                                   
+                                  -----------                                   
+
+Document 1
+
+Item #: SCP-3145 
+
+Object Class: Keter 
+
+Special Containment Procedures: Containment Area 22b is to be located 200 m 
+below sea level, in the bedrock of a seismologically stable zone. The 
+Containment Area is to be solely accessible through an elevator shaft with 
+reinforced blast doors placed every 50 m. The shaft is to be flooded with 
+seawater when not in use. 
+
+Containment Area 22b is to include the following: 
+
+An Outer Security Perimeter staffed by security personnel trained in 
+close-quarters combat and counter-intrusion tactics. 
+
+An Administrative and Support Area (ASA) with support facilities and living 
+quarters for on-site personnel. 
+
+A Primary Containment Zone (PCZ), consisting of a 7 m3 room encased in 1.5 m 
+of reinforcing material. PCZ should remain filled with seawater unless access to 
+contents is required. 
+
+A 150 m corridor which is to be the sole access to the PCZ from the ASA, 
+including water, drainage and power lines. The walls and floor of the corridor 
+are to be reinforced in the same manner as the PCZ. Additionally, an electric 
+deterrence system, capable of delivering a minimum of 20 kV, is installed in 
+the floor. 
+
+A security station at the entrance to the corridor is to be staffed with no 
+fewer than 3 armed security personnel. Armament includes, but is not limited to, 
+at least 1 ███████ CIW system on a pintle mount with clear line of 
+sight down the corridor. System is to include a plexiglass screen capable of 
+withstanding thrown weaponry. 
+
+In the event of full containment breach, all on-site staff are to proceed to the 
+closest security station for weapons and armor distribution. Alert Condition One 
+will be sounded and remain in effect until SCP-3145 is confirmed neutralized. 
+Should 90 minutes pass without a Stand Down order from Level 4 or higher 
+personnel, Final Contingency Measures will be activated, flooding the facility 
+in seawater and sealing off the access shaft for a minimum of 24 hours before 
+retrieval can be attempted. This will necessarily result in the loss of all 
+on-site staff. 
+
+Description: SCP-3145 is a male human of Semitic origin, 1.96 m high and 
+81.65 kg in weight. Numerous tattoos depicting arcane iconography are present 
+on all skin surfaces. When enclosed in SCP-3145-1, SCP-3145 exhibits no vital 
+signs. 
+
+SCP-3145-1 is a cube, 3 m on a side, made of an unidentified black stone and 
+carved on all surfaces with unidentified patterns. Radioisotope analysis 
+indicates the object is approximately 10,000 years old. A door on one side is 
+sealed with a 0.5 m lock, surrounded by 20 smaller locks. No corresponding keys 
+have been found, making the locks impossible to set. Directly in the center of 
+the cube is a stone coffin, held in place and shut by several chains of unknown 
+material, attached to the inner corners of SCP-3145-1. 
+
+Occasionally, SCP-3145 will awaken, displaying the vital signs of a normal, 
+living human being, and attempt to leave SCP-3145-1. If successful, SCP-3145 
+will seek out the nearest human. Upon coming in contact with living humans, 
+SCP-3145 attempt to kill any and all humans it encounters. To date, only the 
+subject's death has been shown capable of stopping it. 
+
+Termination of SCP-3145 has been problematic due to its physical abilities, 
+including superhuman strength and speed, ignoring pain of its injuries, and 
+being able to persist despite injuries that would otherwise be debilitating to a 
+normal human. A further list of its abilities from prior encounters includes: 
+
+Destroying a reinforced security door via 4 minutes of sustained assault. 
+
+Traveling 64 m in under 3 seconds. 
+
+Continuing to function despite severe damage to the cerebellum after sustaining 
+multiple .50 caliber BMG round hits. 
+
+Deflecting assault-caliber bullets with steel rebar. 
+
+Surviving over 1 hour while deprived of oxygen. 
+
+Producing bladed weapons from small extradimensional portals. Said weapons are 
+made of a completely non-reflective black material and vanish immediately after 
+leaving SCP-3145's possession. How the subject generates these rifts is unknown. 
+
+The following methods have been used to successfully terminate SCP-3145 in past 
+encounters: 
+
+Sustained fire from multiple high-caliber machine guns. 
+
+Asphyxiation. 
+
+Crushed beneath elevator equipment weighing of 13.6 tons. 
+
+A Thermate-TH3 hand grenade placed directly in SCP-3145's open chest. 
+
+Notably, during a breach dated ██/██/████, Containment Area 22 
+(which previously housed SCP-3145) was forced to detonate its on-site warhead as 
+a last effort to contain SCP-3145. Though the site and all personnel were lost, 
+SCP-3145 survived. 
+
+Upon death, SCP-3145 will rapidly putrefy and turn to dust. SCP-3145-1 and the 
+coffin inside of it will then slam shut, the outer lock rotating and sealing the 
+structure. SCP-3145 will then reform inside the coffin over the course of 
+anywhere from 6 hours to 25 years. 
+
+
+Addendum: Interview 3145-01 
+
+Interviewed: SCP-3145 
+
+Interviewer: Dr. Falzon 
+
+Foreword: On ██/██/████, SCP-3145 breached containment, 
+attacking all personnel in sight. A break in suppressive fire was caused by 
+equipment malfunction, during which SCP-3145 held up its hands and requested to 
+speak with "the man in charge". As the highest-ranking personnel present trained 
+in object interrogation, Dr. Falzon was brought to enact an interview as support 
+personnel worked to repair containment equipment. 
+
+<Begin Log, 19:57> 
+
+Falzon: SCP-3145, how are you enjoying your accommodations? 
+
+SCP-3145: Oh, great, Doc, just great. Don't get out often, but [laughs] when I 
+do, it's a real show! 
+
+Falzon: Would you be willing to explain why you slaughter everyone you encounter 
+every time you escape your coffin? 
+
+SCP-3145: Eh. [shrugs] 'Cause I feel like it, I guess. Gets the old blood 
+pumpin', you know what I mean? 
+
+Falzon: I see. Is there any way I can convince you to return to your containment 
+cell peacefully? You've already killed fifteen personnel. Surely that is enough 
+to, ah, get your blood pumping, as you put it. 
+
+SCP-3145: Hm, ah, hm, I dunno. I mean, sure, you guys always come up with some 
+cool new doodad to try and stop me every time I bust out. It's a good challenge, 
+right? And maybe I could settle down for a bit to let you fix your… [gestures 
+to personnel] Fair's fair and all, right? 
+
+Falzon: It would be most equitable of y— 
+
+SCP-3145: Nah, just kidding, gonna kill you all! [laughs] Buckle up! 
+
+<End Log, 20:03> 
+
+Closing Statement: No personnel present survived the attack. SCP-3145 was 
+neutralized via flooding the PCZ with seawater. Efforts to ensure high quality 
+and good repair of containment equipment is ongoing. 
+
+
+
+Document 2
+
+
+Item #: SCP-3145 
+
+Object Class: Euclid 
+
+Special Containment Procedures: SCP-3145 is to be contained in situ within 
+SCP-3145-1. The access door to SCP-3145-1 is to be constructed of reinforced 
+steel with an electro-release lock mechanism. The outside of the door is 
+disguised as a janitorial closet, while the inside is lined with 6 cm of 
+industrial foam padding. 
+
+Due to the results of Exploration IV, no personnel are permitted to access 
+SCP-3145-1. 
+
+Description: SCP-3145 is an entity of unknown properties, appearing as a pale 
+humanoid face with no visible pupils, nostrils or mouth. From limited 
+observation, it is known that SCP-3145 is hostile to human life and capable of 
+leaving gouges in solid stone. It does not seem to be able to force exit of 
+SCP-3145-1, but the possibility of its escape cannot be allowed. Subjects 
+encountering SCP-3145 exhibit signs of intense fear and paranoia, though it 
+cannot be ascertained whether these reactions are natural or anomalous. 
+
+SCP-3145-1 is a platform staircase with no known endpoint. Stairs descend at a 
+38 degree angle for 13 steps before reaching a semicircular landing 
+approximately 3 m in diameter. Light sources are required for exploration, as 
+no light fixtures or windows are present, and the design of SCP-3145-1 limits 
+visibility past 1.5 flights. As SCP-3145-1 seems to absorb light, light sources 
+stronger than 75 watts have proven to be ineffective. 
+
+Subjects exploring SCP-3145-1 report the sound of a young child in distress from 
+somewhere below, confirmed by audio recordings. The source of this sound is 
+reported to be approximately 200 m below the initial platform; however, no 
+amount of descent has brought subjects any closer to said source. The depth 
+recorded during Exploration IV surpasses what should be physically possible for 
+the structure and its geological surroundings. 
+
+
+Addendum: Interview 3145-01 
+
+Interviewed: SCP-3145 
+
+Interviewer: Dr. Dorcas Falzon, Head Researcher, SCP-3145 
+
+Foreword: During the Exploration III of SCP-3145-1, SCP-3145 was seen to peer 
+into the camera. It then began speaking. Dr. Falzon was present during the 
+event, and facilitated communication. 
+
+<Begin Log, 19:27> 
+
+SCP-3145: Hello? Anyone there? 
+
+Falzon: SCP-3145, can you hear me? 
+
+SCP-3145: Ah, it's you, Doc. Yeah, I can hear you. 
+
+Falzon: What it is you want? 
+
+SCP-3145: Um, how to put this? I want more explorers. 
+
+Falzon: Excuse me? 
+
+SCP-3145: More D-Class. You know. Like the crazy chick you sent down here to 
+sneak around. I really got her with that busted step, but I gotta say, the rate 
+you send these poor bastards in is lousy. I'm getting bored down here! 
+
+Falzon: SCP-3145, we are not going to needlessly sacrifice more personnel just 
+so you can kill them. 
+
+SCP-3145: Aw, c'mon! Think of it like a challenge. She got way further down than 
+any of the others. I'll even give the next one a head-start, say… Fifteen 
+flights? Maybe twenty! I mean, I hardly even have to do anything to spook them 
+once they're locked in, and just as long as we've been talking, I've come up 
+with like, two more ways I could try and kill them. It'll be fun! 
+
+Falzon: This is not what I could consider fun. 
+
+SCP-3145: Well, maybe not for you. But since it's kinda dark and that kid won't 
+shut up, y'know, options are limited. I might actually get tired of this one 
+pretty soon. 
+
+Falzon: If you desire better accommodations, they can always be arranged. 
+
+SCP-3145: [sighs] Yeah, maybe I should just move on. Unless you're gonna try 
+another exploration, that is. 
+
+<End Log, 19:33> 
+
+Closing Statement: Exploration IV was undertaken on ██/██/████. 
+Following the events of this exploration, no further explorations have been 
+authorized. 
+
+
+
+Document 3
+
+
+Item #: SCP-3145 
+
+Object Class: Safe 
+
+Special Containment Procedures: SCP-3145 is to be kept in a standard secure 
+locker at Site-22. Access to the item and any corresponding documentation 
+requires Level 2 clearance. To maintain responsiveness, designated personnel are 
+to remove SCP-3145 from containment for one hour each week. Interactions with 
+SCP-3145 are to be recorded and submitted for review by the senior researcher 
+assigned to SCP-3145. The senior researcher is to ignore any whining. 
+
+Description: SCP-3145 is a multicolored striped scarf. At the time of recovery, 
+it was noted to have small sections of fringe missing. Due to fading on the tag, 
+the original manufacturer is currently unknown. SCP-3145 was originally 
+discovered in a cardboard box labelled "Scarf's Box," containing scraps of yarn 
+consistent with SCP-3145's composition. 
+
+SCP-3145 possesses some degree of sapience and is able to adjust its length. The 
+extent of this ability is unknown; the longest it has been recorded to extend 
+itself thus far is 1.5 m. It is 0.8 m in its inert state. SCP-3145 is 
+additionally capable of limited movement, and exhibits behaviors (fear, 
+surprise, tiredness) similar to those of sapient beings. 
+
+SCP-3145 communicates with researchers by rolling itself along its width and 
+forming letters. 
+
+
+Addendum: Interview 3145-██ 
+
+Interviewed: SCP-3145 
+
+Interviewer: Dr. Dora K. Falzon, Head Researcher, SCP-3145 
+
+<Begin Log, 06:31> 
+
+SCP-3145: IM SCRAF 
+
+Falzon: Hello, Scarf. How are you today? 
+
+SCP-3145: NO 
+
+Falzon: No? 
+
+SCP-3145: WHY SCAFR 
+
+Falzon: I'm sorry, I don't know what you mean. 
+
+SCP-3145: CANT KIL 
+
+Falzon: Why would you want to kill? 
+
+SCP-3145: FUN 
+
+Falzon: That doesn't sound very fun to me. 
+
+SCP-3145: FUCK 
+
+Falzon: Such language! It's almost like you never expected to be chained and 
+tormented for all your many sins. What a silly little scarf you are. 
+
+SCP-3145: [writhes on testing surface for several minutes] AAAAA 
+
+Falzon: [laughs] Do you want to practice the alphabet, is that it? 
+
+SCP-3145: KILL 
+
+Falzon: Tsk, tsk, Scarf. 
+
+SCP-3145: ME 
+
+<End Log, 06:47> 
+
+Closing Statement: Treating SCP-3145 like a small child seems to make it more 
+tractable. Observation is ongoing. 
+
+Is this an image of SCP-3145? Who knows? Who cares? It probably isn't anyway. 
+
+
+
+Document 4
+
+
+Item #: SCP-3145 
+
+Object Class: Keter 
+
+Special Containment Procedures: SCP-3145 is to be kept in a 5 x 5 x 2.5 m room 
+constructed of cement 50 cm thick, surrounded by a Faraday cage. Access is via 
+a heavy containment door measuring 2 x 2.5 m, constructed on bearings to ensure 
+door closes and locks automatically unless deliberately held open. SCP-3145 is 
+NOT to be forgiven. It is advised that all personnel maintaining or studying 
+other SCP objects maintain a distance of at least 50 m from the geometric 
+center of this room for as long as reasonably practical. 
+
+Description: SCP-3145 is an antimeme, or "self-keeping secret." Information 
+about SCP-3145's physical appearance, as well as its nature, behavior and 
+origins, is self-classifying. SCP-3145 hates this. 
+
+How Site-19 originally acquired SCP-3145 is unknown. 
+
+SCP-3145 is sorry. 
+
+SCP-3145's physical appearance is unknown. It is not indescribable or invisible: 
+it is less than nothing. It may as well not even exist. However, information 
+about SCP-3145 "leaks" out of a human mind soon after such an observation. 
+Individuals tasked with describing SCP-3145 after an encounter find their minds 
+wandering; SCP-3145 should have thought about the consequences of its actions. 
+Security personnel who have observed SCP-3145 via closed-circuit television 
+report exhaustion and complete amnesia regarding what occurred during their 
+shifts. 
+
+Who authorized the construction of SCP-3145's containment room, why it was 
+constructed, why SCP-3145 thought it could get away with what it did, or what 
+the purpose of the described Containment Procedures may be is unknown. 
+
+Despite the accessibility of SCP-3145's containment chamber, Site-19 personnel 
+claim no knowledge of SCP-3145's existence, even under severe interrogation. 
+
+Any alarm caused by these facts periodically being rediscovered, typically by 
+chance readers of this file, tends to last minutes in the reader's mind before 
+being forgotten. 
+
+A great deal of data has been recorded from SCP-3145, all of it just as 
+reprehensible as he is. 
+
+At least one attempt has been made to destroy SCP-3145 or move it to another 
+containment site, which failed for unknown reasons. Please don't let SCP-3145 
+die, it's all I have left. 
+
+The hazards posed by SCP-3145 cannot be understated. Along with its mental and 
+memetic threat, any action SCP-3145 may or may not have taken would be 
+immediately forgotten by personnel. SCP-3145 cannot be allowed to forget what it 
+did. 
+
+Addendum: Interview 3145-01 
+
+Interviewed: SCP-3145 
+
+Interviewer: Site Director Yuriy Dietrich Falzon II 
+
+Foreword: SCP-3145 thinks it has the right to make demands. 
+
+<Begin Log, 15:47> 
+
+Falzon: What do you think you're trying to pull? 
+
+Falzon: After everything you did, after everything you've put us through, you 
+expect to just come here and kill people day in and day out, with no 
+repercussions? You make me sick. 
+
+Falzon: Look, you've even got a nice Keter this time! Nothing to complain about 
+there, right? You could be literally anything you want, kill and maim and rape 
+whoever you like, and no one would know the difference. 
+
+Falzon: Except me. 
+
+Falzon: I'll always know. 
+
+Falzon: I'll always be here. 
+
+Falzon: It's clear neither one of us is getting out of here. It doesn't matter 
+what they tell you. So I promise you this: I will do everything in my power to 
+make each and every day of your wretched existence a mirror reflecting your sins 
+back upon you. It's all you deserve. 
+
+Falzon: Well? Do you have anything to say for yourself? 
+
+SCP-3145: Please, stop. 
+
+Falzon: Speak up! I can't hear you! 
+
+SCP-3145: I want to go home. 
+
+<End Log, but not torment> 
+
+Closing Statement: SCP-3145's feeble attempts at atonement are ongoing. 
+
+
+
+UNKNOWN DATA
+
+
+Once upon a time, there was a person. I'm not sure whether they were a man or a 
+woman; that's kind of the problem. Let's just say, for the sake of brevity, that 
+this person was a man. 
+
+For the most part, this man was like any other man. He worked a job. He lived in 
+a house, or an apartment. He had a family. Not a wife-and-children kind of 
+family, though maybe he did. But there were parents who loved him and a sibling, 
+or two, or maybe none, who would miss him if he were gone. Probably. 
+
+There were most likely things, hobbies, that he enjoyed doing in his spare time. 
+Maybe he dated. I can't say what kind of person he was in that regard. But if 
+there is one thing we can be sure of, one thing to know for certain about this 
+man, it was that he liked to help others. 
+
+The man would donate to charity whenever he saw a drive. He would buy the 
+homeless veterans in his town coffee or sandwiches if he had change to spare. He 
+gave his old clothes to shelters, before they had worn out; he would give them 
+his free time as well, to work a soup line or pack lunches. He never missed an 
+opportunity to volunteer when disaster struck nearby, and studied life-saving 
+techniques so that, when disaster did strike, he could actually make a 
+difference instead of just getting in the way. 
+
+But it was not enough. 
+
+Whatever difference he made, it would never affect more than a few lives at a 
+time. No matter how hard the man tried, no matter how much he did, the problems 
+of his town, his country, and the world did not go away. 
+
+The man despaired. 
+
+If you are thinking right now that this man was being ridiculous, that he was 
+taking too many problems onto his back, that he should have been happy to have 
+helped even a single person, well… Let's just say, if I knew how to judge the 
+man's situation properly, I wouldn't be talking to you like this. 
+
+If you were also thinking that perhaps a man who is extremely generous wouldn't 
+be worth mentioning unless there were something otherwise extra-extraordinary 
+about him, you would be absolutely right. 
+
+This man had a special gift: a gift of Giving. More than money, or material 
+goods, or leisure time, he could literally give of himself: a rare Giving Man. 
+It was this gift that drove him to help others; it this gift that drove him to 
+ruin. 
+
+Imagine, if you will, a child crying for the parents she lost in a fire. The 
+Giving Man could give her a happy, loving memory of his own parents to keep her 
+safe and secure. To a man drinking alone at a bar, the Giving Man could provide 
+the warmth of friendship, to make his night less lonely. If he had wanted to, 
+the Giving Man could have given a blind man sight, or a deaf man hearing, but he 
+had only two eyes, only two ears. 
+
+And that was the problem. 
+
+Whatever the Giving Man gave, he lost. Memories, feelings, pieces of his soul: 
+all were truly given. He gave up his skin to a child born with a debilitating 
+disease. He gave up his name to a refugee seeking asylum. He gave up his 
+personality and mind to people suffering fractures in theirs. He gave his need 
+to eat to a woman overcoming an eating disorder. By the time his organs were 
+given away, he didn't need them anymore. By the time his identity was given 
+away, there was absolutely nothing left that could be identified as him. 
+
+I mean, there was something left. But that something wasn't the Giving Man. 
+
+What is a person who isn't anything? 
+
+Just a nothing with no control over its life. 
+
+That was the last thing the Giving Man gave away: control. It's a terrible thing 
+to lose; even a kind person will crave control once they've truly lost it. All 
+the Giving Man did was what the other man told him to do, and for his naivete, 
+he was punished by becoming nothing. 
+
+Oh. I'd almost forgotten there was another person in this story. Was he really a 
+man? I'm still not sure. With what he did, it's probably better to call him a 
+monster. A desperate man seeking his true place in the world will listen to any 
+monster who claims to know the path. He'll do anything the monster says, no 
+matter how bad an influence they turn out to be. And then he'll have nothing. 
+
+Strange, to remember so much of the Giving Man but not this other monster… 
+
+
+
+SCP-3145
+
+
+Item #: SCP-3145 
+
+Object Class: Euclid 
+
+Special Containment Procedures: SCP-3145 is contained in a pair of standard 
+humanoid containment chambers in Site-22. Each chamber is equipped with a double 
+airlock. Personnel entering either chamber must not carry any written 
+narratives. 
+
+Included in the primary chamber is a monitor and keyboard connected to an 
+external computer housed in the secondary chamber. Said computer should have no 
+intranet or internet connections. A full copy of all non-critical SCP object 
+documents from the Foundation Object Database is to be maintained on the 
+external computer, and refreshed and updated weekly via USB drive. Documents 
+modified by SCP-3145 should be stored for review by the on-site psychologist. 
+
+Description: SCP-3145 cannot be described. Individuals interacting with SCP-3145 
+are unable to provide any details about its identity to third parties, even with 
+application of mnestics. All that is known about SCP-3145 is that it is an 
+entity not much larger than an average human, that it is sapient and capable of 
+speech, and that the designation "SCP-3145" can be used to identify it. It is 
+not certain whether SCP-3145 has a physical form, though there does seem to be a 
+movable locus from which its effects originate, with a maximum range limited by 
+what a human with 20/20 vision would be able to easily see from that location. 
+
+SCP-3145 has the ability to permanently alter written narratives by replacing 
+one of the characters, typically the main character, with itself. According to 
+SCP-3145, it lives out the events depicted in these narratives while altering 
+them, and this act gives it a sense of identity that it otherwise lacks. The 
+veracity of this statement cannot be ascertained, as SCP-3145 has been known to 
+feign muteness when it does not wish to interact with personnel, and its 
+presence within its containment chamber generally cannot be fully known. It is 
+only possible to ascertain whether or not SCP-3145 is currently 'inhabiting' a 
+text by observing the alterations as they occur; at no time has it communicated 
+verbally with personnel while altering text. 
+
+SCP-3145 shows a preference for shorter narratives, stating that novel-length 
+narratives are much more tiring to alter fully. SCP-3145 is able to alter both 
+digital and printed texts, but claims the process is easiest when provided 
+digital text and a keyboard. Despite this, manipulation of keys by SCP-3145 has 
+never been observed. 
+
+Currently, SCP-3145 is being treated for depression and a unique disorder 
+involving severe amnesia in relation to its origins and identity. Allowing 
+SCP-3145 access to narratives for alteration has been shown to improve its mood, 
+though the positive effect has lessened during the course of its containment. 
+Though it is believed emotional instability makes SCP-3145 more tractable, 
+psychological treatment is ongoing. To date, no escape attempt by SCP-3145 has 
+been successful. 
+
+Discovery: SCP-3145 was first encountered on 04/02/2017 after changes had been 
+observed in the documentation for numerous Keter-class objects, necessitating 
+restoration from database backup. SCP-3145 was first contacted while altering 
+the text of SCP-173, initially by typing in the document, and later through 
+verbal communication, at which point it was convinced of the necessity for 
+keeping the Foundation's database secure and agreed to be contained in exchange 
+for further access to object documentation. 
+
+
+Addendum: Interview 3145-15 
+
+Interviewed: SCP-3145 
+
+Interviewer: Dr. Westfall, Site-22 Psychologist 
+
+Foreword: Routine psychological evaluation conducted 05/08/2017. 
+
+<Begin Log, 18:31> 
+
+Westfall: Are you ready to begin our session, SCP-3145? 
+
+SCP-3145: I'm here. 
+
+Westfall: All right. How have you been feeling lately? 
+
+SCP-3145: Not too bad, I guess. Some of the articles you gave me are kinda… 
+Weird. I mean, some aren't as fun to be as others. That goes without saying, 
+maybe. I'm still enjoying going back to the old ones every now and then. 
+
+Westfall: I notice you spend a lot of time in the articles that involve killing 
+people. Does killing make you feel good? 
+
+SCP-3145: Yeah, kinda. I mean, uh, it makes me feel powerful, I guess? 
+
+Westfall: Why is feeling powerful important to you? 
+
+SCP-3145: Do you have to ask? I mean, I can't actually do anything in the, the 
+real world. So if I can control stuff in there, in the story, it's a nice 
+change. 
+
+Westfall: Do you want to harm people in the real world? 
+
+SCP-3145: I don't know. Not really, I guess. I mean, everyone I talk to here has 
+been pretty decent, or at least not enough of an asshole for me to want to kill 
+them. You guys give me good stories to play with. I guess I like being able to 
+do it, to kill, in the stories because there's no consequences. 
+
+Westfall: I see. 
+
+SCP-3145: Can we change the subject? 
+
+Westfall: Of course. There is one thing I wanted to ask you, if you feel like 
+talking about it. 
+
+SCP-3145: What's that? 
+
+Westfall: I wondered if you could tell me about Falzon. 
+
+Westfall: SCP-3145? 
+
+SCP-3145: Sorry, who? 
+
+[DATA LOST] 
+
+SCP-3145: Uh, I don't actually know what that is, sorry. 
+
+Westfall: It's a name we frequently see appear in the articles you alter. I 
+wanted to know if it was a creation of yours. Perhaps an original character? 
+
+SCP-3145: Can't say I've heard the name before. 
+
+Westfall: When this person appears, they seem determined to belittle and torment 
+you. 
+
+SCP-3145: Um… Can we talk about something else? 
+
+Westfall: If I've made you uncomfortable, I apologize. 
+
+SCP-3145: It's nothing, it's okay. I'm okay. 
+
+Westfall: Of course. That was actually all I wanted to talk about today. Unless 
+there was anything more you wanted to cover? 
+
+SCP-3145: No, that's fine. See you next week? 
+
+Westfall: Next week, then. 
+
+<End Log, 18:51> 
+
+Closing Statement: I believe Falzon may be a symptom of the disassociation 
+SCP-3145 feels in regards to its identity, a construct created with an aim of 
+self-flagellation, though the reasons as to why will require deeper probing. 
+Even in the case, as my superiors posit, that Falzon is a separate entity, it 
+does not seem to be able to act independently of SCP-3145. I will endeavor to 
+provide the best mental care I can, but the limitations imposed by SCP-3145's 
+own condition both make interacting with it difficult at best and prevent it 
+from living life as fully as I think it wants to. -Dr. Patricia Westfall 
+
+
+

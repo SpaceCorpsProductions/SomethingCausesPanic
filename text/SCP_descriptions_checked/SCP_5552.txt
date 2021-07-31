@@ -1,0 +1,1298 @@
+                                    SCP-5552                                    
+                                    ========                                    
+
+                               Our Stolen Theory                                
+                               -----------------                                
+
+NOTE: FILE UNDER REVIEW.
+
+Investigation into the event is still underway. Information contained herein has 
+not been confirmed. 
+
+Event Summary: On 2020/04/14, the database at Site-72 reported a series of 
+unauthorized file creations and modifications, specifically to documentation 
+regarding SCP-5552. All past information on SCP-5552 has been lost, and possibly 
+erased from the minds of personnel assigned to the project, as no individuals 
+can confirm that the SCP-5552 slot had been previously assigned to an anomaly. 
+
+The documentation itself has not demonstrated anomalous properties, however all 
+have been tagged with an upload timestamp of 13:43:28, which is the same time as 
+when Dr. Naman Gupta began a talk at the 6th International Conference on Physics 
+titled "A Comprehensive Theory On Bi-Directional Temporal Travel". 
+
+What follows are the documents that manifested as a result of this event.
+
+
+
+SCP-5552
+
+Item #: SCP-5552-EX
+
+Special Containment Procedures: N/A
+
+Description: SCP-5552-EX is the Wendel Conduit as described in "A Comprehensive 
+Theory On Bi-Directional Temporal Travel", titled after the lead author on the 
+paper: Jonathan Wendel. 
+
+The Wendel Conduit operates in a similar manner to closed timelike curvatures 
+conjectured by Gödel. However, instead of operating like a wormhole might, 
+which relies on immense amounts of energy to open, Wendel Conduits are opened 
+and sustained through the vibration of wenion particles1. Wenion particles 
+vibrate in accordance to an atom's Wilt2. Investigation into connections between 
+Wilt and phenomena observed by anomalies in containment is ongoing. 
+
+According to Dr. Wendel, the process for generating sufficient Wilt to open a 
+Wendel Conduit is significantly less resource-intensive than the theoretical 
+method of opening a sizable wormhole. It is currently believed that Dr. Wendel 
+is working in conjunction with the UN to create a practical time machine. 
+Attempts to gain further information about this project have been hindered by 
+GOC interference. 
+
+
+Addendum SCP-5552-1: Below is a transcript from examinations of Dr. Wendel's 
+paper to confirm its accuracy. Examination was lead by the CHRONUS Project 
+leads, Dr. Cindy Helsman and Dr. Naman Gupta. 
+
+<Begin Log>
+
+Gupta: God this is hard to read.
+
+Helsman: I mean, yeah it's bland but it's not like we—
+
+Gupta: I mean emotionally, Cindy.
+
+Helsman: Oh. Yeah I should've guessed.
+
+Gupta: This is our research. Literally our research! I swear half of these 
+figures are copied straight from our draft. 
+
+Helsman: I mean, we know that a lot of people had been working in this field. It 
+was a tight race. 
+
+Gupta: It's fucking bullshit is what it is. Did you see the look on this guy's 
+face? When he gave that talk? Smuggest piece of shit I've ever seen. 
+
+Helsman: You told me that at the conference.
+
+Gupta: And also, he named everything after himself! Fucking "Wendel Conduit", 
+"wenion". 
+
+Helsman: Wilt?
+
+Gupta: I think that's his dog's name.
+
+Helsman: Ah.
+
+Gupta: A dog. A fucking dog has more physics phenomena named after it than I do.
+
+Helsman: Well maybe something in here doesn't work out. Maybe the reviewers 
+missed something. 
+
+Gupta: It's my research! I've checked everything as well as I checked my own 
+numbers. 
+
+Helsman: Our research.
+
+Gupta: Huh?
+
+Helsman: It's not your research. It's ours.
+
+Gupta: Oh. Right. Slip of the tongue. Sorry.
+
+Helsman: It's alright.
+
+Helsman and Gupta return to reading the paper in silence. All that can be heard 
+is a faint ticking from Gupta's pocket-watch. Gupta finishes and looks at 
+Helsman. 
+
+Gupta: Well…
+
+Helsman: Yeah, I'm not seeing anything here either. It's all right.
+
+Gupta: Fuck.
+
+Helsman: We'll discover something else. We're persistent like that.
+
+Gupta leaves the meeting room, slamming the door behind him. Helsman sighs.
+
+<End Log>
+
+Following this meeting, the contents of Dr. Wendel's research was considered to 
+be grounded well enough in our current understanding of physics to be considered 
+explained rather than anomalous. Monitoring of the implementation of this 
+research is to continue to ensure no additional anomalous phenomena are 
+discovered in the process. 
+
+
+Addendum SCP-5552-2: On 2020/05/02, Foundation satellites detected a large 
+visual disturbance in Nunavut, Canada. An area of twenty acres of land had 
+become entirely black, including all flora and fauna residing within that area. 
+Foundation personnel were dispatched to the location. Below is a copy of their 
+report: 
+
+Stevenson and I arrived at the scene around midday. The strange coloration could 
+be seen in some of the grass and the trees on the edges of the effected area, 
+but ten feet in everything was completely black. Well, not that the material had 
+turned black. It was more like the light wasn't even reflecting off the 
+surfaces. 
+
+The ground was sturdy to stand on but organic matter didn't fare as well. It 
+maintained its stability until we touched it, but even with a slight brush 
+entire trees crumbled. Or I guess they more melted. They just fell apart. 
+Stevenson grabbed a few samples to test later. 
+
+We reached the center of the affected area. There was an opening in the ground, 
+no larger than a manhole. We didn't trust the ladder built into the hole's 
+walls, so we tied up a rope and rappelled down. 
+
+Everything in the hole was black too except for the walls. At first we thought 
+they were made of stone but they were far too soft for that. The hallways of the 
+facility were mostly empty, save for a few safety notices with GOC branding on 
+them. We only found one unlocked door, labeled "Primary Construction Bay". We 
+decided not to go inside because the entrance was blocked by humanoid figures 
+that had turned black, like the trees outside. We didn't want to "break" them. 
+
+Stevenson did manage to get some pictures of just inside the room. The place was 
+packed, everyone crowded around some sort of capsule in the middle, which was 
+the only thing in there that kept its color. We think the inside was occupied 
+but we can't say for certain. 
+
+After being confronted with this report, a GOC official confirmed that this was 
+the result of their efforts to realize the practical uses of Dr. Wendel's 
+research. In order to avoid similar incidents regarding temporal research, the 
+GOC agreed to transfer all documents and computations Dr. Wendel performed to 
+the Foundation. 
+
+
+Addendum SCP-5552-3: Below is a transcript from the Project CHRONUS team during 
+their meeting to decipher and understand the writings of Dr. Wendel: 
+
+Helsman enters the room. Gupta is staring at a whiteboard.
+
+Helsman: Hey Naman.
+
+Gupta: Hey.
+
+Helsman: I uhh, I know it must be hard to hear about what happened.
+
+Gupta remains silent.
+
+Helsman: I mean, I was as confident as you were that our work was correct. And 
+while it's terrible what happened to Wendel and everyone, I'm at least grateful 
+we didn't have to experience our failures first hand. 
+
+Gupta: Dumbass.
+
+Helsman: Huh?
+
+Gupta: Wendel. He's a fucking dumbass.
+
+Helsman: This isn't the time for—
+
+Gupta: No no, like… like look here!
+
+Gupta walks back to his desk and grabs one of Wendel's pages of computations.
+
+Gupta: For the decay constant, you remember what we calculated that number out 
+to? 
+
+Helsman: Something like fourteen decimals. Why?
+
+Gupta: Well, in the paper it looked like he'd just rounded it to three 
+significant figures but he only used the rounded number in his actual math as 
+well! 
+
+Helsman: Well, I mean we only put the rounded numbers in the paper. Guess he 
+didn't have our full data sets. 
+
+Gupta: But you know what this means, right?
+
+Helsman pauses. After a moment she smiles.
+
+Helsman: It might still work.
+
+Gupta: They haven't scrapped our budget right?
+
+Helsman: Not yet.
+
+Gupta: So… do you want to build a time machine?
+
+Helsman: You really didn't have to ask.
+
+
+Addendum SCP-5552-3: Utilizing the remains of their budget, Project CHRONUS 
+constructed a Bi-Directional Temporal Traversal Device (BTTD) over the course of 
+three months. However, upon completion of the BTTD, Dr. Gupta and Dr. Helsman 
+utilized the device without consulting the Foundation Ethics Committee, the 
+Catastrophic Phenomena Contingency Planning Group, or the Department of 
+Causality Consistency. Below is footage from the security cameras at the time of 
+the Project's use: 
+
+Gupta enters the testing area for the BTTD at 2:00 AM. He goes to the control 
+panel and begins powering up the machine until Helsman arrives at 2:08. 
+
+Gupta: [checking his pocketwatch] You're late.
+
+Helsman: And you haven't told me what you're doing.
+
+Gupta: I'm… doing preliminary testing. And thought you should be here for the 
+first trial of our project. 
+
+Helsman: You're just going to use the time travel machine without telling 
+anyone? 
+
+Gupta: I'm telling you.
+
+Helsman: Naman…
+
+Gupta: You know no one would let me go back if I asked! And, well… I need 
+someone to activate the machine after I get inside. 
+
+Helsman: But why are you doing this? Official testing is starting in less than a 
+week anyways! 
+
+Gupta: Cindy. I'm stealing our theory back.
+
+Helsman: Excuse me?
+
+Gupta: Our theory. It still has Jonathan's name on it. I'm stealing it back. I 
+know it's been bothering you too. You pause a little every time you say "Wendel 
+Conduit". It keeps me up at night. He may have taken our work but now we have a 
+machine that let's us fix mistakes like that! 
+
+Helsman: You sound absurd.
+
+Gupta: But you don't disagree.
+
+Helsman: I… God this is so petty.
+
+Gupta: It's not petty. We worked on this for what? Five years? Losing the 
+product of five years of standing at the whiteboard, arguing over simulation 
+results and gathering test data isn't petty. 
+
+Helsman: You know as well as I do that you can't control how much you change.
+
+Gupta: Yes, yes. There's actions in life which set off long chains of events 
+that have effects no one could predict, yada yada yada. But for every one of 
+those actions, how many others have almost no impact on tomorrow? If you arrived 
+here three minutes earlier that wouldn't change the conversation we're having 
+now. Only so many actions can mean something. And for all we know I could be 
+avoiding catastrophes instead of starting new ones. 
+
+Helsman: That doesn't sound very… scientifically sound.
+
+Gupta: I've run some of the numbers. I'm almost certain that if I just help us 
+come up with some of our interpretations of the data a little faster that I can 
+recreate everything without any significant difference up through us publishing 
+our research. 
+
+Helsman sighs.
+
+Helsman: How far back are you going?
+
+Gupta: January. So eight months. Should give me enough time to speed our 
+research along so we can publish in that particle physics conference in March. 
+Before Jonathan is able to steal it. 
+
+Helsman: … fine. Just promise me that we get co-first author.
+
+Gupta: That was always the plan.
+
+Helsman: Hop in.
+
+Gupta: Thank you so much.
+
+Gupta enters the BTTD Traveller Capsule while Helsman takes over at the control 
+panel. After Gupta is strapped in, Helsman walks over to the Traveller Capsule. 
+
+Helsman: [shouts] Good luck.
+
+Gupta: [shouting through the capsule] I won't need it! I should have as many 
+tries as I need. 
+
+Helsman nods and walks back to the control panel.
+
+Helsman: That's the least comforting thing he could've said.
+
+Helsman activates the BTTD. Power is drawn from the entirety of the site, 
+causing the surveillance cameras to shut down. 
+
+
+
+Footnotes
+
+1. Proposed as an extension to the Standard Model of Particle Physics.
+
+2. Proposed to be a property of matter like electrical charge or mass
+
+
+
+Document 1/6
+
+
+
+SCP-5552
+
+Item #: SCP-5552
+
+LEVEL 3/5552
+
+Containment Class: Explained
+
+CLASSIFIED
+
+Special Containment Procedures: N/A
+
+Description: SCP-5552-EX is the Gupta-Helsman Gate as described in "A 
+Comprehensive Theory On Bi-Directional Temporal Travel", titled after the lead 
+authors on the paper, Naman Gupta and Cindy Helsman. This paper was presented on 
+2020/03/14 at the International Conference on Particle Physics, after a board of 
+Foundation personnel reviewed the paper and deemed the science sufficiently 
+in-line with baseline assumptions to be considered non-anomalous. 
+
+The Gupta-Helsman Gate operates in a similar manner to closed timelike 
+curvatures conjectured by Gödel. However, instead of operating like a wormhole 
+might, which relies on immense amounts of energy to open, Gupta-Helsman Gates 
+are opened and sustained through the vibration of vibron particles1. Vibron 
+particles vibrate in accordance to an atom's Wilt2. Investigation into 
+connections between Wilt and phenomena observed by anomalies in containment is 
+ongoing. 
+
+According to Dr. Gupta and Dr. Helsman, the process for generating sufficient 
+Wilt to open a Gupta-Helsman Gate is significantly less resource-intensive than 
+the theoretical method of opening a sizable wormhole. The Foundation has 
+allocated additional resources to Gupta's and Helsman's CHRONUS Project to build 
+a device that demonstrates the principles within their paper. 
+
+
+Addendum SCP-5552-1: Below is a partial transcript from the CHRONUS Project Lead 
+meeting regarding the construction of a Bi-Directional Temporal Traversal Device 
+(BTTD) as proposed in their paper: 
+
+Gupta: I can't believe they actually let us publish.
+
+Helsman: Honestly I'm more surprised they're letting us build it.
+
+Gupta: Well, of course they want us to build it. It's the Foundation.
+
+Helsman: Right, right…
+
+Gupta: Something wrong?
+
+Helsman: I guess I'm just nervous.
+
+Gupta: Don't worry. Everyone is.
+
+Helsman: Except you apparently.
+
+Gupta: Oh I'm nervous. I'm just good at hiding it. Now, let's get to scheduling, 
+shall we? 
+
+Helsman: Right.
+
+Gupta: I think we can get this thing done in about three months. That sound ok 
+to you? 
+
+Helsman: Yeah. That sounds fine.
+
+Gupta: Alright, we'll be testing in three months and let's work backward from 
+there. 
+
+
+Addendum SCP-5552-2: Below is the time table for the construction of the BTTD:
+
+Task
+
+Task Lead
+
+Deadline
+
+Notes
+
+
+BTTD Traveller Capsule Design
+
+Gupta
+
+2020/04/23
+
+Completed on time. Should be able to activate the BTTD from inside the
+capsule.
+
+
+Wilt Generation Cell Design
+
+Helsman
+
+2020/05/09
+
+Completed on 2020/05/14.
+
+
+Temporal Stability Ensurance Computations
+
+Helsman
+
+2020/05/21
+
+Completed on 2020/06/03.
+
+
+BTTD Traveller Capsule Construction
+
+Gupta
+
+2020/05/23
+
+Completed on time. Additional materials have been reserved for a
+second capsule.
+
+
+Wilt Generation Cell Construction
+
+Helsman
+
+2020/06/03
+
+Completed on 2020/06/20.
+
+
+Testing Proposal
+
+Gupta
+
+2020/06/14
+
+Completed on time. Requested a total of three different trials both
+with forward and backward temporal travel.
+
+
+Safety Checks	Helsman	2020/06/22	N/A
+
+
+Addendum SCP-5552-3: On 2020/07/02, Helsman was confronted about her inability 
+to meet the deadlines of the project. Below is a transcript from the meeting: 
+
+Gupta: Cindy, we need to talk. We're falling behind schedule.
+
+Helsman: I know, I know.
+
+Gupta: Like, I appreciate all the safety checks and recalculations you're doing 
+but I need you to trust me. 
+
+Helsman: But you know how dangerous this thing can be! If we're not right down 
+to the fourteenth decimal this could cause a catastrophic amount of damage. 
+
+Gupta: So you don't trust me?
+
+Helsman: No, no… I trust you but— like I don't trust myself. I feel like I'm 
+always a few steps behind you trying to play catch up. There's something about 
+all of this that just clicks for you and it's not clicking for me. It's 
+frustrating. This was supposed to be our project but it doesn't quite feel like 
+mine anymore. 
+
+Gupta: [sighs] Would you like me to tell you something that might make you feel 
+better? 
+
+Helsman: If you can, go ahead.
+
+Gupta: I know this is going to work, because it already has.
+
+Helsman: You… you've already used it, haven't you?
+
+Gupta: I traveled back to January because if we didn't publish by March our 
+research was going to be stolen. 
+
+Helsman: January… but that's when we started getting experimental data.
+
+Gupta: I just sped everything up is all. I knew what equations we were going to 
+be able to extract so I could skip a few steps. 
+
+Helsman: But… but that was supposed to be my job.
+
+Gupta: I know but—
+
+Helsman: You were good with concepts and theories and I was good with the 
+equations and making the numbers mean something. That was how we were supposed 
+to divide the work. But then you just stole my equations from me. 
+
+Gupta: But you already solved them! You solved them last time all on your own. I 
+was totally useless. 
+
+Helsman: But I wasn't there last time. This time I didn't do shit!
+
+Gupta: But it's all the same you.
+
+Helsman: I don't feel like I contributed! I feel like I've been playing second 
+fiddle! 
+
+Gupta: I— I'm sorry. I told you my plan when I left and you said it was fine.
+
+Helsman: I keep telling you that wasn't me! Whoever that was obviously wasn't 
+thinking about how it'd feel to have her equations stolen. 
+
+Gupta: I think she knew…
+
+Helsman: Well then she was being a dumbass!
+
+Gupta: I'm sorry. I… I didn't know.
+
+Helsman takes deep breaths, and settles back into her chair.
+
+Helsman: It's fine. Nothing can be done now. How long until we're finished with 
+this damn project? 
+
+Gupta: Umm, if we go at our predicted pace, only another month.
+
+Helsman: Thank god.
+
+
+Addendum SCP-5552-4: In the early morning of 2020/07/15, Site-72 experienced two 
+major power outages. One at 3:34AM, and another at 3:56AM. Security camera 
+footage prior to the 3:34 outage showed Dr. Helsman accessing the primary 
+testing area for the BTTD, logging information into the main control panel, and 
+entering the BTTD Traveller Capsule. Security personnel immediately ensured that 
+the initial power outage did not result in a containment breach, and were unable 
+to inspect the BTTD primary testing area before the second power outage 
+occurred, which happened less than two minutes after power had been 
+re-established to the site. 
+
+Initial inspection of the BTTD primary testing area occurred at 4:23AM, where 
+personnel discovered a black powdery substance scattered around and inside the 
+BTTD Traveller Capsule. The door to the BTTD Traveller Capsule was closed, and 
+readings from the BTTD Control Panel indicated recent use. Additionally, a 
+letter found on the ground next to the control panel. Below is a transcript: 
+
+I'm not sure if you will see this, since I'm not sure what happens after I 
+activate the machine, but in case you do, know that I'm not mad. Well, not at 
+you specifically. 
+
+I know you were just trying to get our work back. I know how it must've felt to 
+have your work stolen from you. I get it must have been frustrating and painful 
+and you wanted to fix that. But I was robbed of the opportunity to have a 
+breakthrough entirely. You took my a-ha moment from me. And I want it back. 
+
+I'm going back. I'm making sure you don't help me with my part of the project 
+and then I'm shoving a syringe full of amnestics up my arm so I can experience 
+it. The feeling of discovery. That moment when I solve a problem no one else 
+can. If I've done it before like you've said, I should just have to reset 
+everything and I can do it again. 
+
+I don't care if the research gets stolen. At least this time it really will be 
+our theory. 
+
+On the back of the letter is a series of calculations and numbers, appearing to 
+be someone's scratch work. At the bottom a number is circled, and below it is 
+written the following: 
+
+Why do they always screw up the weight decay?
+
+Dr. Gupta, who was seen in security footage sleeping in his office prior to the 
+3:34 power outage, could not be located. 
+
+
+
+Footnotes
+
+1. Proposed as an extension to the Standard Model of Particle Physics.
+
+2. Proposed to be a property of matter like electrical charge or mass
+
+
+
+Document 2/6
+
+
+
+
+Item #: SCP-5552 
+
+Level 3
+
+Containment Class: Euclid 
+
+Disruption Class: DARK
+
+Risk Class: Notice
+
+CONFIDENTIAL
+
+Special Containment Procedures: The CHRONUS Project is to continue its research 
+into the existence of SCP-5552. 
+
+Description: SCP-5552 is a theoretical method to travel backwards in time. The 
+exact nature of SCP-5552 as well as whether or not it can be replicated in a 
+controlled manner is still unknown. 
+
+Discovery: Evidence for the existence of SCP-5552 occurred on 2018/07/04 when 
+Reality Stability Beacons at Site-72 indicated a Retro-Causal Reality Shift. 
+However, due to the lack of discontinuity in the cause-and-effect predictions 
+from the beacons, it was determined that a large scale reality-altering event 
+did not occur. The resulting conclusion was that temporal travel must have taken 
+place. The CHRONUS Project research team was directed to determine the source or 
+subject of this temporal travel, however their search was unsuccessful. 
+
+
+Addendum SCP-5552-1: Below is a timeline of the CHRONUS Project's progress:
+
+Date
+
+Event
+
+
+2017/11/14
+
+The CHRONUS Project was initiated by Drs. Naman Gupta and Cindy
+Helsman.
+
+
+2018/01/22
+
+Dr. Gupta proposes a string-theory inspired hypothesis for reverse
+directional time travel.
+
+
+2018/03/08
+
+Dr. Gupta's theory was deemed highly unlikely after it did not fit any
+of the models created by Dr. Helsman.
+
+
+2018/03/19
+
+Dr. Gupta proposes a theory for reverse directional time travel based
+on quantum entanglement.
+
+
+2018/05/20
+
+Dr. Gupta's theory is contradicted by experimental evidence gathered
+by Dr. Helsman.
+
+
+2018/07/04
+
+CHRONUS Project directed to locate the source of the alerted
+Retro-Causal Reality Shift.
+
+
+2018/08/04
+
+Search for source of Retro-Causal Reality Shift disbanded.
+Modification to current timeline deemed sufficiently insignificant to
+ignore.
+
+
+2018/10/14
+
+Dr. Gupta promoted to Site Director, leaving the CHRONUS Project.
+
+
+2019/01/22
+
+Dr. Helsman proposes a theory for reverse directional time travel
+based on classical relativity.
+
+
+2019/05/03
+
+Dr. Helsman's theory is abandoned due to the lack of consistent
+relativistic behaviors at the quantum scale.
+
+
+2019/07/22
+
+Dr. Helsman proposes a theory for reverse directional time travel
+based on quantum mechanics.
+
+
+2019/10/02
+
+Dr. Helsman's theory is abandoned for being too similar to Dr. Gupta's
+quantum entanglement theory.
+
+
+2020/01/11
+
+Dr. Helsman proposes a theory based on the Standard Model of Particle
+Physics.
+
+
+2020/04/14
+
+Dr. Helsman's theory is abandoned due to a lack of progress.
+
+
+Addendum SCP-5552-2: Below is a transcript of the monthly status meeting between 
+Dr. Helsman and Dr. Gupta held on 2020/04/16: 
+
+Gupta: So… I see you abandoned another theory.
+
+Helsman: Yeah.
+
+Gupta: You know it's harder for me to keep justifying your funding if you're not 
+getting anywhere. 
+
+Helsman: I know Naman.
+
+Gupta: So, um, why'd you abandon this one?
+
+Helsman: I mean, really it's the same reason I abandoned all the other ones. Not 
+enough progress and too much pointing against it. 
+
+Gupta: I thought this one seemed promising.
+
+Helsman: Really? You think that time travel being based on the rotation of 
+gluons is promising? 
+
+Gupta: I mean—
+
+Helsman: I don't even know what I was thinking when I proposed it. It's fucking 
+stupid. We already have gluons tied to the Strong Force. 
+
+Gupta: I just think maybe this line of investigation is worth going down.
+
+Helsman: Naman, I've been at this for more than two years and all I've hit are 
+fucking dead ends. 
+
+Gupta: But I know you can do it.
+
+Helsman: That's what you've been telling me for the past year! And while they're 
+nice words, they've been kind of useless. 
+
+Gupta: Well, it's not my job to do the research.
+
+Helsman: It used to be! We used to be a team. And then you left me for what? For 
+management? Do you even enjoy that? 
+
+Gupta: I am in this position because I want to be.
+
+Helsman: And maybe that's because you don't even enjoy research anymore. And 
+here you are telling me to chase geese! 
+
+Gupta: Or maybe it's because I was better at research.
+
+Helsman: You know what? You can fuck off. Take my funding. See if I give a shit.
+
+Helsman gets up and leaves Gupta's office, slamming the door behind her. Gupta 
+sighs and puts his head in his hands. 
+
+Gupta: She'll thank me later. Or maybe not. But she'll be grateful nonetheless.
+
+
+Addendum SCP-5552-3: During the night of 2020/04/16, security personnel at 
+Site-72 reported a sudden, significant alteration to rooms 118, 119, and 121, 
+which contained the Project CHRONUS Laboratory, cubicles for Project CHRONUS 
+personnel, and the office of Dr. Helsman respectively. The walls, floors, 
+ceiling, and all contents of these rooms had morphed into a black substance. 
+Objects made of this substance maintained their shape until disturbed, at which 
+point they would assume a more liquid-like state. 
+
+Security personnel reported three casualties. Two of these casualties were 
+Researcher Yufei Zhu and Janitor Ivan DeWalt, who were presumed to be engaged in 
+conversation at the time of the event based on their poses at the time of 
+discovery. The third was Dr. Cindy Helsman, who was most likely listening to a 
+voicemail on her phone. Below is the transcript of the most recent voicemail 
+received by Dr. Helsman prior to the event. 
+
+Gupta: Hey Cindy. Umm… sorry about what I said earlier. I didn't mean most of 
+it. Like, I didn't mean the part about me being the better researcher. Honestly, 
+I left the project because I wanted it to be your discovery. It's just, it's 
+frustrating for both of us to see you bang your head against this problem. But 
+if you want, I can come back to the project. We can make this our theory again. 
+
+Following the 2020/04/16 event, Dr. Gupta took over the CHRONUS Project. The 
+CHRONUS Project was also moved from Site-72 to Site-53, after the entire Eastern 
+Wing of Site-72 experienced a similar event to that described above (See CHRONUS 
+Project Special Reports for details). 
+
+
+
+Document 3/6
+
+
+
+SCP-5552
+
+PROJECT CHRONUS EYES ONLY
+
+The following file describes an anomaly currently under investigation,
+and is Level 4/5552 classified
+
+Unauthorized access is forbidden.
+
+
+
+Item #: SCP-5552
+
+Object Class: Euclid
+
+Special Containment Procedures: The CHRONUS Project is to continue research to 
+confirm the details of SCP-5552. While it is possible that SCP-5552 related 
+phenomena can be explained given our current understanding of science, they have 
+been deemed anomalous until further progress has been made. 
+
+Description: SCP-5552 refers to a theoretical method of travel between parallel 
+universes with similar cause-and-effect chains. Details regarding the exact 
+nature of SCP-5552, as well as the parallel universes it can access, are under 
+investigation by the CHRONUS Project, lead by Dr. Naman Gupta and Dr. Cindy 
+Helsman. 
+
+Addendum SCP-5552-1: Below is the transcript of the meeting on 2018/07/04 
+between Dr. Helsman and Dr. Gupta, first proposing the existence of SCP-5552. 
+
+Dr. Gupta paces back and forth in front of his desk. Dr. Helsman enters Dr. 
+Gupta's office, at which point Dr. Gupta checks his pocketwatch. 
+
+Gupta: You're late.
+
+Helsman: Only by a minute.
+
+Gupta: You're still late.
+
+Helsman: Naman, are you ok? You seem a little more restless than normal.
+
+Gupta takes three deep breaths, and then sits down at his desk.
+
+Gupta: Sorry. I'm just anxious.
+
+Helsman: Anxious about what? Paper deadline?
+
+Gupta: No, no…
+
+Helsman: Then what is it?
+
+Gupta: Ok. Cindy, I am about to say something that sounds incredibly stupid. But 
+I am going to need you to believe me, alright? 
+
+Helsman: Ok…
+
+Gupta: I might be from the future.
+
+Helsman remains silent, before beginning to say something. However, she stops 
+herself. 
+
+Gupta: Yeah…
+
+Helsman: … but what does that mean?
+
+Gupta: So, I think it's like this. I know for certain that I came from somewhere 
+that on April 16th, 2020, you die and I take over the CHRONUS Project. 
+
+Helsman: Wait wait. You're saying I die in two years?
+
+Gupta: Well, that's assuming I'm from the future. Because there's another 
+option: I'm from a parallel universe. And I didn't travel in time at all. 
+
+Helsman: Well, I mean if you're from a parallel universe then wouldn't that mean 
+you've still travelled back in time? 
+
+Gupta: No no. In this scenario I actually can't travel backwards in time. It'd 
+be impossible. It'd just be an illusion since each of the universes are 
+temporally offset. 
+
+Helsman: I— I don't follow.
+
+Gupta: No it's like… Like time zones. Here it's three but in California it's 
+noon. Here it's April 4th but in another parallel universe it's March 6th. You 
+can't travel backwards in time, but you can travel to a parallel universe that 
+started a month later than this one, and that's almost the same thing. 
+
+Helsman: Ok. And why do you think this is what you've been doing instead of time 
+travel? 
+
+Gupta: Well, um… not all parallel universes are created equal. In fact a lot 
+of them are probably unstable. So at certain points in time, arbitrary groups of 
+particles will just, like they'll lose stability. Err, but not entirely. Like 
+they go black, and they crumble and it's… it's like the very fabric of reality 
+just wilts away. 
+
+Helsman: You know you sound crazy right?
+
+Gupta: Yes but haven't I always sounded insane? Most of what I say sounds 
+absurd, yet you still run the numbers for me. Because we both know I might be 
+right. 
+
+Helsman: … do you want me to start making models?
+
+Gupta: That would be fantastic.
+
+
+Addendum SCP-5552-2: Two weeks following this proposal, Site-72 personnel 
+reported concerns about Dr. Gupta's mental well-being. Dr. Gupta was only seen 
+leaving his office to go to the bathroom, and to get food from the cafeteria 
+which he would then eat in his office. Dr. Green, occupying a neighboring 
+office, reported hearing Dr. Gupta shout the phrase "It doesn't make sense", and 
+other variants with similar meaning. Dr. Helsman was requested to speak with Dr. 
+Gupta, as he has refused meetings with other personnel. 
+
+Gupta is looking at the whiteboard in his office. It is filled with a flow 
+chart. Helsman knocks on the door to Gupta's office. 
+
+Gupta: [shouts] I'm busy.
+
+Helsman: Even for me?
+
+Gupta opens the door slightly. After seeing Helsman, he opens it the rest of the 
+way. Helsman enters. 
+
+Gupta: Sorry. I'm just stressed still.
+
+Helsman: You seem a little more than stressed. People are worried about you.
+
+Gupta: I know, I know. I'm fine.
+
+Helsman: You know, you used to get lunch with everyone else. Might be good to 
+get your mind off of work. 
+
+Gupta: I can't.
+
+Helsman: Because…
+
+Gupta: It's just… there's so much I still can't explain. Like how I've only 
+travelled to similar parallel universes. Why haven't I blasted myself off to a 
+world where Earth doesn't even exist! 
+
+Helsman: Well, I have some news. Not sure if it'll help or not…
+
+Gupta: I'm listening either way.
+
+Helsman: I haven't been able to get your parallel universe theory to work.
+
+Gupta: Oh.
+
+Helsman: Yeah. Mostly the stability part. What you're describing just doesn't 
+fit with… anything really. 
+
+Gupta: I see.
+
+Helsman: I mean, we'll come up with another theory. It sounds like we've been 
+able to explain everything so far. 
+
+Gupta: Yeah. Yeah you're right.
+
+Helsman: Take a few days off. You said I die in two years right? We still have 
+time. 
+
+Gupta: Yeah… I'll do that.
+
+Dr. Gupta was approved for a vacation between 2018/07/19 and 2018/07/26.
+
+
+Addendum SCP-5552-3: On 2018/07/24, Site-72 experienced a mass alteration to its 
+molecular structure, as well as the molecular structure of all personnel and 
+materials within. This alteration resulted in all affected materials taking on a 
+charcoal-like structure that collapses into a liquid state when disturbed. 
+
+Dr. Gupta ended his vacation early, taking over the CHRONUS Project and moving 
+it to Site-53. 
+
+
+
+Document 4/6
+
+
+
+SCP-5552
+
+Item #: SCP-5552
+
+Object Class: Euclid
+
+Special Containment Procedures: Research is to continue into the stabilization 
+of SCP-5552 affected particles. 
+
+Description: SCP-5552 refers to the Order of a particle. Order is a measurement 
+of how well the position, velocity and rotation of a particle can be predicted 
+given the state of the universe at the time of the Big Bang. Since the state of 
+any individual particle is influenced by its collisions with nearby particles, 
+the introduction of low Order particles will result in the lowering of the Order 
+of the entire system. 
+
+Macro-structures with Order below a certain threshhold will lose temporal 
+stability. This lack of stability immediately result in a breaking and 
+rearrangement of bonds between the particles to keep them anchored in their 
+current position and trajectory along the temporal axis. This manifests in the 
+creation of a black-powdery substance that occupies the same space as the 
+structure at the time of stability loss, but will collapse into a liquid-like 
+state upon disturbance. This transformation is termed "wilting". 
+
+2018/04/16 Update: I was going to pitch this to Cindy today, but apparently her 
+whole neighborhood wilted last night. 46 houses, 166 casualties. The Foundation 
+is trying to play it off as a fire. 
+
+I guess this means I'm in charge of the CHRONUS Project again. Although I don't 
+want to rush it. Not this time. I keep just diving back into the past but not 
+this time. This time I'm waiting until I know my theory works. But I think I can 
+figure something out. There's something about this one that just feels… right. 
+
+2018/05/03 Update: I'm finally ready to start making the models. I tried running 
+my theory by Dr. Green. He couldn't find anything immediately wrong, but then 
+again he specializes in generalized reality-disturbances, so this isn't exactly 
+his field. In fact, I don't think there's anyone here who specialized in this 
+field. Well, Cindy used to. 
+
+Either way, I'm ready to start putting together the models. If there's somewhere 
+that my theories fall apart, it's here. 
+
+2018/06/18 Update: The northern wing of Site-72 wilted today. Luckily none of my 
+equipment was stored there, but they're moving everyone to Site-53 anyways. They 
+gave me the same office as last time too. 
+
+I'm going to start building the BTTD now. I don't want to be screwed when this 
+place also wilts. 
+
+2018/07/23 Update: I haven't made any progress. Fucking nothing. This modeling 
+software Cindy used is so damn confusing. Every time I get past one error 
+message it throws another at me. Or I learn that I had the equations wrong. 
+
+2018/09/02 Update: I'd been thinking about this for a while and… I don't know 
+why I haven't wilted yet. In fact I don't know how I don't wilt the moment I 
+activate the time machine. Everything around me seems to collapse but I'm fine. 
+Why am I fine? I shouldn't be fine. 
+
+Maybe the models will give me some insight. I got Dr. Green to help me make the 
+model run. Now all I have to do is play with the parameters until I get a lock 
+on what makes this theory tick. 
+
+2018/09/26 Update: I don't know how Cindy ever did this. There's so many 
+constants. So many variables to tune. I've looked back at her notes and they 
+make no sense. She eliminates so many possibilities so quickly. Like there's 
+some sort of an art to this that I can never grasp or understand. She was so 
+good at this. 
+
+2018/10/08 Update: I think I know why I'm stable… there's only been one 
+variable changing between each iteration. It's me. Which would imply that I 
+should be the one wilting. I should be the one crumbling, destablilizing, 
+collapsing into a puddle of particles. But, what if my order from previous jumps 
+carries over? What if I'm being held together by the order from my original 
+timeline? 
+
+But then if everything in any given timeline should have stable order, and I 
+have stable order then… the wilting must be coming from me. I'm destabilizing 
+the timeline here. Which is dumb now that I write it out. Of course it was all 
+me. Of course this is all my fault. Of course I'm the reason Cindy turns into a 
+pile of fucking ashes every time I try to fix everything. 
+
+2018/12/01 Update: Screw it. I can't get the models to work. They finished the 
+BTTD yesterday so I'm going back in time and getting Cindy to do it. Then we'll 
+be able to fix everything. I just need her help. 
+
+
+
+Document 5/6
+
+
+
+SCP-5552
+
+Item #: SCP-5552
+
+Object Class: Keter
+
+Special Containment Procedures: Oh fuck it.
+
+I was wrong.
+
+Everything had wilted by the time I arrived.
+
+I drove to Site-72. The whole southern side of the building had already crumbled 
+into black-tarry mess. There were a few guards out front to keep civilians out, 
+but other than them the whole site was empty. They let me back in to "get my 
+stuff". 
+
+Apparently, this time the CHRONUS Project made faster progress than last time. 
+The time machine was mostly done. As a bonus, we reconstructed the walls out of 
+that soft material we found at the GOC… I think 6 timelines ago now? 
+
+There's still food in the cafeteria. I think I'm going to hole up here for a 
+while. The place still has power, probably because the Foundation doesn't want 
+to take any risks and let something escape from here that they might've 
+forgotten to take with them. 
+
+I can't stop working. I need to fix my theory, and then I'll fix everything 
+else. 
+
+Progress is going even slower now. I don't think I can ever get these models to 
+work for me the same way Cindy did. 
+
+I read through some of the reports of wilting in other parts of the world. A 
+long stretch of land in France, two towns in Thailand, and the entirety of K2 
+are gone. I'm afraid that the next time I look out the window, instead of seeing 
+the forest behind Site-72 I'll see scorched ground and crumbling trees. 
+
+The soft walls here seem fitting. I think something about the material is 
+resistant to wilting, but really it just contributes to the insane asylum feel. 
+All I'm missing is a straight jacket. 
+
+My "Order" theory is finally dead. And no, not because I got the models to work. 
+My pocket watch wilted. I'd had that since I was sixteen when my grandfather 
+gave it to me. And now it's just black dust. 
+
+I'm back at square one. No theory. No models. Not even someone to bounce ideas 
+off of. I've taken to talking to myself to get my ideas out of my head but that 
+only works so well. 
+
+It's funny, because all of the clocks in this place stopped working weeks ago. 
+The only reliable time-telling device I have left is my computer. And honestly, 
+I'm beginning to suspect its timezone is drifting. 
+
+I googled "Jonathan Wendel" on a whim. Most of what I read just made me mad. Got 
+his PhD from Stanford in Theoretical Physics. Has tenure at CalTech, leading a 
+joint project with Oxford on time-travel. A lot of papers published. A lot of 
+talks given. 
+
+But then I started reading about his personal life. Turns out, he never owned a 
+dog. 
+
+So then how did he come up with the name "Wilt"? I got the name originally from 
+him. But where did he get it from? 
+
+I mean, I have a theory. All I'm good for is theories. But, I've been using 
+"wilting" to describe the destabilization process. It's just such an accurate 
+description for the phenomenon. "Wilt". Everything turns black and then 
+collapses. Like a flower in winter. Wilting away. 
+
+I remember, Cindy wanted to go back in time and do everything over again. She 
+wanted to kick me off the project, wipe her memories, and solve the problem 
+herself. It was a clever idea. Set up everything to be just the way you would've 
+wanted it, and then forget what happens next so you can experience it for 
+yourself anew. 
+
+What if I've seen all of this before?
+
+What if Cindy saw all this before?
+
+What if the only way to stop it, was to stop us from inventing time travel in 
+the first place? 
+
+We'd go back, give Wendel our research, but not the proper numbers. He'd publish 
+first, and then perish first when he makes the machine. We'd think our theory 
+was wrong. We'd stop. 
+
+God, we're too clever for ourselves. Except I can't prove it. I can't prove jack 
+shit. Maybe he doesn't have a dog in this timeline but he had a dog in that one. 
+Or maybe he just came up with the name on his own in a happy little coincidence. 
+It's just a theory. Just another useless theory. 
+
+I miss Cindy.
+
+I hate this. I have nothing. I feel close to an idea it slips out of my fingers 
+and I lose my train of thought entirely. I've been here for far too long. I'm 
+banging my head against the walls, and I don't even feel anything because 
+they're soft. There has to be a reason. I've been able to travel back in time 
+reliably and yet I can't explain why. It's pathetic. 
+
+I'm not used to doing this on my own. It's not like I was ever able to solve 
+these problems on my own. It was our theory after all. It took two of us to 
+solve. 
+
+Maybe that's what's going on. Maybe the theory is mocking me for trying to solve 
+it myself. Running me through a maze with no exit. 
+
+It was kind of silly for us to think we'd be able to travel back in time in the 
+first place, wasn't it? That we would be able to make it work even though no one 
+else has. Maybe things would be better without our theory. 
+
+You know, that doesn't sound so bad. I have little else to lose.
+
+
+
+Document 6/6
+
+Open current SCP-5552 documentation
+
+
+SCP-5552
+
+Item #: SCP-5552
+
+Object Class: Safe
+
+Special Containment Procedures: All SCP-5552 instances are to remain Level 4 
+Classified. 
+
+Description: SCP-5552 refers to a series of 6 documents that appeared within the 
+Site-72 database on 2020/04/14. All documents appear to be related to SCP-5552, 
+a previously unassigned SCP slot. 
+
+The documentation itself has not demonstrated anomalous properties, however all 
+have been tagged with an upload timestamp of 13:43:28, which has been estimated 
+to be the same time as when Dr. Naman Gupta began a talk at the 6th 
+International Conference on Physics titled "A Comprehensive Theory On 
+Bi-Directional Temporal Travel". 
+
+Investigation has been launched into possible anomalous phenomenon connected 
+with SCP-5552, however no conclusive evidence could be found to corroborate 
+details within these documents. To avoid possible time-continuity errors, 
+parties mentioned within SCP-5552 were not informed, nor directly questioned 
+about the contents of SCP-5552. The main anomalous property of these documents 
+is their unexplained appearance within the Site-72 database. 
+
+
+Addendum SCP-5552-1: On 2020/05/02, Foundation satellites detected a large 
+visual disturbance in Nunavut, Canada. An area of twenty acres of land had 
+become entirely black, including all flora and fauna residing within that area. 
+GOC Resources informed The Foundation that this was the result of a catastrophic 
+failure during an attempt to realize Dr. Naman Gupta's Research. As a result of 
+this development, Dr. Alan Green was directed to re-open investigation into 
+SCP-5552. Below is Dr. Green's interview with Dr. Cindy Helsman that took place 
+on 2020/05/06, under the guise of an post-mortem for her CHRONUS Project: 
+
+Green: Hello Cindy.
+
+Helsman: Hey Alan…
+
+Green: I know it's been rough, losing the project and all. Let's just get 
+through this wrap-up interview quickly. 
+
+Helsman: Seems a little late. They reassigned me two weeks ago.
+
+Green: It is, but you know how the bureaucracy here goes.
+
+Helsman: Whatever. There isn't much to wrap up anyways. Go ahead.
+
+Green: Does the term "Wilt" sound familiar to you?
+
+Helsman: Not really.
+
+Green: What about a "Wendel Conduit"?
+
+Helsman: Haven't heard of that either. Am I supposed to?
+
+Green: You're doing fine. Don't worry about it. Now, do you know a Dr. Naman 
+Gupta? 
+
+Helsman: Yes. He's the lead author on the GOC paper about time travel.
+
+Green: Have you actually met Dr. Gupta?
+
+Helsman: Um, no. Honestly, I still haven't even seen his talk.
+
+Green: That's understandable.
+
+Helsman sniffles.
+
+Helsman: He uh, he died recently right?
+
+Green: Yes he did. There was an accident when he was testing his time machine.
+
+Helsman: Huh.
+
+Helsman sniffles again, and wipes her eyes.
+
+Green: Is everything ok Cindy?
+
+Helsman: I don't get it.
+
+Green: You don't get what?
+
+Helsman wipes her eyes again.
+
+Helsman: I'm crying Alan. Why am I crying?
+
+Green walks to the other side of his desk and puts an arm around Helsman.
+
+Green: I have a theory, but I don't think it's important. Not everything needs 
+an explanation. 
+

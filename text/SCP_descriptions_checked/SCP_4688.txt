@@ -1,0 +1,433 @@
+                                    SCP-4688                                    
+                                    ========                                    
+
+                           Manipulative Bike Helmets                            
+                           -------------------------                            
+
+Item #: SCP-4688 
+
+Object Class: Artifact 
+
+Containment Class: Safe 
+
+Special Containment Procedures: Instances of SCP-4688 are to be stored in a 
+standard anomalous item containment unit in Site-76. This container is to be 
+reinforced with a Faraday cage to prevent possible interactions with 
+internet-based devices. SCP-4688 may not be stored in the vicinity of 
+electricity-based SCP objects, nor should it be allowed to come in contact with 
+electrical wiring of any kind. 
+
+Testing of SCP-4688's suggestion effect may proceed with permission from Project 
+Head/46881. Testing must be carried out in an electronically isolated testing 
+chamber with no electronic devices. As of the cessation of Incident 4688-Omega, 
+Testing of SCP-4688's interactions with electronic devices is forbidden. 
+
+Description: SCP-4688 are a series of Bell-brand children's bike helmets. 
+Although the design of SCP-4688 instances vary, the word "ERIC2" is always 
+written in a child's handwriting with white marker on each helmet's inside. 
+
+Anomalous properties begin when SCP-4688 is worn by a sapient being capable of 
+understanding language. The wearer of SCP-4688 will enter a trance state where 
+several parts of the brain related to critical thought are either shut down or 
+suppressed. Outwardly, subjects will experience slurred speech, impaired motor 
+control, and susceptibility to suggestion. Subjects under the influence of 
+SCP-4688 will not refuse any order given to them, except if it will obviously 
+bring harm to the subject in question. 
+
+This suggestion effect appears to be the primary purpose of SCP-4688, given the 
+fact that "MIND CONTROL HELMET" is also written inside of some instances of 
+SCP-4688 alongside the aforementioned "ERIC". Notably, subjects will still 
+retain personality while wearing SCP-4688 and, if left alone, will go about 
+their routine without interference. 
+
+It is of note that some instances of SCP-4688 were recovered with rusted copper 
+wiring attached to the frontal area and sides of the helmet. In accordance with 
+the containment procedures developed in the wake of Incident 4688-Omega, this 
+wiring has been removed. 
+
+
+Addendum: Abridged Testing Log 
+
+Subject 
+
+Suggestion 
+
+Result 
+
+
+D-60193 
+
+D-60193 was asked if he would mind baking Agent Wells some chocolate chip 
+cookies. 
+
+D-60193 informed Agent Wells that he had no baking skill, but would be happy to 
+follow a tutorial if given access in order to carry out the suggestion. 
+
+
+D-35556 
+
+D-35556 was requested by Dr. Diamond to clean Researcher Crane’s office. 
+
+D-35556 explained her appreciation for Dr. Diamond’s “act of 
+selflessness”, quickly carrying out the request with no difficulties. 
+
+
+D-20091 
+
+D-20091 was asked to eat escargot, previously established by D-20091 as his 
+least favorite dish. 
+
+D-20091 explained that there was no reason he could not give the dish a second 
+chance, and ate the entirety of the presented platter with no hesitation. 
+
+
+Incident Report: Incident 4688-Omega 
+
+[REPORT PENDING SUMMARIZATION] 
+
+I'm not taking this one, no way, no how. I know I'm probably the most qualified 
+person here, but I don't want to lose my stomach again. 
+
+It's selfish of me, I know, but leave this one to one of the researchers, or 
+something. I put all the relevant shit below. I'd love to go my whole life 
+without needing to look at the internet again. 
+
+- Agent Laster 
+
+
+View Attachment: omega-incident-docs.zip 
+
+SCiPNET FILE SELECTOR v1.5.3
+
+Unzipping file: omega-incident-docs.zip
+
+/tmp/unzip/omega-incident-docs/
+├── laster_recovery_report.pdf
+├── incident-log-4688-3.pdf
+├── scp-4688-2017-09-30.docx
+├── maxwll-eric-commlog.odt
+└── scp-4688-2017-11-05.docx
+
+
+SCP-4688 Instances #29-32 Recovery Report
+
+Authored By: Agent Laster
+
+It turns out that the fellow who started the whole thing lived with
+his mother.
+
+She was a nice old lady, couldn't be younger than 65. Actually offered
+me some chocolate chip cookies just for visiting (whatever deity made
+me allergic to chocolate is going to get my foot up its ass). We had a
+conversation. Apparently, her husband was an hedge fund manager, and
+left her a good sum of money. Explained why she was able to afford a
+flat in the middle of Cupertino.
+
+Eventually, I guided the conversation over to why I came; the helmets,
+and her son. He was around 40, never left home. He'd gotten a comp-sci
+degree but never used it for anything much. Never could keep down a
+job, either for his social awkwardness or his tendency to babble about
+machines. Only ever came out of the basement for food and the
+occasional WiFi fix. Other than that, he was, and I quote, "a sweet
+boy".
+
+I didn't have the heart to tell her he was a Maxwellist.
+
+For those who haven't seen 'em yet, Maxwellism is like the Church of
+the Broken God, but instead of thinking that their God is all in the
+machines, they think it's all across the internet. For the most part,
+they're the same. Same augmented cultists, same machine worship, same
+shit all around. However, when your God's on the internet, you're
+obviously gonna spend a lot of time there searching for 'em. As you
+can probably tell, that attracts a certain demographic.
+
+First, I asked her about bike helmets. She said she had some, but her
+son took them all down to the basement for some LARP-related reason.
+Then, I asked her to go to the basement, so I could meet him. She said
+sure, but he doesn't like being disturbed. She led me to the back of
+the house and opened up a cellar door; she gave it a good three-meter
+berth. I smelt three things: old food, piss, and— the real kicker—
+dead bodies. You can smell 'em from a mile away, once you've worked
+with four-four-seven enough.
+
+There were these shitty wooden steps leading down to the basement.
+Every time I took a step down, it made a creaking noise. I swear to
+God, the smell got worse every time I went down; I had to plug my nose
+by the fifth step, and not just because of the dead body smell. By the
+time I got to the door, the stench was so rancid, I was thinking about
+leaving and coming back with one of the air recyclers the breach
+specialists use to deal with toxic environments.
+
+Then I opened the door, and I had to step back, I got hit with a
+fucking wave of death. I think my brain kinda blocked out the memory
+of the shebang, but from what I remember, there was a shit ton of food
+on the floor. Rotting, decaying food, with legitimate rats crawling
+all over them. There was shit on the floor; I'm not sure where it came
+from. The walls were smeared with some kind of fleshy crap; if you
+looked close enough, you could see the Star Wars posters underneath.
+They had a pretty nice computer, I remember that well enough. It's
+such a shame that three fucking cadavers were hooked up to it, and one
+of 'em had a big hole in his stomach from the rats making a nest
+there.
+
+I'm no chicken, but I got out of there as fast as I could. I yanked
+the helmets off of all of 'em, turned tail and ran back up the stairs.
+Oh yeah, one more quick detail. The wires were burnt out, and they had
+the same fleshy shit all over. I got some of it on my hand, and I
+didn't notice 'til I got back to Site-34 and it set off a quarantine
+alarm.
+
+
+Incident Report: Incident Po1ntyB1rd
+
+Report Summary: On 2017-10-3 a Foundation web tracker spotted an
+instance of SCP-4688-1 installed in www.██████████.net, a forum site
+dedicated to the discussion of the cartoon Steven Universe.
+
+The following is the abridged set of forum posts which the SCP-4688-1
+instance was initially detected:
+
+Topic: Re: Diamond Authority Shitpost Thread
+
+17:22 Po1ntyB1rd: hrjwjw o18&n jo k
+
+17:25 Redangersmol: wha
+
+17:31 Midnight8181: Haha me @ Pink being Rose
+
+17:32 Po1ntyB1rd: Im&cn2sha gona h7h bpels
+
+17:33 Po1ntyB1rd: t0sh3sjs is5hes aai@&nt7to ajol jp
+
+17:39 TheCh33teeo: k
+
+17:44 Po1ntyB1rd: whaii9@& ii hd
+
+17:47 Redangersmol: uuuhhhhhh are you okay
+
+17:51 Meowpow: Guys Pointy mighta been hacked :/
+
+17:55 TheCh33teeo: i dont think hacks cause that
+
+18:00 Po1ntyB1rd: whhhaots haipinp
+
+18:04 Redangersmol: pointy what
+
+18:06Meowpow: Is your keyboard broken?
+
+18:07Po1ntyB1rd: wjweird keeybo@ard itg nort brwpkn
+
+18:09Melobun_: its not working?
+
+18:10Po1ntyB1rd: Weird maxw kyegboard ssry idk whete I am
+
+18:13Melobun_: what? u okay?
+
+18:13Po1ntyB1rd: inc pmoputer
+
+18:14Po1ntyB1rd: im inmy computer
+
+18:16TheCh33teeo: uuuh haha i feel like that too
+
+18:16Po1ntyB1rd: l iterally
+
+
+SCP-4688 - Revision 2017-09-30
+ 
+SCP-4688
+
+Item #: SCP-4688
+
+Object Class: Artifact/Online
+
+Containment Class: Euclid
+
+Special Containment Procedures: Instances of SCP-4688 are to be stored
+in a standard anomalous item containment unit in Site-76, reinforced
+with a Faraday cage.
+
+When not undergoing testing, SCP-4688-1 are to be stored on separate
+airgapped servers physically stored out of the range of any wireless
+connection. A Foundation-maintained web scraper (I/O-AVIAN) is to scan
+popular internet sites and forums for evidence of SCP-4688-1. They are
+then to be lured into a controlled Foundation server and brought into
+containment.
+
+Description: SCP-4688 are a series of Bell-brand children's bike
+helmets. The Foundation currently possesses 12 instances of SCP-4688;
+however, it is confirmed that more exist outside of containment.
+
+Anomalous phenomena begin when SCP-4688 is worn by a sapient being
+capable of understanding language. The wearer of SCP-4688 will enter a
+trance state where they experience slurred speech, impaired motor
+control, and susceptibility to suggestion. Subjects under the
+influence of SCP-4688 will not refuse any order given to them, except
+if it will obviously bring harm to the subject in question.
+
+However, through a poorly understood process involving the connection
+of SCP-4688 to an internet-enabled computer, the wearer of SCP-4688
+will instead become comatose. So far, no means known to the Foundation
+have been successful at awakening affected subjects from this coma,
+even after the removal of SCP-4688. Following this, an executable file
+(hereafter SCP-4688-1) will appear on the computer and run itself.
+
+SCP-4688-1 do not have a true interface; however, it is able to bypass
+standard memory protections and access other software on the computer
+in significant manners. In addition, SCP-4688-1 can transfer itself
+across internet connections to access other computers. Interactions
+with SCP-4688-1 instances have revealed them to be sapient, and they
+will claim to be the subject who had previously become comatose from
+wearing SCP-4688. Decompilation of SCP-4688-1 instances has yet to
+yield any significant results.
+
+
+Addendum 4688-1: Discovery
+
+SCP-4688 was originally found in the possession of a con artist, who
+had used it to steal several people's possessions under the cover of a
+street magician. See Recovery Log 4688-SCHOOL for a collection of
+recovery incidents pertaining to other SCP-4688 instances.
+
+The existence of SCP-4688-1 was brought to the Foundation's attention
+after an instance modified the Google home page to feature surrealist
+artwork by Tinas van Doorn and a string of seemingly random text. This
+was addressed by Google cybersecurity teams within 5 minutes of the
+incident; however, images of the modified webpage began to circulate
+popular internet forums. Information was disseminated indicating that
+these images were hoaxes.
+
+Although the string appears to be random, it is of note that the words
+"LAN" and "IO" occur multiple times.
+
+Foundation web crawlers were fine tuned, revealing the presence of
+several more instances of SCP-4688-1 on popular servers that had
+remained hidden prior to the incident. It is unknown when the first
+instance of SCP-4688-1 was created, nor how many there are outside of
+Foundation containment.
+
+
+Chat Log Transcript 4688-JONSWORDS
+
+Foreword: The following transcript was intercepted as a private
+message conversation between users Jonswords and ERIC1234 in the ████
+IRC server. It is of note that Jonswords is the primary alias for
+PoI-8902 ("Jonathan Harris"), a high-ranking member of GoI-004C
+("Church of Maxwellism") and one of the first instances of SCP-4688-1.
+
+10:42 Jonswords: hey there kiddo
+
+10:44 ERIC1234: Hi
+
+10:45 Jonswords: so your helmets those have been pretty cool B)
+
+10:47 ERIC1234: How do you know theyre mine
+
+10:48 Jonswords: magic o3o
+
+10:48 Jonswords: so eric i do have a problem
+
+10:49 Jonswords: those helmets have been really cool with helping get
+my friends to get me more friends, but sometimes these friends
+complain i was hoping as the little genius you were you had something
+else to help like another toy? :)
+
+10:52 ERIC1234: Maybe i dunno tho i don’t think anything would do it
+plus all I really know is you like my helmets
+
+10:52 Jonswords: theyre cool helmets B)
+
+10:53 Jonswords: anything would help its for a good cause more friends
+is a good thing
+
+10:56 ERIC1234: I mean i’ve got some crayons this ray gun an ant farm
+
+10:57 Jonswords: what does the ray gun do? :)
+
+10:57 Jonswords: sounds cool XD
+
+11:00 ERIC1234: Uhh it brings my toys to life
+
+11:00 ERIC1234: I buried it tbh. I tried to forget it existed
+
+11:01 Jonswords: so maybe you could let me borrow it? to help for my good cause? :))
+
+11:08 ERIC1234: uuuuu if it’s for a good cause so you have more friends
+
+11:08 Jonswords: YAYYYY!!!! i want everyone to be my friend :) thank you Eric
+
+11:11 ERIC1234: Your welcome
+
+
+SCP-4688 - Revision 2017-11-05
+
+Item #: SCP-4688
+
+Object Class: Artifact/Online
+
+Containment Class: Keter
+
+Special Containment Procedures: Instances of SCP-4688-A are to be
+stored in a standard anomalous item containment unit in Site-76. This
+container is to be reinforced with a Faraday cage to prevent further
+interactions with internet-based devices.
+
+Foundation medical journals are to fabricate a disease that causes
+sudden and irreversible comas, in order to cover the activity of
+SCP-4688-1. Security patches are to be distributed worldwide to
+prevent further incursions into servers of importance. SCP-4688-1
+activity outside of the aforementioned are to be covered up by several
+Foundation-sponsored "hacktivist" groups.
+
+Description: SCP-4688 refers to a collection of anomalies originally
+used to produce SCP-4688-1 instances. SCP-4688-A are a collection of
+bike helmets that, when worn, induce suggestion. SCP-4688-B is an
+electronic construct that, when connected to SCP-4688-A and a
+computer, will create instances of SCP-4688-1. SCP-4688-B is currently
+not in the Foundation's possession.
+
+SCP-4688-1 are sapient computer programs produced when a human is
+connected to SCP-4688 and an internet-enabled computer. SCP-4688-1 are
+able to interact with the operating system in several ways in order to
+communicate, and claim to be the human used to generate SCP-4688-1. It
+is of note humans connected to SCP-4688 will become permanently
+comatose after the operation.
+
+In addition, humans exposed to SCP-4688-1-generated content (such as
+an infected webpage) also have a chance to become comatose and
+generate an instance of SCP-4688-1 without using SCP-4688. Combined
+with SCP-4688-1's ability to easily navigate internet connections,
+this has led to a rapid growth of SCP-4688-1 worldwide to
+approximately 4,000 total instances.
+
+SCP-4688-1 were originally produced by GoI-004C ("Church of
+Maxwellism") in an attempt to further explore the internet to find
+pieces of their god. The multiplicative effect of SCP-4688-1 is
+believed to be a side effect that was a result of the nature of
+SCP-4688 and the decrepit conditions it was in at the time of
+acquiring.
+
+
+Addendum: SCP-4688-B and several other components associated with
+SCP-4688 have been destroyed. It is believed that, as a consequence of
+this, SCP-4688-1 instances have vanished. Incident is awaiting
+declassification. Cleanup operations involving the retrieval of all
+instances of SCP-4688-A and possibly SCP-4688-B are underway.
+Reclassification will occur when it has been verified that SCP-4688-1
+no longer exists.
+
+Efforts to cover up the mass disappearance of those transformed into
+SCP-4688-1 is under way, as it is believed that SCP-4688-1 are no
+longer recoverable.
+
+
+
+Footnotes 
+
+1. Currently Dr. Westrin 
+
+2. An anomalous person (or persons) capable of producing anomalous objects, such 
+as SCP-066 and SCP-168. True identity unknown. 
+
+
+
+

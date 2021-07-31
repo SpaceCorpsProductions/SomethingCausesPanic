@@ -1,0 +1,503 @@
+                                    SCP-076                                     
+                                    =======                                     
+
+                                     "Able"                                     
+                                     ------                                     
+
+Item #: SCP-076 
+
+Object Class: Keter 
+
+Special Containment Procedures: Containment Area 25b is to be located 200 m 
+below sea level, tunneled out of solid bedrock in a seismologically stable area. 
+Sole access to the containment facility is to be through a vertical elevator 
+shaft separated every fifty (50) meters with a reinforced blast door, 
+constructed of 20 cm thick material shielding. Elevator shaft shall be flooded 
+with seawater when not in use. 
+
+Containment Area 25b is to be constructed with the following components: 
+
+An Outer Security Perimeter against outside threats, staffed by security 
+personnel trained in close quarters battle and counter-intrusion tactics. 
+
+An Administrative and Support Area (ASA) consisting of support facilities and 
+living quarters for on-site personnel. 
+
+A Primary Containment Zone (PCZ), consisting of a 7 m cube encased in 1.5 m of 
+reinforced material. PCZ is to be designed to be flooded and drained as needed, 
+and should remain filled with seawater unless access to contents is required. 
+
+A 150 m "killing corridor" which is to be the sole access to the PCZ from the 
+ASA (including water, power, drainage, and ventilation lines). The walls and 
+floor of the corridor are to be reinforced in a similar manner to the PCZ, with 
+the addition of an electric deterrence system capable of delivering a 20,000 
+volt shock. 
+
+A security station located at the entrance to the killing corridor is to be 
+staffed with no fewer than three (3) armed security personnel on watch at any 
+one point in time. Armament is to include, but not be limited to, at least one 
+(1) ███████ CIW system on a pintle mount with a clear line of 
+sight down the corridor, with a plexiglass screen to protect the operator from 
+thrown weapons. 
+
+In the event of a full breach, all on-site staff are to proceed immediately to 
+the closest security station for weapons and armor distribution. Staff will 
+remain at Alert Condition One until SCP-076-2 is confirmed neutralized. Should 
+90 minutes pass after declaration of full breach without a Stand Down order 
+being given by Level 4 or higher personnel, Final Contingency Measures will be 
+activated, flooding the entire facility in seawater and sealing off the access 
+shaft for a minimum of 24 hours before retrieval is attempted. This will, by 
+necessity, result in the deaths of all on-site staff. 
+
+Description: SCP-076 consists of two components: a stone cube (SCP-076-1) and a 
+humanoid entity contained within (SCP-076-2). 
+
+SCP-076-1 is a 3 m cube made of black speckled metamorphic stone. All surfaces 
+outside and within SCP-076-1 are covered in deeply engraved patterns 
+corresponding to no known civilizations. Radioisotope analysis indicates that 
+the object is approximately ten thousand (10,000) years old. A door is located 
+on one side, sealed with a lock 0.5 m in width, surrounded by twenty (20) 
+smaller locks in a circular pattern. As of yet, none of the keys have been 
+found, making the door impossible to lock once closed. 
+
+Interior temperature is approximately 93 Kelvin, and cannot be altered by any 
+means, internal or external. Directly in the center of the room is a 2.13 m 
+tall stone coffin, held in place and sealed shut by several chains of unknown 
+make and substance, which are attached to the inner corners of SCP-076-1. 
+
+SCP-076-2 resembles a lean Semitic human male in his late twenties. Hair is 
+black, and eyes are gray, skin tone olive. Subject is 1.96 m in height and 
+81.65 kg in weight. Numerous tattoos depicting arcane and occult iconography 
+are present all over the body (mostly in the form of leering demonic faces) and 
+ranges from subtle to openly ostentatious. Subject, when encased inside 
+SCP-076-1, is technically dead. 
+
+However, occasionally SCP-076-2 will awaken, effectively "reanimating", complete 
+with all vital processes needed to sustain a living human being. Subject will 
+then attempt to leave SCP-076-1. If successful, subject will enter a trance 
+state and seek out the nearest human being, ignoring all other living things in 
+the process. Upon coming into contact with living humans, SCP-076-2 will enter a 
+rage state in which it attempts to engage and kill all human beings encountered. 
+To date, only the subject's death has been shown to be effective in ending these 
+rampages. 
+
+Terminating SCP-076-2 is often problematic due to its significant physical 
+abilities. Subject has superhuman strength and speed, and although not 
+invulnerable, has shown a remarkable ability to ignore pain and shock, pressing 
+on despite what would be debilitating wounds in normal humans. Prior encounters 
+have shown that SCP-076-2 has the ability to (among other things): 
+
+Rip through a reinforced steel security door over the course of four (4) minutes 
+of sustained assault. 
+
+Clear over 64 m of distance in under three (3) seconds. 
+
+Take multiple .50 caliber BMG rounds to the head and survive for several minutes 
+to continue killing, despite severe damage to the cerebellum. 
+
+Swat handgun and assault-rifle caliber bullets out of the air with a length of 
+steel rebar. 
+
+Survive for over one (1) hour deprived of oxygen before finally asphyxiating. 
+
+SCP-076-2's most unusual ability, however, is its ability to apparently 
+materialize bladed weapons out of nowhere. Slow-motion video footage reveals 
+that the blades in question are actually pulled from a miniature dimensional 
+rift described as a "small hole in space." Where this portal leads is unknown, 
+as is how SCP-076-2 is capable of generating said rifts. Footage of the blades 
+in question shows them to be made out of a completely non-reflective black 
+material appearing as a "black void in space." As the blades rapidly vanish 
+after leaving the subject's possession, no structural analysis is possible at 
+this time. 
+
+SCP-076-2 has effectively been killed several times in various manners: 
+
+Sustained fire from multiple heavy-caliber machine guns. 
+
+Asphyxiation. 
+
+Crushed beneath a 13.6 metric tonne piece of elevator equipment for use on 
+SCP-076-1. 
+
+Cremation through the use of a Thermate-TH3 grenade placed directly inside 
+SCP-076-2's open chest cavity. 
+
+During the worst breach to date, Containment Area-25 (which previously housed 
+SCP-076) was forced to detonate its on site warhead as a last attempt to contain 
+SCP-076-2 while it was attempting escape, resulting in total destruction of the 
+site and all on-site personnel. SCP-076-1 survived. 
+
+Upon death, SCP-076-2's remains will putrefy rapidly, until reduced to dust. 
+SCP-076-1 and the coffin within will then slam shut with great force, and the 
+lock will rotate, sealing it shut. SCP-076-2 will then reform within the coffin, 
+a process taking anywhere from six (6) hours to twenty-five (25) years. 
+
+What posthumous analysis of SCP-076-2 exists shows that it has a internal system 
+highly different from our own, documented in [DATA EXPUNGED]. 
+
+
+Additional: SCP-076 was found in ████████████, Mongolia, 
+in 18██, by archaeologists from England. All members of the expedition were 
+subsequently killed on the return voyage home. SCP-076 was recovered from the 
+ship █████ ███████ by the ███████ Society 
+(one of the organizations that later merged into the modern Global Occult 
+Coalition) and placed on display in their Inner Sanctum. 
+
+SCP-076 remained in storage for ███████ (██) years, until 
+SCP-076-2 became active and escaped on ██-██-████. The reason 
+for SCP-076's activation is currently unknown, but it was at this point that the 
+keys to the outer shell were lost. A massive manhunt, lasting over three (3) 
+years and ████ ███████, took place until SCP-076-2 was 
+incapacitated by ██████████ ███████, killing 
+it and causing it to reform inside SCP-076-1, by then retrieved and secured by 
+agents of the SCP Foundation. 
+
+Subject was in custody for three (3) more years, under constant supervision, and 
+was terminated whenever it became active, although it occasionally was able to 
+escape for short periods of time, often due to security breaches caused by 
+attacks from other organizations. The Foundation's death toll due to this was 
+[DATA EXPUNGED] 
+
+[DATA EXPUNGED] 
+
+[DATA EXPUNGED] 
+
+After the last incident, the current procedures regarding SCP-076 were 
+implemented, although they are upgraded regularly with the increase in 
+technological standards. 
+
+
+Addendum 076-2: "Project Able" and "Mobile Task Force Omega-7" 
+
+CLASSIFIED - EYES ONLY
+
+All information regarding Project Able and Mobile Task Force Omega-7
+("Pandora's Box") is classified Q Clearance by order of the O-5
+Council. By proceeding, you are acknowledging that you have clearance
+to view these files, and that you have received Need to Know
+permission from the appropriate Level 4 or higher authority.
+
+Proceed
+
+Mobile Task Force Omega 7 Incident Log
+
+FROM: Director Maria Jones, Recordkeeping and Information Security Administration
+
+TO: Level 4 Administrators
+
+SUBJECT: RAISA Update to Security Protocol Re: Supplemental Information Re: SCP-076
+
+File Name: Addendum 076-1: "Project Able" and "Mobile Task Force Omega-7"
+
+Prior Classification: O5
+
+New Classification: Level 3, Need To Know Basis.
+
+Effective Date: ██-██-████
+
+Psychological Profile of Subject SCP-076-2
+
+SCP-076-2 either possesses a mind constructed much differently than
+our own, or is completely insane, with little empathy or ideas in a
+way we would understand it. Concepts such as sex, love and equality
+are completely foreign ideas to SCP-076-2, or at least in comparison
+to its way of viewing them. Subject has shown that it is completely
+disinterested in sex, barely differentiating between genders except as
+a form of visual identification. Also, while subject has admitted
+greatly enjoying the act of killing, causing pain (either emotionally
+or physically) holds no attraction to it. In short, a perfect
+sociopath.
+
+Intelligence tests have been wildly inconclusive when applied to
+SCP-076-2, and no accurate result has yet been obtained. This may be
+due to the alien thought processes of the subject. SCP-076-2 has
+however, shown that it has great knowledge of human anatomy (although
+in a highly violent context), military tactics of open warfare,
+metallurgy, and, strangely enough, the care of livestock. Subject has
+knowledge of several languages including English, but most notable is
+its knowledge of several dialects of ancient Sumerian, which seem to
+be its preferred language.
+
+SCP-076 has nothing but contempt for human beings, with one exception:
+it seems to hold a wary respect for those it acknowledges as its
+superior. This was discovered when Agent ███████, an agent who had
+previously had a large amount of experience with SCP-076-2, did not
+appear once it escaped. Subject seemed distressed, asking several
+personnel where Agent ███████ was hiding. When it finally did learn of
+the fate of Agent ███████ (killed as collateral damage in an airstrike
+intended to halt the advance of SCP-███), SCP-076-2 stopped its
+rampage and allowed itself to be escorted and restrained.
+
+Subject was then interviewed on the sudden drastic changes in its
+behavior.
+
+
+<Begin Log>
+
+Dr. ██████: Why are you so interested in the death of Agent ███████?
+
+SCP-076-2: (Subject begins swearing in ancient Sumerian)
+
+Dr. ██████: Why does his death bother you? You've killed many humans
+before, why is he so- (Is cut off by SCP-076-2)
+
+SCP-076-2: (now speaking in English) Different? Because, unlike you
+[Sumerian word, untranslated], he was a challenge, a real enemy.
+
+Dr. ██████: Why would that be good for you? Every time you have awoken
+you've tried to escape. He was responsible for apprehending you
+several times. Surely you must be glad he's dead.
+
+SCP-076-2: I would hardly expect you to understand. Do you know, he
+managed to shoot me in the head over ██ times? A man like that
+deserves to die in combat, so close to his opponent he can feel his
+breath. Not in some [Sumerian words, untranslated] destruction ordered
+by cowardly kings and princes safe in their palaces. The rest of you…
+(SCP-076-2 spits) you disgust me. I don't even have the urge to strike
+you down.
+
+(Subject is silent from then on, refusing to speak or respond)
+
+<End Log>
+
+
+This indicates a possible psychological inlet into SCP-076-2's mind,
+and a possible control mechanism. Given the massive drain on resources
+SCP-076-2 causes due to its escape attempts, and considering Bowe
+Commission's stated desire to weaponize SCP objects for tactical
+purposes, I recommend that we pursue this course of action as soon as
+possible.
+
+Dr. P█████ G████
+
+FROM: Dr. █████ █. █████
+
+TO: Dr. P█████ G████, Project Omega Seven
+
+SUBJECT:
+
+████,
+
+He said yes.
+
+███
+
+
+PROJECT PROPOSAL: MOBILE TASK FORCE OMEGA-7 ("PANDORA'S BOX")
+
+Mission Statement: Support of SCP-076-2 ("Able") in the field, in high
+risk tactical situations.
+
+Task Force Organization: Task Force Special Asset "Able," Task Force
+Leader ████ ████████████, 10-20 field agents divided into five teams
+of 3-5 each. Members of the team are to be personally selected from
+elite field agents by Subject Able himself, in order to maintain a
+smooth relationship between the Artifact and the mundane elements of
+the Task Force.
+
+Security Protocol: SCP-076-2 ("Able") is to wear a device attached to
+the neck that, if triggered or tampered with, will immediately
+detonate, terminating SCP-076-2 by way of complete destruction of the
+spinal cord, trachea and all major blood vessels in the neck. A
+tracking device has also been attached to SCP-076-2's person. It is to
+refrain from killing unless ordered to do so, and is to avoid causing
+damage to the organization's facilities.
+
+Armament and Equipment: Team members are to be armed and equipped in
+accordance with MTF doctrine. As Subject Able has shown no inclination
+to use firearms, or in fact, no understanding of their use or tactical
+implications, he is instead to be armed with one or more edged melee
+weapons of his choice.
+
+Addendum: For God's sake, ████, find these guys something to do.
+Able's getting bored, and he's started putting his team through live
+fire exercises: they get bullets, he gets training weapons. Have you
+ever seen someone break a man's jaw using a Nerf sword? He's not gonna
+stop until someone gets killed. - Dr. █████ █. █████
+
+Report by Dr. P█████ G████, Project Omega Seven
+
+In light of SCP-076-2's proficient use of the Sumerian language,
+researchers have asked it to translate several documents. While it
+originally replied with disinterest, it has translated some of the
+documents it found worthy of its attention. Most of the documents
+chosen by SCP-076-2 were regarding battles or legendary heroes, one of
+its favorites in particular being the "Epic of Gilgamesh".
+
+However, one researcher presented it with the symbol from SCP-073.
+Upon sight of this, SCP-076-2 became highly enraged, killing several
+of the researchers before its kill switch could be activated. When
+revived and questioned about this, SCP-076-2 responded aggressively,
+and that line of questioning was immediately dropped. It is
+recommended anything pertaining SCP-073 never be brought to the
+attention of SCP-076-2 and that the two are never to be in the same
+facility.
+
+
+Addendum 076-07: Recently, SCP-105 has been accepted into Mobile Task
+Force Omega-7, having beaten SCP-076-2 in a contest to see which of
+the two could activate several devices, each spaced over a mile away
+from each other and the starting point. SCP-105 managed to score
+significantly higher than SCP-076-2 by using her inherent abilities to
+her advantage. SCP-076-2 ceded defeat and allowed her entry into the
+group.
+
+
+Addendum 076-09: Proposed introduction of SCP-076-2 to SCP-682 put on
+indefinite hold. Those with Security Clearance level 4 or higher may
+request access to Contingency 076-2 #3.
+
+
+Addendum 076-23: Per the request of the Bowe Commission, Mobile Task
+Force Omega-7 is to be fielded in the ████████ region of ███████████
+against [DATA EXPUNGED].
+
+
+FROM: Dr. █████ █. █████
+
+TO: Dr. P█████ G████, Project Omega Seven
+
+SUBJECT: Don't do it, P███
+
+████,
+
+
+For god's sake, don't do it. It's bad enough that they're trying to
+weaponize Iris too. Don't let the military bully us into doing their
+dirty work against some sand farmers in ██████████.
+
+███
+
+
+FROM: General ██████ Bowe, ████
+
+TO: Dr. P█████ G████, Project Omega Seven
+
+SUBJECT: A Job Well Done
+
+Excellent work, doctor. The mission went exactly as expected. We'll be
+calling you again if we need your help.
+
+General ██████ Bowe, ████
+
+
+FROM: Dr. █████ █. █████
+
+TO: Dr. P█████ G████, Project Omega Seven
+
+SUBJECT: I hope you're fucking proud of yourself, motherfucker.
+
+<hello.jpg>
+
+because you're a bigger asshole than this guy.
+
+
+FROM: Dr. P█████ G████, Project Omega Seven
+
+TO: Omega Seven Team
+
+SUBJECT: Reassignment
+
+As of this moment, Dr. █████ █. █████ has been reassigned to SCP-682
+as Level 1 personnel.
+
+[DATA EXPUNGED]
+
+
+FROM: Dr. P█████ G████, Project Omega Seven
+
+TO: General ██████ Bowe, ████
+
+SUBJECT: Problems
+
+[DATA EXPUNGED]
+
+Despite our best efforts, Subject Able is proving difficult to
+control. All our attempts to keep him engaged have been more or less
+unsuccessful.
+
+The problem is, he's a perfect killing machine, and that's all he
+wants to do. Which seems like exactly what we wanted, but the problem
+is, we can't seem to turn him off.
+
+[DATA EXPUNGED]
+
+I'm running out of missions to give him, and the ones I've got left
+aren't engaging him mentally. He's starting to lash out at the other
+team members. It's only a matter of time before something goes wrong.
+Requesting permission to discontinue the project and neutralize Able
+temporarily, until we can find something more for him to do.
+
+
+FROM: General ██████ Bowe, ████
+
+TO: Dr. P█████ G████, Project Omega Seven
+
+SUBJECT: Re: Problems
+
+Unacceptable. Neutralizing Subject Able at this point is going to
+cause us an unacceptable delay. We'll have another mission for you
+within a couple of weeks. All you have to do is keep him busy until
+then. Send him on vacation or something.
+
+
+FROM: Dr. P█████ G████, Project Omega Seven
+
+TO: All Staff
+
+SUBJECT: ALERT
+
+THIS IS AN AUTOMATED ALERT
+
+SCP-076-2 has disabled the explosive collar failsafe and gone out of
+control. All staff to high alert. Further requests as events warrant.
+
+
+FROM: AUTOMATED DEFENSE SYSTEM, CONTAINMENT AREA-25
+
+TO: All Sites
+
+SUBJECT: FINAL OPTION ENGAGED
+
+THIS IS AN AUTOMATED MESSAGE. DO NOT REPLY
+
+As of ██-██-████, ████:██, Containment Area-25 has engaged its on-site
+nuclear warhead on ten-minute countdown.
+
+
+FROM: O5 Command
+
+TO: All Sites
+
+SUBJECT: Containment Area 25 Final Option: Response
+
+As of ██-██-████, ████:██, Containment Area-25 has been destroyed by
+detonation of its on-site nuclear warhead. Sites 67 and 68 are to
+activate the FEMA protocol and secure the location as soon as
+possible. Official cover story will be released by RAISA to all
+personnel once drafted.
+
+Revised Psychological Profile of Subject SCP-076-2
+
+SCP-076-2 either possesses a mind constructed much differently than
+our own, or is completely insane, with little empathy or ideas in a
+way we would understand it. Concepts such as sex, love and equality
+are completely foreign ideas to SCP-076-2, or at least in comparison
+to its way of viewing them. Subject has shown that it is completely
+disinterested in sex, barely differentiating between genders except as
+a form of visual identification. Also, while subject seems to greatly
+enjoy the act of killing, causing pain (either emotionally or
+physically) holds no attraction to it.
+
+Intelligence tests have been wildly inconclusive when applied to
+SCP-076-2, and no accurate result has yet been obtained. This is due
+to the fact that no communication is possible with the Subject when in
+its "rage" state. Subject displays knowledge of several languages
+including English, but most notable is its knowledge of several
+dialects of ancient Sumerian, which seem to be its preferred language.
+
+SCP-076 has nothing but contempt for human beings and will kill them
+on sight. No communication is to be attempted with the subject.
+
+
+

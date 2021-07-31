@@ -1,0 +1,492 @@
+                                    SCP-5947                                    
+                                    ========                                    
+
+                                   SILVERFISH                                   
+                                   ----------                                   
+
+Item #: SCP-5947 
+
+Anomaly Class: Euclid Thaumiel
+
+Special Containment Procedures: SCP-5947 is currently held in the silver sugar 
+bowl it was recovered from. This bowl is housed in Chamber 02 at Site-90 
+alongside 88 decoy bowls, identical save for the lack of a hallmark on the base. 
+Once monthly, a member of D-Class personnel is to enter Chamber 02 and select 
+one of the bowls at random — they will then be instructed to consume its 
+contents, and staff are permitted to use physical force to ensure they comply. 
+In the event that they selected a bowl not containing SCP-5947, they are to be 
+terminated immediately and their body interred beneath Chamber 02. In the event 
+that they select and consume SCP-5947, they are to be escorted from the chamber 
+and assigned to Project Irides1 once SCP-5947 has passed through their digestive 
+system. 
+
+The discovery of a cadaver visually matching William Hazen Rogers outside of 
+Site-90 constitutes a containment breach. MTF Alpha-Kaunan ("Argent Devotees") 
+should be dispatched to recover the body, as well as any silverware within an 80 
+metre radius. This silver is to be melted down and re-cast into decoy bowls, to 
+be filled with non-anomalous sugar and added to Chamber 02. The cadaver is to be 
+interred beneath the chamber alongside the others. 
+
+Description: SCP-5947 is the designation for a collection of dried anchovies, 
+one of which (SCP-5947-1) is indestructible. Twice per day, at midnight and 
+noon, SCP-5947-1 will split into two identical dried anchovies. 
+
+
+Addendum: On the order of Director Smith, all personnel assigned to 
+CANUAR-Site-90 have been integrated into Project Irides. Anomalous objects 
+extraneous to Project Irides have been decommissioned. 
+
+END OF FILE
+
+
+Access SCiPNET Email? One (1) new message!
+
+
+Re:SUBJECT
+
+NEW MESSAGE!
+
+To: SSmith18@Scipnet (Site Director Silas Smith; Classification Level XK-4; 
+Employee Number 378) 
+
+From: O5_2@Scipnet (Overseer Two; Classification Level OK-5-Thaumiel; Employee 
+Number 2) 
+
+Subject: SCP-5947
+
+Dear Director Smith,
+
+As of today, the Council has voted 1-12-0 on the issue of dismantling Project 
+Irides. Furthermore, the Council has voted, 12-1-0, to overrule objections from 
+the former Site-90 Ethics Committee, ensuring that your project continues 
+regardless of their past rulings on the matter. 
+
+It is the majority opinion of the O5 Council that the existence of Project 
+Irides has given the Foundation an advantage in dealing with several major 
+Groups of Interest, not the least of which being GoIs-004C and -023. By 
+dominating the concept of silver, the Foundation has forced them to abandon 
+significant holdings and resources, putting us in a better position to negotiate 
+with, or combat, such threats. 
+
+On an official basis, I would like to apologize for any inconvenience these 
+proceedings have caused you. 
+
+On an unofficial basis, I have nothing to say, except that I'd be impressed if I 
+wasn't furious. 
+
+-O5-2
+
+
+
+Footnotes
+
+1. For more information, see addendum, or consult supplementary materials 
+regarding second sight. 
+
+
+
+To: SSmith18@Scipnet (Agent Silas Smith; Classification Level 1/5947;
+Employee Number 5994)
+
+From: ARegan2@Scipnet (Site Director Aningan Regan; Classification
+4/S90; Employee Number 378)
+
+Subject: Transfer
+
+Mr. Smith,
+
+First: Welcome to CANUAR-Site-90. It's not as glamorous as field work,
+but you're less likely to lose another foot. And hey, we have on-site
+therapists if you need someone to talk to.
+
+Second: You have been assigned to the SCP-5947 project. It's not much,
+but I suppose that's the point. Hopefully I can give you an
+environment to recuperate while you work on your doctorate.
+
+Third: I'm sorry. Wish we could've glassed those Mekhanites, but no
+use crying over spilt milk.
+
+Godspeed,
+
+-Dr. Aningan Regan, Site Director of CANUAR-Site-90
+
+
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY
+ADMINISTRATION
+
+You are reading an archived copy of SCP-5947's documentation.
+SCP-5947's up-to-date documentation can be found here.
+
+— Ronald Emmerich, Director, RAISA
+
+
+Item #: SCP-5947 
+
+Anomaly Class: Euclid
+
+Special Containment Procedures: SCP-5947 is to be stored in a
+refrigerated locker in Chamber 02 of Site-90. Each week, containment
+personnel are to identify and isolate SCP-5947-1 from the rest of
+SCP-5947; remaining instances of SCP-5947 are to be ground into a
+slurry and used or disposed of as appropriate.
+
+Description: SCP-5947 is the designation for a collection of dried
+anchovies, one of which (SCP-5947-1) is indestructible. Twice per day,
+at midnight and noon, all intact instances of SCP-5947 will split into
+two identical dried anchovies.
+
+HISTORY
+
+SCP-5947 was acquired in an anomalous item exchange conducted with
+GoI-023 ("MC&D Ltd.") under the Burnett Accord. In addition to items
+and resources negotiated under the Burnett Accord, PoI-MCD003
+("Percival Darke") had included SCP-5947 within a silver sugar plate
+as part of his three "contractually-allotted indignities".
+
+As per protocol regarding unexpected gifts from non-partnered Groups
+of Interest, SCP-5947 was transferred to CANUAR-Site-90, an isolated
+containment site dedicated to countering mundane and anomalous
+espionage. Following a round of preliminary testing, SCP-5947's
+anomalous properties were successfully identified, and containment
+procedures were finalized on 26/05/1967.
+
+END OF FILE
+
+
+IN ACCORDANCE TO THE BURNETT ACCORD
+
+The following is a receipt of the three contractually-obligated
+indignities bestowed upon the SCP Foundation. The contents of this
+receipt, with regards to the text, are not legally binding and cannot
+be used in further negotiations or legalistic thaumaturgical rituals.
+
+The items are as follows, as well as justifications for such indignities:
+
+One (1) obligation to document this receipt in your official database.
+Such an indignity is intended as backlash against the heavy doctoring
+of associated documentation for anomalous objects transferred to
+Marshall Carter & Darke's possession.
+
+One (1) heirloom sugar bowl, to be used only to contain the third
+indignity. Such an indignity is intended to demonstrate the ease with
+which Marshall Carter & Darke can deploy its wealth against the SCP
+Foundation.
+
+One (1) invulnerable anchovy, to replicate into a series of mundane
+anchovies at the peak and trough of the sun. Such an obligation is
+intended as a personal insult to you, specifically, Dr. Rochefort, a
+mockery engineered solely to make your work the tiniest bit harder. I
+know you don't like anchovies; not many people do. Find a use for it
+sooner rather than later.
+
+
+ON THE WEAPONIZATION OF PSYCHOCONCEPTUAL HUMILIATION
+
+by Dr. Silas Smith
+
+Abstract:
+
+This study examined the usage of reverse-engineered beryllium-bronze
+containment devices (such as those employed by GoI-3088 ("Church of
+the Second Hytoth") and SoI-004 ("The Imit")) to weaponize both
+abstract concepts and ideas grounded to physical objects. Over a two
+year period (December 8th, 1997-December 6th, 1999), such devices were
+attuned to the concept of a series of 12 cm by 2.8 cm oak blocks
+painted with the logo of subordinate Group of Interest GoI-952's
+("Olney Ironworks") logo.
+
+Using three groups of 1000 blocks (painted blocks, blocks that would
+not be painted, and blocks which would be painted after a period of a
+year), the Foundation would employ each on a monthly rotation as foci
+for experimental psychoconceptual channeling units. Additionally,
+every fourth month would see the activation of the channeling units
+without the use of foci. Agents embedded into GoI-952 would examine
+trends in gross income and workplace safety…
+
+
+NOTICE: UNIDENTIFIED FIGURE APPROACHING CANUAR-SITE-90
+
+Director Smith,
+
+This is an automated message to inform you that an unidentified figure
+has been spotted less than five kilometers from Site-90's security
+perimeter. Visual scans suggest 29% probability of a containment
+breach. Please stand by.
+
+
+To: SSmith18@Scipnet (Dr. Silas Smith; Classification Level 2/5947; 
+Employee Number 5994)
+
+From: ARegan2@Scipnet (Site Director Aningan Regan; Classification 
+4/S90; Employee Number 378)
+
+Subject: Congratulations, and a heart-to-heart
+
+Dr. Smith,
+
+Congratulations on receiving your doctorate. I'm… skeptical regarding
+the applications of such a thesis, especially how it pertains to
+Site-90.
+
+Are you feeling alright? It's normal for graduate studies to take a
+toll on your well-being, but last I saw you, you were unusually…
+stiff, is the only word that comes to mind. Take a breather: you're
+done. Worry about some self-replicating pizza toppings for the time
+being.
+
+-Dr. Aningan Regan, Site Director of CANUAR-Site-90
+
+
+To: SSmith18@Scipnet (Dr. Silas Smith; Classification Level 2/5947;
+Employee Number 5994)
+
+From: ARegan2@Scipnet (Site Director Aningan Regan; Classification
+4/S90; Employee Number 378)
+
+Subject: Re: Utilization of SCP-5947
+
+Dr. Smith,
+
+Your request has been received, and summarily denied.
+
+The schematics you have provided are nearly incomprehensible.
+Furthermore, the ramifications of such a device's very existence would
+outweigh whatever good its functions may bring to the Foundation.
+
+Honestly? I'm worried about you. Most of your free time is spent
+tilting this particular windmill. I get it, Silas, but it feels like
+you're attempting to hammer a round peg into a square hole. Site-90
+isn't Foundation Overwatch; they deal with the spies, we deal with the
+cameras.
+
+I apologize for the inconvenience.
+
+-Dr. Aningan Regan, Site Director of CANUAR-Site-90
+
+
+To: SSmith18@Scipnet (Dr. Silas Smith; Classification Level 2/5947;
+Employee Number 5994)
+
+From: ARegan2@Scipnet (Site Director Aningan Regan; Classification
+4/S90; Employee Number 378)
+
+Subject: Re:Re:Re: Utilization of SCP-5947
+
+Dr. Smith,
+
+Your request has been received, and summarily denied.
+
+Officially: There is no reason to believe my objections have been
+adequately addressed. I cannot in good conscience approve the project
+if it's not been meaningfully altered.
+
+Unofficially: You're scaring me, Silas. Stop now, before I'm forced to
+lodge a complaint with Overwatch Command.
+
+-Dr. Aningan Regan, Site Director of CANUAR-Site-90
+
+
+Open regan.avi?
+
+
+To: SSmith18@Scipnet (Dr. Silas Smith; Classification Level 4/5947;
+Employee Number 5994)
+
+From: ARegan2@Scipnet (Site Director Aningan Regan; Classification
+4/S90; Employee Number 378)
+
+Subject: Re:[no subject]
+
+I don't know how you got that.
+
+Your request has been approved.
+
+Don't talk to me ever again.
+
+
+WARNING: PoI-000 SPOTTED NEAR CANUAR-SITE-90
+
+Director Smith,
+
+This is an automated message to inform you that PoI-000 ("Nobody") has
+been spotted within Site-90's outer security perimeter. Please stand
+by.
+
+
+With regards to Chamber 02's renovations
+
+So, Dr. Smith, let me get this straight:
+
+You want thirty sugar bowls scattered across the floor. Not welded,
+adhered, just scattered.
+
+Furthermore, you want me to include a Smith Channeler Unit scaled
+large enough to embed itself into Chamber 02's walls, while retaining
+the size of the focus (which will remain buried in the concrete).
+
+You want me to hollow out the area above and beneath Chamber 02.
+
+We can do that, sure. It's gonna screw the budget, but we can
+definitely do all of that once our BB shipments resolve. I just need
+to make sure I read your letter correctly; I mean no offense, but
+handwriting can get lost in translation, and I need to know if you
+meant all of this.
+
+Side note: you alright? You looked very pale and jittery last I saw
+you, and I haven't gotten an email from you since your doctorate. Did
+something change with SCP-5947?
+
+Jared Morello, Maintenance Director
+
+
+With regards to Chamber 02's renovations
+
+Well, Irides ran out of space, money, and Director Regan's patience.
+
+After some prep work, it's been found that your realization of Irides
+is gonna intrude on URA-3721. Moreover, the other researchers aren't
+too fond of what we already have; it's doing something to the morale,
+more than just the fact that it makes construction noises even on
+off-hours.
+
+And again: are you alright? This is all you're talking about.
+Sometimes it feels like you're an intermediary between me and Irides.
+I can't even ping your Scipnet account; what's happening?
+
+SCP-5947 is just fish, Dr. Smith. No need to complicate it any
+further.
+
+Jared Morello, Maintenance Director
+
+
+INCIDENT U3721-B REGAN-MORELLO
+
+On 30/08/2002, URA-3721 disappeared from containment, and Dr. Aningan
+Regan and Jared Morello failed to clock in at their usual times.
+Security audits indicated that neither had left the premises of
+CANUAR-Site-90, A search was initiated; however, no evidence of
+wrongdoing was uncovered.
+
+On 02/09/2002, maintenance personnel reported a pungent odor from
+Chamber 02. Preliminary investigation revealed the presence of
+apparent human viscera in the space below Chamber 02, as well as the
+shattered remains of URA-3721. Recovery attempts were hindered,
+however, by architectural quirks in the recently renovated Chamber 02,
+which provided no means of egress from the space below.
+
+Plans to deconstruct Chamber 02 were considered, but ultimately
+scrapped at the direction of CANUAR-Site-90 Director Silas Smith.
+
+Renovation of Chamber 02 is presently set to continue.
+
+
+WARNING: PoI-000 ATTEMPTING TO BREACH INNER PERIMETER
+
+Director Smith,
+
+This is an automated message to inform you that PoI-000 has been
+spotted heading towards the inner security perimeter of Site-90.
+Please stand by.
+
+
+Relevant excerpts of HMCL Audit S90JAN2003:
+
+Chamber 02
+
+Supposedly the containment cell of SCP-5947; containment topology not
+adequately marked.
+
+Anomalous object's containment device unsecured, on floor; can be
+easily moved or opened; not adequately demarcated.
+
+Minor psychic compulsion; 7 members of 10 person survey team drawn
+towards anomalous object upon entrance; not adequately noted.
+
+Auxiliary containment devices not built to Foundation Safety and
+Security regulations; electronics brought into Chamber 02 experience
+severe malfunctions when brought near machinery; no diagraphic
+documentation relevant to the structure.
+
+Rancid odor, beyond the necessities of the containment procedures.
+
+Chemical hazard: silver jewelry worn by members of the survey team
+found lightly to entirely corroded upon egress; not adequately noted.
+
+Major psychic hazard field; survey team reported feelings of extreme
+subjugation by an unknown force. Not adequately noted.
+
+Survey team incapable of entering the bottom chamber safely; floor of
+bottom chamber appears to be covered in viscera.
+
+Survey team barred from entering the top chamber; reason: insufficient
+security clearance.
+
+It is presently understood that Chamber 02 is undergoing renovations.
+We therefore implore Director Smith to contact us upon Chamber 02's
+completion.
+
+Talia Cassel, HMCL Technician
+
+
+To: SDivekar@Scipnet (HPCL Supervisor Shakti Divekar; Classification
+Level RAISA-4; Employee Number 4886)
+
+From: WClarkson2@Scipnet (Researcher Walter Clarkson; Classification
+Level 1/5947; Employee Number 16020)
+
+Subject: Re:Re: Regarding Maintenance
+
+Hello, and sorry for the third email in a month.
+
+Is there any progress on the Chamber 02 case? It doesn't feel like too
+much it's been fixed; actually, it feels like it's gotten worse. The
+smell's starting to spread outside the chamber proper, and the
+construction noises aren't any quieter. Whatever they're doing when
+they're not expanding, it's still happening.
+
+I also think it's taking some kind of toll on my coworkers. It's been
+weeks since I last saw some of them. Actually, I didn't really notice
+until I started writing this letter, but I haven't seen too many of
+our projects, either.
+
+Another thing: apparently I've been assigned to Chamber 02? Nobody
+told me anything, but my file permissions were shifted around and the
+file that used to be SCP-239 has been archived. I've tried asking
+around, and I haven't gotten a response.
+
+Again, apologies for the repeat message, but I'm beginning to feel
+powerless. Like I'm being watched by a giant.
+
+
+To: SSmith18@Scipnet (Site Director Silas Smith; Classification Level
+XK-4; Employee Number 378)
+
+From: PWoodward@Scipnet (Intern Payton Woodward; Classification Level
+0/5947; Employee Number 338014)
+
+Subject: Wrong address?
+
+I'm sorry to bother you, Director Silas, but I have a few questions if
+you don't mind:
+
+Is something wrong with the Scipnet server? I know Site-90 is supposed
+to be an isolated site, but your email is the only one I can ping.
+
+What's that smell? I assume it's fish, but I didn't expect to smell it
+until I got to the chamber.
+
+Did I get the wrong address? This place looks like a factory, and I
+can't find anyone.
+
+Thank you for your time, and again, sorry to bother you!
+
+
+WARNING: CANUAR-SITE-90 BREACHED BY PoI-000
+
+Director Smith,
+
+This is an automated message to inform you that Site-90's premises
+have been breached by PoI-000 ("Nobody"). Please stand by.
+
+

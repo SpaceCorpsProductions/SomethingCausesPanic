@@ -1,0 +1,374 @@
+                                    SCP-4945                                    
+                                    ========                                    
+
+                               Hi Hungry, I'm Dad                               
+                               ------------------                               
+
+Item #: SCP-4945 
+
+Object Class: Keter 
+
+Special Containment Procedures: The rails SCP-4945 drives on have been 
+constructed into a circular loop with a length of 1km. A 10km2 exclusion zone 
+around SCP-4945's loop is to be evacuated and public access is to be denied 
+under the pretence of military testing. Unauthorised persons attempting to enter 
+the exclusion zone are to be detained, questioned and subsequently administered 
+Class-A amnestics. MTF-Theta-1 "Trainspotters" are to be stationed evenly at 
+250m intervals on both the inside and outside of the loop. Speed cameras are to 
+be placed at 100m intervals constantly pointed towards SCP-4945 with updates and 
+changes in speed relayed to MTF-Theta-1. Should SCP-4945's speed drop below 
+30km/h all units are to prepare for T-Delta Event. Any hostile instances of 
+SCP-4945-1 exiting SCP-4945 are to be shot and neutralised on sight; non-hostile 
+SCP-4945-1 are to be subdued, detained and questioned if possible, for the 
+period of materialisation, unless otherwise ordered by level 4 or above research 
+staff. 
+
+Description: SCP-4945 is a standard Royal Class DMU Passenger Train located at 
+███████ Railway, UK. Despite having no apparent driver, SCP-4945 
+is capable of movement, changes in speed and changes in direction. SCP-4945 
+requires no fuel and can run seemingly indefinitely. There is no discernible 
+pattern to the speed and direction of SCP-4945's movement. 
+
+SCP-4945-1 is the collective designation given to entities materialised on 
+SCP-4945. SCP-4945-1 instances are a range of varied objects and autonomous 
+entities.1 Up to ~45 SCP-4945-1 instances can be visible at any one time; 
+however, entities will sporadically materialise and dematerialise at intervals 
+of 10-180 seconds. 
+
+While SCP-4945 is travelling above 20km/h SCP-4945-1 are unable to disembark 
+SCP-4945. Should SCP-4945 be travelling below 20km/h SCP-4945-1 will attempt to 
+exit SCP-4945; this is designated a 4945-Delta Event. Once SCP-4945-1 has 
+disembarked SCP-4945 instances can last from anywhere between 4-10 minutes 
+before dematerialising and range from harmless to extremely dangerous. 
+
+Discovery: Reports of a "ghost train" in local ███████, UK started 
+gaining popularity with townsfolk. Local reports included descriptions of 
+different SCP-4945-1 instances observed, including old western American cowboys 
+and "Hot Wheels" branded toy cars among others. Embedded Foundation agents in 
+███████ investigated, discovering SCP-4945 moving at a pace of 
+55km/h with no apparent driver. Agents requested Foundation assistance and 
+disinformation routines were enacted on ███████ and surrounding 
+towns. 
+
+Incident Log: 4945-Delta Events 
+
+Log # 
+
+Minimum Speed 
+
+Description 
+
+4945-Delta-03 
+
+16km/h 
+
+SCP-4945 was observed to have ~80 SCP-4945-1 in the form of origami foxes on 
+board. Upon reaching 16km/h, all of the origami SCP-4945-1 attempted to jump 
+from SCP-4945, resulting in most of them being blown away and the rest being 
+crushed under SCP-4945's wheels. A large SCP-4945-1 in the form of an origami 
+fox, measuring approximately 140cmx230cm, then departed from SCP-4945 and 
+attacked nearby units. MTF-Theta-1 was able to neutralise the instance after 2 
+minutes, suffering two casualties. 
+
+4945-Delta-07 
+
+0km/h 
+
+Upon hitting 20km/h, four SCP-4945-1 jumped off SCP-4945 in the form of monkeys 
+and began hurling faeces at MTF-Theta-1 Units. SCP-4945-1 were promptly subdued 
+as SCP-4945 came to a full stop. Another SCP-4945-1 emerged from SCP-4945 in the 
+form of an Apollo-11 Spacesuit,2 and began vocalising a misquoted version of 
+Neil Armstrong's first words on the moon, in a voice matching identically to 
+Armstrong; "That's a small step for a man, but a big leap for another man." 
+
+4945-Delta-09 
+
+4km/h 
+
+SCP-4945-1 in the form of a female child with long blonde hair and blue eyes 
+departed from SCP-4945. SCP-4945-1 instance approached MTF-Theta-1 Units and 
+vocalised, "Where's D█████? I love D█████! He's my 
+favouritest in the whole world! Where are you D█████? I need you!", 
+before dematerialising. This was the third time this specific form of SCP-4945-1 
+had manifested.3 
+
+Incident 4945-Delta-16: 
+
+Frequency of 4945-Delta events had increased exponentially since SCP-4945's 
+discovery. On 25/07/20██ SCP-4945 came to a complete stop from 67km/h in 
+under 0.02 seconds. Almost immediately an SCP-4945-1 instance, in the form of a 
+middle-aged adult male, exited SCP-4945 and surrendered to MTF-Theta-1 forces 
+compliantly. Questioning of the entity revealed major flaws in the original 
+document for SCP-4945, and as such a new document has been produced. Special 
+Containment Procedures have been updated accordingly, comply with new procedures 
+immediately. Interview follows: 
+
+Interviewed: SCP-4945-1 
+
+Interviewer: MTF-Theta-1-04 
+
+Foreword: Theta-1 were briefed in interrogating non-threatening SCP-4945-1 
+instances and given a line of questioning to follow should it be required. 
+
+MTF-Theta-1-04: SCP-4945-1, Who or what are you? 
+
+SCP-4945-1: I assume you mean me? Well, I'm not all that important really. 
+
+MTF-Theta-1-04: Your importance is irrelevant. Who or what are you? 
+
+SCP-4945-1: Well isn't it obvious? I'm D█████'s dad. Well, I'm not 
+D█████'s dad but that's what I represent for sure. 
+
+MTF-Theta-1-04: Who is D█████? 
+
+SCP-4945-1: I just told you, my son. 
+
+MTF-Theta-1-04: What do you and your son have to do with the train stopped 
+behind you? 
+
+SCP-4945-1: I don't really have anything to do with it, of course, I can't say 
+the same for D█████'s real father. 
+
+MTF-Theta-1-04: What are you talking about? 
+
+SCP-4945-1: I may just be an imagined version of him but I still hold some of 
+his memories, at least the ones D█████ also experienced. 
+
+MTF-Theta-1-04: Can you explain what you mean by imagined version? 
+
+SCP-4945-1: None of this is real of course, we're all in D█████'s 
+head. How could you not know that? You're here too? 
+
+MTF-Theta-1-04: Where's D█████'s location? 
+
+SCP-4945-1: Oh he's probably just- 
+
+SCP-4945-1 dematerialised as SCP-4945 began to move again. Investigations into 
+D█████ were launched and facial recognition programs were run looking 
+for a match with the SCP-4945-1 instance. A match for the SCP-4945-1 instance 
+was found in ███████, UK and Foundation agents detained the match 
+and designated them PoI-25053. His son D█████ was with him and was 
+designated SCP-4945-A. 
+
+
+
+Footnotes 
+
+1. See Incident Logs for more detail on individual SCP-4945-1. 
+
+2. MTF was unsure if anything was occupying the spacesuit 
+
+3. The investigation into an individual named D█████ is ongoing. 
+
+
+
+Revised Document 27/07/20██ 
+
+
+
+Item #: SCP-4945
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-4945-A is to be kept in a standard
+humanoid containment cell, with full furnishings and amenities
+available. SCP-4945-A is to have weekly psychological evaluations to
+maintain mental strength. Should degeneration in SCP-4945-A's mental
+ability be noticed, psychiatrists must immediately alert on-site
+administration. SCP-4945-A is permitted full access to PoI-25053,
+however, conversations must be monitored and recorded for security
+purposes.
+
+The railway for SCP-4945-B is to be extended as much as physically
+possible in the 3km2 area around the current loop. Rail is to weave in
+and around itself in no discernable pattern. 10km2 exclusion zone
+around the centre of SCP-4945-B's rail line is to remain and public
+access is to remain restricted under the pretence of military weapons
+testing. Unauthorised persons attempting to enter the exclusion zone
+are to be detained, questioned and subsequently administered Class-A
+amnestics. MTF-Theta-1 "Trainspotters" are to be stationed at guard
+posts at the perimeter of 3km2 area. Should SCP-4945-B-1 entities
+disembark SCP-4945-B they should be allowed to roam free however they
+may not cross the perimeter. Should any entity cross the perimeter
+they must be ushered and turned around non-violently if possible.
+Neutralisation of entities is only permitted as a last resort.
+
+Description: SCP-4945-A is a ██-year-old male child with short brown
+hair, brown eyes and responds to the name D█████. SCP-4945-A's
+behaviour is complementary of its age. When SCP-4945-A imagines any
+object, creature or sentient being, it materialises within the cabins
+of SCP-4945-B. Entities too big to fit within SCP-4945-B cabins are
+minimised in materialisation. SCP-4945-A's level of focus is directly
+proportional to the speed SCP-4945-B travels and inversely
+proportional to the number of SCP-4945-B-1 entities on board at any
+one time.1
+
+SCP-4945-B is a standard Royal Class DMU Passenger Train located at
+███████ Railway, UK. Despite having no apparent driver, SCP-4945-B is
+capable of movement, changes in speed and changes in direction.
+SCP-4945-B requires no fuel and can run seemingly indefinitely.
+Changes in speed and direction of movement of SCP-4945-B are directly
+correlated to SCP-4945-A's state of focus.
+
+SCP-4945-B-1 is the collective designation given to entities
+materialised on SCP-4945-B. SCP-4945-B-1 instances are a range of
+varied objects and autonomous entities, limited to anything within
+SCP-4945-A's imagination. Up to ~45 SCP-4945-B-1 instances can be
+visible at any one time, however, entities will sporadically
+materialise and dematerialise at intervals of 10-180 seconds.
+
+While SCP-4945-B is travelling above 20km/h SCP-4945-B-1 are unable to
+disembark SCP-4945-B. Should SCP-4945-B be travelling below 20km/h
+SCP-4945-B-1 will attempt to exit SCP-4945-B, this is designated a
+T-Delta Event. Once SCP-4945-B-1 has disembarked SCP-4945-B instances
+can last from anywhere between 4-10 minutes before dematerialising and
+range from harmless to extremely dangerous.
+
+
+Addendum 4945.01:
+
+Upon arrival at Site-██, SCP-4945-A and its father PoI-25053 were
+separated into different cells. PoI-25053 was questioned to determine
+if he had any information on SCP-4945-A's anomalous nature. Interview
+follows:
+
+Interviewed: PoI-25053
+
+Interviewer: Dr. F██████
+
+Foreword: Interview taken 12 minutes after separation from SCP-4945-A.
+
+Dr. F██████: Hello PoI-25053, I'm Dr. F██████, can you please state
+your name for the record?
+
+PoI-25053: Uh, my name is David ██████. Is my son going to be ok?
+
+Dr. F██████: He's going to be fine, he's just having some tests run at
+the moment. Can you tell me what you know about his anomalous
+abilities Mr. ██████?
+
+PoI-25053: Just David is fine.
+
+Dr. F██████: Alright David, what can you tell me about your son?
+
+PoI-25053: Look, I just want to say, he's a good kid. None of this is
+his fault. I mean really he's an angel. It's just that he's always had
+trouble focusing on any type of task. He just can't seem to
+concentrate as you or I may do.
+
+Dr. F██████: And what does this have to do with SCP-4945-B? The train
+with his thoughts?
+
+PoI-25053: I didn't do it directly. One day a man in a suit came by
+our house and offered a new treatment to help D█████ with his focus
+issues. I was at my wit's end, and anything that could possibly help
+him, I was willing to try.
+
+Dr. F██████: What exactly did this individual offer you?
+
+PoI-25053: He said he had a way to get him to focus more, and he
+showed me pictures of a train. He said by making the thoughts D█████
+had into reality he would be able to control them more easily. Of
+course, I scoffed at this because it sounded ridiculous, but the man
+seemed to be dead serious. So I said why not.
+
+Dr. F██████: How did this individual create the anomalous link between
+the train and your son?
+
+PoI-25053: Anomalous just means weird right? [Dr. F██████ nods] Well
+it definitely was weird, that's for sure. [PoI-25053 chuckles to
+himself] He drove me to the little town of ███████, and showed me the
+train he intended to use. He told me he needed my full blessing, or it
+wouldn't work and it would only make things worse for D█████. I was
+still sceptical, but I didn't want to risk things getting even worse
+for him, so I agreed. About a minute went by, and nothing happened. I
+was about to hit the guy for giving me false hope for D█████, and then
+it started moving, without a driver. I couldn't believe it.
+
+Dr. F██████: And was D█████ aware of the existence of this train?
+
+PoI-25053: No. He still isn't, I didn't want him to see it, and think
+of me as some sort of controlling father trying to see into his
+thoughts. The train worked great though, until a couple months back. I
+hadn't checked on it in a good while, but D█████ was saying that he
+couldn't think as clearly anymore. He said it felt like he was going
+in circles with his thoughts. So I went to drive down to the train and
+I was stopped at an armed checkpoint, there was some sort of military
+testing occurring and I had to turn back.
+
+These dates correlate directly to the first Foundation intervention of
+SCP-4945-B, and the changing of its tracks into a loop.
+
+Dr. F██████: And did D█████'s mental state continue to degenerate
+after this?
+
+PoI-25053: Yes. I don't know what was happening in there, but
+something to do with the train was causing D█████ stress and pain. I
+figured something bad had happened to the train. The man that did
+this, he told me that the train needed to roam free, D█████'s
+creativity was important and anything stopping the train could be
+harmful to him. Do you know what they did to it?
+
+Dr. F██████: I'm afraid I can't disclose that information.
+
+PoI-25053: Please. I don't really even know who you are. Or who you
+work for, I couldn't really care less to be honest. All I want is for
+my son to have a relatively care-free life. He's worked so hard to get
+to this point, but it's only getting worse and I feel so horrible for
+him.
+
+Dr. F██████ converses with the research team through an earpiece for
+46 seconds.
+
+Dr. F██████: Alright. From what we have gathered in this interview, it
+is clear your interests are solely for your son.
+
+PoI-25053: I'd hope so
+
+Dr. F██████: We are the SCP Foundation. We are responsible for the
+securing, containment and protection of anomalous phenomena. Things
+that don't abide by normal logic, or normal physics.
+
+PoI-25053: So like aliens?
+
+Dr. F██████: I can neither confirm nor deny that, but that would be
+the correct line of thinking. We can take a look at relaxing the
+containment procedures for SCP-4945-B.
+
+PoI-25053: For what?
+
+Dr. F██████: The train.
+
+PoI-25053: Really! Thank you so, so much.
+
+Dr. F██████: The conditions are that you and your son will be held
+here and will have to live here for as long as your son is anomalous.
+We will have psychiatrists on deck for D█████ and you if required.
+
+PoI-25053: Thank you. Just please, let him have a normal life. As
+normal as possible in a place that keeps things like him. He hasn't
+done anything for this to happen to him, it really isn't his fault.
+
+Dr. F██████: We know. That's why you will be kept here as well as a
+Person of Interest. At a later date, you will be questioned about the
+individual you mentioned, for now, the guards will escort you and your
+son to your new living quarters.
+
+Afterword: Investigations into the individual2 mentioned by PoI-25053
+are ongoing. PoI-25053 shall be kept on site with SCP-4945-A.
+SCP-4945-A's identity is to be redacted from all documentation, to
+protect it. Special Containment Procedures must be amended to allow
+SCP-4945-B to roam free within reason. Current priorities are to allow
+SCP-4945-A to live as normally as possible both for ease of
+containment and for its development through childhood.
+
+
+
+Footnotes
+
+1. As SCP-4945-A's level of focus goes up, SCP-4945-B increases in
+speed and materialises fewer instances of SCP-4945-B-1.
+
+2. Designated PoI-01097
+
+

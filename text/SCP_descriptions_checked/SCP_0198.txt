@@ -1,0 +1,282 @@
+                                    SCP-198                                     
+                                    =======                                     
+
+                                   Cup of Joe                                   
+                                   ----------                                   
+
+Item #: SCP-198 
+
+Object Class: Euclid 
+
+Special Containment Procedures: SCP-198 is located in a secure room of 
+Site-██ with armed guards posted outside to prevent any unauthorized access. 
+SCP-198 is to be stored under 24-hour video surveillance in a sealed and locked 
+case (0.5 m x 0.5 m x 0.5 m) and the key kept in a secured location 
+accessible only to those personnel with Level 3 clearance and above. Under no 
+circumstances are any Foundation personnel to handle SCP-198. All handling of 
+SCP-198 is to be done via remote robotic means or by D-class test subjects only. 
+
+In light of Incident 198-A and Incident 198-B, Object Class has been elevated to 
+Euclid and Containment Protocol 198 has been established. SCP-198’s case must 
+now be kept on a digital scale attached to an alarm system with redundant 
+backups for power in its secure room. Any deviations in weight will indicate a 
+breach and Site Supervisors must immediately enact Containment Protocol 198 
+detailed below. 
+
+Description: SCP-198 has taken numerous forms since coming into Foundation 
+possession in 19██. Since acquisition, SCP-198 has been observed to have had 
+dozens of different forms including a Styrofoam cup, █████████ 
+brand glass beer bottle, ██████ and ████-████ brand 
+aluminum soda cans, an oversized shot glass that read “One Tequila, Two 
+Tequila, Three Tequila, Floor”, a plastic water bottle with a █████ 
+label partially peeled off, and [DATA EXPUNGED]. These forms always appear 
+partially filled with the expected liquid a vessel of that type would contain. 
+
+Currently, SCP-198 appears as an ordinary white, porcelain coffee mug with blue, 
+vertical stripes evenly spaced around its exterior. There are no visible 
+manufacturer markings or otherwise remarkable details about its appearance in 
+its current form. The object has resisted all attempts at destruction or 
+sampling for further analysis. When inactive, SCP-198 can hold the expected 
+240 mL (8 fl oz) of liquid that any standard coffee mug would hold. 
+
+Anomalous behavior does not manifest until a live human being grasps SCP-198 to 
+hold it. Approximately 2 - 5 seconds after the SCP is held, it will instantly 
+bond itself through unknown, albeit painful means to the handler’s hand or 
+hands. Test subjects have reported the pain of bonding with SCP-198 as a 
+“searing” or “fiery” sensation, though no heat can be detected by 
+outside observers or instruments. The use of gloves or other barriers between 
+the object and the hand does not prevent the bonding process so long as the 
+subject can still grip SCP-198. Extensive testing has revealed that the bond 
+appears to be at the molecular level and is permanent until the death of its 
+holder. To date, no means have been found to break the bond including cutting or 
+severing the fingers or hand of the holder as any wounds below the wrist of the 
+test subject heal instantaneously. Further proposed testing of the range of 
+healing up the handler’s arm is pending approval. 
+
+Once bonded, any liquid inside SCP-198 will disappear and the container will 
+inexplicably begin to fill from the bottom-up with a fluid or a semi-solid 
+material, stopping only once it reaches the top of the container. The liquid or 
+semi-solid is different for each holder, but it has to date been a bodily fluid 
+or human excretion in each test instance. Such instances have included human 
+saliva, sweat, blood, bile, mucus, urine, feces, and [DATA EXPUNGED] as well as 
+combinations of two or more of these. 
+
+Once SCP-198 has filled, the holder will undergo rapid dehydration and/or 
+emaciation, becoming increasingly malnourished to the point of death, which 
+usually occurs within 24 hours if nothing is done to prevent it. Ingestion of 
+standard foods, liquids, or I.V.-supplied nutrients does nothing to reverse or 
+slow this process. Testing has revealed that the only means by which the subject 
+can gain nourishment is by consuming the contents of SCP-198; however, the 
+constant rate of dehydration and emaciation remains the same, forcing the test 
+subject to consume vast quantities of the excretions almost constantly to remain 
+alive. As the contents are consumed or – as is often the case – dumped out 
+of the container, SCP-198 will continue to refill itself automatically. Test 
+subjects have lasted as long as 70 hours by consuming the excretions before 
+finally succumbing to exhaustion or refusing to consume any more of the 
+contents, which invariably leads to death. 
+
+Upon expiration of the handler, the bond with SCP-198 is broken and the object 
+can once again be manipulated. In approximately 75% of test instances, SCP-198 
+will disappear once the bond is broken and reappear almost instantly on a nearby 
+flat surface, seemingly with a preference for tables or shelves within the same 
+room, and take on a new form. Approximately 90% of these reappearances of 
+SCP-198 are within the general vicinity of the now deceased handler, but several 
+times the object has been observed to reappear in nearby containment rooms, 
+observation rooms, and in one case [DATA EXPUNGED]. Due to the catastrophic 
+nature of that incident, extreme care is to be taken when in proximity to 
+SCP-198’s containment or testing room. Foundation personnel are urged not to 
+bring with them any beverages or containers within 100 m of SCP-198’s 
+containment room even when the object is not actively being researched. 
+
+SCP-198 was acquired by the Foundation from an underground bunker in 
+███████, Germany, after the bunker’s accidental discovery by 
+construction workers. Reports of strange activity and deaths among the 
+construction company regarding this bunker brought the object to Foundation 
+attention. Agent ██████, upon responding to the location, discovered 
+several deceased and grossly emaciated corpses, both recent and some quite old. 
+Unaware of the nature of their deaths or the SCP in question, Agent 
+██████ sealed off the area and awaited back-up. It was then that the 
+nature of the SCP object revealed itself as the Agent mistakenly grabbed what 
+appeared to be an unopened bottle of water from a table at the construction 
+site. Backup arrived to find an extremely agitated Agent ██████ 
+vomiting and struggling to remove from his hand a cup full of fresh [DATA 
+EXPUNGED]. Agent ██████ later self-terminated during location 
+clean-up. 
+
+
+Incident 198-A: 
+
+Date: ██-██-20██ 
+
+Location: Site-██ 
+
+Description: At approximately 2:15 PM, Researcher John ██████, who 
+was working in an observation room adjacent to SCP-198’s containment room, 
+reached for what he thought to be his thermos of iced tea only to discover he 
+was firmly bonded to what appeared to be SCP-198. Immediately, Researcher 
+██████ notified Site Supervisors who, upon inspection of containment 
+room 198, discovered that SCP-198 was indeed missing from its case. At least 3 
+months had passed since the last experiment had been conducted on SCP-198 
+without incident. Researcher ██████ was interviewed by Site staff 
+and was kept alive by consuming the contents of SCP-198 for 31 hours before 
+finally refusing to drink the contents any longer. 
+
+
+Incident 198-B: 
+
+Date: ██-██-20██ 
+
+Location: Site-██ 
+
+Description: At approximately 8:00 AM, Security Guard Albert 
+████████ stopped to get a cup of coffee from a break room later 
+determined to be located three floors underneath and two hallways over from 
+SCP-198’s containment room. The guard found himself bonded to SCP-198 when he 
+attempted to grab a bottle of dairy creamer from the break room refrigerator. 
+Once again Site Supervisors were notified of a potential containment breach and 
+discovered SCP-198’s case to be empty. Guard ████████ was 
+interviewed and chose to self-terminate rather than consume any of the contents 
+of SCP-198. 
+
+Immediately after Incident 198-B, Site Supervisors determined that the Object 
+Class should be raised to Euclid and Containment Protocol 198 was created to 
+handle future containment breaches. 
+
+
+Containment Protocol 198: 
+
+Containment Protocol 198 is to be executed immediately by Site Supervisors after 
+a containment breach of SCP-198 is detected. In the event that the alarm 
+attached to SCP-198’s scale is sounded, Site-██ is to be locked down and 
+all personnel are to immediately avoid any beverage containers and evacuate the 
+facility until SCP-198 can be located and properly secured. 
+
+For test logs, please see Experiment Log 198-A. 
+
+
+Experiment Log 198-A
+
+Experiment log of Dr. ███████ on SCP-198 testing various manifestations 
+of its anomalous properties
+
+Notes: Testing on SCP-198 is to be done outside of its containment
+room in a secure experimentation room. SCP-198 is to be placed via
+robotic means on a plain table in the center of the otherwise empty
+room. During experimentation, all Foundation personnel are to remotely
+observe either via surveillance camera or adjacent observation room
+behind a secure, plexiglass window. At no time should any Foundation
+personnel enter the experimentation room while experiments are being
+conducted. Armed guards and clean-up crews will be posted outside the
+experimentation room and will not enter until the test subject has
+expired.
+
+
+Experiment 198-A-1
+
+Date: ██-██-████
+
+Procedure: Object is observed to have the form of a small glass of
+water. Class D personnel instructed to enter room and touch SCP-198
+with his finger, but ordered not to hold or pick up the object.
+
+Results: No bonding takes place and Class D personnel is unaffected.
+
+
+Experiment 198-A-2
+
+Date: ██-██-████
+
+Procedure: Same Class D personnel is instructed to pick up SCP-198.
+
+Results: Class D personnel screams in surprise as the bonding process
+takes place. Test subject immediately begins to try and pry SCP-198
+from his hand. Test subject ordered to calm down and describe the
+contents of SCP-198:
+
+Dr. ███████: Please describe the contents of the object in your hand.
+
+Test Subject: What the ████ is going on?! I can’t get it off! [Liquid
+is seen spilling from SCP-198 as the test subject flails around.]
+
+Dr. ███████: Yes, we are aware of the situation. Please calm down and
+describe the contents of the object in your hand.
+
+[D Class personnel is seen to cautiously sniff the contents of
+SCP-198.]
+
+Test Subject: Is that ████?! Oh god, that’s disgusting, man! [Test
+subject stumbles slightly and falls to one knee at this point.] Doc? I
+don’t feel so good, man.
+
+Dr. ███████: Please describe what you’re feeling right now.
+
+Test Subject: I… I feel weak. Tired. Thirsty, too. What’s going on?
+Can I get some water, man?
+
+Dr. ███████: I'm sorry, I cannot do that. But perhaps the contents in
+your hand…?
+
+Test Subject: Are you ███████ kidding me, man?! No ███████ way!
+
+Dr. ███████: Suit yourself.
+
+Approximately 2 hours into the experiment, the test subject is
+observed to curse loudly before gulping down the contents of SCP-198.
+Test subject periodically drinks from SCP-198 until finally succumbing
+to exhaustion and expiring 29 hours into the experiment. Subsequent
+autopsy determines the contents of the test subject's stomach to be
+mostly human urine. DNA profile on the urine came back inconclusive
+and with no known match in our database. Upon death of the test
+subject, SCP-198 unbonded, disappeared, and returned to the table in
+the form of a large, half-filled plastic pitcher of what appears to be
+ice and lemonade.
+
+
+Experiment 198-A-3
+
+Date: ██-██-████
+
+Procedure: Class D personnel instructed to enter room and don surgical
+gloves placed on the table next to SCP-198. Once the test subject is
+wearing the gloves, subject is instructed to pick up SCP-198 (still in
+lemonade pitcher form) and pour herself a glass.
+
+Results: Test subject is observed to use both hands to lift the
+pitcher to pour a drink. Once again, Class D personnel shouts in
+surprise as the bonding process takes place despite the gloves and
+appears to have both hands bonded to SCP-198. Test subject is highly
+agitated and clearly in pain.
+
+Test Subject: Ow! Owowow! It burned me!
+
+Dr. ███████: It would appear that both of your hands are stuck to the
+container. Is that the case?
+
+Test Subject: Yeah! Does it look like I'm not stuck?! [Test subject is
+visibly straining to pull her hands apart from SCP-198.]
+
+Dr. ███████: Can you remove your hands from the gloves?
+
+Test Subject: No! They're stuck to this damn thing, t—! [Test subject
+pauses mid-sentence and stares at the pitcher in her hands. Seconds
+later, test subject is seen vomiting violently and falling to her
+knees. A brownish, semi-solid mass spills onto the floor from
+SCP-198.]
+
+Dr. ███████: Can you please describe the contents of the pitcher,
+please?
+
+Test Subject: ████! ████! ████!
+
+Test subject continued vomiting for approximately ten minutes before
+collapsing to the floor. Test subject became uncooperative at this
+point and would not respond to the researcher's requests. Security
+guards are instructed to enter the experimentation room and terminate
+test subject. Testing concluded that the substance in question was
+human feces. Again, the DNA profile of the substance was inconclusive
+and matchless in our database. Upon death of the test subject, SCP-198
+unbonded and remained in its lemonade pitcher form, once again
+half-filled with what appeared to be lemonade and ice but did not
+teleport back to the table surface.
+
+

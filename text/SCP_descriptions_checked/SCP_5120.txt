@@ -1,0 +1,1776 @@
+                                    SCP-5120                                    
+                                    ========                                    
+
+                                [Access Denied]                                 
+                                ---------------                                 
+
+Item #: SCP-5120 
+
+Object Class: Neutralized 
+
+Special Containment Procedures: Due to mass neutralization in the form of a 
+cure, SCP-5120 instances at large no longer need any special containment 
+procedures. While instances of SCP-5120 are found worldwide, they no longer 
+affect humans. 
+
+SCP-5120-A however, requires a clearance level of 3 to apply for access. 
+Approval for access is gained by a 2/3 majority vote by the O-5 council. 
+SCP-5120-A is to be kept within a VC-Prima box locked at Control Level 101. The 
+parent compound of SCP-5120-A is kept in Site 14 sublevel-05, and removal of the 
+parent compound from its VC-Prima box is strictly forbidden. Removal of the 
+parent compound of SCP-5120-A from it's VC-Prima Box will result in disciplinary 
+action up to and including termination. 
+
+In attempt to not misuse or misplace SCP-5120-A, all use of SCP-5120-A requires 
+replication of the compound. Means of replication for SCP-5120-A is provided by 
+the O-5 council after approval to access SCP-5120-A is received. No more than 
+3 20mL vials are to be manufactured at any given time, and any volume removed 
+for SCP-5120-A replication must be returned to the parent compound as soon as 
+possible. 
+
+Description: SCP-5120 is a highly infectious, self-replicating cognitoborne 
+virus. Timeline reconstruction suggests that SCP-5120 is capable of mutation, 
+allowing it to infect various new host languages, and has already made the jump 
+to non-word symbols. The words and symbols affected by SCP-5120 are completely 
+identical to their unaffected counterparts. 
+
+When a human is exposed to SCP-5120 and is aware that the host word or symbol 
+has a meaning, they will become instances of SCP-5120-1. Directed thought 
+towards the infected symbol is believed to feed SCP-5120, as well as allowing it 
+to spread to other words and symbols within the vicinity of the SCP-5120-1 
+instance. Testing also indicates that SCP-5120 can proliferate to new words 
+without a host if they are in close enough proximity. This form of proliferation 
+works at approximately 50 centimeters/day. 
+
+When a human is exposed to SCP-5120 and is either illiterate or unaware that the 
+symbol has meaning, the perception trigger is not activated, and virus will not 
+take hold. 
+
+Instances of SCP-5120-1 will begin to show symptoms roughly one hour after 
+exposure. This hour of where the instance is asymptomatic is the infectious 
+period. Once symptoms begin to show, instances have passed the infectious 
+period. Symptoms of infection will appear in the following order: 
+
+The SCP-5120-1 instance's eyes will dilate, instances report a general feeling 
+of unrest. This marks the beginning of the infectious period. 
+
+Instance will begin to continuously ponder the meaning of the symbol, typically 
+beginning to vocalize their wonders, and occasionally requesting input from 
+other individuals. The infectious period has passed, any words the instance 
+comes in contact with will not be affected. 
+
+Instances will keep their thoughts to themselves and will typically request 
+paper and writing utensils. 
+
+The SCP-5120-1 instance will forgo eating, drinking, and self-hygiene in favor 
+of contemplating the meaning of the word or symbol. If left to ponder, the 
+SCP-5120-1 instance will break their silence and give some exclamation regarding 
+the SCP-5120 instance. Immediately after this exclamation, severe brain 
+hemorrhaging occurs, usually resulting in the death of the SCP-5120-1 instance. 
+
+Some instances will continue living past the initial hemorrhaging and commit 
+various acts of aggression, usually linked to the idea that they were exposed 
+to. This symptom is rare and not yet seen in laboratory experimentation, however 
+multiple instances have been reported by MTFs. These instances will experience a 
+second, more severe brain hemorrhage after a period of time, which will always 
+result in the death of the instance. 
+
+The timings that symptoms show vary from case to case, with the shortest span 
+lasting under 5 hours, and the longest nearly 7 days. Longer cases tend to have 
+the most aggressive subjects, and most severe brain hemorrhaging. 
+
+Debate on the biological status of SCP-5120 is ongoing, as not only are viruses 
+widely not considered to be alive, SCP-5120 does not seem to have any physical 
+form (i.e. a capsid). 
+
+SCP-5120-A is a green viscous liquid compound that can reverse the 
+neutralization of SCP-5120 in the human it has been administered to. The parent 
+compound is contained within a 100ml beaker labeled “antidote”. Subjects 
+administered this compound will immediately show symptoms of SCP-5120 infection, 
+even without being shown symbols or words. Vegetablized individuals do not show 
+any symptoms when administered the compound. 
+
+
+Addendum: 
+
+The following was recovered by Research Assistant Nova Moreaux. Whilst searching 
+through Site 14’s sublevel-05 for assets of Neutralized SCPs, she tripped over 
+a loose floorboard that had been hiding a VC-Prima box. 
+
+Within the box was an audio log of a series of tests and notes by former 
+Foundation researchers Dr. Mary Fern and Dr. Robert Joel, a handwritten note by 
+Dr. Joel, and the parent compound of SCP-5120-A. 
+
+Test Log Alpha: 
+
+Note: The following are transcriptions of the recovered audio recordings from a 
+Foundation Issued AudioBox. It includes researchers' tests, notes, and the MTF 
+engagements. 
+
+Introduction 
+
+Top scientists across all Sites, Areas, outlooks, and SCP Foundation facilities 
+have been recruited to study SCP-5120. At the time of writing, all countries in 
+Northwest and central Africa have been determined SCP-5120 hotspots, and 4 
+countries in eastern Europe are considered high risk. As of yesterday morning, I 
+have been nominated as the acting director of Site 14 until Director 
+██████ can return to his duties. The O-5 council has approved this 
+nomination and has given me temporary 5th level access to all files, research, 
+notes, and facilities. 
+
+Current information on this SCP include: 
+
+It is known to be a memetic cognitohazard 
+
+Containment procedures were enacted too late, and the spread is now too great to 
+successfully contain 
+
+The anomaly is not one specific word and can be any word 
+
+Visual sight of the word is needed to trigger any symptomatic response. All 
+other senses are unaffected. 
+
+Governmental bodies worldwide have banned the use of paper, writing utensils, 
+and any travel from home or shelter. Many governments are using military force 
+on their own citizens to ensure these measures are being followed. The O-5 
+council has also enacted these measure and many more across all sites. I am 
+currently in Site 14, so are 22 doctors, 1 Mobile Task Force, 61 D-class, and 15 
+other personnel. All other doctors above access level 3 have been given the same 
+assignment as me, to develop a defense or cure to SCP-5120. All research is to 
+be recorded on a FI-AudioBox2 provided to Site 14 yesterday via a specialized 
+MTF. 
+
+Specialized MTFs have orders from the O-5 to provide food, water, and other 
+basic necessities to their designated site once every two weeks. In the event 
+that their experiences should prove useful to our research, a copy of the data 
+from the acting commander's FI-AudioBox will be uploaded to my own. 
+
+All tests attached will take place in a 5m x 5m x 5m windowless standard testing 
+unit. There is a speaker and camera mounted to the top southeastern corner of 
+the room. All tests are monitored in a control room located in an adjacent room. 
+Visual recording of the words and symbols containing the cognitohazard must be 
+separately affected by SCP-5120, so monitoring does not require any level of 
+censorship and may be conducted live. If quarantined correctly, these recordings 
+should not be affected, and are considered to be safe to view. 
+
+-Dr. Joel 
+
+
+- MTF FI-AudioBox - Patient Zero Extraction 
+
+The following transcribed audio recordings comes from acting Captain Thomas 
+Hart's FI AudioBox. 
+
+AUDIO LOG OF MTF GAMMA-3 "POLARIS GUIDANCE" 
+
+DATE: 09/14/████ 
+
+BRIEFING: This recovery mission transpired in ██████, Africa. MTF 
+Gamma-3 "Polaris Guidance" sent to apprehend subject N'Bili Ogawii due to 
+numerous claims of a pandemic believed to be caused by a memetic cognitohazard. 
+MTF Gamma-3 has been provided with standard defense gear as well as 
+cognitohazardous defense gear including: anti-cognitohazard symbol-scrambling 
+goggles, extra flashbangs, smoke bombs, spray paint, an opaque sealable bag for 
+sample collection, and an arm-mounted compact flamethrower. 
+
+MTF BACKGROUND & MEMBERS: MTF Gamma-3 "Polaris Guidance" was created 
+specifically for small-group silent recovery of cognitohazards. The group 
+currently consists of four highly trained individuals: 
+
+Thomas "Tommy" Hart, Captain 
+
+Julia "Jules" Megani, Cultural Specialist & Translator 
+
+Klint "Pyro" Cassidy, Technical Gear Specialist 
+
+Dr. Leon "Lee" Prairie, Cognitohazard specialist 
+
+NOTE: Remarkable events begin at the start of playback. Playback begins as the 
+MTF is en route to Patient Zero. Additional details have also been provided by 
+Captain Hart during debriefing. 
+
+[BEGIN LOG] 
+
+HART: All right, listen up! As you know, we were assigned to get in, get the 
+girl, and get out. Any instances of the cognitohazard are to be incinerated or 
+recovered. The O-5s want us to bring back at least one sample. 
+
+CASSIDY: Yeah, yeah, use stealth and all. If it were up to me, we'd burn 'em 
+all. Make our jobs a whole lot easier. 
+
+PRAIRIE: Livin' up to the name, huh? 
+
+HART: Well it ain't up to you, so let's just do this the right way. Don't need 
+another Venice on our hands. 
+
+Silence ensues for the next six and a half minutes. The vehicle comes to a halt. 
+
+HART: Shades on. 
+
+I put on my goggles and got out of the truck. The rest followed me out. Place 
+was lookin' rough, smelled like death. 
+
+MEGANI: I'm gonna get a read on what's going on here. 
+
+She approached a group of natives and started conversing with them. Couldn't 
+hear what they were sayin', even if I did I wouldn't know what it was. 
+
+PRAIRIE: Does he know every language? 
+
+HART: 24 languages. The locals are bound to know at least one of 'em. 
+
+CASSIDY: Well they better find one fast, this place is about to become a 
+dumpster fire. 
+
+PRAIRIE: Looks like it already has. 
+
+He was pointing at a building 'bout 50 meters away. The building was crumbled, 
+smoke still coming from the rubble. They had burned it down recently. 
+
+CASSIDY: Heh. My kind of people. 
+
+I signaled Megani back. Figured she got enough from them. 
+
+MEGANI: So, it seems like they think this girl is evil. She writes things and 
+people die. She used to be the local artist, supposedly made some beautiful 
+pieces. But… Something happened… They won't say. That's her house. I- I 
+think they were the ones that burned it down… I wouldn't stare too long, 
+everyone here is on edge. 
+
+She motioned to the burned down house and took a peek over her shoulder at the 
+natives, they were still watching her. 
+
+HART: Is it Ogawii? 
+
+MEGANI: Probably… They were too scared to say the name. 
+
+CASSIDY: Looks like my work is already done then. 
+
+HART: It never is. Come on. 
+
+We approached the building. Natives kept their eyes on us, didn't say a word 
+either. Just stared. It was fuckin' creepy. 
+
+HART: Fire seems to be gone. Be careful, it's still hot. 
+
+I walked into the rubble. There wasn't anything left standing but there was this 
+section behind the house that was still standing. We made our way over to it. 
+
+HART: I'm going in, safeties off. 
+
+I kicked the door open and she -Ogawii- was sitting on the floor. Smiling this 
+awkward toothy smile, muttering some gibberish over and over. 
+
+Faint mutterings can be heard. 
+
+HART: What's she sayin'? 
+
+MEGANI: Well… it seems like… she's just saying one word over and over. 
+Roughly translates to "rainfall." 
+
+CASSIDY: She's loony. 
+
+PRAIRIE: She's affected. Where's the Cognitohazard? 
+
+CASSIDY: Probably burned down like the rest of this place. 
+
+Prairie pointed at this piece of wood that Ogawii was staring at, the goggles 
+scrambled whatever was etched onto it. 
+
+PRAIRIE: It's probably whatever is on there. 
+
+He reached to pick up that piece of wood, but Ogawii started going ballistic. He 
+backed off, and she calmed back down. 
+
+HART: …Think that's the only one? 
+
+MEGANI: No, they said back there that everything she wrote was killing people. 
+They also said that they were rambling, like she's doing now. 
+
+PRAIRIE: Then it's taking a much longer time on her than it did on them. She 
+isn't dead yet. 
+
+CASSIDY: Let's just get the hell out of here. Grab the wood, grab the girl. I'll 
+take care of the rest. 
+
+Megani went to incapacitate Ogawii. But Prairie made one move towards the wood 
+and she went insane again. Punched him right in the nose and tried to bite him. 
+
+CASSIDY: What the fu-? 
+
+Two gunshots can be heard. 
+
+Cassidy shot her twice, once in each knee. Looked like he wasn't gonna stop 
+there. 
+
+HART: Stop it! She's down. She's down! Jules, get her cuffed. 
+
+MEGANI: On it. 
+
+Megani got her cuffed. But even then, she tried to get up and attack when 
+Prairie got the cognitohazard in his bag. Looked like she was really about to 
+stand up and maul him. 
+
+CASSIDY: Get outta here, hurry up. 
+
+MEGANI: She's trying to- 
+
+Ogawii somehow flailed enough to get her goggles off for a second. She put 'em 
+back on, but she bent over and picked up a piece of parchment that was on the 
+floor. I figured she wanted to take another sample, so I didn't say anything. 
+
+HART: You okay? 
+
+MEGANI: Y- yeah I… I just thought I was a goner for a second there. 
+
+HART: You're still here. You're good. Come on, let's get out of here. 
+
+Cassidy lit the place up with that hand flame thrower. He likes that thing a 
+little too much. Nearly burned down half of Venice on our last assignment. We 
+made our way out of that shack and back to the wreckage of the house. 
+
+MEGANI: What's she made of? She's still trying to get to you, Lee. 
+
+PRAIRIE: Some cognitohazards are like that, can make people ignore their primal 
+emotions, even pain. It's usually pretty rare though. 
+
+He turned to look at Ogawii. Her face was so… twisted… It didn't even look 
+human. 
+
+Many angry voices can be heard. 
+
+MEGANI: …They're really upset, Tommy… 
+
+The voices begin shouting. 
+
+HART: Come on, let's move! Let's get out of here before things go south. 
+
+PRAIRIE: Gah- Fuck! 
+
+Ogawii had somehow clawed up his arm. I didn't see it happen, but it looked like 
+she had got 'em good. 
+
+The voices get louder. Gunshots start to ring out. 
+
+CASSIDY: GET THE FUCK BACK! 
+
+The natives, they were trying to kill Ogawii. Throwing stones and even getting 
+close enough to kick her. Cassidy shot some warning shots at first, but I think 
+they took it the wrong way. 
+
+The shouting gets louder. More gunshots ring. 
+
+They attacked us. Cassidy started opening fire, and it wasn't long before the 
+rest of us started too. I think they thought we were protecting her or 
+something. I mean, they weren't wrong, but… 
+
+A whoosh is heard, followed by the crackling of flames. The shouting slowly 
+becomes screaming. 
+
+CASSIDY: GET THE FUCK BACK! GET BACK! 
+
+Cassidy turned his flamethrower on them. They backed up, but they started 
+screaming and pelting us all with rocks. They really didn't want to see her 
+alive. One of the rocks knocked Prairie's goggles off. Come to find out, he 
+closed his eyes. Pretty simple solution, huh? Guess you think like that when 
+you’re a cognitohazard expert. He made a beeline to the truck, trying to get 
+out before anything went wrong. 
+
+Gunshots ring out again. 
+
+HART: Open the doors! 
+
+That group that burned down her house was circled around the vehicle, all kind 
+of chanting the same word that she was, like it was some sort of cult or 
+something. They didn't try to attack us, and didn't get in the way when we moved 
+'em. Just kind of blankly stared. A few of them had some serious nosebleeds, 
+blood was covering their clothes and everything. 
+
+CASSIDY: Get the f-… Move! Come on, get in! 
+
+We got in the truck, but Ju- Megani started saying some weird stuff about love. 
+
+MEGANI: Did I ever tell you about my first love, Tommy? 
+
+HART: Not now. We're not in the clear yet. 
+
+MEGANI: That symbol on the floor, it was their people's word for love. 
+
+PRAIRIE: The one you picked up? 
+
+MEGANI: Yeah… Isn't it beautiful? 
+
+CASSIDY: What the hell are you talking about? 
+
+Megani can be heard repeating the word "love" over and over under her breath. 
+
+She started acting weird, and started writing shit down on some of the papers in 
+her bag. She took her goggles off. 
+
+HART: Keep your goggles on. 
+
+She didn't listen. Acted like I didn't say a thing. Prairie picked up her 
+goggles and put them on. Ogawii had passed out, some of those rocks they threw 
+at her hit 'er in the head, Prairie started patching her up. 
+
+CASSIDY: Doc, think she's been compromised. 
+
+PRAIRIE: … 
+
+HART: Hey, we don't know that. She's still alive, right? Could just be in shock. 
+
+PRAIRIE: Yeah… 
+
+After a while she stopped talking and writing. Just sat and stared at the wall 
+with this big smile on her face. Think that's when we realized that she really 
+was gone. Ogawii woke up somewhere along the way, but just laid down in the 
+fetal position. The rest of the ride here nobody talked. 
+
+HART: And that's when her fuckin' head blew up. Covered us all in her brains. We 
+all looked at each other, but didn't say a word. Julia didn't say a thing, 
+didn't even blink. 
+
+DR. JOEL: Is she still unresponsive? The medical unit here has many treatments, 
+even for cognitohazards. 
+
+HART: …Jules didn't make it back to the base… Her nose started bleedin' a 
+little after that, and she said that same mumbo jumbo about love as before. Fell 
+over and died. She was a good soldier, a good friend. Sharp as they come. 
+
+DR. JOEL: I see… We can end here then. Thank you for your time. I am deeply 
+sorry for what happened to your friends. You will be assigned a new Foundation 
+Issued ATV, as yours is very likely compromised. 
+
+HART:… 
+
+DR. JOEL: Please allow me to copy the contents of your AudioBox and place the 
+bag with her drawings in the safe down the hall, fourth door on the left. 
+
+[END LOG] 
+
+
+TEST #1 
+
+Researcher 
+
+Dr. Robert Joel 
+
+Date 
+
+10/4/████ 
+
+Subject/Methods 
+
+Subject is a 34-year old male D-Class personnel (D-13324). Subject is exposed to 
+SCP-5120 affected word “love”, written on a piece of parchment paper. 
+
+Outcome 
+
+Immediate Effects- D-13324’s eyes dilate, and he begins to pace around the 
+testing chamber. 
+
+1 hour passed- Subject asks Dr. Fern and Dr. Joel what they believe the meaning 
+of love is. Dr. Joel remains silent. Fern responds by inquiring what the subject 
+believes “love” means. The D-class does not respond. Subject begins to 
+repeat the word “love” 
+
+3 hours passed- Subject begins to mutter the word “love” periodically and 
+picks up the SCP-5120 instance. 
+
+4 hours passed- Subject requests paper and pen. Request denied, as they are 
+banned by the O-5 council and several governmental bodies for civilian use. 
+
+5 hours passed- Subject falls silent and sits on the ground, never looking away 
+from the SCP-5120 instance. No blinking is recorded after this event. 
+
+24 hours passed- No change in behavior. Dr. Fern requests termination of test 
+and D-class, as he appears to be in a catatonic state. Request denied. 
+
+76 hours passed- Subject begins to show signs of dehydration. He sets the 
+instance of SCP-5120 down next to him. 
+
+93 hours passed- Subject smiles, looks up from SCP-5120 instance, and says 
+“love. I understa-”. 
+
+Brain hemorrhaging immediately occurs. 
+
+Researcher's Note 
+
+Video playback reveals that there is a minuscule delay in symptom onset that 
+occurs a full second proceeding initial exposure of the instance, longer than 
+every other cognitohazard on record. Further testing required for supplemental 
+insight and data. 
+
+
+TEST #2 
+
+Researcher 
+
+Dr. Robert Joel 
+
+Date 
+
+10/5/████ 
+
+Subject/Methods 
+
+Subject is a 23-year old D-class female (D-17721), exposed to a newly drawn 
+word, “blink,” written on a sheet of 8.5in x 11in white printer paper. This 
+paper has been laid in the room 4m away from the known-affected word "Love" for 
+24 hours. 
+
+Outcome 
+
+No symptoms of exposure occur over the course of an hour. 
+
+Researcher's Note 
+
+The cognitohazard does not affect words spontaneously around itself, therefore 
+we can deduce that the only affected words are either spontaneously anomalously 
+affected independantly or the cognitohazard is somehow spreading from word to 
+word via a host. Further testing on this distinction is required. 
+
+
+TEST #3 
+
+Researcher 
+
+Dr. Mary Fern 
+
+Date 
+
+10/7/████ 
+
+Subject/Methods 
+
+The same D-class participating in test #2, as well as the same word in test #2. 
+Word left for 24 hours in a known hotspot of SCP-5120. 
+
+Outcome 
+
+Word is now affected by SCP-5120. D-class shows symptoms nearly congruent with 
+Test Subject #1. 
+
+Researcher's Note 
+
+The cognitohazard seems to be spreading from word to word. The mechanism of the 
+spread is currently unknown. Further testing should be directed towards this 
+study. 
+
+
+TEST #4 
+
+Researcher 
+
+Dr. Mary Fern 
+
+Date 
+
+10/7/████ 
+
+Subject/Methods 
+
+There are 2 subjects in this test to determine the means of proliferation of 
+SCP-5120. 
+
+The first subject, a D-class male (D-28739), is exposed to a known affected 
+word, “red”, (D-class further referred to as D-Red), and then shown a newly 
+drawn word, “yellow.” 
+
+The second subject is also D-class male (D-28765, further referred to as 
+D-Yellow), and is exposed to “yellow” before viewed by the SCP-5120-1 
+instance, then after viewed by the SCP-5120-1 instance. 
+
+Outcome 
+
+Before exposure, “yellow” has no anomalous effects on D-Yellow. 
+
+D-Red is exposed to SCP-5120 instance “red” and is then exposed to the 
+non-anomalous “yellow” 
+
+“yellow” was then exposed to D-Yellow, who then became an instance of 
+SCP-5120-1. 
+
+Both instances of SCP-5120-1 were then terminated 
+
+Researcher's Note 
+
+It can be concluded that SCP-5120 is somehow spreading via SCP-5120-1 instances. 
+I am proposing that SCP-5120 is an anomalous cognitoborne virus, using 
+SCP-5120-1 as its host for the spread of its equivalent “genetic material.” 
+
+
+- MTF FI-AudioBox - Civilian Rescue
+
+The following transcribed audio recordings comes from acting Captain Thomas 
+Hart's FI AudioBox. 
+
+AUDIO LOG OF MTF GAMMA-3 "POLARIS GUIDANCE" 
+
+DATE: 10/14/████ 
+
+BRIEFING: While en route to Site 14 for biweekly supply delivery, MTF Gamma-3 
+encountered a child on the outskirts of known SCP-5120 hotspot 
+██████, Europe. 
+
+MTF BACKGROUND & MEMBERS: MTF Gamma-3 "Polaris Guidance" was created 
+specifically for small-group silent recovery of cognitohazards. MTF Gamma-3 
+"Polaris Guidance" has been redesigned to report to Site 14, Site ██, and 
+█████ ███ ██ for biweekly supply shipments. The group 
+currently consists of four three highly trained individuals: 
+
+Thomas "Tommy" Hart, Captain 
+
+Juila "Jules" Megani, Cultural Specialist & Translator 
+
+Klint "Pyro" Cassidy, Technical Gear Specialist 
+
+Dr. Leon "Lee" Prairie, Cognitohazard specialist 
+
+NOTE: Remarkable events begin at the start of playback. Additional details have 
+also been provided by Captain Hart during debriefing. 
+
+[BEGIN LOG] 
+
+HART: Stop the car, got a civilian in the road ahead. 
+
+PRAIRIE: What? I don't see anything. 
+
+CASSIDY: Dumbass civilians. 
+
+HART: Looked like a kid. Think it's behind that tree. 
+
+CASSIDY: A kid? Heh, yeah right. Think you're losin' it Tommy. 
+
+HART: Pull over. 
+
+PRAIRIE: Wait. I saw it. 
+
+CASSIDY: Seriously? 
+
+The truck comes to a stop and they all get out. 
+
+PRAIRIE: There. 
+
+He pointed to a tree on the left side of the road. You could see some fingers 
+wrapped around it. 
+
+HART: Eyes open, could be a trap. 
+
+PRAIRIE: It's a girl. Looks around 5 years old. 
+
+CASSIDY: There's no way. That's not possible. 
+
+Prairie approached the girl. She took a few steps away. 
+
+PRAIRIE: Don't be afraid. It's okay. We're safe. 
+
+HART: Drop your weapons. She's scared. 
+
+CASSIDY: It could be a tra- 
+
+HART: Drop 'em! 
+
+She walked out onto the street once we dropped the guns. She seemed scared, but 
+she was out of options. 
+
+PRAIRIE: Hey. My name is Lee. Do you have a name? 
+
+There is a silence that lasts one minute. 
+
+ANNIE: Annie. 
+
+PRAIRIE: Where are your parents? 
+
+Silence. 
+
+HART: Annie, do you know where your parents are? 
+
+ANNIE: … 
+
+CASSIDY: They're dead, idiots. Stop asking her. 
+
+HART: Where are you going? 
+
+ANNIE: … 
+
+PRAIRIE: It's okay, we can take you there. 
+
+ANNIE: I'm hungry. 
+
+CASSIDY: Shit. She ain't got a place to go. She's an orphan. 
+
+HART: Is she infected? 
+
+Prairie pulled out his flashlight and shined it in her eyes. She was scared, but 
+to be honest her hunger probably overpowered her fear. 
+
+PRAIRIE: No. Eyes dilate normally. She hasn't been exposed. 
+
+CASSIDY: Well her parents were, how the hell is she here? 
+
+HART: Annie, where have you been since you… left your parents? 
+
+ANNIE: ██████ 
+
+HART: In the city? 
+
+She nodded, and pointed back to the city. 
+
+HART: How long have you been out? 
+
+ANNIE: Three. Four. 
+
+HART: Days? 
+
+PRAIRIE: Shit. 
+
+Prairie pulled out his rations for the day. She ate it so fast you wouldn't 
+think she chewed. 
+
+CASSIDY: Jesus. 
+
+HART: We can't leave her. 
+
+PRAIRIE: Well… What do we do? 
+
+HART: I guess we take her. 
+
+[END LOG] 
+
+
+[BEGIN LOG] 
+
+The following takes place between Dr. Joel and Captain Hart later that day 
+during the supply run to Site 14. 
+
+HART: Can we leave her here? 
+
+DR. JOEL: She's totally immune? 
+
+HART: Well… we don't know. She says she's been living in ██████ 
+for the last month. It's a known hotspot. 
+
+DR. JOEL: It would have been impossible to leave shelter without exposure. Was 
+she acting weird? 
+
+HART: Negative. No signs of exposure. 
+
+DR. JOEL: I see. Leave her in my care. Another doctor and I will take care of 
+her. 
+
+HART: She's waiting in the room outside. She's scared. 
+
+DR. JOEL: We will console her and give her a full evaluation. I give you my 
+word, she is in good care. 
+
+DR. JOEL: This brings us to our next point. Your team… I understand you are 
+short a person, and that your Force was already a small group to begin with. 
+
+HART: We are down to three, yeah. But we can handle anything thrown at us. 
+Especially now that all we're doing is shipping supplies. 
+
+DR. JOEL: While that may be true, we have decided that to further our research, 
+we need you to go into hotspots and gather data for us. 
+
+HART: … 
+
+DR. JOEL: We have decided to merge you with a specialized Task Force. You will 
+still be Captain, but you will have to acclimate to these new men. 
+
+HART: I see. 
+
+DR. JOEL: I have already assigned these men to you. If you accept, they are 
+waiting for you down the hall. 
+
+[END LOG] 
+
+
+TEST #5 
+
+Researcher 
+
+Dr. Robert Joel 
+
+Date 
+
+10/15/████ 
+
+Subject/Methods 
+
+A 5-year old female, name Annie Klea, found searching for shelter outside of 
+Site 14. Subject was brought to Dr. Joel’s research lab after the realization 
+that she had been living in a nearby SCP-5120 hotspot for the last two weeks. 
+After some consoling, she agreed to help Dr. Joel test the cause of her 
+immunity. After consulting with Dr. Fern, subject was then exposed to the 
+known-affected word “jovial”. 
+
+Outcome 
+
+Subject sounds out then reads the affected word out loud, and repeats it as Dr. 
+Joel asks her to. After 9 repeats, the subject requests food and states that she 
+is scared. Dr. Fern gives her a hug and request for food is granted. Subject is 
+given a glass of milk, along with Dr. Joel’s lunchbox. 
+
+Researcher's Note 
+
+After a quick search from my own specialized Mobile Task Force in the nearby 
+city hotspot, a disproportional number of children have been found roaming the 
+streets, nearly all unaffected. This test confirms that for some reason, 
+children under the age of 5 -including some 5-year olds, apparently- are 
+unaffected by SCP-5120. Is it sentient? Sapient? Most importantly, can we reason 
+with it? Further testing will be done to answer these questions. The child will 
+be cared for on-site until site lockdown is repealed, and I am forbidding any 
+further testing regarding her as a subject. 
+
+
+- MTF FI-AudioBox - CONTAINMENT BREACH RECORD
+
+AUDIO LOG OF CONTAINMENT BREACH AFTERMATH WITH CAPTAIN THOMAS HART OF MTF 
+GAMMA-3 "THE BLIND IDIOTS" 
+
+DATE: 10/17/████ 
+
+BRIEFING: A containment breach occurred in Site 14 due to technical malfunction 
+and structural destruction that MTF Gamma-3 incited during a training exercise. 
+
+MTF BACKGROUND & MEMBERS: MTF Gamma-3 "Polaris Guidance" was created 
+specifically for small-group silent recovery of cognitohazards. MTF Gamma-3 
+"Polaris Guidance" has been redesigned to report to Site 14, Site ██, and 
+█████ ███ ██ for biweekly supply shipments. The group 
+currently consists of four highly trained individuals: SITE 14 GIVEN A NEW 
+DESIGNATED SUPPLIANCE MTF. 
+
+MTF Gamma-3 "The Blind Idiots" is a specialized MTF specifically constructed and 
+hand selected by the O-5 council to enter SCP-5120 hotspots as safe as possible 
+to preform silent reconnaissance and data collection. Previous designation 
+"Polaris Guidance" dissolved. At the time of writing, MTF Gamma-3 is not 
+permitted for field work and is under a high intensity training. The group 
+currently consists of seven highly trained individuals. 
+
+Thomas "Tommy" Hart, Captain 
+
+Klint "Pyro" Cassidy, Technical Gear Specialist 
+
+Dr. Leon "Lee" Prairie, Cognitohazard specialist 
+
+Lea "Deadshot" Fredricks, Ballistics expert 
+
+Marcus "Daredevil" O'Ran, Martial Arts Expert 
+
+Frank Love, Cultural Specialist & Translator 
+
+Sylvia Wolf, Professional ransomware developer and hacker 
+
+NOTE: Events leading up to containment breach begins at the start of playback. 
+Additional details have also been provided by Captain Hart during debriefing. 
+
+[BEGIN LOG] 
+
+DR. JOEL: Well… If you all didn't have the skills you do, and weren't 
+considered essential personnel, you would be terminated. Do you realize this? 
+
+HART: Affirmative. We all do. 
+
+DR. JOEL: Of course you do. Why don't you tell me what happened? 
+
+The following is Captain Thomas Hart's recount of the events that caused the 
+containment breach. 
+
+At 14:00 sharp, we reported to room █-██ for afternoon training. Dr. 
+██████ had created a hotspot simulation to test our readiness for 
+the field. It was our Field Readiness Test, too. It was designed to have 
+Cassidy, Wolf, O’Ran, and I retrieve the ‘cognitohazard’ while Love, 
+Prairie, and Fredricks defend it. We all had goggles on, took all security 
+measures required as if it were a real threat. Well besides O’Ran, with him 
+being blind and all. 
+
+Truth be told, everything went well until the very end. We took out Prairie and 
+Love and already retrieved the package. Things went south when Fredricks locked 
+us in and got a height advantage. I covered Wolf while she tried to hack into 
+the door security. I don’t think she knew what she was doin', kept saying the 
+security here was different from anything she’d seen before. Fredricks took a 
+shot at Cassidy, hit his goggles. Well… he didn’t take it well. Started 
+using… unnecessary firepower. Chuckin' our fake grenades up and around. They 
+still give quite the impact. The West/ wall got damaged. Nothin' too serious 
+though. At least at the moment. Wolf said she got some kinda security down. 
+Cassidy and I took that to mean that she was done and stopped layin' cover fire. 
+
+I got hit after that, two rubber bullets straight to the chest. Cassidy right 
+after me, two rubbers. Sure felt real though, but sniper fire is sniper fire I 
+guess. Cassidy and I took our seat next to Prairie and Love. Wolf wasn’t too 
+far behind. We thought we had lost, ‘til we realized O’Ran was gone. Think 
+Fredricks noticed it too, kept turning her back to look for him. He was gone. 
+Then he fell from inside the ceiling, landed right on her back. She got up and 
+tried to shoot at him, but he just moved out of the way like he could see. I had 
+never seen anything like it. A blind man takin’ on a combat expert. Looked 
+like he wasn’t even tryin’. He eventually kicked her off the railing. We 
+won. 
+
+I think that’s when we all noticed what had happened. His damage to the 
+ceiling combined with Cassidy’s damage to the wall must have made some kinda 
+structural instability. The wall fell, nearly killed us all. Wolf’s hacking 
+had disabled the entire Site’s security system, turns out. There was no alarm, 
+no security… and no wall. 'Bout a minute later, the emergency contingencies 
+kicked in, which is what opened the doors and sounded the alarms. To be honest, 
+none of us really understood what had happened until then. 
+
+After that, we just evacuated with the rest of y'all, 'til they gave the all 
+clear. 
+
+…I think that's about it. 
+
+DR. JOEL: So… You have compromised the quarantine of Site 14, destroyed the 
+data from many of this Site’s tests before they were properly stored and 
+analyzed, and potentially compromised the city’s safety. The O-5 wants you all 
+terminated. They gave the orders 5 hours ago. 
+
+HART: … I see. 
+
+HART: If you need to terminate someone, it wasn’t their fault. I’m the 
+Captain, and I take responsibility. I firmly believe in the Foundation’s 
+cause, always have. I'm willing to take responsibility for the actions of my 
+team. 
+
+DR. JOEL: Tommy, you know I always had a soft spot for you. You think I'd let 
+that happen? You’re a good man. I requested disciplinary authority per my own 
+judgement. It got approved 15 minutes ago. 
+
+HART: Thank you, sir… Does that mean… 
+
+DR. JOEL: It means you all have passed your Field Readiness Test. It also means 
+that you are ready to lead them. I have your first assignment. 
+
+[END LOG] 
+
+
+Notice from Dr. Robert Joel to the staff of Site 14 
+
+I regret to inform you that the neighboring city has been compromised. If any 
+you have family here, you will be allowed to contact them via the Site's 
+landline telephones for an allotted 15 minutes. 
+
+[DATA LOST] 
+
+
+TEST #8 
+
+Researcher 
+
+[DATA EXPUNGED] 
+
+Date 
+
+[DATA EXPUNGED] 
+
+Subject/Methods 
+
+[DATA EXPUNGED] 
+
+Outcome 
+
+[DATA EXPUNGED] 
+
+Researcher's Note 
+
+The last two tests have been manually struck from the record due to their 
+videotapes being compromised due to improper quarantine resulting from the 
+recent containment breach. 
+
+Summary of Data Lost 
+
+We are concluding that this is in fact a cognitovirus, but it cannot be reasoned 
+with. Due to this, we are declaring that it is not sapient or even sentient. 
+
+-Dr. Joel & Dr. Fern 
+
+
+TEST #9 
+
+Researcher 
+
+Dr. Mary Fern 
+
+Date 
+
+10/19/████ 
+
+Subject/Methods 
+
+To further study the effects of infection of SCP-5120, a repeat of Test #1 will 
+be completed with another D-class (D-60507). Subject is a 36-year old male. All 
+methods will be repeated as closely as possible. The O-5 council has lifted the 
+ban on paper and pen use for any doctor above clearance level 3 for all further 
+SCP-5120 research, so 10 sheets of standard printer pages are provided as well 
+as a pen. 
+
+Outcome 
+
+Immediate Effects- D-60507’s eyes dilate, and he paces around the testing 
+chamber. 
+
+56 minutes passed- Repetition of the word “love” begins 
+
+2 hours passed- Subject requests the SCP-5120 instance. Request granted. 
+
+7 hours passed- Subject picks up pen and paper, and begins to write the word 
+“love” 
+
+Remarkable sentences provided below (recovered from a blindfolded D-class who 
+picked up the papers and flipped them over in front of the camera for monitoring 
+visibility): 
+
+Love.Love.Love.Love.Love (this is repeated throughout 7 and a half sheets of 
+paper) 
+
+Love is emotion 
+
+Love themselves 
+
+Love each other 
+
+understand is Love 
+
+12 hours passed- Subject stops writing and begins to stare at a wall. 
+
+39 hours passed- Subject begins to show signs of dehydration. 
+
+60 hours passed- Subject begins to convulse and shriek. Mild brain hemorrhaging 
+follows. Subject remains motionless but vitals indicate that the subject is 
+still alive. 
+
+67 hours passed- Subject comes to and begins to crawl on all fours, biting at 
+himself and writing broken sentences on the wall pertaining to the word "love". 
+Shrieking begins again. 
+
+75 hours passed- Subject falls quiet and makes eye contact with the wall mounted 
+camera. Subject attempts to scale the wall until his fingers begin to bleed. 
+
+88 hours passed- Subject states "It's beautiful" and begins to sob. Subject 
+cries for the duration of the test. 
+
+91 hours passed- Subject smiles at the mounted camera and declares “I love 
+you” immediately suffering a brain hemorrhage after. 
+
+
+Researcher's Note 
+
+It is safe to say that this is not what was expected. Videotapes have been 
+quarantined properly and a D-class team has been sent in to scrub the walls and 
+floors of blood. There are reports that the infected have been becoming more and 
+more hostile, almost like the virus is mutating not only across mediums but also 
+symptomatically. 
+
+This mutation has not yet been seen in a laboratory setting, and this particular 
+instance has not been exposed to any outside source. This likely means that the 
+virus has mutated anomalously across every instance. This is probably why we 
+have seen such an incredibly fast mutation speed across languages. 
+
+
+TEST #10 
+
+Researchers 
+
+Dr. Robert Joel & Dr. Mary Fern 
+
+Date 
+
+10/26/████ 
+
+Subject/Methods 
+
+Specialized MTF-1212 “The Blind Idiots” discovered the subject whilst on a 
+civilian rescue mission in █████ ████, Mexico. Subject is a 
+28-year old female who responds to the name Maria Marcos. Subject seems to not 
+be affected by the cognitovirus based on the location of recovery, outside in a 
+known hotspot. Subject placed in the standard testing unit and provided with 10 
+sheets of paper and a pen. 
+
+Outcome 
+
+Subject displays full immunity. 3 repeats of this test with different affected 
+words were conducted, all displayed the same results. Dr. Joel ordered a 
+large-scale background inspection into the subject. 
+
+Researchers' Notes 
+
+This is the first known case of an adult immune to the cognitovirus. We must 
+delve further into this subject’s psyche to develop a defense. A possible 
+vaccine may be on the way. For the streamline of research into the defense 
+against SCP-5120, all further tests will be in conjunction with Researcher Dr. 
+Mary Fern. 
+
+-Dr. Joel 
+
+We cannot yet determine if this subject is naturally immune to the disease, just 
+as a small population of people would be immune to a non-anomalous virus, or if 
+there are some cognitive processes that we are not aware of within this subject 
+that prevent the infection. Perhaps both? 
+
+-Dr. Fern 
+
+AUDIO LOG 
+
+DATE: 10/29/████ 
+
+TITLE: NOTICE TO STAFF OF SITE 14 
+
+[BEGIN LOG] 
+
+Dr. Joel: The full dive into subject Subject #10’s background revealed that 
+not only does she have a severe form of Dyslexia and scored in the bottom 1 
+percent of reading comprehension tests, but also a son who is completely immune 
+to the virus. I have requested an MTF search for him around where she was 
+recovered3. Further tests concluded that other humans with major reading 
+disabilities and damage to various language processing centers of the brain were 
+unaffected by SCP-5120. These subjects are kept on-site and available for any 
+tests. I recommend using these individuals for any further research into a cure. 
+
+[END LOG] 
+
+
+TEST #11 
+
+Researchers 
+
+Dr. Robert Joel & Dr. Mary Fern 
+
+Date 
+
+10/31/████ 
+
+Subject/Methods 
+
+A 40-year old male D-Class personnel (D-20622), known to be of the Christian 
+faith. Exposed to a suspected affected symbol of the Christian crucifix. Subject 
+is placed in the standard testing unit and given 10 sheets of printer paper and 
+a pen. 
+
+Outcome 
+
+Immediate Effects- Subject’s eyes dilate, and he begins to recite prayers 
+common in the Christian faith. 
+
+48 minutes passed- Prayers stop and instead the word “cross” is repeated. 
+
+3 hours passed- Subject begins to doodle crosses in various sizes and art 
+styles. 
+
+8 hours passed- Subject starts to write sentences. Sentences were copied via 
+usage of the video recording. They are as followed: 
+
+the Cross means (unintelligible) 
+
+romans crucified on the Cross for punishment 
+
+the lord was crucified on the Cross 
+
+he died on the Cross to repent for our sins 
+
+12 hours passed- Subject ceases to write or doodle. 
+
+30 hours passed- Subject has stopped all movement. 
+
+81 hours passed- Subject claims he has been “enlightened by God”. Brain 
+hemorrhaging occurs immediately after, but vitals remain steady. 
+
+90 hours passed- Subject wakes and becomes extremely violent towards himself. 
+
+92 hours passed- Subject begins to cause damage to the interior of the testing 
+chamber. 
+
+94 hours passed- Subject is terminated to prevent a containment breach. 
+
+Researchers' Notes 
+
+This is extremely worrisome, as non-language symbols used to be unaffected by 
+the cognitohazard. This means that the cognitovirus can mutate and evolve, 
+jumping not only from language to language, but also from language to symbol. 
+
+-Dr. Fern 
+
+Research into the development of a new language to combat SCP-5120 infection is 
+to be halted immediately. The rate of mutation is not only increasing, but 
+favoring more aggressive tendencies. 
+
+-Dr. Joel 
+
+
+- MTF FI-AudioBox - End of the Line
+
+AUDIO LOG OF CONTAINMENT BREACH AFTERMATH WITH CAPTAIN THOMAS HART OF MTF 
+GAMMA-3 "THE BLIND IDIOTS" 
+
+DATE: 11/01/████ (Date Retrieved) 
+
+BRIEFING: MTF Gamma-3 was sent to ███ ████, Brazil by the O-5 
+council for preliminary research into why there was a spike in SCP-5120 cases. 
+
+MTF BACKGROUND & MEMBERS: MTF Gamma-3 "The Blind Idiots" is a specialized MTF 
+specifically constructed and hand selected by the O-5 council to enter SCP-5120 
+hotspots as safe as possible to preform silent reconnaissance and data 
+collection. Previous designation "Polaris Guidance" dissolved. At the time of 
+writing, MTF Gamma-3 is the only MTF qualified for field work in SCP-5120 
+hotspots. 
+
+Thomas "Tommy" Hart, Captain 
+
+Klint "Pyro" Cassidy, Technical Gear Specialist 
+
+Dr. Leon "Lee" Prairie, Cognitohazard specialist 
+
+Lea "Deadshot" Fredricks, Ballistics expert 
+
+Marcus "Daredevil" O'Ran, Martial Arts Expert 
+
+Frank Love, Cultural Specialist & Translator 
+
+Sylvia Wolf, Professional ransomware developer and hacker 
+
+NOTE: Playback starts 2 minutes before the incident of notice. At start of 
+playback, Gamma-3 is on the top floor of a corporate owned parking garage. 
+Captain Thomas Hart has declined to include his own notes during debriefing. 
+
+[BEGIN LOG] 
+
+HART: Get some eyes on that fire, 2:00. Any civilians? 
+
+CASSIDY: Negati- No wait. 8th floor, right side. 
+
+FREDRICKS: I see them too. Looks like one of them is killing some others. A few 
+others showing symptoms. 
+
+CASSIDY: We goin' in? Should be easy. 
+
+LOVE: Like we have anything else to do? 
+
+HART: Yeah, we're going. Collect samples, fire only when necessary. Can you 
+disable the cameras from here? 
+
+WOLF: With this new shit the Foundation gave me, I could take down the power to 
+the whole city from here. 
+
+HART: Just that building will do. 
+
+FREDRICKS: Want me to take the shot on the hostile? 
+
+HART: From here? Uh… If you can. 
+
+A single gunshot is heard 
+
+CASSIDY: …she got 'em. 
+
+PRAIRIE: Well… Good thing you're on our side. 
+
+FREDRICKS: There are sides? 
+
+HART: None that matter now. Let's get a move on. Wolf, you- 
+
+WOLF: Yeah, already done. Doors unlocked, lights off, and cameras down. 
+
+There are 12 minutes of silence until MTF Gamma-3 reaches the doors of the 
+building. 
+
+HART: Looks like this was a makeshift shelter before whatever happened today. 
+You got the logs of when the last entrance was? 
+
+WOLF: Before I opened them, the doors haven't been unlocked for 3 weeks. 
+
+PRAIRIE: That's impossible. All data suggests that the cognitovirus takes a day 
+at most to show symptoms and spread. This just happened. 
+
+WOLF: These doors are the only way in… They just got infected. 
+
+CASSIDY: Some idiot probably got some contraband in, who cares? It happened. 
+
+O'RAN: Anyone care to fill me in on what has happened? 
+
+HART: Oh yeah, blind. Uh… This building looks to have been a shelter for a lot 
+of people, but by the looks of it, there ain't anyone left. Fire on the east 
+side, walls tore down, goggles are censoring a lot, meaning they were writing 
+everywhere once it hit. 
+
+LOVE: It's blood. 
+
+HART: What? 
+
+LOVE: The words, on the walls and floor… They're written in blood. 
+
+WOLF: …Their own blood? 
+
+CASSIDY: Why does it matter? Collect some, we got a job. 
+
+WOLF: Ew… 
+
+HART: Pyro's right, we got a job to do here. Eyes peeled and watch your six. We 
+know there are some civilians alive. 
+
+FREDRICKS: Well with Daredevil over here, we don't gotta worry about looking 
+over our backs. 
+
+O'RAN: Speaking of which, there are two people above us. 
+
+HART: On the next floor up? Wolf, get eyes on there. 
+
+WOLF: You're lucky this place still has power. 
+
+CASSIDY: Well you wouldn't be much help if there wasn't, now would you? 
+
+WOLF: Fair enough. We got eyes on the whole building. And yes, there are two 
+civilians above us. Both definitely infected. 
+
+HART: Let's get to them then, maybe they can lead us to some uninfected. 
+
+FREDRICKS: Are we killing them? I mean… if they don't pose a threat? 
+
+PRAIRIE: They all pose a threat. The data shows that they've mutated a 
+hyperaggression streak across the globe. If we're gonna trail 'em, we need to 
+make sure they don't see us. 
+
+HART: Then we use the cameras. Let's make our way to the 8th floor, where the 
+others were seen. Wolf, keep eyes on those two. 
+
+LOVE: You know, I was a cultural analyzer at Yale before this. I didn't sign up 
+to fight zombies. 
+
+PRAIRIE: They aren't zombies, they're people. Used to be, at least. 
+
+LOVE: So… Zombies? 
+
+CASSIDY: Well you don't gotta worry about them eatin' those brains, not with 
+those thick skulls y'all got. 
+
+FREDRICKS: Thermal is showing three behind this door. 
+
+HART: Wolf, take your eyes off the other two and check these for a second. 
+
+WOLF: Okay… They're infected, boss. 
+
+FREDRICKS: I got them, open the door. 
+
+3 shots ring, followed by 3 thuds 
+
+WOLF: Uhh, boss? Our friends above us are gone. 
+
+O'RAN: No they aren't. 
+
+A snap and squish is heard, followed by two thuds 
+
+HART: They were trailing us, not the other way around. 
+
+LOVE: Does that mean… 
+
+CASSIDY: We're the only ones here uninfected. 
+
+WOLF: We should pull out then. Nothing left to see? 
+
+HART: We don't know that, the 8th floor, there were at least 10 right? 
+
+FREDRICKS: More than that… But they were- 
+
+CASSIDY: Gone. I couldn't tell at first, but Tommy, there ain't anyone left. 
+Let's get the hell out of here. 
+
+HART: This is the third city we've left empty handed, there has to be some 
+survivors. 
+
+WOLF: I don't see anyone on the 8th floor at all, boss. 
+
+CASSIDY: Come on man, let's go. 
+
+HART: Fine. Let's get some more samples and go. 
+
+FREDRICKS: Uhh… My goggles are malfunctioning. 
+
+LOVE: It's not just yours, I can't see shit. 
+
+WOLF: Same here. 
+
+LOVE: Here too. 
+
+HART: It's all of us. O'Ran, What the hell is happening? 
+
+O'Ran: I don't know, but there are a lot of people above us now. 
+
+PRAIRIE: This isn't a malfunction. The virus is everywhere. It's surrounding us. 
+
+CASSIDY: That's impossible, it has to be on words. 
+
+PRAIRIE: Maybe not. We need to go. 
+
+HART: Get us the fuck out of here O'Ran. 
+
+pounding is heard, gradually getting louder 
+
+LOVE: Is that… Are they ripping through the floors? 
+
+O'Ran: There are some where we came from but we can get out that way, follow. 
+
+LOVE: Where? We can't see! 
+
+HART: Grab my hand, form a chain. 
+
+O'Ran: They're already here. 
+
+a series of shrieking and gunshots are heard 
+
+LOVE: Fuck! Someone tagged me. 
+
+WOLF: Sorry! 
+
+CASSIDY: Fuck this, just run! 
+
+O'Ran: There's a window right down here, trust me. 
+
+WOLF: Aren't we on the second floor? 
+
+HART: Just jump! 
+
+glass shatters and 7 thuds are heard 
+
+HART: Everyone good? 
+
+LOVE: I got hit worse than I thought… And I think my leg is broken. 
+
+CASSIDY: Fuck. Come on, I'll carry you. 
+
+A series of thuds is heard 
+
+O'RAN: They followed us. 
+
+LOVE: Just go! I'm not making it anyway. 
+
+FREDRICKS: Fuck this, I'm taking off my goggles and actually being useful. 
+
+HART: DO NOT TAKE OFF YOUR GOGGLES. THAT IS AN ORDER. 
+
+More thuds are heard, followed by several shrieks 
+
+PRAIRIE: Hart, we have about an hour before it takes hold. We aren't getting out 
+of here if we're all blind. 
+
+HART: NO! THAT IS AN ORDER! 
+
+PRAIRIE: It's been an honor, Tommy. 
+
+FREDRICKS: We got this, the rest of you go! 
+
+HART: Thank you… Both of you. 
+
+CASSIDY: Take this, roast 'em for me. 
+
+Several gunshots are heard 
+
+O'RAN: Follow, quickly. 
+
+no words are exchanged for 30 minutes 
+
+O'RAN: We are safe. 
+
+WOLF: I can see a little now, not everything is fuzzy. 
+
+HART: We must be getting away from the hotspot. A bit farther and maybe we could 
+drive. 
+
+CASSIDY: That's reassuring 
+
+There is another 12 minutes of silence 
+
+WOLF: I can see my terminal. I'm calling for an airlift. 
+
+HART: Good idea. 
+
+There is a snap and thud 
+
+CASSIDY: The hell was that? 
+
+O'RAN:… 
+
+HART: O'Ran? 
+
+O'RAN: That… it used to be Lea. 
+
+CASSIDY: She tracked us? How did you know she was infected? 
+
+HART: Like Lee said, they all are now. 
+
+Wolf begins to cry 
+
+CASSIDY: Really? 
+
+HART: Cas- 
+
+WOLF: I'm only 19! I shouldn't be doing this! I should be… They died… I shot 
+Frankie… It should have been me. It should have been me. It should h- 
+
+HART: Hey, this isn't the time. It wasn't your fault. 
+
+Wolf begins to sob again 
+
+CASSIDY: Hey… I didn't mean that. And your skull isn't that thick. You did 
+great out there. Pulled your weight. And hey, you got the samples. That's more 
+than any of us can say. Those samples could lead to the cure. You may have saved 
+the world out there today. 
+
+Wolf's cries soften 
+
+A helicopter is heard approaching 
+
+HART: Robert, it has been an honor working along side you, even during these… 
+special times… but I just can't do this no more. Too many good men under my 
+leadership, gone. Consider this my formal resignation. I hope both you and the 
+O-5 accept. 
+
+DR. JOEL: Well… I certainly don't need any more convincing. Accepted. Thank 
+you for your service. When this is over, let's get some drinks, on me. 
+
+HART: I would be honored. Thank you. 
+
+[END LOG] 
+
+
+TEST #12 
+
+Researchers 
+
+Dr. Robert Joel & Dr. Mary Fern 
+
+Date 
+
+11/02/████ 
+
+Subject/Methods 
+
+To further knowledge in the area of a defense, Dr. Fern has suggested that we 
+test infected symbols that hold meanings unknown to the test subject. Subject is 
+a D-class female age 22 (D-57138) and SCP-5120 instance used is infecting the 
+Chinese symbol for “daughter” 
+
+Outcome 
+
+Subject stares at the image and experiences no symptoms. Dr. Fern asks questions 
+over the speaker. 
+
+Dr. Fern: Do you know what that symbol means? 
+
+D-57138: No 
+
+Dr. Fern: And you don’t feel any different? 
+
+D-57138: No 
+
+Dr. Fern: Can you give me a guess as to what the symbol means? 
+
+Subject’s eyes dilate, no response is given 
+
+Dr. Fern: Hello? 
+
+D-57138: Ocean 
+
+Subject displayed the characteristic symptoms of SCP-5120-1 with the word 
+“Ocean.” 
+
+Subject is terminated after 34 minutes to prevent a containment breach. 
+
+Researchers' Notes 
+
+Well obviously, she thought the symbol meant ocean. This test’s results 
+suggest that no matter what the symbol actually means, just thinking about a 
+possible meaning of the symbol invokes the effect. The cognitohazard must be 
+triggered by the area of the brain responsible for the recognition of or 
+assignment of symbols in regard to their meaning. Devote further research into 
+the Angular Gyrus. 
+
+-Dr. Joel 
+
+This test confirms that the virus is completely triggered by a subjective 
+mechanism, and the spread is therefore completely dictated by the perception of 
+the symbol, and not the symbol itself. I am proposing that the cognitovirus is 
+feeding on the thoughts of the SCP-5120-1 instance, not just using the instance 
+to proliferate. This would explain the directed-thought behavior even after the 
+infectious period, as well as the need for a perception trigger. This also 
+explains why mutations are favoring longer lifespans and causing more 
+aggression, as they lead to the spread of more hosts. 
+
+-Dr. Fern 
+
+AUDIO LOG 
+
+DATE: 11/04/████ 
+
+NOTE: The following interaction takes place between Dr. Robert Joel and Dr. Mary 
+Fern 
+
+[BEGIN LOG] 
+
+Dr. Fern: The definite conclusion to these findings is that this is completely a 
+perception-triggered cognitovirus. The only way to be affected by the anomaly is 
+to understand that the infected words have some meaning. Hell, it doesn't even 
+have to be the correct meaning. That being said, this does not explain how the 
+child could read yet not be infected. She read the word out loud, for Christ's 
+sake. The results of Test 5 and this child seems to be the biggest issue in our 
+efforts to develop a defense. 
+
+Dr. Joel: The child could read, yes, but likely did not understand that the word 
+had inherent meaning. She can read and repeat the word over and over, but she 
+has no knowledge that the word carried a meaning beyond a sound. Yes, that sound 
+may be the exact same sound that a word has, and that word could have meaning to 
+the girl. But in her mind, the distinction between that sound and that word is 
+preventing her from provoking the perception-trigger. 
+
+Dr. Fern: She didn’t understand that the word had meaning? She read the damn 
+word! How could she read if the word did not have meaning? 
+
+Dr. Joel: Do dogs understand the concept of “sitting” when they are told to 
+sit? Do horses understand the concept of “entertainment” because they jump 
+over hurdles for us to watch? Just because something or someone behaves the way 
+we want or expect them to, it doesn’t mean that they understand the concept 
+behind the word, or that the word even means something. Can a dog contemplate 
+what the word “sit” means, even if he sits? Can a 5-year old contemplate 
+what the word “jovial” means, even if she reads it? This was part of the 
+reason that I chose the word. 
+
+Dr. Fern: This distinction has pushed us along much further in our development 
+of the viral cure. We are studying concept processing and storage centers of the 
+brain rather than language processing centers. Damage to these processing and 
+storage centers in and around the Angular Gyrus seems to work very effectively. 
+We are well on our way to complete cure development. 
+
+[END LOG] 
+
+[DATA LOST] 
+
+Dr. Joel: If the leading hypothesis is correct, SCP-5120 is going to spread to 
+everything. People completely quarantined from words and symbols are beginning 
+to become instances SCP-5120-1, showing symptoms with random words. This brings 
+me to ponder, what are the limitations to what constitutes a symbol? This virus 
+will continue to evolve to survive; first it infects words, then symbols, what 
+comes next? Phenomenon? I cannot even begin to speculate. Any physical form that 
+details another concept could be considered a symbol, and could induce the 
+perception-trigger. Things like leaves moving in the breeze can symbolize a 
+storm, would that trigger it? It's hard to tell, but not necessarily out of the 
+realm of possibility. 
+
+Dr. Joel: We now have reason to believe that if left unchecked, this virus can 
+affect the symbols within minds. We need to act fast with this cure… dear 
+God… 
+
+[DATA LOST] 
+
+The tape ends with the following interaction: 
+
+AUDIO LOG 
+
+DATE: 12/09/████ 
+
+NOTE: The following seems to be an interaction between Dr. Robert Joel and Dr. 
+Mary Fern, and was likely secretly recorded by Dr. Robert Joel without the 
+knowledge of Dr. Mary Fern 
+
+[BEGIN LOG] 
+
+Dr. Fern: We did it. Why aren't you celebrating with the rest of us? 
+
+Dr. Joel: Did what? We need to undo what we did. Make an antidote. My… our 
+work is not yet finished. 
+
+Dr. Fern: That would mean further spread of the virus. It already took so much- 
+
+Dr. Joel: We took something far greater! And at what cost… at what cost? 
+
+Dr. Fern: We did the right thing, humanity is saved. Robert, we saved humanity! 
+
+Dr. Joel: They aren’t human! They will never know what it means to be human. 
+
+Dr. Fern: What’s the alternative? Death of the human race? 
+
+Dr. Joel: What would be different? 
+
+Dr. Fern: … 
+
+Dr. Joel: Someone has to know. Someone needs to know what we lost. 
+
+Dr. Fern: … 
+
+Dr. Joel: … 
+
+Dr. Joel: What if we don’t spread it? Keep it locked up? The Prima boxes, they 
+can contain viruses for centuries! And the "cure" was in viral form, as was the 
+amnesthetic. Surely they can contain an antidote in virus form and preserve it 
+just as well. 
+
+Dr. Fern: You’re mad, it will be the death of us all. 
+
+Dr. Joel: Well like I said, we won't have to spread it. 
+
+Dr. Fern: Robert… it's over. Please, come celebrate. 
+
+A long pause ensues 
+
+Dr. Joel: … then leave me to my work. Consider yourself debriefed. Go get 
+“cured” and amnesticized, like the rest of them. Forget the beauty you’ll 
+lose. 
+
+A door can be heard closing 
+
+[END LOG] 
+
+Handwritten note: 
+
+The following is a handwritten note by former researcher Dr. Robert Joel. It was 
+taped to the beaker containing the SCP-5120-A parent compound. 
+
+Mary was right, a mass spread of this antidote virus would just continue the 
+spread of the cognitohazard. That is not an option. Still, I must leave this to 
+preserve what we lost in our war against SCP-5120. I already administered the 
+antidote to the already-immune subjects we kept on-site, including the subject 
+of Test #10. I even gave her a vaccine for her son, should they be reunited. 
+These people, along with their lineage, will be the only people who understand 
+the true beauty of humanity. With any hope, the cognitovirus will die off after 
+some time from herd immunity, maybe after a few centuries. The Prima box will 
+survive much longer than that. Maybe by then, humanity can begin to regain what 
+we lost. 
+
+The other doctors don’t want me to do this, especially Mary. They called me 
+crazy for wanting to preserve our humanity! If they find out I already 
+administered the antidote and released the subjects… It’s only a matter of 
+time before they come to stop me. I must hide the box hastily. 
+
+Whoever finds this, please be careful with the antidote. As of now, you have no 
+idea what you are handling, but hopefully, in time, you will. I have stashed 
+Mary's notes and tests as well as mine in here. Hopefully, they will help guide 
+you. 
+
+I can’t go on with the knowledge of what I will lose. They already tried to 
+use that damn “cure” on me, tried to amnesticize me, like the rest of them. 
+What’s really lost when you don’t remember what’s lost, right? But this is 
+more important than my own grief. I have fulfilled my purpose. 
+
+And my Purpose is now in your hands. 
+
+-Dr. Robert A. Joel 
+
+Researcher’s note: 
+
+I certainly don’t feel like I’ve lost anything. 
+
+-Dr. Thomas Reddin, current researcher of SCP-5120 
+
+
+
+Footnotes 
+
+1. Settings Configuration: No light source within, airtight, watertight, vacuum 
+insulated, vacuum sealed, and padded; the temperature is to be set no greater 
+than 0 degrees centigrade 
+
+2. Prerecorded message on the FI-AudioBox from the O-5 Council: "Your Foundation 
+Issued AudioBox is capable of recording a year's worth of speech and operates 
+entirely via voice command. It allows for full customization and organization of 
+research without a visualization of the words, protecting you from the effects 
+of any memetic cognitohazard. Listen to the instructions prerecorded on it for a 
+full exploration of its diagnostics and capabilities. 
+
+3. Request to find Ruiz Marcos denied on the grounds that it would not further 
+research into a cure 
+

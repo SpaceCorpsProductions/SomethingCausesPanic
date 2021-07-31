@@ -1,0 +1,323 @@
+                                    SCP-5018                                    
+                                    ========                                    
+
+                                The Broken Rose                                 
+                                ---------------                                 
+
+Item #: SCP-5018 
+
+Level 4
+
+Containment Class: Euclid 
+
+Disruption Class: VLAM
+
+Risk Class: Critical
+
+SECRET
+
+Special Containment Procedures: SCP-5018 is contained within an air-gapped 
+computer terminal in Site 15. This terminal is physically secured with 
+non-electronic locks and is to remain unpowered outside of authorized testing. 
+Site 15 AI THEIA is to monitor all Foundation networks for suspicious activity 
+fitting SCP-5018's electronic pattern. If discovered, MTF Kappa-10 ("Skynet") 
+and MTF Rho-9 ("Technical Support") are to be deployed immediately to isolate 
+and purge all instances of SCP-5018. 
+
+Description: SCP-5018 is an advanced self-replicating malware capable of 
+releasing reinforced magnetic containment locks1 connected to the Foundation 
+network. Analysis of the MCL's indicates that their magnetic field had been 
+disrupted2, causing a subsequent repulsion to occur. How SCP-5018 exhibits this 
+ability, and the entity which created the program is still under investigation.3 
+
+SCP-5018's execution command initiates once it confirms the presence of specific 
+parameters in the affected system. The execution of the code triggers the 
+manifestation of SCP-5018-1 within 5 meters of the terminal. 
+
+SCP-5018-1 is an indistinct humanoid figure that can only be observed through 
+digitized media and de-manifests when SCP-5018's running code is terminated. 
+Although all attempts at verbal communication with SCP-5018-1 have been 
+unsuccessful, it has been observed to acknowledge others around it through the 
+use of exaggerated body language.4 
+
+SCP-5018 was discovered on 9/15/████ on the Foundation's network. Probes 
+scanning for its digital signature detected that the malware was spread over 74% 
+of the Foundation network. Of the detected instances, only approximately 10% of 
+them had been executed, with 8% activating in high-security level sites. How 
+SCP-5018 gained access into the Foundation network is under investigation. MTF 
+Rho-9 has been tasked with its removal. 
+
+
+Addendum 5018-1
+
+INCIDENT REPORT 5018.1
+
+Incident Report ID #: 5018-A1
+
+Summary: On 07/19/████, Site 119 initiated a 119/B/Coldsilver Lockdown 
+Response Code following containment breaches of six Large Scale Aggressors, four 
+Non-Terminable Threats, and five other extradimensional anomalous threats. O4 
+approved the detonation of Site 119's nuclear warhead one hour and thirty-four 
+minutes after the Lockdown Response Code was initiated. Site 68 received a 
+backup of files, sent by Director David Bold, 26 minutes after the destruction 
+of Site 119. Included in the backup was one folder of encrypted files and one 
+image taken after the detonation. Following the incident, MTF Epsilon-11 
+("Nine-Tailed Fox") was dispatched to establish a perimeter around the affected 
+area. 
+
+MTF ε-11 was unable to locate any threats after Site 119's detonation. However, 
+MTF ε-11 reported sightings of 5 unidentified individuals 3 days following Site 
+119's destruction. MTF ε-11's attempt to apprehend the individuals were 
+unsuccessful5. MTF ε-11 was immediately relieved by MTF Nu-7 ("Hammer Down") 
+and sent to Site 68 for medical treatment and debriefing. 6 weeks after the 
+detonation, MTF Omicron-2 ("Nuclear Nomads") was sent to investigate the remains 
+of Site 119. 
+
+MTF o-2 discovered 15 compromised MCLs in the remains of Site 119. This incident 
+is recorded as the first insertion point of SCP-5018 into the Foundation's 
+network infrastructure. 
+
+Access Attached Image: SCP-5018-1
+
+
+Addendum 5018-2
+
+EXPERIMENT LOG 5018.1
+
+Date: 04/03/████
+
+Experiment Number : 5018-A
+
+Protocol: SCP-5018 runs on a standard computer terminal.
+
+Results: SCP-5018 remained dormant for approximately one hour before 
+replicating. Replication continued as a background task for 30 minutes until 
+SCP-5018's code self-terminated. 20 replicates were later discovered in a hidden 
+file.6 The terminal was powered off to prevent the spread of these replicates. 
+
+Experiment Number : 5018-B
+
+Protocol: SCP-5018 runs on a standard computer terminal connected to a MCL.7
+
+Results: SCP-5018-1 manifests within the chamber, and is detected by camera feed 
+of the chamber. Researchers within the chamber cannot observe SCP-5018-1, 
+however, SCP-5018-1 acknowledges their presence by shaking its fists at them, 
+then begins to hover over the MCL. 
+
+After 1 minute, SCP-5018-1 de-manifests and the MCL is opened. Results are 
+similar to the MCLs in Site 119. A function was later detected running as 
+background process. 
+
+Access SCP-5018 Source Code
+
+Experiment Number : 5018-C
+
+Protocol: SCP-5018 runs on a standard computer terminal connected to a motorized 
+lock. 
+
+Results: SCP-5018 was unable to access the mechanism. It then proceeded to 
+replicate as observed in Experiment 5018-A. Computer terminal was powered off. 
+
+Five redundant logs have been removed
+
+
+Addendum 5018-3
+
+On 03/24/████ Site 71 reported a containment breach of 2 LSA's and 1 NTT 
+following an experiment involving SCP-5018 at Site 15. The containment breach 
+was later contained by MTF Rho-9 and resulted in 6 casualties. MTF Rho-9 
+discovered an activated sequence of SCP-5018 before the incident, which has been 
+included in SCP-5018's documents. 
+
+struct group_info init_groups = { .usage = MAGNET_INIT(4) }:
+
+struct group_info *groups_alloc(int dimensiontrans){
+
+           group info *group_info;
+
+           int nblocks;
+
+           int i;
+
+nblock = (magsetpol + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER BLOCK;
+
+/* Establish points of contact for the entire quadrants, not just a portion. 
+Keep intentional files within encrypted folders. Make sure we don't forget 
+password. Type it all as one word, look for Access phrases. /* 
+
+nblocks = nblocks ? : 1;
+
+group_info = ketrcont(sizeof(*group_info) + nblocks*sizeof(gid_t *), 
+PSWRD_PHRASE = FALL; 
+
+if (!group_info)
+
+            return NULL;
+
+This segment has been concluded to control how SCP-5018 terminates power to an 
+electromagnet once it detects a viable MCL. Investigations are ongoing as to the 
+other properties that this computer script exhibits, as well as how this 
+instance was initiated at Site 71. 
+
+Researcher's Note: On 03/26/████, after receiving reports of 
+unauthorized experimentation, Site Director Norva removed Researcher Argost from 
+any projects relating to SCP-5018. An investigation of Researcher Argosts 
+experimentation revealed that he was in possession of an encrypted file. 
+Foundation webcrawlers are currently decrypting the file, however no information 
+has been gathered. Researcher Jak has become the new lead researcher for 
+SCP-5018 until otherwise specified. 
+
+SCiPNET LOGIN
+
+ArgostD99
+••••••••••••••••••••
+
+Login
+
+Welcome, Researcher Argost.
+One moment, retrieving information concerning SCP-5018….
+
+- - - - - - - - - - - - -
+
+Access Personal Profile - LOCKED/ADMIN_Found.
+
+Settings - LOCKED/ADMIN_Found./Config
+
+Access SCP-5018 Documents
+
+Access Contacts - LOCKED/ADMIN_Found.
+
+Access SCP-5018 Notes (3)
+
+- Note 1
+
+I was checking over some of SCP-5018's metadata and code today.
+Noticed some unusual things about them. For starters, I think the
+metadata in the Image Analysis is broken. I can't exactly figure out
+why, but some of the information can be seen through the censors.
+Guess our guys in the back kind of failed at their jobs. I'm going to
+try investigating more.
+
+Figured it out. I just had to hover around sections of the censored
+parts to reveal some text. Could only find one thing. How did this get
+here? Surely, our guys weren't slacking, right? Well damn. I guess
+I'll keep snooping around then.
+
+- Note 2
+
+Alright, so I found something else. This time hiding in the source
+code of Experiment 5018-B. Has something to do with the font size of
+some of the letters. There aren't numbers or anything, so I think the
+order from top to bottom should be correct. What is happening? I don't
+get what's going on. It's frustrating. I guess I'll keep looking.
+
+- Note 3
+
+That last one's pretty easy. It's basically written down. How we all
+missed that, I'll never understand. I guess, since we weren't actively
+looking for something resembling a password, we overlooked it. Oh
+well, I should have all the phrases by now. All I have to do now is
+type the three words out, hopefully, in the order they're presented
+(hopefully there are no spaces in between). But, I can't stop asking
+myself, "why?" What's the game, here?
+
+Whatever this is that I'm accessing better tell me something fucking
+important, or I'm dropping the hammer on this thing.
+
+
+Access Other - LOCKED - ADMIN/Found./General
+
+Access Email (1)
+
+Accessing SCiPNET Mail Database…
+
+…
+
+0 new emails. 0 unfinished drafts. 1 email in total.
+
+You have one saved message. Showing contents…
+
+To: Researcher Darrel Argost
+From: UNKNOWN
+Subject: îûŒÏ³Ôoï‘™Z›g¿j%Ù“øsZÞ
+
+-íÑfº‘~l}åÿ j¼lF"u%jhúü§/£ýgÉ¼Aâ»‡¶ê®Ìÿ Ã‘ü?-xoÄ
+Jÿ ÄºŒ—Ÿjiøqü+Yþ2ñ\¾*Ö¾Ó4ÒL¿wýß÷jÂZ C@n Y0U 
+Iyj’G2¢c¦êïÁáô÷Î<ã0u›?„Å²ï$ØÌÌÕ/Û$Óï‘]| 
+Å^Õ¿á½9mµ]±²2üÇmM®x]|ç’5oö«£•9rŸ3¥ù®òÝ•Xÿ 
+*Âø]ôõ[KêÍìßvqvúllÛ•—åZ†mRé- 
+ÕcEhÿ 
+Šº8õdâ*FJÑ"×5É¦UUYWîüß5šƒÜi«Ç÷[åùi–¶÷³\Ioµ†´¼?"ê- 
+¾á6ªö¥RŸ0JŸ¹xîgÝhwK7ÜÝéTíãhþTÜ­÷k{H3lP 
+Me?^š8Ûb¿ËYñºGõùš-¾%¡­6½ôCš¶{RefVù˜Ô†M±ÿ > 
+«í[öþ(ÓdÑJIÛ»HûÛªµ®Ž— 
+³.í¸ÝŠì–
+
+‰~Î/[êPþÇ†â%v“Ëeù±SÇ©Iå²¢moáqòÕË¨m¡]Ûîö£÷s.åUe¨Œbß2 
+Iæ;»*ýêzÂþg™¹U=)Ú„žtjŠÌªÕ…HÉt1­NNZ™ú|qÌÒ ùš?º
+
+ýïø:;«ËäFvÙíN]-íÕ˜wvE;GÔZ6ù—s¯ÝÍŒ§•ÇS{MÑå··‘ãm¿/Íþ×û5ƒ6Ÿåïy¾G­ 
+ë=bIƒíO¥fx’g¸‡r«o¾pLe@$E 
+Arg0Stê9bž›™GÔÍŽñ|ÄÜ»v÷­=7Qó¯Õ|ÆØ½j—‡ãP¼D¸VmÕ/ 
+Š4öÒõ[fUM¿)ûÕQ§+ûÆ¼Ñº\ñ¥o=Â¤i³ûÄTº…feŽ9v7þ…
+
+DzmÕä;Ö5wÛ×uP¸·º·¼ïI÷^œ¨óiEK®¥y´¹´ûÍóH®¿ÂE^Ód’Þmèê¿Ä¯¶­hºl’JÉqå²ú} 
+
+This message has 1 large attachment. Access it?
+
+PROPERTY OF THE SCP FOUNDATION.
+
+Secure. Contain. Protect.
+
+ANY ATTEMPTS TO ACQUIRE THIS INFORMATION WITHOUT THE PROPER CLEARANCE WILL BE 
+LOGGED AND TRACKED. YOU HAVE BEEN WARNED. 
+
+CLEARANCE LEVEL VERIFIED: HELLO DIRECTOR DAVID BOLD.
+
+> The following information was retrieved from [UNKNOWN SOURCE]. Data integrity 
+is at 42%. Showing retrieved files… 
+
+[JOURNAL AUDIO LOG: 06-12-2010]
+
+[JOURNAL AUDIO LOG: 03-01-2011]
+
+> ~ì¾<0J6IãñÁ«ydÄ©ä¼¶ý—Gº¤¶ÈIöÔÈ
+
+[JOURNAL AUDIO LOG: 15-02-2011]
+
+> ãAN3Éxìv$<*fµ{ZË–”Ñ¡Ì¨ï©y)ûŠÕO%Dh
+
+> Ì"§Ì)©‘,´²§Y:)ÆÃˆiM8²âeà@
+
+[JOURNAL AUDIO LOG: 03-03-2011]
+
+[JOURNAL AUDIO LOG: 09-10-2011]
+
+[ARGOST]
+
+
+
+Footnotes
+
+1. Colloquially referred to as MCL's. These have been determined to follow a 
+specific product code of Item Number: 4510878. Any continued use of these items 
+has been terminated for all Sites. 
+
+2. This has been determined to be caused by the malware terminating electrical 
+power to electromagnets connected to the MCL. 
+
+3. SCP-5018's source code retrieved from memory dumps during its runtime 
+resembles the C programming language. It cannot compile or run in any other 
+conditions than during the anomaly's activity. 
+
+4. Refer to Experiment Log 5018-B.
+
+5. Theories suggesting the individuals may have used anomalous objects to 
+facilitate in their escape are being investigated. 
+
+6. The host terminal was not connected to any networks. This has been concluded 
+to be the cause for the creation of the hidden file. 
+
+7. Now referred to as Standard Procedure.
+
+

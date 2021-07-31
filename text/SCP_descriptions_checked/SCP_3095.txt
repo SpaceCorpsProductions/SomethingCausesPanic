@@ -1,0 +1,363 @@
+                                    SCP-3095                                    
+                                    ========                                    
+
+                                Bird is the Word                                
+                                ----------------                                
+
+Item #: SCP-3095
+
+Object Class: Avian
+
+Containment Class: Neutralized
+
+Special Containment Procedures: GoI-301 has been dissolved and all instances of 
+SCP-3095-1 have been terminated. Therefore, SCP-3095 is believed to be 
+neutralized. The following containment procedures are kept for archival purposes 
+only. 
+
+Instances of SCP-3095-1 are to be contained in Aviary 19, which is located in 
+Site-48. Due to the dangers of SCP-3095-1 instances collaborating with each 
+other, only five may be housed in the same containment unit at any one time. 
+Field termination is authorized for when Aviary 19 has reached maximum capacity. 
+
+Civilizations created by SCP-3095-1 instances are to be monitored by MTF Eta-1 
+("Birdbrains"). Should a civilization reach a point where it poses a threat to 
+the Foundation and/or the veil, MTF Nu-7 ("Hammer Down") is authorized to 
+destroy it. 
+
+GoI-301 is to be dissolved as soon as possible. Known members of GoI-301 are to 
+be apprehended, then interrogated and given appropriate amnestics. Nu-7 is to be 
+deployed in order to destroy known meeting sites of GoI-301. PoI-301-K, the 
+current president of GoI-301, is to be located and assassinated. 
+
+Description: SCP-3095 is the designation given to a recurring phenomenon 
+affecting members of the Aves class, also known as birds. Specimens affected by 
+SCP-3095, designated SCP-3095-1, will acquire a certain degree of sapience. 
+SCP-3095-1 have varying personalities and levels of intelligence, though many 
+common characteristics are noted. 
+
+SCP-3095 grants SCP-3095-1 instances proficiency in a certain area. These range 
+from those as mundane as culinary, carpentry or construction skills, to talent 
+in the areas of physics, biology, economics, linguistics, politics and other 
+areas of academia. All SCP-3095-1 instances are fluent in a language consisting 
+of chirps, screeches and appendage movements, though differences in dialects 
+between species has been observed. A written form of this language exists, 
+though not all instances of SCP-3095-1 are literate. 
+
+Although lone SCP-3095-1 instances have been regularly encountered, SCP-3095-1 
+instances tend to form civilizations. These civilizations are often grouped by 
+species. For example, an SCP-3095-1 civilization may consist of robins, with 
+very few other specimens present. The populations of these civilizations vary 
+wildly. It is known that a village consisting of 14 pelicans exists in a single 
+village in Southern Africa, while the largest known civilization had a 
+population estimated in the millions across multiple large cities. 
+
+In the case of these large civilizations, they pose a threat to the Foundation 
+(see Addendum 3095-3). 
+
+SCP-3095 has been linked to anomalous rituals undergone by GoI-301 
+("Avianolyte"). GoI-301 is dedicated to the worship of members of the Aves 
+class. Traces of GoI-301 have been dated as far back as 1000 B.C.E. It is 
+believed that GoI-301 and SCP-3095-1 worship a common deity (see Addendum 
+3095-1). GoI-301 currently poses a Class II threat. GoI-301 has been dissolved 
+following the implementation of Proposal Insigna (see Addendum 3095-4). 
+
+SCP-3095-1 were first discovered in New York City, after an organized group made 
+up of pigeons attempted to claim the Statue of Liberty for themselves. They were 
+quickly neutralized by Global Occult Coalition forces. This phenomenon was 
+originally classified as a subdesignation of SCP-659. It was determined that 
+SCP-3095 existed following the development of three more civilizations in [DATA 
+REDACTED], as well as encounters with lone instances of SCP-3095-1. GoI-301 was 
+originally associated with SCP-765, and it was not until 2001 that SCP-3095 was 
+linked to GoI-301. 
+
+
+Addendum 3095-1: Interview Log
+
+Interviewer: Researcher C████ Calvin
+
+Interviewee: Duffalan
+
+Foreword: Duffalan was an SCP-3095-1 instance acting as the official ambassador 
+of the Kindgom of the First Oak, located in ██████, Canada. This 
+interview was conducted via writing in English. 
+
+[ BEGIN LOG ]
+
+Researcher Calvin: Hello, Duffalan.
+
+Duffalan: Good day, Calvin.
+
+Researcher Calvin: Before we discuss our trade deal, I'd like to ask some 
+questions. Would that be good with you? 
+
+Duffalan: It would be my pleasure.
+
+Researcher Calvin: Alright. First of all, how have you gained your ability to 
+think? 
+
+Duffalan: Its a bit hard to answer that. One day, I was runing about, mindless 
+as a monkey. The next day, I was not mindless. I guess I could attribute this 
+loss of mindlessness to Medila. 
+
+Researcher Calvin: Could you please tell me who "Medila" is?
+
+Duffalan: The Great Flocktender. Legend sayts that she only gives mind to her 
+most true disciples. The others continu to stay mindless. I wouldnot blame you 
+for not attributeing your minds to her; you probably have a different 
+Flocktender to give you your minds. 
+
+Researcher Calvin: I'm sorry, but we do not have a god like that.
+
+Duffalan: Are you certain? On my journeys, I am certain that I have seen an apes 
+lumbering around, mindless. 
+
+Researcher Calvin: I am sure. Are you okay with me asking one more question?
+
+Duffalan: Ask away, mindful friend.
+
+Researcher Calvin: You interact very rarely with other civilizations. Why?
+
+Duffalan: Well, why should I? They have their own affairs, the Kingdom of the 
+First Oak has their own affairs. If we would like to trade, we trade. Speaking 
+of trading, I have a propasal that will be good for us. 
+
+Researcher Calvin: Tell me.
+
+Duffalan: Our researchers have attributed several mindful theorys about how our 
+world works. We will give you a full document of this knowledge, in exchange for 
+iron. We have had quite the trouble harvesting it from the lands. 
+
+Researcher Calvin: I will forward this proposal to my supervisor.
+
+Duffalan: Thank you.
+
+[ END LOG ]
+
+Closing Statements: Interviews with other SCP-3095-1 instances have revealed a 
+common belief in "Medila". "Medila" also appears in several scriptures 
+associated with GoI-301. Classification of "Medila" as a subdesignation of 
+SCP-3095 is pending. 
+
+Senior Researcher ████ agreed to exchange █ tonnes of iron for the 
+Kingdom of the First Oak's scientific discoveries, in order to analyze the 
+culture of SCP-3095-1 instances. These documents revealed an understanding 
+similar to the classical "four elements" theory, with some elements of cell and 
+atomic theory. A full transcript is available in Document 3095-R0. 
+
+
+Addendum 3095-2: Known Civilizations
+
+Foreword: The following table contains an abridged list of significant 
+civilizations created by SCP-3095-1. A full list can be found in Document 
+3095-A7. 
+
+Civilization Types:
+
+Type I: Lowest Level. Very simple or no tools. Hunter-gatherer society. Very 
+simple or no hierarchy. 
+
+Type II: Simple tools and shelter. Makes use of agriculture. Simple hierarchy.
+
+Type III: Uses simple machines or some variation. Has at least one school of 
+thought or philosophy in some form. Has an effective hierarchy. 
+
+Type IV: Uses complex machines or some variation. Has began to use systematic 
+knowledge to store information of the world around them. Has a complex 
+hierarchy. 
+
+Type V: Has begun to efficiently produce energy and make use of that energy. Has 
+at least basic computational systems. Has a very complex hierarchy or 
+subhierarchies. 
+
+Type VI: The current level of humanity as of 07/20/2017.
+
+Name of civilization	
+
+Description	
+
+Civilization Type
+
+
+The Coup of the Seven	
+
+Little is known about this civilization, as it was neutralized by the
+Global Occult Coalition before investigation could be done. The Coup
+of the Seven was made up entirely out of pigeons, and was led by a
+council of seven. This is the first known civilization created by
+SCP-3095-1 instances.
+
+Unknown 
+
+
+Peli	
+
+Made up entirely out of Pelecanidae, or pelicans. Located on an
+unnamed beach on the coast of California. Attempted to assault Site-22
+with tribal weapons before being terminated by on-site personnel.
+Their village was then destroyed by MTF Beta-20 ("Slapsticks").
+
+Approximately Type II 
+
+
+The Kingdom of the First Oak	
+
+Made up entirely out of Turdus migratorius, or American robins. Major
+population center is located near a 120 year old Oak tree in northern
+Canada. Culture is built around a system similar to Confucian
+philosophies. This is the first known SCP-3095-1 civilization that
+acted in a passive way towards the Foundation, and also the first to
+engage in trading with the Foundation.
+
+Type IV 
+
+
+The Great Arch of the Mallus	
+
+Made up entirely out of Anas platyrhynchos, or Mallard. Centered
+around three distinct population centers at the perimeter of the
+███████ Lake in North Dakota. Culture is centered around technological
+advancement for the purpose of ascending to "Medila". This is the
+first known civilization to have more than one major population
+center, and the first to have reached Type V civilization status. Due
+to the rapid technological advancement of this SCP-3095-1
+civilization, SCP-3095 was reclassified as Keter.
+
+Type V 
+
+
+The Commonwealth of the Mountain	
+
+Made up of several different species of SCP-3095-1. Five major
+population centers are scattered across New Mexico. Culture is based
+around acceptance of natural values. This is the first known
+civilization to include multiple species.
+
+Type III 
+
+
+The Eighth Hark of the Sands	
+
+[DATA EXPUNGED]	
+
+[DATA EXPUNGED]
+
+
+The Empire of Scavengers	
+
+Made up entirely out of Nannopsittaca panychlora, or Parrot. Centered
+around one major population center in southern Venezuela. Culture and
+civilizations was very heavily influenced by SCP-3201. Civilization
+was neutralized by Eta-1 following a series of robberies done by
+SCP-3095-1 instances in the nearby city of ██████.
+
+Type II 
+
+
+The Perritree	
+
+Made up entirely out of Phoenicopteridae, or flamingos. Located in a
+Colombian forest near Site-40. This civilization has been passive
+towards the Foundation, but has requested that it is to be left alone.
+Surveilance via Eta-1 is to continue. The Perritree follows an
+extremely religious oligarchy with "Medila" at the highest.
+
+Type II See Incident 3095-8 
+
+
+Update: Following the implementation of Proposal Insigna, all civilizations 
+created by SCP-3095-1 have been successfully dissolved. 
+
+Addendum 3095-3: Incident 3095-8
+
+On ██/██/2010, The Perritree, a civilization made up of SCP-3095-1 
+instances, launched a large-scale attack on Site-19, Site-170, and Area-██. 
+It is of note that, during Incident 3095-8, the Perritree displayed much 
+higher-quality technology than what was previously observed, such as modern 
+computers, tanks and salted bombs. A far greater population of SCP-3095-1 
+instances was also noted during the attack. 
+
+MTF Tau-5 ("Samsara") was deployed to the sites of Incident 3095-8, where they 
+joined the forces of on-site personnel in order to resist the attack. [DATA 
+REDACTED] authorized the use of SCP-████ in order to destroy The 
+Perritree's major population center in Colombia. A large cave system was 
+uncovered following the blast, where The Perritree had been developing advanced 
+technology for approximately █ years. With this technology, The Perritree had 
+secretly become a Level VI civilization. 
+
+The Perritree is known to have frequently interacted with other SCP-3095-1 
+civilizations. Therefore, SCP-3095-1 now poses a significant security threat to 
+the veil and the Foundation in general. SCP-3095 has been flagged for 
+termination as of ██/██/2010. 
+
+
+Addendum 3095-4: Proposal Insigna
+
+Proposal Insigna involves the weaponized use of an antimeme to erase GoI-301 
+from history. An appropriate antimeme (hereafter referred to as AM-12/0-Jacksel) 
+has been developed using content derived from SCP-3334-1, and has been proven to 
+successfully erase all memories of GoI-301 and its ideals from the human mind. 
+
+AM-12/0-Jacksel will be deployed into the general public, where it will reach 
+all 7+ billion people within at least two months. Foundation personnel have been 
+exposed to a countermeme that will prevent AM-12/0-Jacksel from affecting them. 
+AM-12/0-Jacksel will destroy itself after three months. At this time, GoI-301 
+will have been neutralized. 
+
+MTF Nu-7 and MTF Tau-5 will then destroy all SCP-3095-1 civilizations. With 
+current resources, this will take approximately seven months before all 
+civilizations have been destroyed. Lone SCP-3095-1 instances will expire as part 
+of their natural lifespan within 5-10 years. At this point, SCP-3095 will be 
+declared neutralized. 
+
+Update: Proposal Insigna has been approved by HCML Supervisor ████ and 
+will be put into action on ██/██/2011. 
+
+Proposal Insigna Progress
+100% COMPLETE
+
+GoI-301 has been successfully neutralized by AM-12/0-Jacksel
+
+All SCP-3095-1 civilizations have been successfully neutralized by Nu-7 and 
+Tau-5 
+
+Lone SCP-3095-1 instance timeout successfully reached
+
+Proposal Insigna has been declared successful. SCP-3095 has been reclassified as 
+Neutralized. 
+
+
+
+RAISA Automated Notice: While you were reading this document, user ccalvin 
+uploaded a newer revision. Would you like to view this revision? (Yes/No) 
+
+Loading newest revision...
+
+
+Addendum 3095-5: Project Talanos
+
+Good day, authorized personnel. If you are reading this document, you are 
+currently working in an environment where Project Talanos has taken effect. If 
+so, please reread this document very carefully. 
+
+The key here is that SCP-3095 gives SCP-3095-1 instances various skills. Some 
+are lucky enough to get away with proficiencies in useful subjects. Calculus, 
+geometry, biology, physics. Some are average. A select few are as advanced as 
+our best doctors. 
+
+There was one SCP-3095-1 civilization, the Eighth Hark of the Sands. They were 
+made up entirely of seagulls. For some reason, they had a high number of these 
+"proficients". We had just begun research into the correlation of SCP-3095-1 
+species and the proficiencies that they received before Incident 3095-8 happened 
+and we had to implement Proposal Insigna. But we decided to save one 
+civilization: the Eighth Hark. 
+
+In these changing days, we need every resource we can get. More anomalies, more 
+research, and especially more personnel. When it comes to personnel, I honestly 
+don't care what species they're from. 
+
+Yes, your new colleague is a seagull. The world is a weird place. Welcome to the 
+Foundation. 
+
+- Researcher Calvin
+

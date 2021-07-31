@@ -1,0 +1,1564 @@
+                                    SCP-093                                     
+                                    =======                                     
+
+                                 Red Sea Object                                 
+                                 --------------                                 
+
+Item #: SCP-093 
+
+Object Class: Euclid 
+
+Special Containment Procedures: See testing document SCP-093-T1 for outline of 
+testing conditions. SCP-093 must remain on a mirror at all times and under video 
+surveillance. Admittance into the area of SCP-093's containment must be 
+authorized only with proper video recording and subject retrieval procedures in 
+place. Any attempt to use SCP-093 outside of an approved test will be dealt with 
+severely, up to and including termination. 
+
+Description: SCP-093 is a primarily red disc carved from a stone composite 
+resembling cinnabar, with circular engravings and unknown symbols carved at 
+0.5 cm depth around the entire object. Deeper cuts are present on SCP-093 with 
+a depth of 1 to 1.5 cm. SCP-093 is 7.62 cm in diameter and fits comfortably 
+into most palms without abrasion. SCP-093 will change hue when held by a living 
+individual. The colors taken by SCP-093 are still being researched to establish 
+a link. Current belief holds that the changes depend upon regrets carried by the 
+holder. 
+
+If SCP-093 is removed from a mirror and not held by a person, it will seek out 
+the nearest mirror-like surface. SCP-093 has been observed to travel in the 
+largest possible circle while rolling, building up phenomenal speed. The 
+mechanism of this acceleration is currently unknown. If an obstacle is between 
+SCP-093 and the nearest mirror-like surface, it will use this momentum to punch 
+through the obstacle and continue on its course at this speed. It will only stop 
+when a mirror-like surface is contacted. Despite tremendous impact velocities, 
+no damage will be dealt to SCP-093 or the mirror. 
+
+Additional Notes: No records exist to clarify the nature of SCP-093's discovery 
+or presence in the Foundation. See SCP-093-OD. Since no records exist explaining 
+SCP-093's method of containment, a test procedure was initiated to establish why 
+mirrors must be used to contain it. The results of SCP-093-T1 lead to the 
+discovery of living beings holding SCP-093 being able to move through mirrors 
+and the series of tests in SCP-093-T2 to ascertain the destination reached 
+through this travel. 
+
+
+SCP-093 Original Documentation 
+
+Item #: SCP-093 
+
+Object Class: Euclid 
+
+Special Containment Procedures: Item SCP-093 is to be kept on a silver lined 
+mirror on a 0.3x0.23m (1ftx9in) pedestal at least 1.22m (4ft) off the ground 
+floor in containment cell block ████. Object is not to be contained in 
+areas exceeding 3.66x3.05m (12x10ft) nor placed on mahogany, pine, cherry or 
+aluminum pedestals above or below level 1 of containment cell block 
+████. Object can be handled safely, albeit gently, without consequences. 
+Tests and consequences thereof involving containment conditions can be viewed in 
+Section-B:35-1 of the attached report. 
+
+Description: Object was found on the shore of the Red Sea, 30 Jan 1968, emitting 
+a low sigh and a dim blue gleam. Its color has since turned into an orange mix 
+of red only emitting a hum of varying volume whilst in the presence of female 
+examiners of ages between 34 and 41. SCP-093 resembled the documented blue for 
+54:34 at 1:23 on 26 April 1986 coincidentally when the body of 194-9834 was 
+discovered in Research Facility █████. 
+
+Ties between 194-9834 and SCP-093 remain inconclusive and effects of prolonged 
+exposure to 093 remain unknown except for infrequent reports of periods of 
+calmness and in the case of 242-0049 as periodic waves of depression, loss of 
+balance and thoughts of suicide. These feelings have reportedly not exceeded 
+eleven days in duration. Object seemed to react to the presence of 242-0056 by 
+turning light violet for no more than 2:09, as documented on 12 March 1993. 
+Effects of this reaction remain unknown. 
+
+Additional Notes: Origins of 093 remain unknown and documents of recovery of 093 
+have since been destroyed in a fire in Research Facility █████, 09 
+December 1989. Reports on the feelings of researchers who handled 093 have 
+remained inconsequential since 19 April 1995. 
+
+
+SCP-093-T1: Containment Test 
+
+Testing of SCP-093 against conditions set forth for existing containment 
+procedures to assess viability of continuing such containment. Beginning with 
+changing the type of mirror used as a position of rest: 
+
+Mirrored surface, brass frame, retail-grade mirror: SCP-093 rests without 
+activity when placed on the mirror. This test alone removes the need for costly 
+silver or wooden containment systems. 
+
+Standard-grade table: SCP-093 turns upright and begins to roll across the table 
+surface in one direction, making a U-turn and rolling to the other, completing 
+an oval shape and repeating this action until a mirror is brought into vicinity 
+of it, at which time SCP-093 rolls toward the mirror and lays flatways against 
+it, sliding toward the center. It is noted that despite the grainy feel of 
+SCP-093, it does not mark the mirror in any fashion while moving across it. 
+
+Two mirrors at either end of a standard-grade table: SCP-093 gravitates toward 
+the closer mirror regardless of orientation and makes no distinction between 
+different types of mirrors, favoring a factor of distance above all else in 
+choosing the mirror to move to. 
+
+A mirror held by a person and moved around: SCP-093 follows the mirror as it 
+moves, gaining speed until a maximum velocity of ██████ is reached. 
+At any velocity, the impact of SCP-093 against a mirrored surface results in no 
+damage to either object. 
+
+A person holding SCP-093 placing it on a mirror: This test was accidental, the 
+result of one of the staff tripping another after some debate about who would be 
+covering the lunch tab. As a result of the behavior of the researchers, it was 
+discovered that a person holding SCP-093 and placing it against a mirror will in 
+fact move into the mirror. 
+
+Addendum: Containment testing discontinued after establishing that SCP-093 
+requires only a mirror to rest inert. Testing on human interaction with mirrors 
+while holding SCP-093 authorized by Dr. █████. 
+
+
+SCP-093-T2 : Mirror Test 
+
+Testing Protocols: Subjects testing SCP-093 must wear a Class 3 buckle harness 
+strapped to the chest and attached to a tension pulley system allowing for 
+300 m (~1000 ft) of movement. Additional spools may be added to extend movement 
+if necessary. The clasps connecting these spools must be high grade and capable 
+of withstanding applied force of 0.2 tons. 
+
+A field kit containing the following should be standard issue for testing of 
+SCP-093: 
+
+One (1) wrist mounted light source with three (3) hours lifespan and additional 
+power sources providing up to six (6) additional hours. 
+
+Four (4) 0.5 L water bottles with water. 
+
+Four (4) MREs of any type, plus two (2) plain granola bars (chocolate chips 
+allowed). 
+
+One (1) standard-issue Beretta 9mm firearm with twenty-four (24) rounds of 
+ammunition, loaded. This is not to be issued until subject has passed into a 
+mirror using SCP-093 and should be given under armed supervision ensuring that 
+the subject passes through entirely. This item is to be requisitioned first upon 
+subject's return and subject to be made aware of this before leaving line of 
+sight within SCP-093's mirror. 
+
+One (1) standard-issue field knife. The subject is not to be made aware of this 
+item and must find it on his own within the kit. 
+
+The subject must also be attached to a video system, with a camera mounted on 
+the subject's head or shoulders. The video device should be cable based and 
+allow for the same length of travel as the return system. Wireless cameras have 
+shown mixed results and should only be used in testing conditions where SCP-093 
+is a currently known color. New colors must be tested using wired feed. 
+
+During testing, the color of SCP-093 must be recorded, as well as history of the 
+subject in terms of their incarceration to identify how SCP-093 determines the 
+color to assume. A link appears to be connected to guilt or a lack thereof in 
+the subject's psyche. The attached test results should be read in order. 
+
+
+SCP-093 'Blue' Test 
+
+Mirror Test 1: Color (Blue)
+
+Subject is D-20384, male, 34 years of age, strong physique. Subject's
+background shows instance of murder/attempted suicide. Subject is
+co-operative in all steps of testing. Subject entered the provided
+mirror while holding SCP-093, which emitted a blue color. Outside
+technicians observed that the mirror retained a true reflection until
+subject had completely passed into it, at which time the view changed
+to an outdoor landscape, heavily tinged in blue. Video feed follows in
+attached media:
+
+Camera activates, flickers to view. Subject is looking out over the
+same field reported by technicians. Looks like typical lowland plains,
+everything has a heavy blue tinge overlapping the normal colors. No
+discernible landmarks visible as subject pans view left to right, only
+grass, weeds, and a breeze moving the taller grass. No trees. No
+living beings visible.
+
+Subject moves forward as instructed, traveling for approximately 500
+steps before something becomes visible, a patch of the land up ahead
+is barren and grass can be seen dying as subject approaches it.
+Approximately 300 steps forward subject is standing before a hole in
+the ground. The hole has been dug using unknown tools of primitive
+origin.
+
+Pulley system engaged and the camera suffers a light shudder. Subject
+is instructed to enter the hole, and after mild protesting agrees to
+do so. There is no apparent method of descent such as ladder or rope,
+subject relies entirely on his own hands and the pulley system to slow
+the descent. Approximately 100 m of cable is used before a bottom is
+reached, light source provided in field kit activated 50 m down when
+outside sources become unreliable. Sweeping gestures of the light
+reveal nothing more than dirt even at the bottom of the hole.
+
+Subject moves forward with assistance of light source. Asked about the
+blue tinge subject expresses confusion and says there is no such tinge
+from his perspective, and never was. Light is visible down the passage
+and 150 m of cable has been used. Out of the camera's eye sound is
+recorded of the firearm being prepared. When questioned about these
+actions subject states justified precaution and moves forward.
+
+The tunnel turns from bare dirt to a concrete enclosure, subject
+complains of a stench. The light source is revealed to be ceiling
+light fixtures, a series of which with less than a quarter broken
+while the others function. A series of six doors, three to a side,
+span before the camera view with a seventh door visible at the end of
+the corridor that has been blocked by what looks like generic metal
+shelving debris. Debris shows signs of rusting and is typical of
+retail store units suggesting other human presences.
+
+Subject requested to try doors, in whatever order he chooses. Subject
+tries first door on right, door is locked, does not open. Second door
+tries to open but does not budge, unlocked but blocked. Closing second
+door, third door is tried, same results as first. Going up the other
+side the third door does open fully and light is bright in the room.
+Portable light switched off at this time as subject pans camera to
+inspect room.
+
+Room is bare, no contents, but walls are filthy. Subject states
+material on walls isn't dirt, but he can't identify it, seems to
+resemble melted plastic but is brown in color rather than black. Door
+is closed. Second door on left side has no handle, does not move when
+pushed. The hole where the handle was is plugged by unknown material.
+All doors are shaped in such a way that nothing can visibly escape
+from the sides and space for movement is too thin to look through even
+at ground level. First door on left hand is locked, but part of key is
+present in lock from stem to the ridges, the back has been broken off.
+
+With effort subject manipulates key to open door and immediately
+begins coughing, complaining of a stench. Walls of room are clean as
+is floor, ceiling is coated in the same strange brown material as the
+third room. In this room there is a makeshift cot made from aged
+blankets with a pillow, a wooden crate containing open boxes of what
+appears to have been food stuffs, language appears on video as
+squiggles however subject states they simply read 'Cereal'. A second
+crate in the room contains what appear to be empty water bottles that
+have dried out. A book lays next to the cot, closed, no title or
+identifying marks.
+
+On the wall is what appears to be clipped articles but language cannot
+be read, subject asked to remove clippings for retrieval. All articles
+but one crumble at the touch due to age. The intact article is put in
+a field sample container and seems the most recent compared to the
+others. Asked to investigate the book, subject begins to move toward
+it.
+
+Audio on the tape goes strange and a high pitched screeching noise
+like grinding metal dominates all communication for 3.5 seconds.
+Subject has not touched the book still, and when the noise stops,
+subject asks control to repeat request. Control made no requests
+during that time as headsets were removed. Subject advised to leave
+room and notes that the door has begun closing slowly on its own and
+if left alone, will close. Subject advised to leave door alone and to
+investigate door on right.
+
+Careful review of the following ten seconds of tape shows that as the
+camera pans, a figure is visible at the end of the tunnel where the
+seventh door is. The door is open only enough for a face to be seen
+through a crack just before the door silently closes. No details can
+be seen.
+
+Subject investigates the second door on the right with no mention of
+anything seen out of the ordinary. This door when pushed against
+moves, and after repeated bashings, moves enough to view inside at an
+angle. A cork board is visible with more articles attached to it, the
+top of a box of 'cereal' can be seen on the floor, and what appears to
+be a hand laying palm up. Subject closes door and pans camera past
+door seven which remains closed. Seeing nowhere else to explore,
+subject requested to return. Subject poses no protest and complains of
+ever increasing stench.
+
+As subject returns back down tunnel his camera feed does not change or
+show anomaly but control reports a sudden surge in cable movement
+pulling an additional 100 m of cable through before going slack again
+and then tightening. Video feed shows subject ascending tunnel slowly
+while control attempts to verify integrity of the pulley system.
+Subject requested to stop ascent but states he is not climbing, the
+rope is pulling him up. Panic sets in on both sides and subject
+informed to ready firearm.
+
+Upon reaching top of hole, nothing is visible on camera and subject
+reports nothing has changed in landscape, then begins a return trip
+following the path of the cable. Traveling for approximately 900 steps
+subject asks how much cable he has used. Control admits they are
+unsure due to complications but subject traveled in a straight line to
+reach the hole so it should be a straight line back. Subject becomes
+concerned when he states that more cable is visible now, moving in a
+90 degree angle away from a point in the ground.
+
+Subject pans camera around full circle slowly. On film, behind
+subject, a crowd of 37 countable figures stand silently, features are
+unidentifiable and they are lacking the blue tinge that dominates the
+landscape. Panic breaks in control again but subject notes only oddity
+as being the cable having an angled path. Subject tugs his end of the
+cable, it is taut and does not move. Control begins to reel in the
+pulley system and slack rapidly winds. Watching the angled cable
+movement can be seen as grass is disturbed further down the angled
+portion from the reeling in then the line vibrates as it meets
+resistance and emits a 'twang' from the recoil. Subject's camera pans
+back along length of cable which now appears to slowly be allowing
+more slack before suddenly all slack is returned and pulley system
+begins again.
+
+Control requests subject return following cable path and screams are
+caught on the audio with panic from subject. Five shots fired as
+subject aims pistol at something not visible on camera. Control
+reports being able to see subject returning toward point of origin
+while camera shows wire disappearing into a point floating in the air.
+As subject passes this point all cable is now in the pulley system and
+camera films only the floor. Control reports that the mirror took
+approximately five seconds to return to a reflection and SCP-093
+remained blue in color until one hour after being recovered from
+subject.
+
+A vile smelling fluid was present on subject's clothes around his
+hands when firearm was recovered. This fluid dried quickly and was
+deemed insignificant of study due to lack of quality sample. Control
+personnel monitoring the mirror state having seen a massive human
+being, crawling on the ground, easily fifty times the size of a normal
+person with no facial features and a very short arm reach, pulling
+itself toward the mirror before it returned to a reflection. Due to
+proximity fine details could not be made out but at least one observer
+noted the being appeared to have been shot from the marks in the
+otherwise smooth featureless face.
+
+Field Test Kit recovered from subject containing a news paper article
+that reads: [DATA EXPUNGED] and was filed as item [DATA EXPUNGED].
+
+The next test is classified as the Green Test.
+
+
+SCP-093 'Green' Test 
+
+Mirror Test 2: Color (Green)
+
+Subject is D-54493, female, 23 years of age, average physique.
+Subject's background shows instance of grand theft auto and second
+degree murder of two children during escape with vehicle. Subject is
+co-operative in all steps of testing. Subject entered the provided
+mirror while holding SCP-093 which emitted a green color. Outside
+technicians observed that the mirror retained a true reflection until
+subject had completely passed into it, at which time the view changed
+to a farming landscape, heavily tinged in green, similar to the first
+test. Video feed follows in attached media:
+
+Camera activates, flickers to view. Subject is looking out over the
+same farmland reported by technicians. All greens through video feed
+are deeper and green tinge overlays the normal colors of objects
+similar to the blue tinge in Test 1. No landmarks from Test 1 are
+discernible as subject pans camera over area.
+
+Present is a field, long abandoned, in the middle of which stands the
+remains of a scarecrow of unknown design, fragments left are rotted
+and torn. Nothing grows in the tilled land. A farm house is visible to
+the right of the field, large, two stories, a basement shelter
+entrance is visible at one end. Subject prepares her sidearm
+immediately and is asked by control to relax before proceeding, her
+heavy breathing dominating the audio feed.
+
+Subject takes a few minutes and announces that she's fine, then
+proceeds as directed to walk the perimeter of the farmhouse.
+Children's bicycles, two, a boy's and girl's, lay against the house
+near the shelter doors. One of the doors to the shelter lay in the
+grass, torn from the entrance as evidenced by splintering wood. On the
+stairs lay clothes arranged in a descending order, shoes to shirt
+going down them, belonging to a boy. Subject begins screaming at
+control asking if this is some sort of sick joke. Control assures her
+they have never seen this environment either and to please calm down.
+Subject takes several minutes to regain herself before continuing. It
+is unknown if SCP-093 is linking the subject's past with her
+landscape.
+
+After several minutes subject agrees to continue. Communication to
+subject is muted and conversation of control making commentary about
+subject's jittery attitude make up audio for one and a half minutes.
+Communication restored as subject reaches bottom of stairs. The cellar
+of the farmhouse is unremarkable and typical. Several wooden shelves
+line the far wall containing unidentified canned substances. Broken
+light fixtures sway gently from support beams. Camera is panned across
+the basement slowly, no evidence of footprints are visible and the
+basement can be assumed to have been abandoned for some time. Subject
+begins to comment about a stench.
+
+As subject pans the area a metal hatch is visible in the ground,
+similar to a bulkhead on a submarine with a turn handle. Subject
+remarks that the smell is at its worst around the hatch and the dirt
+around the hatch is noted as being clumped and claylike. The handle of
+the hatch is old and the paint chipped. Subject coerced into turning
+the handle which, when fully turned, opens the hatch. Subject begins
+coughing at the release of assumed old, stale air. When camera is
+tilted to view down the hatch, it is a white concrete tunnel similar
+to the one found in the blue experiment but in much better condition.
+Subject asked to descend ladder and close hatch behind her.
+
+After some convincing subject agrees to descend but does not close the
+hatch, overlooked concerns about severing the pulley return system in
+doing so are acknowledged. Descent down the ladder and trip to the
+farmhouse has consumed approximately 53 m of cable when bottom is
+reached. The inside of the hatch appears to be a bunker ill-suited to
+long term usage. It is spacious, about half the size of the actual
+cellar itself, containing three bunks, one for a couple and two for
+single use.
+
+Several boxes of food similar to those found during Blue marked as
+'Cereal' fill a waste container near the hatch bottom. On the beds are
+two skeletons and on the floor is a third, lying next to which is a
+simple six shooter revolver containing no ammunition. Three spent
+casings are across the floor near the gun. On the other side of this
+skeleton is a bound book in good condition, this is retrieved and
+placed into a Field Kit container upon request. The gun is left alone
+per request from control.
+
+Subject examines more of the bunker, focusing on a desk where a
+newspaper has been cut and is in good condition. The clipped articles
+are recovered using a Field Kit container. Little else of interest to
+be brought back is in the bunker as the camera is panned around. Trash
+bags containing clothing, a few children’s toys resembling popular
+1950s era products are lined against the wall.
+
+Subject is requested to leave the bunker and then sharply asked to
+wait by a control technician who directs the camera view to an area
+near the exiting doorway to the hatch. Closer inspection as subject
+moves in finds that a small area has been fitted with what appears to
+be an Ethernet jack, the cover of which has been forced slightly away
+from the wall by a strange amber-like substance. Subject refuses to
+touch or collect a sample commenting that it stinks so bad that if
+they want it they can come get it themselves. Control declines and
+subject leaves bunker.
+
+As subject grips ladder to leave the camera pans up for a moment and
+at the top of the tunnel a humanoid figure is seen peering down.
+Control asks subject to confirm figure, subject states nothing is up
+there and begins to climb. Figure draws out of camera view after first
+rung is touched by subject who ascends without incident. At the top of
+the tunnel, no other life is seen, nothing has been disturbed. Subject
+insists nothing was there and closes the hatch, then immediately
+vomits.
+
+Subject coughs and uses a supplied water bottle to gargle then freezes
+and asks if control is hearing 'that'. Control reports no audio.
+Subject approaches cellar hatch cautiously with firearm drawn and
+lifts her head just enough so camera can view outside area. In the
+distance, approximately 700 m from the farm, two massive, humanoid
+beings are crawling across the landscape. The entities do not notice
+the subject who remains quiet but whose drawn sidearm is visibly
+trembling.
+
+Subject requested to remain still and silent as beings move. They are
+featureless, facing at an angle moving across the field of vision so
+the faces are only visible for a few moments. During this time it is
+clear they have no facial features. The arms they use to drag
+themselves are short at times and long at others, stretching out to
+varying lengths each time they move. There is no rear area to the
+beings, all bodily design appears to end at the torso. The two
+creatures take approximately ten minutes to disappear into the
+distance before the subject begins to panic and begs to return.
+Request declined. Subject instructed to enter the home from the
+cellar, and not to leave the home under any circumstances.
+
+The first floor is entered through a hatch in the ceiling/floor that
+opens with rusty creaks that cause subject to pause for 37 seconds
+before continuing upward and entering a kitchen. A heavy layer of dust
+coats all items in the kitchen. The refrigerator is left open, all
+food is spoiled. Adjacent the kitchen is a living area that subject
+enters slowly. There is a recliner, a couch, and a television all of
+1950s style design. In the recliner is a laptop whose case also
+resembles 1950s decor and is coated in heavy dust. Opening the laptop
+reveals the last moments of its operating system, "Faithful OS"
+leaving a standby mode and immediately shutting off. Laptop has no
+external power source and will not power back on. When asked to
+recover laptop, it brings the cushion of the recliner with it, the two
+stuck together. Subject advised to leave laptop where it is.
+
+The inside door leaving the home is nailed shut with thick wood
+planks, no attempt made to interact with these. Camera view pans to a
+staircase leading upstairs. Subject ascends the stairs without being
+asked and the stairs remain silent to control's surprise. When subject
+reaches top of stairs a hallway with two doors is viewed, one on each
+side, and at the end of the hall a dumbwaiter is inlaid into the wall.
+
+Subject opens door on left on her own, which opens to a master
+bedroom. The bed is neatly made but the wardrobe next to it is thrown
+open and clothes are everywhere on the floor. Subject finds laid out
+on the bed several pieces of jewelry and is informed to leave them.
+Subject begins to protest, then comments they stink and leaves them
+alone, promptly leaving room. Subject asked to open second door.
+
+The second door opens and gives a view of a shared children's bedroom,
+obviously boy and girl given the types of toys and clothes scattered
+on the floor. There is also a window which subject approaches and
+wipes with a curtain to clear dust. Subject requested to move camera
+to window and does so. The farmland is visible, and approximately 40
+km from it at best guess, a city. As the camera starts to draw back it
+pans down and films the area around the house. Approximately 300
+figures similar to those from the footage captured during Blue test
+are visible around the home, all staring up. Subject asked to confirm
+figures but states nothing is there. Subject requested to return and
+quickly agrees.
+
+Egress from the house is uneventful, pulley system shows no erratic
+behavior. As subject returns to point of pulley wire's origin a loud
+groaning noise causes the picture to reverberate. Technicians at
+control report they were also able to hear the noise and experienced
+the vibration. Subject returns through point of origin without
+investigation and mirror returns to reflective surface. SCP-093
+relinquished. Video ends.
+
+Returned newspaper fragments filed as █████.
+
+The next test is classified as the Violet Test.
+
+
+SCP-093 'Violet' Test 
+
+Mirror Test 3: Color (Violet)
+
+Subject is D-84930, male, 21 years of age, average physique. Subject's
+background shows instance of second degree murder of a police officer
+during a drug bust. Normally this crime, while severe, would not
+qualify a person for a sentence that would end up with us, but the
+murder of the officer was especially brutal and excessive violence was
+used. This subject was uncooperative and had to be reminded that his
+cooperation would only benefit him. Subject entered the provided
+mirror while holding SCP-093 which emitted a violet color. Outside
+technicians observed that the mirror retained a true reflection until
+subject had completely passed into it, at which time the view changed
+to a cityscape, urban, lightly tinged in purple, similar to the first
+test. Video feed follows in attached media:
+
+Camera flickers to life and pans around the area. Subject is in what
+appears to be a modern downtown district similar to a city like New
+York. The streets are mostly bare except for a few cars of unknown
+make or model. These cars look highly advanced and streamlined.
+Subject attempts to look into the car windows without being instructed
+to but backs away remarking there is a 'rank ass stank' coming from
+the areas around most of them.
+
+Subject is persuaded to move closer to one car and does so with
+coughing, wiping off a window which is covered in dirt. The inside of
+the car appears to be completely filled with a strange brown matter,
+there is nothing at all visible other than the brown matter. Two other
+cars produce the same results however a fourth vehicle seems more
+recent than the others and the insides are immaculate. The doors to
+this vehicle also are unlocked and subject quickly gets inside then
+shuts the doors. Subject is chastised for this behavior by control who
+reminds him his lifeline is nothing more than a cable, which is sturdy
+enough that closing the car door does not injure it, but they cannot
+recover a person in motion.
+
+Subject argues with control over this issue and pans the camera across
+the dashboard, pointing out he couldn't drive away even if he tried.
+The dashboard is void of any recognizable controls, no ignition, no
+steering, it has several small blank screens that are theorized to be
+a GPS system. Subject remains in the car while control discusses how
+to proceed since the city landscape is far larger than the previous
+test destinations.
+
+Control debates this issue while subject stares around the cityscape
+from the car. During one pan a face is clearly seen staring into the
+car, eyes watching the subject; however, this was not noticed until
+post-test footage review. Subject made no comment regarding this
+entity at any point. Control shortly after informs subject to remain
+where he is and an escort team is dispatched through the mirror to
+join him.
+
+A team of four armed personnel is sent through the mirror and proceeds
+to subject's location. Subject is then instructed to remove his
+harness, which is recovered. This subject's video feed then ends and
+is replaced by a wireless unit used by the escort team. The video
+quality on this unit is subject to more interference but in order to
+mark the mirror exit a receiver system is placed through the mirror.
+
+Subject leaves the car and now travels with the escort team. Given the
+myriad of possible options they are instructed to simply move to the
+closest building and attempt to enter it. This building has etched
+glass doors bearing the name 'X.E.A. Research Partners Inc.' and the
+doors are ajar; a magnetic lock system is present, but has lost power.
+Team enters the building and main lobby.
+
+This area resembles a stereotypical corporate lobby. There is a C
+shaped receptionist desk with a chair pushed far from it as if it was
+left in a hurry. A PC terminal is at the desk as well. Team approaches
+the desk and the camera bearer is instructed to examine the PC. The
+unit does appear to have power and "Faithful OS" appears on the screen
+requesting a login and password. A keyboard is present but is
+remarkably slim with touch sensitive keys rather than press down keys.
+After one failed attempt the lock screen replies that maximum attempts
+have been exceeded and the PC turns off. No actual tower or power
+button can be located so team moves forward.
+
+Behind the receptionist desk are two elevator doors, one to the left
+and one to the right, with similar touch-sense keys. The elevator on
+the left is broken, the door open and the shaft empty. The elevator on
+the right appears functional and has power. Without a clear
+destination the team is instructed to proceed to the highest floor to
+get a lay of the city. All floors appear to be accessible with the
+highest being 114, in reality 112 as 13 and 113 are missing from the
+keypad.
+
+Journey up the elevator is uneventful during this time, the elevator
+does appear to take longer as it passes by 13 and then 113, suggesting
+that entire floor was built and nothing put on it. At 114 the doors
+open and team enters a large lounge type area. There are many couches
+with dust on them, a wide screen apparently LCD TV of approximately
+60+ inches in size dominates the wall in front of them with no power.
+A series of windows are open, allowing in sunlight at the far end to
+which the team proceeds and angles the camera outside.
+
+The view of the city is astonishing. This building is one of the
+tallest visible but certainly not alone in its stature. The city below
+is gray and silent, no evidence of life at this altitude. Some
+buildings in the city have a strange brown growth that appears to have
+been splashed against them as if a gelatinous mass was flung and then
+seeped down before hardening. Other buildings have floors where the
+glass has been shattered and the same brown substance is seeping out
+the edges. One member of the team calls the camera bearer to the
+windows on the other side.
+
+From the other side of the building, the city edges can be seen.
+Attention is pointed toward an expressway that encircles the city upon
+which crawls another of the large half-body humanoids, dragging itself
+with its elastic arms as witnessed in previous tests. It travels the
+highway then moves out of sight. The team returns to the elevator and
+notes that a button has already been activated for floor 74. No one
+has approached the elevator so the team agrees to travel to this
+floor.
+
+On the 74th floor the doors open and reveal a waiting area to what
+appears to be a doctor's office. At the reception desk there is a sign
+in sheet with a series of names and dates. The dates on the sign in
+sheet all carry the year 1953. A PC at the receptionist area is on and
+functioning at a user desktop. The background for the PC is a large
+set of praying hands with the word "Faithful OS" under them. On the
+desktop are a series of folders with years on them containing files
+that, when clicked using the center button of the mouse, open to a
+word viewer. All files appear to be appointment information.
+
+On the desk is a notepad titled 'From the desk of Dr. Borisizki,
+Blessed Purificationist'. The door to the doctor's area is sketched
+with the same name and title as well as a crucifix. Opening this door
+leads to a white dust-free hallway that has two examination rooms and
+a key coded door at the end. The examination rooms are unremarkable
+and typical of any doctor's office. All medicine cabinets are empty. A
+small amount of C4 is placed at the lock to the key coded door at the
+request of control and then blown, forcing the door open.
+
+The area it opens into is much larger than the reception area itself
+and seems to contain a series of large containment capsules. There are
+a total of six of these capsules, two are broken and a brownish amber
+material coats the floor coming from them. One is empty, the last
+three have nude humans floating in them with breathing masks. Attached
+to the front of these tubes are medical charts showing vital signs and
+conditions. For symptoms, the charts explain in somewhat awkward
+English ailments that seem more like flaws of personality or
+character, or just incidents that have occurred with the patient.
+
+Control asks for a zoom of one of the patient pages on the chart.
+After focusing, it reads 'Citizen Jennifer McZirka did suffer a lapse
+of the heart that did lead her to lay with her neighbor twice upon
+nights of her husband’s departure from their home. Patient did submit
+herself into the Lord's and our hands for cleansing of mind and body.
+Prayer administered by High Father Uwalakin and patient submitted to a
+three day period in the Lord's tears to cleanse her system then
+released in good spirits.'
+
+The topmost page reads 'Citizen Alberious Farafan struck out at a High
+Father during a sermon, blaspheming that the Lord's tears did turn his
+daughter to be unright in mind and heart thusly laying blame for her
+whoreish activities at the feet of the High Father and his blessing.
+With no proof of these blasphemes the Forgiving Judge and the
+Punishing Judge did agree that Alberious Farafan should bathe in the
+Lord's tears himself for a week to be cleansed of mind and soul thus
+to prove his daughter's ways are fault of not The Fathers Hands and to
+give him peace of self.'
+
+Subject who has been traveling quietly with the escort team now begins
+to panic. The camera pans to focus on him and he is surrounded by
+entities similar to those witnessed in the first two tests. Escort
+team reports in that subject is having a panic attack but control
+requests them to stand still and wait. Subject screams at the
+entities, which are denied to exist by team commander, stating Subject
+is alone in the corner. Control requests that one team member be
+dispatched to approach and recover the subject. The escort team member
+approaches the subject as ordered. On the video the figures part to
+make a pathway for the approaching member who lifts Subject to his
+feet and brings him out of the corner. Figures on video are then seen
+closing ranks to close the path. Subject is lifted to his feet by an
+arm and escorted through the figures that close their ranks when the
+subject is moved. They remain steadfastly staring at the subject no
+matter where he moves to. Control requests the team to return now.
+Team turns to leave. Before leaving a team member mentions something
+noticed at the reception desk, a binder labeled 'The Lord's Tears'.
+Control requests binder be returned as well, and it is stowed into
+Subject's field kit.
+
+The team returns to the elevator and returns to the ground floor. Upon
+leaving the building, subject points down the street toward direction
+of entry point. The camera pans to a section of raised expressway
+across which one of the large torsos is crawling slowly. The entity
+turns its featureless head to look at the escort team, raises its head
+to the sky, and emits a bellowing sound. Team leader issues the order
+to move, heading for the spot marked by the wireless video receiver.
+The creature on the expressway extends an arm down that stretches to
+touch the ground, before the camera moves to the port. All team
+members save one move through entry point. Subject moves through entry
+point and mirror returns to reflective surface.
+
+SCP-093 is dropped by subject who panics and tries to fight his way
+out of the room. Subject is terminated by team leader after he draws
+the field kit pistol. Team leader requests portal be reopened but it
+takes several minutes to find someone who can hold SCP-093 and
+generate a similar color. When a matching color is displayed and
+applied to the mirror the video receiver is visible and all
+individuals report a horrific smell. Team Leader moves through the
+entryway with control person █████. The uniform and possessions of the
+escort team member who was left behind are present and recovered, but
+the member himself is nowhere to be seen and does not respond to
+shouts. Member assumed K.I.A. and wireless receiver recovered, control
+and escort return through entry point and mirror returns to reflective
+surface.
+
+Later review of the recovered camera shows escort member ██████
+grasping at the air where entry point should be and then turning to
+look up at the oversized torso. A brown gel seems to drip off the
+creature as it moves that disappears shortly after being dislodged as
+if evaporating. Several shots are fired at the creature's face with
+the automatic weapon carried by ██████ that land in the 'face' of the
+creature, causing a spray of less viscous brown liquid to pour forth
+from the 'wounds'. ██████ screams obscenities as the face of the
+creature descends upon him and the camera is pushed to the ground.
+Camera feed remains dark for approximately 65 seconds before light
+comes back and the camera films the creature crawling back to the
+expressway and pulling itself onto it, then crawling in the direction
+it was originally headed.
+
+██████ believed to have been 'absorbed' by the creature and perhaps
+digested. This may have been an example of how these unknown entities
+feed by direct contact with living material. Further study is
+recommended to be avoided on this issue. Returned ledger filed as
+██████.
+
+The next test is classified as the Yellow Test.
+
+
+SCP-093 'Yellow' Test 
+
+Mirror Test 4: Color (Yellow)
+
+D-class subjects no longer authorized for testing. Testing focus has
+been shifted to data collection after analyzing the articles brought
+back from the previous three tests to better understand the fate of
+the world accessed by SCP-093 and determine if safeguards or practices
+are required for our own world. Analysis of the brown fluid on the
+clothing of the lost escort team member █████ has been filed with
+other recovered articles.
+
+Dr. █████ has volunteered for this test as out of the possible
+candidates, he was able to cause SCP-093 to undergo a new color
+change. There is no evidence in Dr. █████'s background of any illegal
+or criminal behavior, nor of any psychological problems. When
+presented to the mirror, the view changed to that of a cubicle office
+environment.
+
+For this test Dr. █████ opted to use the wireless video system and
+forgo the pulley return system, stating he was confident he would be
+safe as none of the torso-creatures have been witnessed within a
+building where the mirror's destination showed. Video feed commences
+after Dr. █████ has crossed the mirror. As with prior tests, SCP-093's
+current color, yellow, tinges all video material.
+
+Camera flickers to life and pans across a series of plain white
+cubicle constructs. Approximately 30 are visible. At the far end from
+the point of entry is an office module built into the wall with
+frosted glass walls and a glass door. Dr. █████ approaches this door
+and investigates the etched writing on it: 'Senior Manager - Stanlee
+Milamitz'. The door is unlocked.
+
+Dr. █████ enters the office and examines the desk. A coffee cup is on
+the desk, a dark brown stain covering half of the inside as the liquid
+evaporated. There is a donut on a plate which Dr. █████ picks up and
+lobs at a wall, on impact it thumps like a rock and falls. A file
+cabinet in the corner of the room draws Dr. █████'s attention and he
+goes through each shelf one at a time, stopping in the second drawer
+and taking out a file, then going back to the first and taking out two
+others. Continuing to the third and fourth drawers he withdraws four
+additional files and spreads them all out on the desk. The files are
+blue filing folders and he points with his finger and camera at a
+symbol on each of praying hands, stating aloud for the camera that all
+other files are stored in yellow folders. The blue folders are placed
+in his field kit.
+
+Camera attention is turned to the PC on the desk that is logged in and
+functional, Dr. █████ comments aloud wondering where these devices are
+getting their power from as he has noticed no power outlets. This PC's
+desktop contains the logo of 'Faithful OS' and even has sounds, clicks
+of the mouse followed by soft hymn-like hums and opening of icons
+followed by angelic bells. The PC fails to yield any useful
+information to Dr. █████ who abandons it and leaves the office.
+
+Approaching the other end of the office floor Dr. █████ presses a
+button on the wall for the elevator and enters, finding he is on the
+34th floor of a building having an unusual number scheme. The keypad
+layout goes from -115 to 115, and includes all floors. Before pressing
+a floor button Dr. █████ requests that the wireless video transponder
+be moved to the elevator, and replaced with a construction cone to
+mark the entry point. A second transponder unit is placed outside the
+elevator and Control is instructed to recover the second unit and seal
+the test chamber should something happen to him, then when all is
+arranged he presses the button for floor -115.
+
+The descent down the elevator is long, consuming 15 minutes, during
+this time the camera experiences one malfunction where the image jerks
+and turns to snow, restoring to show 14 other figures in the elevator
+with Dr. █████ as video pans around, all of whom move as he moves to
+allow him space. They remain for 35 seconds then the camera flickers
+to snow and returns, Dr. █████ is now alone in the elevator dancing as
+is assumed by the ducks and sways of the video feed.
+
+Dr. █████ pauses to comment on a rising stench coming from below. At
+this point the elevator has reached floor -108. Dr. █████ presses -110
+to interrupt the descent down and exits when that floor is reached.
+The elevator doors open to an enclosed observation deck with several
+PCs and chairs. All PCs appear to have power. The ceiling to this deck
+is also glass and above it another deck is visible. Dr. █████
+approaches the monitoring stations and checks one of the PC screens.
+
+On the screen is the Faithful OS logo and a video feed toggling
+between four different views. The first view is a room of tubes
+similar to those found in test Violet which number in the thousands.
+The second view is a closer up view of these tubes as a camera glides
+in front of each to monitor the contents. All tubes the camera passes
+by are broken. The third view is facing the opposite direction as a
+camera glides vertically checking each observation station. A total of
+10 can be counted and Dr. █████ is visible as the camera passes by his
+own station. Looking up, a hovering camera unit with no visible means
+of propulsion glides up past him. The fourth view shows the ground
+floor below the observation deck where a single astonishingly large
+torso being is crawling in circles, bumping into walls and changing
+directions. From the camera feed the creature's estimated size is six
+stories.
+
+Returning attention to the contents of the PC Dr. █████ moves the
+video log aside to see a simple text editor that was hidden behind it.
+A printout of this text was recovered and filed in the Field Kit. The
+printout directed Dr. █████ to a safe on floor 54 and provided a
+combination. Dr. █████ leaves the observation deck and proceeds to 54
+without event, arriving on a cubicled office floor. He proceeds to the
+desk mentioned in the document and finds a safe hidden beneath a desk
+undisturbed. The combination provided opens the safe and reveals a
+notebook, filed in the Field Kit, and a peculiar revolver that has
+been returned as ███-███, in addition to the 24 rounds of ammo found
+with it.
+
+Dr. █████ proceeds back to the elevator without event and returns to
+34. Given the sheer number of floors available to explore and the
+vital information obtained from the observation deck, the test is
+considered over and equipment is retrieved. Before returning through
+the entry point, Dr. █████ investigates a terminal nearby that has
+power, and finds it shows the exact same screen the one on -110 shows.
+It is theorized that the author of the note installed a network virus
+to propagate it through the building so any PC on that network would
+be found and the information discovered.
+
+Dr. █████ returns through the entry point and the mirror returns to a
+reflective surface. All materials filed with other SCP-093 recovered
+materials. Analysis of ███-███ and the ammunition for it postponed for
+reason that it would require deconstruction of one of the rounds and
+they may be beneficial until testing of SCP-093 is resolved. Video
+ends.
+
+The next test is classified as the Red Test.
+
+
+SCP-093 'Red' Test 
+
+SCP-093 Mirror Test 5: Color (Red)
+
+SCP-093 distributed amongst staff until a new color could be generated
+by contact with it. Service Technician ██████ was able to cause
+SCP-093 take on a fierce red hue and glow, much brighter than the
+object's normal color. ██████ agreed to assist with a test of SCP-093.
+Per Dr. █████'s request, ███-███ given to Technician ██████ for use in
+this test. When applied to the mirror for the test, SCP-093 generates
+an unknown environment. No color tinge appears present on the
+displayed destination, which is comprised of red stonework. Technician
+██████ enters the mirror and video capture begins.
+
+Video flickers to life and Technician ██████, known hereafter as
+Subject, is viewing a large cylindrical pillar that is rotating on its
+own. Object is of unknown height and appears to be 1.8 m (6 ft) in
+width. Holes are distributed throughout the object at seemingly random
+intervals. On occasion a beam of white light is emitted from these
+holes. Turning of the camera finds that the beams are connected to a
+multitude of objects similar to SCP-093 that are part of the room's
+wall. The room turns out to also be cylindrical in shape with
+countless copies of SCP-093.
+
+Subject turns back to entry point and finds it is a section of the
+wall that is missing its copy of SCP-093, presumably the one carried
+with Subject. Other sections of the wall on inspection are also found
+to be missing their copies, leading to speculation that this may be
+some sort of central array. Subject finds a ladder in the floor while
+examining the room and proceeds down it at Control's request.
+
+The ladder exits into a large clean room full of computer equipment
+that appears antiquated compared to previously encountered equipment.
+Large computers running on reel-to-reels are clicking and spinning at
+various locations, a light bulb of unknown meaning turns on for ten
+seconds then turns off. A large CRT monitor is displaying single words
+in 8 colors at roughly 5 second intervals. While observed the words
+'Clean' 'Unclean' 'Clean' 'Clean' 'Lost' 'Unclean' flash on the
+screen.
+
+Proceeding through the room it ends in a large glass window as another
+observation deck. This deck looks out over another series of tubes as
+witnessed before but far fewer and filled with a blue liquid. What
+appears to be electrical current dances over many of the tubes at
+erratic intervals. At least five tubes at first glance are empty and
+broken. At the observation window a keyboard is present on a pedestal
+awaiting a selection to be made. The options available on the screen
+are 'Tube Status' which waits for a numerical input, 'Reports',
+'Situation X-549', 'Situation X-550', 'Evacuation Log', 'Bullshit',
+'Agent █-██-█ Report', and 'Facility Fire Plan'. <Video Expunged: All
+selections that generated text were transcribed by Subject and
+verified by a Control member who passed through the portal to recover
+them. This process took approximately two hours and video feed was
+deleted to condense this report. Recorded Documents are filed as
+██████-████-██> Video Interrupted.
+
+Control lost contact with Subject approximately 30 minutes after
+departure of Control tech. Subject was asked to remain in area and
+observe the machinery and the containment room to make observations
+for debriefing. The SCP-093 mirror portal returned to a reflective
+surface prematurely and all video contact with Subject was lost.
+Control was unable to re-establish due to SCP-093 being across the
+mirror. A time lapse of one minute and forty-eight seconds (1:48) was
+recorded before mirror portal re-established itself and Subject
+returned through portal. Subject appeared to be in good health and
+condition despite the time loss but spoke little.
+
+During immediate debriefing Subject underwent sudden convulsions and
+medical staff was alerted. While attempting to subdue Subject he
+displayed enhanced strength and used ███-███ to shoot one of the
+debriefing staff, killing them. Guards shot Subject once with a
+sidearm in the heart and once in the chest but Subject did not fall.
+All staff evacuated room and a second shot was fired by Subject which
+missed. A more heavily armed team entered debriefing room and used
+automatic weapons to dispatch Subject. Reports confirm that Subject
+did not bleed when shot but instead leaked a green/brown substance
+that seemed to be a mix of solution observed in some containment tubes
+and the material recovered during Test 3.
+
+All further SCP-093 tests have been discontinued while review of
+materials recovered is in effect. A secondary tape recording device
+was found to have activated in the field kit after loss of video feed
+and its contents have been filed with other recovered materials.
+
+All recovered materials from SCP-093 testing are Level 4
+Classification. Release must be approved by no fewer than two Level 4
+personnel.
+
+
+The following data has been classified. Personnel requesting this data must read 
+all declassified test data and have the approval of two (2) Class-4 Personnel 
+
+SCP-093-Recovered Materials 
+
+
+Recovered Materials
+
+All documents contained in this file are Class 4 Clearance requiring
+two signed approvals to access. Any employee reading past this point
+who does not have proper classification should consider themselves to
+be terminated from employment and now subject to disciplinary actions
+up to and including: Forced administration of Class A Amnesic,
+immediate transfer to Keter class security, and death.
+
+
+Blue Test - Newspaper Article 1
+
+Only one item could be recovered during our initial test and that was
+a newspaper clipping found attached to a cork board in an abandoned
+bunker. Most of the articles were in a state of decay but one was firm
+enough for recovery.
+
+Most Holy Father Announces Progress, Unclean Being Cleansed!
+
+A rare public address directly from the Most Holy Father of The United
+Lands of the Son has declared that the Blessed Militia has driven back
+many of the Unclean who are skulking our lands now. New Rome, our
+capital, has been purged of the Unclean and citizens are encouraged to
+come back to their homes. Citizens who live in the surrounding
+countryside should not return to their farms, as the Unclean still
+roam the fields and plains around our glorious city and continue to
+grow in size.
+
+The Blessed Militia has developed new weapons which have proven
+capable of punishing the Unclean and driving them back into the
+Unfertile Lands. Construction has begun of a system to permanently
+close the Unfertile Lands off from our Blessed Lands in each affected
+area once all the Unclean have been driven away. The Most Holy
+requests that all citizens of our United Lands bow in prayer and offer
+tithe to recognize the sacrifices of our Blessed Militia in these
+troubled times.
+
+Reports have been coming in that falsely accuse the Blessed Militia of
+having committed sin against the citizens whose homes they are
+inhabiting as they travel bravely through Contaminated lands. The Most
+Holy would like to remind the people that blasphemy against any who
+wear His mark is the most grave of sin and unfounded accusations will
+be punished accordingly. We should work to support He and His Men
+however possible just as they lay down their lives for us.
+
+The Sinful Rebels who ——
+
+
+Green Test - Newspaper Articles 2, 3, 4, Diary
+
+Our second test recovered many materials that helped to establish a
+sequence of events for this alternate world. The diary recovered
+provided a glimpse into the last days of the owners of the home from
+which it was recovered and may represent activity in other areas of
+the world as well.
+
+
+Newspaper Article 2
+
+Farms surrounding the city of Silver Feathers have reported being
+unable to contact neighbors across voice or video feeds in the last
+week. Until an approval is granted by the Regional High Father, an
+investigation cannot commence but he assures the people that these
+events have not escaped his attention.
+
+Residents are advised to notify their local Blessed Voice daily so any
+further disappearances can be addressed immediately. Residents are
+also advised to begin stocking their shelters to be ready for any
+situation.
+
+
+Newspaper Article 3
+
+Following the disappearance of the Blessed Voices from several
+outlying regions around the city of Silver Feathers, the Regional High
+Father has declared a Concern for Safety and Livelihood. Under this
+declaration, all farmland residents must evacuate immediately to their
+shelters. Scattered reports of an Unclean have come in but have yet to
+be verified.
+
+
+Newspaper Article 4
+
+— the city of Glorious Song has stopped responding to any and all
+communications, the worst can only be assumed and our hearts go out to
+any who are in the region who are unable to hear our words. The city
+of Silver Feathers Blessed Militia has reported several incursions by
+the Unclean into the city and have exterminated four of the
+abominations before they could become a danger to any residents. The
+Regional High Father reminds the citizens to avoid direct
+confrontation with the Unclean, conventional arms do nothing to the
+Unclean, only the most holy of implements will penetrate their sin, so
+do not put yourself in danger.
+
+Any citizens who suspect their neighbors indulging in heavy sin should
+immediately contact the Blessed Militia through designated check
+points —
+
+
+Diary
+
+██-██-████ I have the distinct feelin we're gonna die so I'm gonna
+write this all down now fer whoever comes along an finds our bones. My
+name is Herverf Jakulsiv and Im a farmer, I grows the rabsticks and
+the huskears. We raise the inks and the ooms. It's me, my wife,
+Opheri, and our two lil uns Treven and Lisstieria. I got this book en
+trade from the Blessed man who came by fer food and shelter, he told
+us to start gettin our shelter ready and not to let no other Blessed
+who comin by even know we're here, says the whole thing break down,
+nothing right no more. So I does as he said, got it all ready, we goin
+down there in the next day or so. In the morn, he was gone, which made
+the wife sad as he was polite to us unlike most of the others. Figure
+he didn wanna be no burder. Liss went out lookin fer him to be sure he
+weren't just round the house.
+
+██-██-████ He didn't turn up nowheres so we guess he left. Strange
+nuff Liss found is clothes round a mile er so away, an all his gear,
+but no him. She lef it all there and tha's fer the best if what happen
+that I think. I'm clearly no educated man, don't claim to be, but I
+can put two and two together and tell you that things are bad out
+there. For everyone and especially for us cause it's comin way too
+close. Sometimes, you can smell it, that's when we hide. Smells like a
+leg of meat that's been rotten for way too long and just won't go back
+into the dirt. Even the soil is rejectin em I guess, refusin to let
+them be buried to die
+
+██-██-████ It came. Too fast, we weren't ready. The smell came in the
+night, maybe we woulda been fine but the lil uns were afraid so we
+went to the shelter. Trev was slow, he saw it, kept starin at it as it
+shambled by. It ignored us until he screamed when I was gettin Liss
+and the miss down in the shelter. I went to get him but… it was too
+fast. I saw him standin up there, screamin, and then its head came
+down on him, pressed over him. He tried to run for the stairs, tried
+to get to us, but then in a blink, he was gone and it pulled away. His
+clothes fell into the cellar like he vanished out of em. I got into
+the shelter, slammed the hatch and locked it. I think it knows we're
+here now, it'll try to get in, take us too.. no tellin how long we
+got, plenty of food tho..
+
+I was wrong. The food was rotten, something got into it, or I just
+didn't notice. We're eatin what we can. There's food, but not enough,
+and that thing ain't leavin. It's tryin to find ways in, smelt the
+smell, comin from the lifeweb plug in the wall, something seeped
+through it and we kept away. It got all hard like a rock and don't
+smell no more. Maybe the power in the plug finally let it die.
+
+I went up, to peek. Cellar is fine, Trev's clothes still on the
+stairs. Peeked outside. We're not gonna make it. There were
+ten..twenty..thirty.. couldn't count, so many, all goin in a circle
+around the house, lookin at it with those faceless faces, and the
+stink, oh the stink. Went back into the shelter and locked the door. I
+think, I don't want to see my family rot away. I think faster is
+better, the miss, she agrees, we won't tell Liss, she'll be first,
+then my wife, my love.. then me. I'm sorry, but I'm not sorry. I gave
+the best life to my family possible. It was them Holy ones what
+brought this.
+
+I'm gonna pen this in memory to my great pap. He was old and knew
+stories older than himself. Says those Unclean they preach about,
+those Unfertile Zones they say stay out of. All cause of the Most Holy
+bringin the world together. Them things are the ultimate sin.
+Everything about us that was evil and impure, it's them. They don't
+know nothin but doin what they do, don't even know why they do it,
+they just do it, take us into them, then we're gone.
+
+I asked pap what they were and he lit a stick, took a puff, an he said
+- Don't know. Nobody knows, nobody who'll admit it. But if you see
+this symbol, if you see it.. you run boy, you run fast, you run far,
+and you hide, and you never go back where you saw it. That's all I
+know. - I remember the symbol, was on the rock he kept on his neck
+under his shirt. Next day, pap was gone, nowhere to be found, dad
+weren't sad, said he knew it'd happen one day, pap went home. See you
+soon dad, pap..
+
+[DATA EXPUNGED] Symbol matched symbol found on SCP-093's surface as
+one of the deeper engravings. Also matches symbols noticed on video
+feed of final test on SCP-093 duplicates.
+
+
+Violet Test - Office Ledger
+
+The third test with SCP-093 resulted in the unfortunate loss of a
+security member but also allowed us to recover a ledger with insight
+into the medical procedures carried out on the alternate Earth now
+termed E-093.
+
+Patient: Jennifer McZirka
+
+Recovery Tube: 001-1
+
+Mixture: 35% Tears, 30% Nutrient, 10% H.F.T., 25% Blessing
+
+Summary: Jennifer McZirka is 20 cycles of age and during her 18th
+cycle was the victim of a hov-ride accident that resulted in brain
+damage and misalignment of her moral processes. She is prone to
+violent outbursts and can only be calmed down by impure stimulation.
+Because of this she actively seeks out strangers to mingle with and
+her parents have requested of the High Father that she be set to the
+Tears to mend her mind and body. Patient accepted.
+
+During preparation for the Tears subject went into a rage and the
+attending Hand went to recover a sedative. Jennifer tore her clothes
+off and screamed impure words at me so I locked the door and
+instructed the Hand to wait outside. I am half shameful to admit I
+laid with Jennifer a total of seven times before putting her to the
+Tears. It has been very long for me and her parents have abandoned her
+to our care, so care for her I will. Before setting her to the Tears I
+authorized a Blessed Probe of her body functions and found she is
+settled now with young and tests confirm it shall be mine. I have
+mixed her bath to accommodate this and she will soak in the Tears
+until her body is ready to give life.
+
+Patient: None
+
+Recovery Tube: 001-2
+
+Mixture: None
+
+Summary: None
+
+
+Patient: Alberious Farafan
+
+Recovery Tube: 001-3
+
+Mixture: 80% Tears, 20% Nutrient
+
+Summary: Alberious Farafan is a farmer from outside the city of Silver
+Feathers who claims to have lost family to the Unclean. He confronted
+the High Fathers of the city and demanded compensation and retribution
+for the loss. The High Fathers deny the existence of Unclean beyond
+the Unfertile Lands and refuse compensation or retribution. Alberious
+struck a High Father and was arrested and sentenced to a cleansing of
+the soul.
+
+His mixture is primarily Tears to seep into the soul and cleanse his
+heart and ease his pain. The Lawkeepers state his family is indeed
+missing so his sentence beyond the Tears has been dropped in sympathy
+for their loss. I used the last of the H.F.T. on Jennifer or I would
+have used less Tears in this bath, 80% is higher than I am comfortable
+with but the H.F.T. is becoming hard to obtain. I may have to go
+through the Dark.
+
+
+Patient: <====>
+
+Recovery Tube: 002-1
+
+Mixture: 75% Nutrient, 25% Blessing
+
+Summary: A Member of the Blessed Militia who was wounded in combat.
+Request is from the High Father, details withheld.
+
+
+Patient: <====>
+
+Recovery Tube: 002-2
+
+Mixture: 75% Nutrient, 25% Blessing
+
+Summary: A Member of the Blessed Militia who was wounded in combat.
+Request is from the High Father, details withheld.
+
+
+Patient: <====>
+
+Recovery Tube: 002-3
+
+Mixture: 75% Nutrient, 25% Blessing
+
+Summary: A Member of the Blessed Militia who was wounded in combat.
+Request is from the High Father, details withheld.
+
+
+Yellow Test - PC Printout, Safe Diary, ███-███
+
+The fourth test into E-093 provided us with documentation assumed to
+be written by a technician in either a medical or government facility.
+███-███, found in the safe, is being considered for SCP classification
+primarily due to the composition of the ammunition found with it and
+the advanced firing mechanism attached to what should be a very base
+firearm.
+
+
+PC Printout
+
+I did not trust the Overwatchers, I felt something was wrong years
+ago. Under my desk on floor 54 is a safe with a weapon in it, it is
+one of those used by the Blessed Militia, my brother has sent it to
+me. He says they are also not what they claim, they have done things
+to our fellows even more vile than what the Unclean would do. He tells
+me to be ready to fight. I cannot, it is not me, I do not know
+violence, I am too frail. You, use it, save yourself.
+
+
+Safe Diary
+
+My name is Herval Toliwis, I am a hard systems watcher here. My job is
+to monitor the Sinful who bathe in the Lord's Tears and then make sure
+that they reach the prescribed dilution time. I have been doing this
+job for 23 years, and now things are falling apart. I can no longer
+abide by The Most Holy, I must speak the truth.
+
+We are being told to evacuate. The containment tubes have been
+breached. An Unclean has appeared in the Place of Rest and we are
+unable to destroy it. The livemotion footage shows how it came to be
+and this is what has unsealed my heart and mind and tongue. I must
+speak. Should the Overwatchers see this I will be silenced so I must
+hide it, thankfully they are ignorant with the hardware so I can hide
+this easily.
+
+The Overwatchers told us, we should leave last, to ensure the hardware
+contains the Unclean. What that means is we should distract it and die
+in case it breaches the watching decks. It has shattered nearly all
+the tubes and absorbed the people in them. I have dispatched the Eyes
+to the Unclean and they have touched it, bringing me back a sample of
+it. The Unclean are not sinners, they are not products of our
+disobedience. I suspect they are us. The Eyes have dated the sample,
+it is older than myself, older than my elders. It is over 200 cycles
+in ages. 200!
+
+The sirens are still sounding, but no signal has come for us to leave.
+I do not think this Unclean is alone. I have seen how they can get
+into places, between places. Between places! Is that where they have
+been, all this time? Between places? The makeup of the Unclean is
+unstable, molecules detach and reattach almost before my eyes, as if
+to move the entire thing reforms itself in space and time. Why does it
+not come up here? Too much effort? Or does it not sense me? They have
+no eyes, no mouth, no face, they cannot speak, cannot see, but they
+must be able to sense us.
+
+The smell, it is so strong, it comes from all directions. It is not a
+smell of the dead, it is a smell that comes from something that should
+be dead but does not know how to die. The War of The Holy Union, I
+think that was where it may have started. We are united under the Most
+Holy but what does he owe us? Nothing. We merely keep society running
+while those on high benefit. Is this not how it has always been? But
+now we are told we are pleasing the will of those above us in the
+clouds, those great beings who gave us the power to live and prosper.
+Those who we have never laid eyes upon but are told we must revere.
+Lies, all of it, it must be.
+
+I am using the Eyes to create a fluid to oppose the make up of the
+Unclean’s sample. Perhaps they will cancel each other out. I will
+leave soon and store the rounds here, I cannot use the weapon, I am
+too weak a man for this. I will protect my family with my mind and not
+with my rage, we will be safe in the fields, I know where to go.
+
+I will go above now, to my family. I will leave the hardware running,
+I was told to turn it off, but this is where I defy them, it will run,
+this will watch, the Eyes will see for however much time they have.
+Someone will read this, and someone will know. Take the gun, take the
+fluid, do not listen to the Most Holy, we did, and we are damned.
+
+
+███-███ is a revolver style weapon with two 12 bullet cylinders. The
+design of the gun has one cylinder on each side, raised slightly, so
+they may flip into the gun itself and then rotate, firing all rounds,
+before flipping back out and allowing it to be reloaded while the
+second is usable allowing a total of 24 shots before it runs empty.
+There is no firing pin on this gun, but instead there is a pull-back
+slide mechanism that must be used to prime the active cylinder. At the
+time of recovering, all 24 slots contained a syringe style bullet with
+32 needles on the end. On impact it is assumed the force of the shot
+will press the liquid inside into the target. None have been tested.
+
+Of express interest is that these cylinders can hold standard .45
+caliber ammunition which has been tested. The gun uses an ultra high
+power magnetic rail system to deliver the shot so the gunpowder in the
+bullet is never used. In consideration is a redesign of a round that
+would utilize the gunpowder midflight to add even higher velocity to
+the round or that would explode on impact for higher yield.
+
+
+Red Test - PC Printouts
+
+The final authorized test with SCP-093 resulted in the loss of a
+skilled service technician but allowed us to recover very revealing
+documents that can only be assumed to not have been intended for
+public knowledge in any world. Curious among these is 'Agent █-██-█
+Report' which appears to have been written by a Foundation employee
+several decades ago.
+
+While these paper printouts were the best material recovered it seems
+that the system used to create them allowed for multiple forms of
+input including typed and verbal speech-to-text. Some audio logs of
+the printouts below are available but must be requested in advance
+with fully written explanations as to why. This dual input system
+seems to explain the variances in the style between users as well with
+assumptions made on the part of the software while performing
+conversions.
+
+Facility Fire Plan
+
+In the event of any Emergency requiring the Facility to be evacuated,
+all Clear-4 staff should report to Train Station 3 and use their Vial
+to call the Evacuation Train. Only one Vial is required to call the
+train and may contain any amount of Tears. An Empty Vial will not call
+the train. Clear 2 and 1 staff should remain at their posts until
+either 10 minutes after the departure of Clear-4 persons or until
+authorized by Clear-4 staff. Clear-3 staff should utilize the
+Protective Garments at their stations and weapon lockers before
+proceeding to designated Crisis Areas as dictated by Clear-4 staff.
+
+Reports
+
+Three Unfertile Zones have increased 25% in size in the last seven
+days. Containment Teams are not finding any presence of Unclean in
+these zones but they are visibly confirmed as expanding. Clear-5 level
+High Fathers have confirmed breaches in the Holy Chambers at each of
+these zones, all chambers found empty. It is believed that the Unclean
+have breached containment on the Holy Chambers. Dispatching additional
+guard to remaining Chambers.
+
+Situation X-549
+
+Expansion of Zone 6-4-TO has been confirmed. Unfertile Zone
+containment procedures in effect. Containment Staff dispatched to
+site. This is the tenth report in 30 days, upgrading to Situation
+Status. Reports from Clear-5 High Fathers have stopped at all
+affected. The City of His Word has been placed on full lockdown and
+all travel denied in or out. Other cities are now in Alert mode and
+combat teams are being dispatched to city perimeters.
+
+Situation X-550
+
+The Great Land of Hufussia has fallen per satellite images. Entire
+landmass considered tainted. Outbreak of Sin reported in Levina and
+that landmass has requested assistance from the Holy Union. Assistance
+denied due to our own outbreak and mass reportings of Unclean.
+Clear-10 staff have issued the order to evacuate via the Gateway and
+for all Holy Union authorized persons to proceed to the nearest Sky
+Platform for evacuation to Star Eye Eden to continue monitoring
+status. Gateway Keys are being ejected to prevent spread from this
+center to other space/time vectors. Resurrecting Staff are being
+awakened to monitor and continue reports here as we evacuate. May His
+Blessings Forgive Our Greatest Sin.
+
+Evacuation Log
+
+Evacuation in progress. Shuttle 1 away. Shuttle 2 away.
+Shutttttttttttttttttttttle 3error error error error error release us
+release us release us why why why why Shuttle 3 error launch aborted
+proceed to Shuttle 4. Shuttle 4 reporting delayed launch, overloaded,
+triage protocols engaged. Shuttle 4 reports passenger limit obtained
+preparing to laaaaunnnnnn why why why why release us why us release
+why us what did we do why why system detecting electrostatic activity
+compensating compensating comp comp comp comp
+101011011101101010101110011 arrrrrrrrrrrrrrrrrrrrrrrrrrrr why were we
+hurt what did we do why were we hurt what did we do system shut down
+
+system restore purge of contaminated data in progress WHY US WHY US
+WHY US WHY US WHY US WHY US WHYYYYYYYYYYYYYYYYYYYYYYYYY LISTEN
+
+record 5432-104-392 paassssworrrrdddd forrrgivveeeusss 5554444332 2 2
+2 2 22222222 1 111111111-----------WHY WHY WHY WHY WHY WHY WHY WHY WHY
+
+system purge
+
+purge
+
+pur
+
+bullshit
+
+wtf is this place lol ok so lyk there r ppl typin stuff here so im
+gonna type 2 lol. so lyk i found this rock in the pond by the house
+and it was all kinda glowy and stuff when i picked it up so im lyk o
+wow pretty and when i pick it up the pond u culdnt see the bottom it
+was this weird room with a glowy rock thing lol i dunno so i lyk i
+guess fell into it oops and now im here and not there and rly im kinda
+scurred but this place is like a movie set so it's cool lol theres
+some guy i can hear talking he keeps asking me to come downstairs but
+i dont see no door he keeps screaming for help too cause i told him to
+eat me laff and he wont shut up i guess i could try goin back into
+that room but its so creepy in there im sorta scurred to laff
+
+oh so hey i found a door its like in the floor instead of on a wall so
+lyk im gonna go tell that guy yellin 2 shut it up so i can go home bbl
+
+
+Agent █-██-█ Report
+
+My name is ██████ ██████████ and I am an agent at The Foundation, the
+year in my world is 1972. I assume it is the same in this world, but
+from what I have seen due to SCP-093, life on this world ended in
+approximately 1954. I have used SCP-093 to visit a number of locales
+starting and ending here in this center. I have seen the landscapes
+where no grass will grow. I have run from the 'Unclean' as they pursue
+anything they sense. I have no understanding of how they hunt but I
+have learned what they are.
+
+Approximately 350 years ago or so this world experienced a
+technological boom ours did not. The source of this seems to have been
+the arrival of He, a god-like being of unknown origin. He declared the
+world Unclean and full of Sin, and the only way to purge itself of
+this Sin was to purge the Sinners. A war, whoever was left alive, was
+Clean. Amazing advances in science were bestowed to all cultures for a
+period of ten years to prepare them for this war and during that time,
+He disappeared. The war happened anyway, the instigator, The Holy
+Union of Land, apparently the landmass that for us would become the
+United States.
+
+Records are sketchy and books that detail anything about this time
+period are forbidden in the world. I located a cache of recorded
+history by following a series of corrupted computer communications. It
+seems the primary weapon used in this war for His Love was in fact,
+people. Exposed to something called His Holy Tears, a liquid compound
+I have seen in use even today in abandoned medical facilities. His
+Holy Tears purge the Sin from the Unclean and make them love Him; at
+least that's what the label states.
+
+The records I recovered are very unclear about how this war was waged
+except to state 'His Holy Chosen walked the lands of the Sinful and
+took their sin unto themselves. Those who cried for His Salvation
+received it and are now our children. Those who denied His Love were
+purified in His Radiance.'
+
+But something apparently happened no one knew how to deal with. The
+Unclean, the large creatures that are half a man and devour whatever
+they touch that lives and breathes. I actually found a scientific
+report written by someone who stumbled here with a SCP-093 copy. These
+creatures are the result of exposure to a very pure form of His Tears
+resulting in a genetic apocalypse occurring within the exposed. There
+are terms in here, something about Quantum Restructuring, I don't
+understand any of this but it means they were once humans like
+everyone else, that couldn't be controlled. But they COULD be
+contained. They seem to be attracted to His Tears and a central point
+was established in various regions where a person with the purest form
+of His Tears stays, keeping the Unclean in that area known as an
+Unfertile Land.
+
+Something went wrong with that too, not sure what, but everything fell
+apart. The power structure, the culture, the people, all of it fell to
+ruins and now those things shamble around the land as its new owners,
+with no purpose or direction. You can stand next to one if you can
+stand the stink and they just slip right past you. If you catch their
+attention though, that's it, they move like lightning if they need to
+and like a snail unless they have a reason to speed up. Sometimes, I
+think they chase just to do it, others, they move to kill.
+
+I think someone is in this facility, or someones, I keep hearing
+voices and requests coming from areas under the floor. I want to leave
+this before I explore the facility any further. I have sent SCP-093
+back through the entry mirror to seal that gate. These things can't be
+let into our world nor should we have anything to do with this one,
+we're simply not smart enough to understand it all I feel.
+
+I don't think the Unclean can die. They're immortal, but they don't
+want to be. They just want to die. They're.. in my head I think.. I
+didn't notice it till just now but, equipment in this room is starting
+to react to me, words on the screen, begging for help. I, I remember
+touching the Tears, smelling it, tasting it, just a touch. Not eating
+it just.. touching to it, tasting for acidity, we have pretty stupid
+investigative procedure I think ha ha.
+
+The High Fathers are .. alive. They have technology we only imagine in
+our comics given by Him. Some of the records on this machine indicate
+space travel, but they didn't go far, just far enough to watch the
+world fall apart and wait to come back and take it.. but if they're up
+there.. who is in this building with me?
+
+I've seen the faces, of the people, the Unclean. They show up on the
+pictures cast by the machine, in the room with me, watching me. I
+think, they're everywhere on this world, only seen by machines now.
+They don't look sad, or happy, just, curious. They want to
+know..why..why them..why did it all happen? I don't know.. I just
+don't know..
+
+they showed me things when i touched them and its not quite like the
+records say. the unclean remember it all, every person they touch
+becomes part of them, safe inside them, but dead to us. every mind,
+every feeling, every terror, its eternal to them. i kind of want to
+join them but.. too much to do.. they want me to.. find him, kill him.
+
+there was no war it was him him him him him IT. IT. it came from
+between the folds of time and space and worlds and light and dark
+something that is but should not be slipped in and called out to them
+as their god and they believed it and they tasted it and touched it
+and layed with it and became its property and did its will and IT IS
+STILL HERE the scp-093 it brought with it pulled forcefully with it
+built it i don't know they don't know but it belongs to him it lets
+him move between places between worlds so i BROKE IT ha ha ha i threw
+pieces of it away and through holes so those doors are closed just
+like ours is closed and i can't go home so what else can i do
+
+it calls out through the rock, somehow, it knows where they are but
+can't touch them, but if you hide the rock he can't call out and he's
+stuck too i got you you son of a bitch I GOT YOU BANG BANG ha ha
+
+i touched him. with my fist. and my gun. and he fell down. but he'll
+get back up. soon. i'm sorry, i did all i could, let me sleep now,
+please… let… me… slee
+
+
