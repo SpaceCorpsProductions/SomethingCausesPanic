@@ -10,5 +10,11 @@ Source Han Serif (An open source Pan-CJK typeface, available from https://source
 (TTF version available from: https://github.com/be5invis/source-han-sans-ttf)
 SourceHanSans-Light.ttf, SourceHanSans-Regular.ttf
 
+Last Resort font (a special-purpose font that includes a collection of
+glyphs to represent types of Unicode characters, available from
+https://github.com/unicode-org/last-resort-font)
+
+
+
 
 
