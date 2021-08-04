@@ -40,8 +40,9 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase.pdfmetrics import stringWidth
 
-import scp_widgets, hazard_widgets, objects
-from objects import KNOWN_SCPS_DICT, GetRisks 
+import scp_widgets, hazard_widgets, protection_ppe_widgets, objects
+from objects import KNOWN_SCPS_DICT, GetRisks, GetRequiredPPE
+from protection_ppe_widgets import PPE_blue
 
 #register fonts
 #pdfmetrics.registerFont(TTFont('Bauhaus Demi', os.path.join("fonts", 'BAUHS93.TTF')))
@@ -1489,6 +1490,266 @@ def run(USE_LOG=0):
                 #num_signs_made = num_signs_made + 1
                 if VERBOSE > 0:
                     print "WROTE '%s.pdf'" % risk_filename_stub
+                else:
+                    print ".",
+            if VERBOSE > 0:
+                print
+
+
+
+
+
+        # CREATE A SEPARATE FILE FOR A PROTECTIVE PPE WARNING SIGN ("CLASS A HAZMAT SUITS MUST BE WORN" etc)
+
+        this_sign_PPE = GetRequiredPPE(KNOWN_SCPS_DICT[scp]["name"])
+
+        if this_sign_PPE in (None, []):
+            pass
+        else:
+            print "-",
+            PPE_filename_stub = string.split(KNOWN_SCPS_DICT[scp]["filename"], ".")[0]
+            PPE_filename_stub = "%s_protection_ppe_sign" % (PPE_filename_stub)
+            risk_fontsize = 52
+            risk_fontsize2 = 52
+            if this_sign_PPE[0] == "HAZMAT_SUIT":
+                risk_fontsize1 = 42
+            else:
+                risk_fontsize1 = 52
+
+            risk_font = "Gill Sans Nova Bold"
+            
+            #risk_line1_y = height-700
+            risk_line1_y = height-750
+            risk_line2_y = risk_line1_y - (risk_fontsize * 1.25)
+
+            risk_box_width = width - (margin*6)
+            risk_box_height = (risk_fontsize * 2.0) + 100
+
+            risk_box_x1 = margin * 3
+            risk_box_y1 = (risk_line1_y - 25)-(risk_box_height/2.0)
+
+            if len(this_sign_PPE) == 1:
+                drisk = Drawing(width, height)
+                drisk.add(Rect(0, 0, width, height, fillColor=colors.white))
+                drisk.add(Rect(risk_box_x1, risk_box_y1, risk_box_width, risk_box_height, fillColor=PPE_blue, strokeColor=PPE_blue))
+
+                if this_sign_PPE[0] == "HEARING_PROTECTION":
+                    risk_widget = protection_ppe_widgets.EarProtectionPPE()
+                    PPE_TEXT = "EAR PROTECTION"
+                elif this_sign_PPE[0] == "GLOVES":
+                    risk_widget = protection_ppe_widgets.GlovesPPE()
+                    PPE_TEXT = "GLOVES"
+                elif this_sign_PPE[0] == "HAZMAT_SUIT":
+                    risk_widget = protection_ppe_widgets.HazmatSuitPPE()
+                    PPE_TEXT = "CLASS A HAZMAT SUITS"
+                else:
+                    PPE_TEXT = ""
+                    risk_widget = protection_ppe_widgets.BareCircle()
+
+                drisk.add(risk_widget)
+
+                risk_widget.x = risk_box_x1                     # symbol x coordinate
+                risk_widget.y = height - 50 - risk_box_width    # symbol y coordinate
+                risk_widget.size = risk_box_width
+
+                #do barcode...
+                dr2 = createBarcodeDrawing('Code128', humanReadable=1, value=BARCODE_LINE, validate=0)
+                dr2_width = dr2.width
+                #white barcode rectangle
+                drisk.add(Rect(margin*3, margin*2, width-margin*6, 80, fillColor=colors.white, strokeColor=None))
+                if OBJECT_CLASS == "NEUTRALIZED":
+                    dr2.scale(2.05, 1.35)
+                    dr2_width = dr2.width * 2.05
+                elif OBJECT_CLASS == "TICONDEROGA":
+                    dr2.scale(2.05, 1.35)
+                    dr2_width = dr2.width * 2.05
+                elif OBJECT_CLASS == "DECLASSIFIED":
+                    dr2.scale(2.05, 1.35)
+                    dr2_width = dr2.width * 2.05
+                elif OBJECT_CLASS == "DECOMMISSIONED":
+                    dr2.scale(1.95, 1.35)
+                    dr2_width = dr2.width * 1.95
+                else:
+                    dr2.scale(2.25, 1.35)
+                    dr2_width = dr2.width * 2.25
+                dr2.scale(0.85, 0.85)
+                #dr2_xpos = ((width-dr2_width)/2.0)
+                #dr2.translate(dr2_xpos/2.25, margin*1.95)
+                #dr2.translate(dr2_xpos/3.25, margin*1.95)
+                dr2.translate(margin, margin*1.95)
+                drisk.add(dr2)
+
+                risk_line_1 = PPE_TEXT
+                risk_line_2 = "MUST BE WORN"
+
+                risk_line_1_width = stringWidth(risk_line_1, risk_font, risk_fontsize1)
+                risk_line_2_width = stringWidth(risk_line_2, risk_font, risk_fontsize2)
+
+                risk_line_1_x = (width - risk_line_1_width)/2.0
+                risk_line_1_y = risk_line1_y
+
+                risk_line_2_x = (width - risk_line_2_width)/2.0
+                risk_line_2_y = risk_line2_y
+
+                #EAR PROTECTION/GLOVES/CLASS A HAZMAT SUITS
+                drisk.add(String(risk_line_1_x, risk_line_1_y, risk_line_1, fontName=risk_font, fontSize=risk_fontsize1, fillColor=colors.white))
+                #"MUST BE WORN" line
+                drisk.add(String(risk_line_2_x, risk_line_2_y, risk_line_2, fontName=risk_font, fontSize=risk_fontsize2, fillColor=colors.white))
+
+                lgrisk = scp_widgets.SCPLogo()
+                lgrisk.size = 80
+                #lg.x = 425
+                #lg.y = height-210
+                #lgrisk.x = 525
+
+                lgrisk.x = width - (margin * 3) - lgrisk.size
+                #dr2.translate(margin * 3, margin*1.95)
+                lgrisk.y = height-1025
+                drisk.add(lgrisk)
+
+                drisk.add(String((lgrisk.x+(lgrisk.size*0.6))-(stringWidth('Secure. Contain. Protect', "Bauhaus Demi", 12)/2.0),
+                                 lgrisk.y-(lgrisk.size*0.35), 'Secure. Contain. Protect', fontName="Bauhaus Demi", fontSize=12, fillColor=colors.black))
+
+                risk_line_1 = PPE_TEXT
+                risk_line_2 = "MUST BE WORN"
+
+                risk_line_1_width = stringWidth(risk_line_1, risk_font, risk_fontsize1)
+                risk_line_2_width = stringWidth(risk_line_2, risk_font, risk_fontsize2)
+
+                risk_line_1_x = (width - risk_line_1_width)/2.0
+                risk_line_1_y = risk_line1_y
+
+                risk_line_2_x = (width - risk_line_2_width)/2.0
+                risk_line_2_y = risk_line2_y
+
+                #EAR PROTECTION/GLOVES/CLASS A HAZMAT SUITS
+                drisk.add(String(risk_line_1_x, risk_line_1_y, risk_line_1, fontName=risk_font, fontSize=risk_fontsize1, fillColor=colors.white))
+                #"MUST BE WORN" line
+                drisk.add(String(risk_line_2_x, risk_line_2_y, risk_line_2, fontName=risk_font, fontSize=risk_fontsize2, fillColor=colors.white))
+
+
+            elif len(this_sign_PPE) == 2:
+                #change later?
+                drisk = Drawing(width, height)
+                drisk.add(Rect(0, 0, width, height, fillColor=colors.white))
+
+                # MODIFIED FROM ABOVE ROUTINE...
+                for increment in [0,1]:
+                    #for this_sub_sign_PPE in this_sign_PPE:
+                    this_sub_sign_PPE = this_sign_PPE[increment]
+
+                    print "=",
+                    #this_risk_fontsize = 52
+                    this_risk_fontsize = 30
+                    this_risk_fontsize2 = 30
+
+                    if this_sub_sign_PPE == "HAZMAT_SUIT":
+                        #this_risk_fontsize2 = 42
+                        this_risk_fontsize1 = 22
+                    else:
+                        #this_risk_fontsize2 = 52
+                        this_risk_fontsize1 = 30
+                    #risk_font = "Gill Sans Nova Bold"
+
+                    this_risk_box_width = (width - (margin*6))/2.0
+                    this_risk_box_height = (this_risk_fontsize * 2.0) + 100
+
+                    this_risk_line_1_y = height-620
+                    this_risk_line_2_y = this_risk_line_1_y - (this_risk_fontsize * 1.5)
+
+                    this_risk_box_x1 = (margin * 2)+(increment*(width/2.0))
+                    if increment == 1:
+                        this_risk_box_x1 = this_risk_box_x1 - margin
+                    this_risk_box_y1 = (this_risk_line_1_y - 15)-(this_risk_box_height/2.0)
+
+                    drisk.add(Rect(this_risk_box_x1, this_risk_box_y1, this_risk_box_width, this_risk_box_height, fillColor=PPE_blue, strokeColor=PPE_blue))
+
+                    if this_sub_sign_PPE == "HEARING_PROTECTION":
+                        this_risk_widget = protection_ppe_widgets.EarProtectionPPE()
+                        PPE_TEXT = "EAR PROTECTION"
+                    elif this_sub_sign_PPE == "GLOVES":
+                        this_risk_widget = protection_ppe_widgets.GlovesPPE()
+                        PPE_TEXT = "GLOVES"
+                    elif this_sub_sign_PPE == "HAZMAT_SUIT":
+                        this_risk_widget = protection_ppe_widgets.HazmatSuitPPE()
+                        PPE_TEXT = "CLASS A HAZMAT SUITS"
+                    else:
+                        this_risk_widget = protection_ppe_widgets.BareCircle()
+                        PPE_TEXT = ""
+
+                    this_risk_line_1 = PPE_TEXT
+                    this_risk_line_2 = "MUST BE WORN"
+
+                    this_risk_line_1_width = stringWidth(this_risk_line_1, risk_font, this_risk_fontsize1)
+                    this_risk_line_2_width = stringWidth(this_risk_line_2, risk_font, this_risk_fontsize2)
+
+                    this_risk_line_1_x = (this_risk_box_x1 + (this_risk_box_width - this_risk_line_1_width)/2.0)
+                    this_risk_line_2_x = (this_risk_box_x1 + (this_risk_box_width - this_risk_line_2_width)/2.0)
+
+                    drisk.add(this_risk_widget)
+
+                    this_risk_widget.x = this_risk_box_x1                               # symbol x coordinate
+                    this_risk_widget.y = height - 50 - (this_risk_box_width*1.5)        # symbol y coordinate
+                    this_risk_widget.size = this_risk_box_width
+
+                    #EAR PROTECTION/GLOVES/CLASS A HAZMAT SUITS
+                    drisk.add(String(this_risk_line_1_x, this_risk_line_1_y, this_risk_line_1, fontName=risk_font, fontSize=this_risk_fontsize1, fillColor=colors.white))
+                    #"MUST BE WORN" line
+                    drisk.add(String(this_risk_line_2_x, this_risk_line_2_y, this_risk_line_2, fontName=risk_font, fontSize=this_risk_fontsize2, fillColor=colors.white))
+
+            #do barcode...
+            dr2 = createBarcodeDrawing('Code128', humanReadable=1, value=BARCODE_LINE, validate=0)
+            dr2_width = dr2.width
+            #white barcode rectangle
+            drisk.add(Rect(margin*3, margin*2, width-margin*6, 80, fillColor=colors.white, strokeColor=None))
+            if OBJECT_CLASS == "NEUTRALIZED":
+                dr2.scale(2.05, 1.35)
+                dr2_width = dr2.width * 2.05
+            elif OBJECT_CLASS == "TICONDEROGA":
+                dr2.scale(2.05, 1.35)
+                dr2_width = dr2.width * 2.05
+            elif OBJECT_CLASS == "DECLASSIFIED":
+                dr2.scale(2.05, 1.35)
+                dr2_width = dr2.width * 2.05
+            elif OBJECT_CLASS == "DECOMMISSIONED":
+                dr2.scale(1.95, 1.35)
+                dr2_width = dr2.width * 1.95
+            else:
+                dr2.scale(2.25, 1.35)
+                dr2_width = dr2.width * 2.25
+            dr2.scale(0.85, 0.85)
+            #dr2_xpos = ((width-dr2_width)/2.0)
+            #dr2.translate(dr2_xpos/2.25, margin*1.95)
+            #dr2.translate(dr2_xpos/3.25, margin*1.95)
+            dr2.translate(margin, margin*1.95)
+            drisk.add(dr2)
+
+            lgrisk = scp_widgets.SCPLogo()
+            lgrisk.size = 80
+            #lg.x = 425
+            #lg.y = height-210
+            #lgrisk.x = 525
+
+            lgrisk.x = width - (margin * 3) - lgrisk.size
+            #dr2.translate(margin * 3, margin*1.95)
+            lgrisk.y = height-1025
+            drisk.add(lgrisk)
+
+            drisk.add(String((lgrisk.x+(lgrisk.size*0.6))-(stringWidth('Secure. Contain. Protect', "Bauhaus Demi", 12)/2.0),
+                             lgrisk.y-(lgrisk.size*0.35), 'Secure. Contain. Protect', fontName="Bauhaus Demi", fontSize=12, fillColor=colors.black))
+
+            renderPM.drawToFile(drisk, '%s.png' % PPE_filename_stub, 'PNG')
+
+            if VERBOSE > 0:
+                print "WROTE '%s.png'" % PPE_filename_stub
+            else:
+                print "=",
+
+            if MAKE_PDFS == 1:
+                renderPDF.drawToFile(drisk, '%s.pdf' % PPE_filename_stub, name)
+                #num_signs_made = num_signs_made + 1
+                if VERBOSE > 0:
+                    print "WROTE '%s.pdf'" % PPE_filename_stub
                 else:
                     print ".",
             if VERBOSE > 0:
