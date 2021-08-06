@@ -72440,11 +72440,11 @@ def make_second_header_section(c, STANDALONE=1):
     c.bookmarkPage("ListOfAuthors")
     if STANDALONE == 1:
         #c.addOutlineEntry("Alphabetic List of Authors", "ListOfAuthors", level=1, closed=None)
-        c.addOutlineEntry("Alphabetic List of Authors", "ListOfAuthors", level=1, closed=True)
+        c.addOutlineEntry("Alphabetical List of Authors", "ListOfAuthors", level=1, closed=True)
     else:
-        c.addOutlineEntry("Alphabetic List of Authors", "ListOfAuthors", level=1, closed=True)
+        c.addOutlineEntry("Alphabetical List of Authors", "ListOfAuthors", level=1, closed=True)
 
-    SECTION_TITLE = "Alphabetic List of Authors"
+    SECTION_TITLE = "Alphabetical List of Authors"
     underline = "-" * len(SECTION_TITLE)
 
     fontsize = 24
@@ -72454,7 +72454,7 @@ def make_second_header_section(c, STANDALONE=1):
     y = HEIGHT - (HEIGHT/3.0)
     x = WIDTH/2.0
 
-    c.drawCentredString(x, y, "Alphabetic List")
+    c.drawCentredString(x, y, "Alphabetical List")
     y = y - (fontsize * 1.5)
     c.drawCentredString(x, y, "of Authors")
 
